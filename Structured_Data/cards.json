@@ -1,0 +1,4806 @@
+{
+ "_about": "One card per monster, taken from each monster page's 'การ์ดของมอนนี้' section (★1 and ★5 as stated by the Wiki). Card system rules: Cards/Cards_and_Spirits.md.",
+ "count": 160,
+ "records": [
+  {
+   "name": "Abyss Jelly card",
+   "slug": "abyss_jelly",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/abyss_jelly",
+   "source_title": "Abyss Jelly · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/abyss_jelly.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Abyss Jelly",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: สปีดวิ่ง +13% นาน 3 วิ · Max HP +0.4%",
+    "★5": "เมื่อสังหารมอน: สปีดวิ่ง +40% นาน 3 วิ · Max HP +1.8%"
+   },
+   "star5_effect": "เมื่อสังหารมอน: สปีดวิ่ง +40% นาน 3 วิ · Max HP +1.8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Acorn Skitter card",
+   "slug": "acorn_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/acorn_skitter",
+   "source_title": "Acorn Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/acorn_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Acorn Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Sprout +6%",
+    "★5": "ดาเมจใส่สาย Sprout +28%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Sprout +28%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Ammonite Crawler card",
+   "slug": "ammonite_crawler",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/ammonite_crawler",
+   "source_title": "Ammonite Crawler · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/ammonite_crawler.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Ammonite Crawler",
+   "star_effects": {
+    "★1": "เจาะเกราะ 1.6% (ไม่สน DEF / MDEF มอน) · โอกาสคริ +1% · ดาเมจใส่มอนที่ HP > 90% +2.4%",
+    "★5": "เจาะเกราะ 4.4% (ไม่สน DEF / MDEF มอน) · โอกาสคริ +3% · ดาเมจใส่มอนที่ HP > 90% +10%"
+   },
+   "star5_effect": "เจาะเกราะ 4.4% (ไม่สน DEF / MDEF มอน) · โอกาสคริ +3% · ดาเมจใส่มอนที่ HP > 90% +10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Anchor Crab card",
+   "slug": "anchor_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/anchor_crab",
+   "source_title": "Anchor Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/anchor_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Anchor Crab",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Remnant 9%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Remnant 38%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Remnant 38%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Ash Hound card",
+   "slug": "ash_hound",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/ash_hound",
+   "source_title": "Ash Hound · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/ash_hound.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Ash Hound",
+   "star_effects": {
+    "★1": "เมื่อคริ (30%): สปีดตี +4% นาน 5 วิ",
+    "★5": "เมื่อคริ (30%): สปีดตี +17% นาน 5 วิ"
+   },
+   "star5_effect": "เมื่อคริ (30%): สปีดตี +17% นาน 5 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Aurora Antler Regent card",
+   "slug": "aurora_antler_regent",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 70 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/aurora_antler_regent",
+   "source_title": "Aurora Antler Regent · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/aurora_antler_regent.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Aurora Antler Regent",
+   "star_effects": {
+    "★1": "Polar Night · เมื่อโจมตีโดน (15%): แช่แข็งเป้า 1.2 วิ + สโลว์มอนรอบเป้า 20% (ไม่ใช้กับ Boss / Mini-boss) · MATK +2%",
+    "★5": "Polar Night · เมื่อโจมตีโดน (15%): แช่แข็งเป้า 1.2 วิ + สโลว์มอนรอบเป้า 40% (ไม่ใช้กับ Boss / Mini-boss) · MATK +9%"
+   },
+   "star5_effect": "Polar Night · เมื่อโจมตีโดน (15%): แช่แข็งเป้า 1.2 วิ + สโลว์มอนรอบเป้า 40% (ไม่ใช้กับ Boss / Mini-boss) · MATK +9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Barnacle Remnant card",
+   "slug": "barnacle_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/barnacle_remnant",
+   "source_title": "Barnacle Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/barnacle_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Barnacle Remnant",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับ 4%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Bloom Crowned Stag card",
+   "slug": "bloom_crowned_stag",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 60 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/bloom_crowned_stag",
+   "source_title": "Bloom Crowned Stag · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/bloom_crowned_stag.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Bloom Crowned Stag",
+   "star_effects": {
+    "★1": "Spring Bloom · เมื่อสังหารมอน: ฮีลตัวเองและปาร์ตี้ในระยะ 8 ช่อง 6% Max HP (ทุก 15 วิ) · สปีดวิ่ง +3%",
+    "★5": "Spring Bloom · เมื่อสังหารมอน: ฮีลตัวเองและปาร์ตี้ในระยะ 8 ช่อง 15% Max HP (ทุก 15 วิ) · สปีดวิ่ง +10%"
+   },
+   "star5_effect": "Spring Bloom · เมื่อสังหารมอน: ฮีลตัวเองและปาร์ตี้ในระยะ 8 ช่อง 15% Max HP (ทุก 15 วิ) · สปีดวิ่ง +10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Bog Crab card",
+   "slug": "bog_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/bog_crab",
+   "source_title": "Bog Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/bog_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Bog Crab",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Brute 6.5%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Brute 29%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Brute 29%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Bog Wisp card",
+   "slug": "bog_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/bog_wisp",
+   "source_title": "Bog Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/bog_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Bog Wisp",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Lurker +6%",
+    "★5": "ดาเมจใส่สาย Lurker +28%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Lurker +28%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Brass Mimic card",
+   "slug": "brass_mimic",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/brass_mimic",
+   "source_title": "Brass Mimic · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/brass_mimic.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Brass Mimic",
+   "star_effects": {
+    "★1": "Gold จากมอน +4.4% · เรทดรอป +1.3%",
+    "★5": "Gold จากมอน +22% · เรทดรอป +5.2%"
+   },
+   "star5_effect": "Gold จากมอน +22% · เรทดรอป +5.2%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Brine Crab card",
+   "slug": "brine_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/brine_crab",
+   "source_title": "Brine Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/brine_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Brine Crab",
+   "star_effects": {
+    "★1": "Max HP +1.5%",
+    "★5": "Max HP +7%"
+   },
+   "star5_effect": "Max HP +7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Bronze Remnant card",
+   "slug": "bronze_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/bronze_remnant",
+   "source_title": "Bronze Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/bronze_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Bronze Remnant",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 3.8%",
+    "★5": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 13.8%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 13.8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Brute card",
+   "slug": "brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/brute",
+   "source_title": "Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจ (12%): ลดดาเมจที่ได้รับ 8% นาน 4 วิ",
+    "★5": "เมื่อโดนดาเมจ (12%): ลดดาเมจที่ได้รับ 26% นาน 4 วิ"
+   },
+   "star5_effect": "เมื่อโดนดาเมจ (12%): ลดดาเมจที่ได้รับ 26% นาน 4 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Burrow Skitter card",
+   "slug": "burrow_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/burrow_skitter",
+   "source_title": "Burrow Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/burrow_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Burrow Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่มอนที่ HP > 90% +3%",
+    "★5": "ดาเมจใส่มอนที่ HP > 90% +14%"
+   },
+   "star5_effect": "ดาเมจใส่มอนที่ HP > 90% +14%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Chime Wisp card",
+   "slug": "chime_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/chime_wisp",
+   "source_title": "Chime Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/chime_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Chime Wisp",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 9% ของดาเมจ (เวท)",
+    "★5": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 34% ของดาเมจ (เวท)"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 34% ของดาเมจ (เวท)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Cinder Brute card",
+   "slug": "cinder_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,080 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/cinder_brute",
+   "source_title": "Cinder Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/cinder_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Cinder Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 5.3% · ลดดาเมจที่ได้รับ 0.5%",
+    "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 20% · ลดดาเมจที่ได้รับ 1.9%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 20% · ลดดาเมจที่ได้รับ 1.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Cinder Plume Roc card",
+   "slug": "cinder_plume_roc",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 65 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/cinder_plume_roc",
+   "source_title": "Cinder Plume Roc · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/cinder_plume_roc.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Cinder Plume Roc",
+   "star_effects": {
+    "★1": "Phoenix Flame · เมื่อโดนดาเมจขณะ HP < 25%: ฟื้น 15% Max HP + ระเบิดไฟใส่มอนรอบตัว (ทุก 2 นาที) · ATK +2%",
+    "★5": "Phoenix Flame · เมื่อโดนดาเมจขณะ HP < 25%: ฟื้น 40% Max HP + ระเบิดไฟใส่มอนรอบตัว (ทุก 2 นาที) · ATK +8%"
+   },
+   "star5_effect": "Phoenix Flame · เมื่อโดนดาเมจขณะ HP < 25%: ฟื้น 40% Max HP + ระเบิดไฟใส่มอนรอบตัว (ทุก 2 นาที) · ATK +8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Cloud Brute card",
+   "slug": "cloud_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/cloud_brute",
+   "source_title": "Cloud Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/cloud_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Cloud Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Remnant 9.2% · ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Remnant 40% · ลดดาเมจที่ได้รับ 3.9%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Remnant 40% · ลดดาเมจที่ได้รับ 3.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Clover Sprout card",
+   "slug": "clover_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/clover_sprout",
+   "source_title": "Clover Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/clover_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Clover Sprout",
+   "star_effects": {
+    "★1": "เวลา Gathering / ตกปลา −3%",
+    "★5": "เวลา Gathering / ตกปลา −12%"
+   },
+   "star5_effect": "เวลา Gathering / ตกปลา −12%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Compass Wisp card",
+   "slug": "compass_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/compass_wisp",
+   "source_title": "Compass Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/compass_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Compass Wisp",
+   "star_effects": {
+    "★1": "สปีดวิ่ง +1.8% · เรทดรอป +0.8%",
+    "★5": "สปีดวิ่ง +7.5% · เรทดรอป +3%"
+   },
+   "star5_effect": "สปีดวิ่ง +7.5% · เรทดรอป +3%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Copper Brute card",
+   "slug": "copper_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/copper_brute",
+   "source_title": "Copper Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/copper_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Copper Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 4.5% · ลดดาเมจที่ได้รับ 0.6%",
+    "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 17% · ลดดาเมจที่ได้รับ 2.4%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 17% · ลดดาเมจที่ได้รับ 2.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Copper Pebblit card",
+   "slug": "copper_pebblit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/copper_pebblit",
+   "source_title": "Copper Pebblit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/copper_pebblit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Copper Pebblit",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 3.2%",
+    "★5": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 12%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 12%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Coral Brute card",
+   "slug": "coral_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/coral_brute",
+   "source_title": "Coral Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/coral_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Coral Brute",
+   "star_effects": {
+    "★1": "Max HP +1.8% · ขณะ HP < 35%: ดาเมจ +9%",
+    "★5": "Max HP +6.4% · ขณะ HP < 35%: ดาเมจ +32%"
+   },
+   "star5_effect": "Max HP +6.4% · ขณะ HP < 35%: ดาเมจ +32%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Coral Pebblit card",
+   "slug": "coral_pebblit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/coral_pebblit",
+   "source_title": "Coral Pebblit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/coral_pebblit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Coral Pebblit",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 11%",
+    "★5": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 42%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 42%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Coralback Tortoise card",
+   "slug": "coralback_tortoise",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/coralback_tortoise",
+   "source_title": "Coralback Tortoise · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/coralback_tortoise.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Coralback Tortoise",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1.9% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 14% ทันที (ทุก 45 วิ) · เมื่อสังหารมอน: ฮีล 0.6% Max HP",
+    "★5": "ลดดาเมจที่ได้รับ 7% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 46% ทันที (ทุก 45 วิ) · เมื่อสังหารมอน: ฮีล 2.1% Max HP"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 7% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 46% ทันที (ทุก 45 วิ) · เมื่อสังหารมอน: ฮีล 2.1% Max HP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Corrupt Thornling card",
+   "slug": "corrupt_thornling",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/corrupt_thornling",
+   "source_title": "Corrupt Thornling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/corrupt_thornling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Corrupt Thornling",
+   "star_effects": {
+    "★1": "ดูดเลือด 0.5% ของดาเมจกายภาพ",
+    "★5": "ดูดเลือด 2.5% ของดาเมจกายภาพ"
+   },
+   "star5_effect": "ดูดเลือด 2.5% ของดาเมจกายภาพ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Corrupt Treant card",
+   "slug": "corrupt_treant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,080 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/corrupt_treant",
+   "source_title": "Corrupt Treant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/corrupt_treant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Corrupt Treant",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ฮีล 0.7% Max HP · ลดดาเมจที่ได้รับ 1.1%",
+    "★5": "เมื่อสังหารมอน: ฮีล 3.5% Max HP · ลดดาเมจที่ได้รับ 4.4%"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ฮีล 3.5% Max HP · ลดดาเมจที่ได้รับ 4.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Crucible Hound card",
+   "slug": "crucible_hound",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/crucible_hound",
+   "source_title": "Crucible Hound · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/crucible_hound.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Crucible Hound",
+   "star_effects": {
+    "★1": "โอกาสคริ +1% · ดาเมจคริ +2% · ดาเมจใส่มอนที่ HP > 90% +2.4%",
+    "★5": "โอกาสคริ +3% · ดาเมจคริ +10% · ดาเมจใส่มอนที่ HP > 90% +10%"
+   },
+   "star5_effect": "โอกาสคริ +3% · ดาเมจคริ +10% · ดาเมจใส่มอนที่ HP > 90% +10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Crust Lurker card",
+   "slug": "crust_lurker",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/crust_lurker",
+   "source_title": "Crust Lurker · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/crust_lurker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Crust Lurker",
+   "star_effects": {
+    "★1": "VIT +1",
+    "★5": "VIT +7"
+   },
+   "star5_effect": "VIT +7",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Depth Brute card",
+   "slug": "depth_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/depth_brute",
+   "source_title": "Depth Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/depth_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Depth Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 11% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 4.1%",
+    "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 14%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 14%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Drift Skitter card",
+   "slug": "drift_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/drift_skitter",
+   "source_title": "Drift Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/drift_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Drift Skitter",
+   "star_effects": {
+    "★1": "ดาเมจคริ +2%",
+    "★5": "ดาเมจคริ +10%"
+   },
+   "star5_effect": "ดาเมจคริ +10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Drowned Bosun card",
+   "slug": "drowned_bosun",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/drowned_bosun",
+   "source_title": "Drowned Bosun · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/drowned_bosun.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Drowned Bosun",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Elite / Mini-boss +6% · Max HP +1%",
+    "★5": "ดาเมจใส่ Elite / Mini-boss +22% · Max HP +3.5%"
+   },
+   "star5_effect": "ดาเมจใส่ Elite / Mini-boss +22% · Max HP +3.5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Drowned Senator card",
+   "slug": "drowned_senator",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/drowned_senator",
+   "source_title": "Drowned Senator · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/drowned_senator.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Drowned Senator",
+   "star_effects": {
+    "★1": "MATK +1.6% · คูลดาวน์สกิล −0.8%",
+    "★5": "MATK +6% · คูลดาวน์สกิล −2.6%"
+   },
+   "star5_effect": "MATK +6% · คูลดาวน์สกิล −2.6%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Dusk Herald card",
+   "slug": "dusk_herald",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 252 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/dusk_herald",
+   "source_title": "Dusk Herald · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/dusk_herald.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Dusk Herald",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ดาเมจ +6% · เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 2% ของ Max HP ตัวที่ตาย",
+    "★5": "ช่วงกลางคืน: ดาเมจ +24% · เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 7% ของ Max HP ตัวที่ตาย"
+   },
+   "star5_effect": "ช่วงกลางคืน: ดาเมจ +24% · เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 7% ของ Max HP ตัวที่ตาย",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Dusk Remnant card",
+   "slug": "dusk_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/dusk_remnant",
+   "source_title": "Dusk Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/dusk_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Dusk Remnant",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ดาเมจ +5% · เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +3% นาน 4 วิ",
+    "★5": "ช่วงกลางคืน: ดาเมจ +20% · เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +10% นาน 4 วิ"
+   },
+   "star5_effect": "ช่วงกลางคืน: ดาเมจ +20% · เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +10% นาน 4 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Dusk Skitter card",
+   "slug": "dusk_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/dusk_skitter",
+   "source_title": "Dusk Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/dusk_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Dusk Skitter",
+   "star_effects": {
+    "★1": "เมื่อคริ (35%): เลือดไหล 13% ของดาเมจใน 3 วิ",
+    "★5": "เมื่อคริ (35%): เลือดไหล 47% ของดาเมจใน 3 วิ"
+   },
+   "star5_effect": "เมื่อคริ (35%): เลือดไหล 47% ของดาเมจใน 3 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Dust Wisp card",
+   "slug": "dust_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/dust_wisp",
+   "source_title": "Dust Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/dust_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Dust Wisp",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ฟื้น MP 1% Max MP",
+    "★5": "เมื่อสังหารมอน: ฟื้น MP 4.6% Max MP"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ฟื้น MP 4.6% Max MP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Elder Sprout card",
+   "slug": "elder_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/elder_sprout",
+   "source_title": "Elder Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/elder_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Elder Sprout",
+   "star_effects": {
+    "★1": "เวลา Gathering / ตกปลา −4.5% · VIT +2 · Max HP +0.4%",
+    "★5": "เวลา Gathering / ตกปลา −15% · VIT +9 · Max HP +1.7%"
+   },
+   "star5_effect": "เวลา Gathering / ตกปลา −15% · VIT +9 · Max HP +1.7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Ember Hound card",
+   "slug": "ember_hound",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/ember_hound",
+   "source_title": "Ember Hound · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/ember_hound.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Ember Hound",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Remnant +5%",
+    "★5": "ดาเมจใส่สาย Remnant +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Remnant +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Ember Wisp card",
+   "slug": "ember_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/ember_wisp",
+   "source_title": "Ember Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/ember_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Ember Wisp",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 1% ของ Max HP ตัวที่ตาย",
+    "★5": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 3.9% ของ Max HP ตัวที่ตาย"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 3.9% ของ Max HP ตัวที่ตาย",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Fern Thornling card",
+   "slug": "fern_thornling",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/fern_thornling",
+   "source_title": "Fern Thornling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/fern_thornling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Fern Thornling",
+   "star_effects": {
+    "★1": "เมื่อคริ (35%): เลือดไหล 10% ของดาเมจใน 3 วิ",
+    "★5": "เมื่อคริ (35%): เลือดไหล 38% ของดาเมจใน 3 วิ"
+   },
+   "star5_effect": "เมื่อคริ (35%): เลือดไหล 38% ของดาเมจใน 3 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Field Brute card",
+   "slug": "field_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,080 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/field_brute",
+   "source_title": "Field Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/field_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Field Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 15% · ลดดาเมจที่ได้รับ 0.5%",
+    "★5": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 60% · ลดดาเมจที่ได้รับ 1.9%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 60% · ลดดาเมจที่ได้รับ 1.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Field Sprout card",
+   "slug": "field_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/field_sprout",
+   "source_title": "Field Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/field_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Field Sprout",
+   "star_effects": {
+    "★1": "STR +1",
+    "★5": "STR +8"
+   },
+   "star5_effect": "STR +8",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Floe Brute card",
+   "slug": "floe_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/floe_brute",
+   "source_title": "Floe Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/floe_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Floe Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 11% ทันที (ทุก 45 วิ) · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 8%",
+    "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 40% ทันที (ทุก 45 วิ) · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 32%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 40% ทันที (ทุก 45 วิ) · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 32%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Floe Wisp card",
+   "slug": "floe_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/floe_wisp",
+   "source_title": "Floe Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/floe_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Floe Wisp",
+   "star_effects": {
+    "★1": "MATK +1.1%",
+    "★5": "MATK +5%"
+   },
+   "star5_effect": "MATK +5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Forge Hermit card",
+   "slug": "forge_hermit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/forge_hermit",
+   "source_title": "Forge Hermit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/forge_hermit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Forge Hermit",
+   "star_effects": {
+    "★1": "เจาะเกราะ 2% (ไม่สน DEF / MDEF มอน) · Max HP +1.7% · ATK +2%",
+    "★5": "เจาะเกราะ 5.5% (ไม่สน DEF / MDEF มอน) · Max HP +6% · ATK +7%"
+   },
+   "star5_effect": "เจาะเกราะ 5.5% (ไม่สน DEF / MDEF มอน) · Max HP +6% · ATK +7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Forum Sentinel card",
+   "slug": "forum_sentinel",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/forum_sentinel",
+   "source_title": "Forum Sentinel · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/forum_sentinel.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Forum Sentinel",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Elite / Mini-boss +6.2% · คูลดาวน์สกิล −0.8%",
+    "★5": "ดาเมจใส่ Elite / Mini-boss +22% · คูลดาวน์สกิล −2.6%"
+   },
+   "star5_effect": "ดาเมจใส่ Elite / Mini-boss +22% · คูลดาวน์สกิล −2.6%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Fountain Serpent card",
+   "slug": "fountain_serpent",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/fountain_serpent",
+   "source_title": "Fountain Serpent · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/fountain_serpent.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Fountain Serpent",
+   "star_effects": {
+    "★1": "MATK +2.2% · เมื่อสังหารมอน: ฮีล 0.7% Max HP · เรทดรอปวิญญาณมอน +4.4%",
+    "★5": "MATK +8% · เมื่อสังหารมอน: ฮีล 2.4% Max HP · เรทดรอปวิญญาณมอน +16%"
+   },
+   "star5_effect": "MATK +8% · เมื่อสังหารมอน: ฮีล 2.4% Max HP · เรทดรอปวิญญาณมอน +16%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Frost Crab card",
+   "slug": "frost_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/frost_crab",
+   "source_title": "Frost Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/frost_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Frost Crab",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 3.6%",
+    "★5": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 13%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 13%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Frost Fang card",
+   "slug": "frost_fang",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/frost_fang",
+   "source_title": "Frost Fang · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/frost_fang.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Frost Fang",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Wisp +5%",
+    "★5": "ดาเมจใส่สาย Wisp +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Wisp +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Frost Skitter card",
+   "slug": "frost_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/frost_skitter",
+   "source_title": "Frost Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/frost_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Frost Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Crab +6%",
+    "★5": "ดาเมจใส่สาย Crab +28%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Crab +28%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Frost Wisp card",
+   "slug": "frost_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/frost_wisp",
+   "source_title": "Frost Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/frost_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Frost Wisp",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (8%): สโลว์เป้า 10% นาน 2 วิ",
+    "★5": "เมื่อโจมตีโดน (8%): สโลว์เป้า 30% นาน 2 วิ"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (8%): สโลว์เป้า 30% นาน 2 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Furnace Warden card",
+   "slug": "furnace_warden",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/furnace_warden",
+   "source_title": "Furnace Warden · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/furnace_warden.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Furnace Warden",
+   "star_effects": {
+    "★1": "ATK +1.6% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 10%",
+    "★5": "ATK +6% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 36%"
+   },
+   "star5_effect": "ATK +6% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 36%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gale Wisp card",
+   "slug": "gale_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gale_wisp",
+   "source_title": "Gale Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gale_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gale Wisp",
+   "star_effects": {
+    "★1": "สปีดตี +1.5%",
+    "★5": "สปีดตี +6.7%"
+   },
+   "star5_effect": "สปีดตี +6.7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gate Brute card",
+   "slug": "gate_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gate_brute",
+   "source_title": "Gate Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gate_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gate Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Hound 9.2% · ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Hound 40% · ลดดาเมจที่ได้รับ 3.9%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Hound 40% · ลดดาเมจที่ได้รับ 3.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Glass Crab card",
+   "slug": "glass_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/glass_crab",
+   "source_title": "Glass Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/glass_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Glass Crab",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 2.5%",
+    "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 10%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Glass Sprout card",
+   "slug": "glass_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/glass_sprout",
+   "source_title": "Glass Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/glass_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Glass Sprout",
+   "star_effects": {
+    "★1": "INT +1",
+    "★5": "INT +7"
+   },
+   "star5_effect": "INT +7",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gloom Skitter card",
+   "slug": "gloom_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gloom_skitter",
+   "source_title": "Gloom Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gloom_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gloom Skitter",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ดาเมจ +2.9%",
+    "★5": "ช่วงกลางคืน: ดาเมจ +12%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ดาเมจ +12%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gloom Sprout card",
+   "slug": "gloom_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gloom_sprout",
+   "source_title": "Gloom Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gloom_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gloom Sprout",
+   "star_effects": {
+    "★1": "INT +1",
+    "★5": "INT +8"
+   },
+   "star5_effect": "INT +8",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gloom Wisp card",
+   "slug": "gloom_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gloom_wisp",
+   "source_title": "Gloom Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gloom_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gloom Wisp",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ฟื้น MP 0.8% Max MP",
+    "★5": "เมื่อสังหารมอน: ฟื้น MP 4% Max MP"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ฟื้น MP 4% Max MP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Golden Sentinel card",
+   "slug": "golden_sentinel",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/golden_sentinel",
+   "source_title": "Golden Sentinel · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/golden_sentinel.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Golden Sentinel",
+   "star_effects": {
+    "★1": "Gold จากมอน +4% · เรทดรอป +2%",
+    "★5": "Gold จากมอน +16% · เรทดรอป +8%"
+   },
+   "star5_effect": "Gold จากมอน +16% · เรทดรอป +8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gull Harpy card",
+   "slug": "gull_harpy",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gull_harpy",
+   "source_title": "Gull Harpy · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gull_harpy.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gull Harpy",
+   "star_effects": {
+    "★1": "สปีดตี +1.6%",
+    "★5": "สปีดตี +7%"
+   },
+   "star5_effect": "สปีดตี +7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Gully Brute card",
+   "slug": "gully_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/gully_brute",
+   "source_title": "Gully Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/gully_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Gully Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Skitter 9.2% · ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Skitter 40% · ลดดาเมจที่ได้รับ 3.9%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Skitter 40% · ลดดาเมจที่ได้รับ 3.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Hill Hound card",
+   "slug": "hill_hound",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/hill_hound",
+   "source_title": "Hill Hound · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/hill_hound.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Hill Hound",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Pebblit +5%",
+    "★5": "ดาเมจใส่สาย Pebblit +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Pebblit +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Hive Skitter card",
+   "slug": "hive_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/hive_skitter",
+   "source_title": "Hive Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/hive_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Hive Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Thornling +5%",
+    "★5": "ดาเมจใส่สาย Thornling +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Thornling +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Hollow Caster card",
+   "slug": "hollow_caster",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/hollow_caster",
+   "source_title": "Hollow Caster · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/hollow_caster.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Hollow Caster",
+   "star_effects": {
+    "★1": "MATK +1.2% · Spell Amp 0.8% (ดาเมจสกิลเวท)",
+    "★5": "MATK +4.3% · Spell Amp 2.9% (ดาเมจสกิลเวท)"
+   },
+   "star5_effect": "MATK +4.3% · Spell Amp 2.9% (ดาเมจสกิลเวท)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Hullbreaker Kraken card",
+   "slug": "hullbreaker_kraken",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/hullbreaker_kraken",
+   "source_title": "Hullbreaker Kraken · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/hullbreaker_kraken.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Hullbreaker Kraken",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 7% · Max HP +1.7% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 12%",
+    "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 23% · Max HP +6% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 42%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 23% · Max HP +6% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 42%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Ice Otter card",
+   "slug": "ice_otter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/ice_otter",
+   "source_title": "Ice Otter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/ice_otter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Ice Otter",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 10% ของดาเมจ (เวท)",
+    "★5": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 40% ของดาเมจ (เวท)"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 40% ของดาเมจ (เวท)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Ice Wisp card",
+   "slug": "ice_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/ice_wisp",
+   "source_title": "Ice Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/ice_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Ice Wisp",
+   "star_effects": {
+    "★1": "คูลดาวน์สกิล −1%",
+    "★5": "คูลดาวน์สกิล −5%"
+   },
+   "star5_effect": "คูลดาวน์สกิล −5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Kite Drake card",
+   "slug": "kite_drake",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/kite_drake",
+   "source_title": "Kite Drake · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/kite_drake.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Kite Drake",
+   "star_effects": {
+    "★1": "ATK +2% · MATK +2% · ช่วงกลางคืน: ดาเมจ +3%",
+    "★5": "ATK +7% · MATK +7% · ช่วงกลางคืน: ดาเมจ +10%"
+   },
+   "star5_effect": "ATK +7% · MATK +7% · ช่วงกลางคืน: ดาเมจ +10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Kite Harpy card",
+   "slug": "kite_harpy",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/kite_harpy",
+   "source_title": "Kite Harpy · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/kite_harpy.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Kite Harpy",
+   "star_effects": {
+    "★1": "สปีดตี +1.5%",
+    "★5": "สปีดตี +6.7%"
+   },
+   "star5_effect": "สปีดตี +6.7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Lamp Wisp card",
+   "slug": "lamp_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/lamp_wisp",
+   "source_title": "Lamp Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/lamp_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Lamp Wisp",
+   "star_effects": {
+    "★1": "Gold จากมอน +3%",
+    "★5": "Gold จากมอน +15%"
+   },
+   "star5_effect": "Gold จากมอน +15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Lantern Moth card",
+   "slug": "lantern_moth",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/lantern_moth",
+   "source_title": "Lantern Moth · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/lantern_moth.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Lantern Moth",
+   "star_effects": {
+    "★1": "LUK +1",
+    "★5": "LUK +8"
+   },
+   "star5_effect": "LUK +8",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Lantern Skitter card",
+   "slug": "lantern_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/lantern_skitter",
+   "source_title": "Lantern Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/lantern_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Lantern Skitter",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ดาเมจ +3%",
+    "★5": "ช่วงกลางคืน: ดาเมจ +12.5%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ดาเมจ +12.5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Lotus Maw Matriarch card",
+   "slug": "lotus_maw_matriarch",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 65 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/lotus_maw_matriarch",
+   "source_title": "Lotus Maw Matriarch · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/lotus_maw_matriarch.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Lotus Maw Matriarch",
+   "star_effects": {
+    "★1": "Lotus Drain · เมื่อสังหารมอน: ดูด HP และ MP 1.5% · ดูดเลือด 1% ของดาเมจกายภาพ",
+    "★5": "Lotus Drain · เมื่อสังหารมอน: ดูด HP และ MP 4% · ดูดเลือด 4% ของดาเมจกายภาพ"
+   },
+   "star5_effect": "Lotus Drain · เมื่อสังหารมอน: ดูด HP และ MP 4% · ดูดเลือด 4% ของดาเมจกายภาพ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Magma Pebblit card",
+   "slug": "magma_pebblit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/magma_pebblit",
+   "source_title": "Magma Pebblit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/magma_pebblit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Magma Pebblit",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 7.9% ทันที (ทุก 45 วิ)",
+    "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 29% ทันที (ทุก 45 วิ)"
+   },
+   "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 29% ทันที (ทุก 45 วิ)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Marrow Horror card",
+   "slug": "marrow_horror",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/marrow_horror",
+   "source_title": "Marrow Horror · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/marrow_horror.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Marrow Horror",
+   "star_effects": {
+    "★1": "ขณะ HP < 35%: ดาเมจ +8% · โอกาสคริ +1.4% · เจาะเกราะ 1% (ไม่สน DEF / MDEF มอน)",
+    "★5": "ขณะ HP < 35%: ดาเมจ +30% · โอกาสคริ +4.4% · เจาะเกราะ 3% (ไม่สน DEF / MDEF มอน)"
+   },
+   "star5_effect": "ขณะ HP < 35%: ดาเมจ +30% · โอกาสคริ +4.4% · เจาะเกราะ 3% (ไม่สน DEF / MDEF มอน)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Marrow Skitter card",
+   "slug": "marrow_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/marrow_skitter",
+   "source_title": "Marrow Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/marrow_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Marrow Skitter",
+   "star_effects": {
+    "★1": "เมื่อคริ (35%): เลือดไหล 12% ของดาเมจใน 3 วิ",
+    "★5": "เมื่อคริ (35%): เลือดไหล 44% ของดาเมจใน 3 วิ"
+   },
+   "star5_effect": "เมื่อคริ (35%): เลือดไหล 44% ของดาเมจใน 3 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Mere Lurker card",
+   "slug": "mere_lurker",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/mere_lurker",
+   "source_title": "Mere Lurker · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/mere_lurker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Mere Lurker",
+   "star_effects": {
+    "★1": "เรทดรอปวิญญาณมอน +9.4%",
+    "★5": "เรทดรอปวิญญาณมอน +50%"
+   },
+   "star5_effect": "เรทดรอปวิญญาณมอน +50%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Mire Elder card",
+   "slug": "mire_elder",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/mire_elder",
+   "source_title": "Mire Elder · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/mire_elder.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Mire Elder",
+   "star_effects": {
+    "★1": "เรทดรอป +3% · Max HP +1%",
+    "★5": "เรทดรอป +15% · Max HP +3.8%"
+   },
+   "star5_effect": "เรทดรอป +15% · Max HP +3.8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Mire Lurker card",
+   "slug": "mire_lurker",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/mire_lurker",
+   "source_title": "Mire Lurker · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/mire_lurker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Mire Lurker",
+   "star_effects": {
+    "★1": "AGI +1",
+    "★5": "AGI +8"
+   },
+   "star5_effect": "AGI +8",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Mirror Merchant card",
+   "slug": "mirror_merchant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/mirror_merchant",
+   "source_title": "Mirror Merchant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/mirror_merchant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Mirror Merchant",
+   "star_effects": {
+    "★1": "Gold จากมอน +3.2%",
+    "★5": "Gold จากมอน +16%"
+   },
+   "star5_effect": "Gold จากมอน +16%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Moss Brute card",
+   "slug": "moss_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/moss_brute",
+   "source_title": "Moss Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/moss_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Moss Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 9% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับ 1.1%",
+    "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 34% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับ 4.4%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 34% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับ 4.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Moss Crab card",
+   "slug": "moss_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/moss_crab",
+   "source_title": "Moss Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/moss_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Moss Crab",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Skitter 6.5%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Skitter 29%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Skitter 29%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Muster Hound card",
+   "slug": "muster_hound",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/muster_hound",
+   "source_title": "Muster Hound · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/muster_hound.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Muster Hound",
+   "star_effects": {
+    "★1": "ATK +1.1%",
+    "★5": "ATK +5%"
+   },
+   "star5_effect": "ATK +5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Opal Weaver Queen card",
+   "slug": "opal_weaver_queen",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/opal_weaver_queen",
+   "source_title": "Opal Weaver Queen · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/opal_weaver_queen.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Opal Weaver Queen",
+   "star_effects": {
+    "★1": "Web of Fate · เมื่อคริ (50%): ตรึงเป้า 2 วิ + เป้าโดนดาเมจแรงขึ้น +8% นาน 4 วิ · ดาเมจใส่มอนที่ติดดีบัฟ +6%",
+    "★5": "Web of Fate · เมื่อคริ (50%): ตรึงเป้า 2 วิ + เป้าโดนดาเมจแรงขึ้น +20% นาน 4 วิ · ดาเมจใส่มอนที่ติดดีบัฟ +24%"
+   },
+   "star5_effect": "Web of Fate · เมื่อคริ (50%): ตรึงเป้า 2 วิ + เป้าโดนดาเมจแรงขึ้น +20% นาน 4 วิ · ดาเมจใส่มอนที่ติดดีบัฟ +24%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Paddy Brute card",
+   "slug": "paddy_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/paddy_brute",
+   "source_title": "Paddy Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/paddy_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Paddy Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 11% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 4.3%",
+    "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 15%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ) · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Paddy Ox card",
+   "slug": "paddy_ox",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/paddy_ox",
+   "source_title": "Paddy Ox · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/paddy_ox.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Paddy Ox",
+   "star_effects": {
+    "★1": "Max HP +1.4% · เมื่อสังหารมอน: ฮีล 0.5% Max HP · ลดดาเมจที่ได้รับ 1%",
+    "★5": "Max HP +5% · เมื่อสังหารมอน: ฮีล 1.8% Max HP · ลดดาเมจที่ได้รับ 4.4%"
+   },
+   "star5_effect": "Max HP +5% · เมื่อสังหารมอน: ฮีล 1.8% Max HP · ลดดาเมจที่ได้รับ 4.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Pearl Wisp card",
+   "slug": "pearl_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/pearl_wisp",
+   "source_title": "Pearl Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/pearl_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Pearl Wisp",
+   "star_effects": {
+    "★1": "MATK +1.2% · Spell Amp 0.8% (ดาเมจสกิลเวท)",
+    "★5": "MATK +4.3% · Spell Amp 2.9% (ดาเมจสกิลเวท)"
+   },
+   "star5_effect": "MATK +4.3% · Spell Amp 2.9% (ดาเมจสกิลเวท)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Peat Crab card",
+   "slug": "peat_crab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/peat_crab",
+   "source_title": "Peat Crab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/peat_crab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Peat Crab",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1.1%",
+    "★5": "ลดดาเมจที่ได้รับ 4.8%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 4.8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Peat Elder card",
+   "slug": "peat_elder",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/peat_elder",
+   "source_title": "Peat Elder · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/peat_elder.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Peat Elder",
+   "star_effects": {
+    "★1": "เวลา Gathering / ตกปลา −4.5% · Max HP +1% · เรทดรอป +1.2%",
+    "★5": "เวลา Gathering / ตกปลา −15% · Max HP +3.8% · เรทดรอป +5%"
+   },
+   "star5_effect": "เวลา Gathering / ตกปลา −15% · Max HP +3.8% · เรทดรอป +5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Peat Wisp card",
+   "slug": "peat_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/peat_wisp",
+   "source_title": "Peat Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/peat_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Peat Wisp",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Crab +6%",
+    "★5": "ดาเมจใส่สาย Crab +28%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Crab +28%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Pebblit card",
+   "slug": "pebblit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/pebblit",
+   "source_title": "Pebblit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/pebblit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Pebblit",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับ 5%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Pit Lurker card",
+   "slug": "pit_lurker",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/pit_lurker",
+   "source_title": "Pit Lurker · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/pit_lurker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Pit Lurker",
+   "star_effects": {
+    "★1": "สปีดวิ่ง +2.2%",
+    "★5": "สปีดวิ่ง +9%"
+   },
+   "star5_effect": "สปีดวิ่ง +9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Pitch Brute card",
+   "slug": "pitch_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,080 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/pitch_brute",
+   "source_title": "Pitch Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/pitch_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Pitch Brute",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 14% · Max HP +0.8% · เจาะเกราะ 1.5% (ไม่สน DEF / MDEF มอน)",
+    "★5": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 56% · Max HP +3.2% · เจาะเกราะ 4% (ไม่สน DEF / MDEF มอน)"
+   },
+   "star5_effect": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 56% · Max HP +3.2% · เจาะเกราะ 4% (ไม่สน DEF / MDEF มอน)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Plains Skitter card",
+   "slug": "plains_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/plains_skitter",
+   "source_title": "Plains Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/plains_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Plains Skitter",
+   "star_effects": {
+    "★1": "ATK +1%",
+    "★5": "ATK +4.7%"
+   },
+   "star5_effect": "ATK +4.7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Plate Turtle card",
+   "slug": "plate_turtle",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/plate_turtle",
+   "source_title": "Plate Turtle · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/plate_turtle.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Plate Turtle",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 11% ทันที (ทุก 45 วิ)",
+    "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ)"
+   },
+   "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Pollen Wisp card",
+   "slug": "pollen_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/pollen_wisp",
+   "source_title": "Pollen Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/pollen_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Pollen Wisp",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ฮีล 0.8% Max HP",
+    "★5": "เมื่อสังหารมอน: ฮีล 3.6% Max HP"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ฮีล 3.6% Max HP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Prism Shell Sovereign card",
+   "slug": "prism_shell_sovereign",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 60 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/prism_shell_sovereign",
+   "source_title": "Prism Shell Sovereign · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/prism_shell_sovereign.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Prism Shell Sovereign",
+   "star_effects": {
+    "★1": "Prism Ward · เมื่อโดนดาเมจ: ได้โล่ 10% Max HP นาน 8 วิ (ทุก 25 วิ) · ลดดาเมจที่ได้รับ 2%",
+    "★5": "Prism Ward · เมื่อโดนดาเมจ: ได้โล่ 25% Max HP นาน 8 วิ (ทุก 25 วิ) · ลดดาเมจที่ได้รับ 8%"
+   },
+   "star5_effect": "Prism Ward · เมื่อโดนดาเมจ: ได้โล่ 25% Max HP นาน 8 วิ (ทุก 25 วิ) · ลดดาเมจที่ได้รับ 8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Quarry Brute card",
+   "slug": "quarry_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/quarry_brute",
+   "source_title": "Quarry Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/quarry_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Quarry Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1.5% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 2%",
+    "★5": "ลดดาเมจที่ได้รับ 6.5% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 8%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 6.5% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Rail Brute card",
+   "slug": "rail_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/rail_brute",
+   "source_title": "Rail Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/rail_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Rail Brute",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Field Boss +6.2% · โอกาสคริ +1%",
+    "★5": "ดาเมจใส่ Field Boss +22% · โอกาสคริ +3.2%"
+   },
+   "star5_effect": "ดาเมจใส่ Field Boss +22% · โอกาสคริ +3.2%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Reed Crane card",
+   "slug": "reed_crane",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/reed_crane",
+   "source_title": "Reed Crane · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/reed_crane.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Reed Crane",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Skitter +6%",
+    "★5": "ดาเมจใส่สาย Skitter +28%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Skitter +28%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Reed Lurker card",
+   "slug": "reed_lurker",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/reed_lurker",
+   "source_title": "Reed Lurker · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/reed_lurker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Reed Lurker",
+   "star_effects": {
+    "★1": "เรทดรอป +2%",
+    "★5": "เรทดรอป +10%"
+   },
+   "star5_effect": "เรทดรอป +10%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Reed Skipper card",
+   "slug": "reed_skipper",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/reed_skipper",
+   "source_title": "Reed Skipper · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/reed_skipper.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Reed Skipper",
+   "star_effects": {
+    "★1": "ดาเมจใส่มอนที่ HP > 90% +3.6%",
+    "★5": "ดาเมจใส่มอนที่ HP > 90% +16%"
+   },
+   "star5_effect": "ดาเมจใส่มอนที่ HP > 90% +16%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Remnant card",
+   "slug": "remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/remnant",
+   "source_title": "Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Remnant",
+   "star_effects": {
+    "★1": "MATK +2% · คูลดาวน์สกิล −1%",
+    "★5": "MATK +8% · คูลดาวน์สกิล −3%"
+   },
+   "star5_effect": "MATK +8% · คูลดาวน์สกิล −3%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Resin Sprout card",
+   "slug": "resin_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/resin_sprout",
+   "source_title": "Resin Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/resin_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Resin Sprout",
+   "star_effects": {
+    "★1": "LUK +1",
+    "★5": "LUK +7"
+   },
+   "star5_effect": "LUK +7",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Rime Brute card",
+   "slug": "rime_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,260 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/rime_brute",
+   "source_title": "Rime Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/rime_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Rime Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Wisp 9.2% · ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Wisp 40% · ลดดาเมจที่ได้รับ 3.9%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Wisp 40% · ลดดาเมจที่ได้รับ 3.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "River Wisp card",
+   "slug": "river_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/river_wisp",
+   "source_title": "River Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/river_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "River Wisp",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 8% ของดาเมจ (เวท)",
+    "★5": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 32% ของดาเมจ (เวท)"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (12%): วิญญาณตีซ้ำ 32% ของดาเมจ (เวท)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Rivet Golem card",
+   "slug": "rivet_golem",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/rivet_golem",
+   "source_title": "Rivet Golem · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/rivet_golem.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Rivet Golem",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1%",
+    "★5": "ลดดาเมจที่ได้รับ 3.9%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 3.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Rock Skitter card",
+   "slug": "rock_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/rock_skitter",
+   "source_title": "Rock Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/rock_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Rock Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Brute +5%",
+    "★5": "ดาเมจใส่สาย Brute +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Brute +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Rust Captain card",
+   "slug": "rust_captain",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/rust_captain",
+   "source_title": "Rust Captain · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/rust_captain.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Rust Captain",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Field Boss +6% · ลดดาเมจที่ได้รับ 1%",
+    "★5": "ดาเมจใส่ Field Boss +21% · ลดดาเมจที่ได้รับ 3.5%"
+   },
+   "star5_effect": "ดาเมจใส่ Field Boss +21% · ลดดาเมจที่ได้รับ 3.5%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Rust Remnant card",
+   "slug": "rust_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/rust_remnant",
+   "source_title": "Rust Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/rust_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Rust Remnant",
+   "star_effects": {
+    "★1": "MATK +1%",
+    "★5": "MATK +4.4%"
+   },
+   "star5_effect": "MATK +4.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Salt Brute card",
+   "slug": "salt_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,080 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/salt_brute",
+   "source_title": "Salt Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/salt_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Salt Brute",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 4% · ลดดาเมจที่ได้รับ 1%",
+    "★5": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 15% · ลดดาเมจที่ได้รับ 3.9%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 15% · ลดดาเมจที่ได้รับ 3.9%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Salt Pebblit card",
+   "slug": "salt_pebblit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/salt_pebblit",
+   "source_title": "Salt Pebblit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/salt_pebblit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Salt Pebblit",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจากสาย Wisp 6.5%",
+    "★5": "ลดดาเมจที่ได้รับจากสาย Wisp 29%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจากสาย Wisp 29%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Sap Wisp card",
+   "slug": "sap_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/sap_wisp",
+   "source_title": "Sap Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/sap_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Sap Wisp",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Thornling +6%",
+    "★5": "ดาเมจใส่สาย Thornling +28%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Thornling +28%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Scree Pebblit card",
+   "slug": "scree_pebblit",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/scree_pebblit",
+   "source_title": "Scree Pebblit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/scree_pebblit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Scree Pebblit",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 9%",
+    "★5": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 38%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 38%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Shard Brute card",
+   "slug": "shard_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/shard_brute",
+   "source_title": "Shard Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/shard_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Shard Brute",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1.2% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 7.3%",
+    "★5": "ลดดาเมจที่ได้รับ 4.9% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 30%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 4.9% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 30%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Shard Thornling card",
+   "slug": "shard_thornling",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/shard_thornling",
+   "source_title": "Shard Thornling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/shard_thornling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Shard Thornling",
+   "star_effects": {
+    "★1": "ดาเมจคริ +2.3%",
+    "★5": "ดาเมจคริ +12%"
+   },
+   "star5_effect": "ดาเมจคริ +12%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Shell Remnant card",
+   "slug": "shell_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/shell_remnant",
+   "source_title": "Shell Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/shell_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Shell Remnant",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 4.2%",
+    "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 15%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Shrine Firefly card",
+   "slug": "shrine_firefly",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/shrine_firefly",
+   "source_title": "Shrine Firefly · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/shrine_firefly.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Shrine Firefly",
+   "star_effects": {
+    "★1": "Gold จากมอน +3%",
+    "★5": "Gold จากมอน +15%"
+   },
+   "star5_effect": "Gold จากมอน +15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Skitter card",
+   "slug": "skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/skitter",
+   "source_title": "Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Skitter",
+   "star_effects": {
+    "★1": "โอกาสคริ +1%",
+    "★5": "โอกาสคริ +4%"
+   },
+   "star5_effect": "โอกาสคริ +4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Sky Sentinel card",
+   "slug": "sky_sentinel",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 288 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/sky_sentinel",
+   "source_title": "Sky Sentinel · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/sky_sentinel.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Sky Sentinel",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Field Boss +7.6% · โอกาสคริ +1.3% · เจาะเกราะ 2% (ไม่สน DEF / MDEF มอน)",
+    "★5": "ดาเมจใส่ Field Boss +28% · โอกาสคริ +5.1% · เจาะเกราะ 5% (ไม่สน DEF / MDEF มอน)"
+   },
+   "star5_effect": "ดาเมจใส่ Field Boss +28% · โอกาสคริ +5.1% · เจาะเกราะ 5% (ไม่สน DEF / MDEF มอน)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Sky Wisp card",
+   "slug": "sky_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/sky_wisp",
+   "source_title": "Sky Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/sky_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Sky Wisp",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Elite / Mini-boss +3%",
+    "★5": "ดาเมจใส่ Elite / Mini-boss +13%"
+   },
+   "star5_effect": "ดาเมจใส่ Elite / Mini-boss +13%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Slag Skitter card",
+   "slug": "slag_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/slag_skitter",
+   "source_title": "Slag Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/slag_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Slag Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่มอนที่ติดดีบัฟ +2%",
+    "★5": "ดาเมจใส่มอนที่ติดดีบัฟ +7.6%"
+   },
+   "star5_effect": "ดาเมจใส่มอนที่ติดดีบัฟ +7.6%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Snipcrab card",
+   "slug": "snipcrab",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/snipcrab",
+   "source_title": "Snipcrab · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/snipcrab.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Snipcrab",
+   "star_effects": {
+    "★1": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 8%",
+    "★5": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 35%"
+   },
+   "star5_effect": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 35%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Spark Eel card",
+   "slug": "spark_eel",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/spark_eel",
+   "source_title": "Spark Eel · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/spark_eel.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Spark Eel",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 1.4% ของ Max HP ตัวที่ตาย · สปีดตี +1%",
+    "★5": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 5% ของ Max HP ตัวที่ตาย · สปีดตี +3.6%"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 5% ของ Max HP ตัวที่ตาย · สปีดตี +3.6%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Spore Lantern card",
+   "slug": "spore_lantern",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/spore_lantern",
+   "source_title": "Spore Lantern · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/spore_lantern.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Spore Lantern",
+   "star_effects": {
+    "★1": "สปีดวิ่ง +2.4%",
+    "★5": "สปีดวิ่ง +9.6%"
+   },
+   "star5_effect": "สปีดวิ่ง +9.6%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Sprout card",
+   "slug": "sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/sprout",
+   "source_title": "Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Sprout",
+   "star_effects": {
+    "★1": "VIT +1",
+    "★5": "VIT +8"
+   },
+   "star5_effect": "VIT +8",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Stationmaster Automaton card",
+   "slug": "stationmaster_automaton",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/stationmaster_automaton",
+   "source_title": "Stationmaster Automaton · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/stationmaster_automaton.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Stationmaster Automaton",
+   "star_effects": {
+    "★1": "คูลดาวน์สกิล −1.2% · สปีดตี +1.2% · ดาเมจใส่ Field Boss +5%",
+    "★5": "คูลดาวน์สกิล −4% · สปีดตี +4% · ดาเมจใส่ Field Boss +18%"
+   },
+   "star5_effect": "คูลดาวน์สกิล −4% · สปีดตี +4% · ดาเมจใส่ Field Boss +18%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Steppe Hound card",
+   "slug": "steppe_hound",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/steppe_hound",
+   "source_title": "Steppe Hound · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/steppe_hound.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Steppe Hound",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Skitter +5%",
+    "★5": "ดาเมจใส่สาย Skitter +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Skitter +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Storm Harpy card",
+   "slug": "storm_harpy",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/storm_harpy",
+   "source_title": "Storm Harpy · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/storm_harpy.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Storm Harpy",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 6.4% ของดาเมจ ลดลงทุกเด้ง",
+    "★5": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 23% ของดาเมจ ลดลงทุกเด้ง"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 23% ของดาเมจ ลดลงทุกเด้ง",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Storm Remnant card",
+   "slug": "storm_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/storm_remnant",
+   "source_title": "Storm Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/storm_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Storm Remnant",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 11% ของดาเมจ ลดลงทุกเด้ง · สปีดตี +0.8%",
+    "★5": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 38% ของดาเมจ ลดลงทุกเด้ง · สปีดตี +3.8%"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 38% ของดาเมจ ลดลงทุกเด้ง · สปีดตี +3.8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Straw Thornling card",
+   "slug": "straw_thornling",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/straw_thornling",
+   "source_title": "Straw Thornling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/straw_thornling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Straw Thornling",
+   "star_effects": {
+    "★1": "ดาเมจใส่มอนที่ HP > 90% +3.4%",
+    "★5": "ดาเมจใส่มอนที่ HP > 90% +15%"
+   },
+   "star5_effect": "ดาเมจใส่มอนที่ HP > 90% +15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Sulfur Skitter card",
+   "slug": "sulfur_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/sulfur_skitter",
+   "source_title": "Sulfur Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/sulfur_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Sulfur Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Crab +5%",
+    "★5": "ดาเมจใส่สาย Crab +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Crab +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Tallow Wisp card",
+   "slug": "tallow_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/tallow_wisp",
+   "source_title": "Tallow Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/tallow_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Tallow Wisp",
+   "star_effects": {
+    "★1": "ช่วงกลางคืน: ดาเมจ +2.9%",
+    "★5": "ช่วงกลางคืน: ดาเมจ +12%"
+   },
+   "star5_effect": "ช่วงกลางคืน: ดาเมจ +12%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Tar Thornling card",
+   "slug": "tar_thornling",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/tar_thornling",
+   "source_title": "Tar Thornling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/tar_thornling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Tar Thornling",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Hound +5%",
+    "★5": "ดาเมจใส่สาย Hound +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Hound +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Tempest Kite Empress card",
+   "slug": "tempest_kite_empress",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 75 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/tempest_kite_empress",
+   "source_title": "Tempest Kite Empress · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/tempest_kite_empress.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Tempest Kite Empress",
+   "star_effects": {
+    "★1": "Storm Call · เมื่อโจมตีโดน (20%): ฟ้าผ่ามอนรอบเป้าสูงสุด 4 ตัว 60% ของดาเมจ (เวท) · สปีดตี +3%",
+    "★5": "Storm Call · เมื่อโจมตีโดน (20%): ฟ้าผ่ามอนรอบเป้าสูงสุด 4 ตัว 150% ของดาเมจ (เวท) · สปีดตี +12%"
+   },
+   "star5_effect": "Storm Call · เมื่อโจมตีโดน (20%): ฟ้าผ่ามอนรอบเป้าสูงสุด 4 ตัว 150% ของดาเมจ (เวท) · สปีดตี +12%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Terrace Sentinel card",
+   "slug": "terrace_sentinel",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/terrace_sentinel",
+   "source_title": "Terrace Sentinel · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/terrace_sentinel.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Terrace Sentinel",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Elite / Mini-boss +6% · คูลดาวน์สกิล −0.8%",
+    "★5": "ดาเมจใส่ Elite / Mini-boss +21% · คูลดาวน์สกิล −2.4%"
+   },
+   "star5_effect": "ดาเมจใส่ Elite / Mini-boss +21% · คูลดาวน์สกิล −2.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Terrace Skitter card",
+   "slug": "terrace_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/terrace_skitter",
+   "source_title": "Terrace Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/terrace_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Terrace Skitter",
+   "star_effects": {
+    "★1": "ดาเมจใส่มอนที่ HP > 90% +3.3%",
+    "★5": "ดาเมจใส่มอนที่ HP > 90% +15%"
+   },
+   "star5_effect": "ดาเมจใส่มอนที่ HP > 90% +15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Thicket Stag card",
+   "slug": "thicket_stag",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/thicket_stag",
+   "source_title": "Thicket Stag · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/thicket_stag.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Thicket Stag",
+   "star_effects": {
+    "★1": "Max HP +2.8% · สปีดวิ่ง +1.4%",
+    "★5": "Max HP +13% · สปีดวิ่ง +5.6%"
+   },
+   "star5_effect": "Max HP +13% · สปีดวิ่ง +5.6%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Thornling card",
+   "slug": "thornling",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/thornling",
+   "source_title": "Thornling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/thornling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Thornling",
+   "star_effects": {
+    "★1": "ดาเมจใส่มอนที่ติดดีบัฟ +2.1%",
+    "★5": "ดาเมจใส่มอนที่ติดดีบัฟ +9.4%"
+   },
+   "star5_effect": "ดาเมจใส่มอนที่ติดดีบัฟ +9.4%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Throne Guard card",
+   "slug": "throne_guard",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/throne_guard",
+   "source_title": "Throne Guard · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/throne_guard.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Throne Guard",
+   "star_effects": {
+    "★1": "ลดดาเมจที่ได้รับ 1.2% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 7.3%",
+    "★5": "ลดดาเมจที่ได้รับ 4.9% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 30%"
+   },
+   "star5_effect": "ลดดาเมจที่ได้รับ 4.9% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 30%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Thunder Harpy card",
+   "slug": "thunder_harpy",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/thunder_harpy",
+   "source_title": "Thunder Harpy · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/thunder_harpy.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Thunder Harpy",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 6.6% ของดาเมจ ลดลงทุกเด้ง",
+    "★5": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 24% ของดาเมจ ลดลงทุกเด้ง"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 24% ของดาเมจ ลดลงทุกเด้ง",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Tide Brute card",
+   "slug": "tide_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/tide_brute",
+   "source_title": "Tide Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/tide_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Tide Brute",
+   "star_effects": {
+    "★1": "Max HP +3.7%",
+    "★5": "Max HP +16%"
+   },
+   "star5_effect": "Max HP +16%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Tram Remnant card",
+   "slug": "tram_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/tram_remnant",
+   "source_title": "Tram Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/tram_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Tram Remnant",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ฟื้น MP 1.4% Max MP",
+    "★5": "เมื่อสังหารมอน: ฟื้น MP 6% Max MP"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ฟื้น MP 6% Max MP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Tusk Fang card",
+   "slug": "tusk_fang",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,200 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/tusk_fang",
+   "source_title": "Tusk Fang · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/tusk_fang.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Tusk Fang",
+   "star_effects": {
+    "★1": "ดาเมจใส่สาย Lurker +5%",
+    "★5": "ดาเมจใส่สาย Lurker +25%"
+   },
+   "star5_effect": "ดาเมจใส่สาย Lurker +25%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Umbral Horror card",
+   "slug": "umbral_horror",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/umbral_horror",
+   "source_title": "Umbral Horror · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/umbral_horror.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Umbral Horror",
+   "star_effects": {
+    "★1": "ขณะ HP < 35%: ดาเมจ +8% · โอกาสคริ +1% · เจาะเกราะ 1.5% (ไม่สน DEF / MDEF มอน)",
+    "★5": "ขณะ HP < 35%: ดาเมจ +30% · โอกาสคริ +3% · เจาะเกราะ 4% (ไม่สน DEF / MDEF มอน)"
+   },
+   "star5_effect": "ขณะ HP < 35%: ดาเมจ +30% · โอกาสคริ +3% · เจาะเกราะ 4% (ไม่สน DEF / MDEF มอน)",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Umbral Skitter card",
+   "slug": "umbral_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/umbral_skitter",
+   "source_title": "Umbral Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/umbral_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Umbral Skitter",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +4% นาน 4 วิ",
+    "★5": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +14% นาน 4 วิ"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +14% นาน 4 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Vale Keeper card",
+   "slug": "vale_keeper",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "3"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 216 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/vale_keeper",
+   "source_title": "Vale Keeper · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/vale_keeper.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Vale Keeper",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Elite / Mini-boss +7.5% · เมื่อสังหารมอน: ฮีล 0.6% Max HP",
+    "★5": "ดาเมจใส่ Elite / Mini-boss +30% · เมื่อสังหารมอน: ฮีล 2.5% Max HP"
+   },
+   "star5_effect": "ดาเมจใส่ Elite / Mini-boss +30% · เมื่อสังหารมอน: ฮีล 2.5% Max HP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Vale Remnant card",
+   "slug": "vale_remnant",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/vale_remnant",
+   "source_title": "Vale Remnant · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/vale_remnant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Vale Remnant",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ฮีล 0.5% Max HP · MATK +1.2%",
+    "★5": "เมื่อสังหารมอน: ฮีล 2.1% Max HP · MATK +5.8%"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ฮีล 2.1% Max HP · MATK +5.8%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Vale Sprout card",
+   "slug": "vale_sprout",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Growth",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/vale_sprout",
+   "source_title": "Vale Sprout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/vale_sprout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Vale Sprout",
+   "star_effects": {
+    "★1": "DEX +1",
+    "★5": "DEX +8"
+   },
+   "star5_effect": "DEX +8",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Vale Warden card",
+   "slug": "vale_warden",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Legendary",
+    "spirit_load": "5"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/vale_warden",
+   "source_title": "Vale Warden · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/vale_warden.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Vale Warden",
+   "star_effects": {
+    "★1": "Warden's Judgment · เมื่อสังหารมอน: สกิลดาเมจครั้งถัดไปแรงขึ้น +40% (ทุก 20 วิ) · Max HP +4%",
+    "★5": "Warden's Judgment · เมื่อสังหารมอน: สกิลดาเมจครั้งถัดไปแรงขึ้น +100% (ทุก 20 วิ) · Max HP +15%"
+   },
+   "star5_effect": "Warden's Judgment · เมื่อสังหารมอน: สกิลดาเมจครั้งถัดไปแรงขึ้น +100% (ทุก 20 วิ) · Max HP +15%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Vase Lurker card",
+   "slug": "vase_lurker",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/vase_lurker",
+   "source_title": "Vase Lurker · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/vase_lurker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Vase Lurker",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +3.8% นาน 4 วิ",
+    "★5": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +14% นาน 4 วิ"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +14% นาน 4 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Vent Wisp card",
+   "slug": "vent_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/vent_wisp",
+   "source_title": "Vent Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/vent_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Vent Wisp",
+   "star_effects": {
+    "★1": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 1.1% ของ Max HP ตัวที่ตาย",
+    "★5": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 4.2% ของ Max HP ตัวที่ตาย"
+   },
+   "star5_effect": "เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 4.2% ของ Max HP ตัวที่ตาย",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Void Wisp card",
+   "slug": "void_wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/void_wisp",
+   "source_title": "Void Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/void_wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Void Wisp",
+   "star_effects": {
+    "★1": "ดาเมจใส่ Field Boss +3.5%",
+    "★5": "ดาเมจใส่ Field Boss +16%"
+   },
+   "star5_effect": "ดาเมจใส่ Field Boss +16%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Willow Brute card",
+   "slug": "willow_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/willow_brute",
+   "source_title": "Willow Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/willow_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Willow Brute",
+   "star_effects": {
+    "★1": "Max HP +3% · เมื่อสังหารมอน: ฮีล 0.4% Max HP",
+    "★5": "Max HP +13% · เมื่อสังหารมอน: ฮีล 1.6% Max HP"
+   },
+   "star5_effect": "Max HP +13% · เมื่อสังหารมอน: ฮีล 1.6% Max HP",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Wisp card",
+   "slug": "wisp",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Spirit",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/wisp",
+   "source_title": "Wisp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/wisp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Wisp",
+   "star_effects": {
+    "★1": "MATK +1%",
+    "★5": "MATK +4.7%"
+   },
+   "star5_effect": "MATK +4.7%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Wrack Brute card",
+   "slug": "wrack_brute",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Guard",
+    "spirit_load": "2"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/wrack_brute",
+   "source_title": "Wrack Brute · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/wrack_brute.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Wrack Brute",
+   "star_effects": {
+    "★1": "Max HP +2.8% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 6%",
+    "★5": "Max HP +13% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 24%"
+   },
+   "star5_effect": "Max HP +13% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 24%",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  },
+  {
+   "name": "Wrack Skitter card",
+   "slug": "wrack_skitter",
+   "category": "card",
+   "tier": null,
+   "level": null,
+   "properties": {
+    "colour": "Attack",
+    "spirit_load": "1"
+   },
+   "effects": [],
+   "requirements": [],
+   "conditions": [
+    "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   ],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/mob/wrack_skitter",
+   "source_title": "Wrack Skitter · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Monsters/wrack_skitter.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "monster": "Wrack Skitter",
+   "star_effects": {
+    "★1": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +3.6% นาน 4 วิ",
+    "★5": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +13.2% นาน 4 วิ"
+   },
+   "star5_effect": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +13.2% นาน 4 วิ",
+   "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4."
+  }
+ ]
+}

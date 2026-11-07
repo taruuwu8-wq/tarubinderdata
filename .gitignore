@@ -1,0 +1,5 @@
+# Crawl cache (large, regenerable; not needed to use the knowledge base)
+Progress/
+.firecrawl/
+__pycache__/
+*.pyc

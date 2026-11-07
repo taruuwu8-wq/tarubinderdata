@@ -1,0 +1,1337 @@
+slug,name,category,slot,tier,level,ATK,MATK,DEF,sell_npc_normal,data_source,source_url
+chipped_blade,ดาบบิ่น,weapon,อาวุธ,ขั้น 1,1,30,—,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/chipped_blade
+stone_maul,ค้อนหิน,weapon,อาวุธ,ขั้น 1,1,33,—,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_maul
+iron_sword,ดาบเหล็ก,weapon,อาวุธ,ขั้น 2,8,75,—,—,77 G,detail_page,https://wiki.bindertowngame.com/item/iron_sword
+spirit_wand,ไม้กายสิทธิ์วิญญาณ,weapon,อาวุธ,ขั้น 1,1,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/spirit_wand
+rune_blade,ดาบรูน,weapon,อาวุธ,ขั้น 4,22,162,—,—,141 G,listing_table_only,https://wiki.bindertowngame.com/item/rune_blade
+valebrand,ดาบแห่งหุบเขา,weapon,อาวุธ,ขั้น 3,15,120,—,—,113 G,listing_table_only,https://wiki.bindertowngame.com/item/valebrand
+war_pick,พลั่วรบ,weapon,อาวุธ,ขั้น 2,8,84,—,—,89 G,listing_table_only,https://wiki.bindertowngame.com/item/war_pick
+ember_maul,ค้อนเพลิง,weapon,อาวุธ,ขั้น 3,15,132,—,—,133 G,listing_table_only,https://wiki.bindertowngame.com/item/ember_maul
+short_bow,ธนูสั้น,weapon,อาวุธ,ขั้น 1,1,30,—,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/short_bow
+hunter_bow,ธนูล่าเนื้อ,weapon,อาวุธ,ขั้น 2,8,72,—,—,75 G,listing_table_only,https://wiki.bindertowngame.com/item/hunter_bow
+spirit_longbow,ธนูยาววิญญาณ,weapon,อาวุธ,ขั้น 3,15,114,—,—,109 G,listing_table_only,https://wiki.bindertowngame.com/item/spirit_longbow
+fang_knife,มีดเขี้ยว,weapon,อาวุธ,ขั้น 1,1,27,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_knife
+dusk_stiletto,มีดแหลมราตรี,weapon,อาวุธ,ขั้น 2,8,63,—,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/dusk_stiletto
+oak_staff,ไม้เท้าโอ๊ก,weapon,อาวุธ,ขั้น 1,1,—,33,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/oak_staff
+frost_staff,ไม้เท้าเหมันต์,weapon,อาวุธ,ขั้น 2,8,—,78,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_staff
+pilgrim_rod,ไม้เท้าแสวงบุญ,weapon,อาวุธ,ขั้น 1,1,—,27,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/pilgrim_rod
+bound_grimoire,ตำราผูกวิญญาณ,weapon,อาวุธ,ขั้น 1,1,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/bound_grimoire
+sword_t5,ดาบอำพัน,weapon,อาวุธ,ขั้น 5,30,213,—,—,181 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t5
+sword_t6,ดาบมิธริล,weapon,อาวุธ,ขั้น 6,40,276,—,—,229 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t6
+sword_t7,ดาบเหมันต์,weapon,อาวุธ,ขั้น 7,50,339,—,—,277 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t7
+sword_t8,ดาบพายุ,weapon,อาวุธ,ขั้น 8,60,402,—,—,325 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t8
+sword_t9,ดาบผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,477,—,—,381 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t9
+sword_t10,ดาบผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,561,—,—,449 G,detail_page,https://wiki.bindertowngame.com/item/sword_t10
+greatsword_t1,ดาบสองมือฝึกหัด,weapon,อาวุธ,ขั้น 1,1,45,—,—,57 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t1
+greatsword_t2,ดาบสองมือทองแดง,weapon,อาวุธ,ขั้น 2,8,111,—,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t2
+greatsword_t3,ดาบสองมือเหล็ก,weapon,อาวุธ,ขั้น 3,15,177,—,—,163 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t3
+greatsword_t4,ดาบสองมือเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,243,—,—,207 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t4
+greatsword_t5,ดาบสองมืออำพัน,weapon,อาวุธ,ขั้น 5,30,321,—,—,271 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t5
+greatsword_t6,ดาบสองมือมิธริล,weapon,อาวุธ,ขั้น 6,40,414,—,—,339 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t6
+greatsword_t7,ดาบสองมือเหมันต์,weapon,อาวุธ,ขั้น 7,50,510,—,—,415 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t7
+greatsword_t8,ดาบสองมือพายุ,weapon,อาวุธ,ขั้น 8,60,603,—,—,483 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t8
+greatsword_t9,ดาบสองมือผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,717,—,—,571 G,listing_table_only,https://wiki.bindertowngame.com/item/greatsword_t9
+greatsword_t10,ดาบสองมือผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,840,—,—,665 G,detail_page,https://wiki.bindertowngame.com/item/greatsword_t10
+spear_t1,หอกฝึกหัด,weapon,อาวุธ,ขั้น 1,1,33,—,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t1
+spear_t2,หอกทองแดง,weapon,อาวุธ,ขั้น 2,8,78,—,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t2
+spear_t3,หอกเหล็ก,weapon,อาวุธ,ขั้น 3,15,123,—,—,127 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t3
+spear_t4,หอกเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,171,—,—,159 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t4
+spear_t5,หอกอำพัน,weapon,อาวุธ,ขั้น 5,30,225,—,—,207 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t5
+spear_t6,หอกมิธริล,weapon,อาวุธ,ขั้น 6,40,291,—,—,257 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t6
+spear_t7,หอกเหมันต์,weapon,อาวุธ,ขั้น 7,50,357,—,—,313 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t7
+spear_t8,หอกพายุ,weapon,อาวุธ,ขั้น 8,60,423,—,—,363 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t8
+spear_t9,หอกผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,501,—,—,427 G,listing_table_only,https://wiki.bindertowngame.com/item/spear_t9
+spear_t10,หอกผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,588,—,—,497 G,detail_page,https://wiki.bindertowngame.com/item/spear_t10
+axe_t1,ขวานฝึกหัด,weapon,อาวุธ,ขั้น 1,1,36,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t1
+axe_t2,ขวานทองแดง,weapon,อาวุธ,ขั้น 2,8,87,—,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t2
+axe_t3,ขวานเหล็ก,weapon,อาวุธ,ขั้น 3,15,135,—,—,123 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t3
+axe_t4,ขวานเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,186,—,—,157 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t4
+axe_t5,ขวานอำพัน,weapon,อาวุธ,ขั้น 5,30,246,—,—,203 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t5
+axe_t6,ขวานมิธริล,weapon,อาวุธ,ขั้น 6,40,318,—,—,257 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t6
+axe_t7,ขวานเหมันต์,weapon,อาวุธ,ขั้น 7,50,390,—,—,311 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t7
+axe_t8,ขวานพายุ,weapon,อาวุธ,ขั้น 8,60,462,—,—,365 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t8
+axe_t9,ขวานผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,549,—,—,429 G,listing_table_only,https://wiki.bindertowngame.com/item/axe_t9
+axe_t10,ขวานผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,642,—,—,503 G,detail_page,https://wiki.bindertowngame.com/item/axe_t10
+kris_t1,กริชฝึกหัด,weapon,อาวุธ,ขั้น 1,1,27,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t1
+kris_t2,กริชทองแดง,weapon,อาวุธ,ขั้น 2,8,69,—,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t2
+kris_t3,กริชเหล็ก,weapon,อาวุธ,ขั้น 3,15,108,—,—,117 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t3
+kris_t4,กริชเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,150,—,—,145 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t4
+kris_t5,กริชอำพัน,weapon,อาวุธ,ขั้น 5,30,195,—,—,187 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t5
+kris_t6,กริชมิธริล,weapon,อาวุธ,ขั้น 6,40,255,—,—,233 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t6
+kris_t7,กริชเหมันต์,weapon,อาวุธ,ขั้น 7,50,312,—,—,283 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t7
+kris_t8,กริชพายุ,weapon,อาวุธ,ขั้น 8,60,369,—,—,327 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t8
+kris_t9,กริชผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,438,—,—,385 G,listing_table_only,https://wiki.bindertowngame.com/item/kris_t9
+kris_t10,กริชผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,516,—,—,449 G,detail_page,https://wiki.bindertowngame.com/item/kris_t10
+crossbow_t1,หน้าไม้ฝึกหัด,weapon,อาวุธ,ขั้น 1,1,33,—,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t1
+crossbow_t2,หน้าไม้ทองแดง,weapon,อาวุธ,ขั้น 2,8,78,—,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t2
+crossbow_t3,หน้าไม้เหล็ก,weapon,อาวุธ,ขั้น 3,15,123,—,—,115 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t3
+crossbow_t4,หน้าไม้เหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,171,—,—,147 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t4
+crossbow_t5,หน้าไม้อำพัน,weapon,อาวุธ,ขั้น 5,30,225,—,—,189 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t5
+crossbow_t6,หน้าไม้มิธริล,weapon,อาวุธ,ขั้น 6,40,291,—,—,239 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t6
+crossbow_t7,หน้าไม้เหมันต์,weapon,อาวุธ,ขั้น 7,50,357,—,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t7
+crossbow_t8,หน้าไม้พายุ,weapon,อาวุธ,ขั้น 8,60,423,—,—,339 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t8
+crossbow_t9,หน้าไม้ผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,501,—,—,397 G,listing_table_only,https://wiki.bindertowngame.com/item/crossbow_t9
+crossbow_t10,หน้าไม้ผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,588,—,—,467 G,detail_page,https://wiki.bindertowngame.com/item/crossbow_t10
+orb_t1,ลูกแก้วเวทฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,36,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t1
+orb_t2,ลูกแก้วเวททองแดง,weapon,อาวุธ,ขั้น 2,8,—,90,—,87 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t2
+orb_t3,ลูกแก้วเวทเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,141,—,127 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t3
+orb_t4,ลูกแก้วเวทเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,195,—,163 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t4
+orb_t5,ลูกแก้วเวทอำพัน,weapon,อาวุธ,ขั้น 5,30,—,255,—,209 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t5
+orb_t6,ลูกแก้วเวทมิธริล,weapon,อาวุธ,ขั้น 6,40,—,330,—,265 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t6
+orb_t7,ลูกแก้วเวทเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,408,—,323 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t7
+orb_t8,ลูกแก้วเวทพายุ,weapon,อาวุธ,ขั้น 8,60,—,483,—,379 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t8
+orb_t9,ลูกแก้วเวทผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,573,—,445 G,listing_table_only,https://wiki.bindertowngame.com/item/orb_t9
+orb_t10,ลูกแก้วเวทผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,672,—,523 G,detail_page,https://wiki.bindertowngame.com/item/orb_t10
+mace_t4,ค้อนเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,183,—,—,167 G,listing_table_only,https://wiki.bindertowngame.com/item/mace_t4
+mace_t5,ค้อนอำพัน,weapon,อาวุธ,ขั้น 5,30,240,—,—,217 G,listing_table_only,https://wiki.bindertowngame.com/item/mace_t5
+mace_t6,ค้อนมิธริล,weapon,อาวุธ,ขั้น 6,40,309,—,—,269 G,listing_table_only,https://wiki.bindertowngame.com/item/mace_t6
+mace_t7,ค้อนเหมันต์,weapon,อาวุธ,ขั้น 7,50,381,—,—,329 G,listing_table_only,https://wiki.bindertowngame.com/item/mace_t7
+mace_t8,ค้อนพายุ,weapon,อาวุธ,ขั้น 8,60,450,—,—,381 G,listing_table_only,https://wiki.bindertowngame.com/item/mace_t8
+mace_t9,ค้อนผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,534,—,—,449 G,listing_table_only,https://wiki.bindertowngame.com/item/mace_t9
+mace_t10,ค้อนผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,627,—,—,523 G,detail_page,https://wiki.bindertowngame.com/item/mace_t10
+dagger_t3,มีดสั้นเหล็ก,weapon,อาวุธ,ขั้น 3,15,102,—,—,101 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t3
+dagger_t4,มีดสั้นเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,141,—,—,127 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t4
+dagger_t5,มีดสั้นอำพัน,weapon,อาวุธ,ขั้น 5,30,183,—,—,161 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t5
+dagger_t6,มีดสั้นมิธริล,weapon,อาวุธ,ขั้น 6,40,237,—,—,203 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t6
+dagger_t7,มีดสั้นเหมันต์,weapon,อาวุธ,ขั้น 7,50,291,—,—,245 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t7
+dagger_t8,มีดสั้นพายุ,weapon,อาวุธ,ขั้น 8,60,345,—,—,287 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t8
+dagger_t9,มีดสั้นผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,411,—,—,337 G,listing_table_only,https://wiki.bindertowngame.com/item/dagger_t9
+dagger_t10,มีดสั้นผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,480,—,—,395 G,detail_page,https://wiki.bindertowngame.com/item/dagger_t10
+bow_t4,ธนูเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,156,—,—,137 G,listing_table_only,https://wiki.bindertowngame.com/item/bow_t4
+bow_t5,ธนูอำพัน,weapon,อาวุธ,ขั้น 5,30,204,—,—,175 G,listing_table_only,https://wiki.bindertowngame.com/item/bow_t5
+bow_t6,ธนูมิธริล,weapon,อาวุธ,ขั้น 6,40,264,—,—,221 G,listing_table_only,https://wiki.bindertowngame.com/item/bow_t6
+bow_t7,ธนูเหมันต์,weapon,อาวุธ,ขั้น 7,50,324,—,—,267 G,listing_table_only,https://wiki.bindertowngame.com/item/bow_t7
+bow_t8,ธนูพายุ,weapon,อาวุธ,ขั้น 8,60,387,—,—,315 G,listing_table_only,https://wiki.bindertowngame.com/item/bow_t8
+bow_t9,ธนูผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,459,—,—,369 G,listing_table_only,https://wiki.bindertowngame.com/item/bow_t9
+bow_t10,ธนูผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,537,—,—,433 G,detail_page,https://wiki.bindertowngame.com/item/bow_t10
+staff_t3,ไม้เท้าเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,123,—,115 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t3
+staff_t4,ไม้เท้าเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,171,—,147 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t4
+staff_t5,ไม้เท้าอำพัน,weapon,อาวุธ,ขั้น 5,30,—,225,—,189 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t5
+staff_t6,ไม้เท้ามิธริล,weapon,อาวุธ,ขั้น 6,40,—,291,—,239 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t6
+staff_t7,ไม้เท้าเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,357,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t7
+staff_t8,ไม้เท้าพายุ,weapon,อาวุธ,ขั้น 8,60,—,423,—,339 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t8
+staff_t9,ไม้เท้าผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,501,—,397 G,listing_table_only,https://wiki.bindertowngame.com/item/staff_t9
+staff_t10,ไม้เท้าผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,588,—,467 G,detail_page,https://wiki.bindertowngame.com/item/staff_t10
+wand_t2,คทาทองแดง,weapon,อาวุธ,ขั้น 2,8,—,72,—,81 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t2
+wand_t3,คทาเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,114,—,121 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t3
+wand_t4,คทาเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,153,—,147 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t4
+wand_t5,คทาอำพัน,weapon,อาวุธ,ขั้น 5,30,—,201,—,191 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t5
+wand_t6,คทามิธริล,weapon,อาวุธ,ขั้น 6,40,—,261,—,237 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t6
+wand_t7,คทาเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,321,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t7
+wand_t8,คทาพายุ,weapon,อาวุธ,ขั้น 8,60,—,381,—,335 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t8
+wand_t9,คทาผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,453,—,395 G,listing_table_only,https://wiki.bindertowngame.com/item/wand_t9
+wand_t10,คทาผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,531,—,459 G,detail_page,https://wiki.bindertowngame.com/item/wand_t10
+rod_t2,คทาแสงทองแดง,weapon,อาวุธ,ขั้น 2,8,—,69,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t2
+rod_t3,คทาแสงเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,108,—,117 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t3
+rod_t4,คทาแสงเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,150,—,145 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t4
+rod_t5,คทาแสงอำพัน,weapon,อาวุธ,ขั้น 5,30,—,195,—,187 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t5
+rod_t6,คทาแสงมิธริล,weapon,อาวุธ,ขั้น 6,40,—,255,—,233 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t6
+rod_t7,คทาแสงเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,312,—,283 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t7
+rod_t8,คทาแสงพายุ,weapon,อาวุธ,ขั้น 8,60,—,369,—,327 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t8
+rod_t9,คทาแสงผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,438,—,385 G,listing_table_only,https://wiki.bindertowngame.com/item/rod_t9
+rod_t10,คทาแสงผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,516,—,449 G,detail_page,https://wiki.bindertowngame.com/item/rod_t10
+tome_t2,ตำราทองแดง,weapon,อาวุธ,ขั้น 2,8,—,72,—,81 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t2
+tome_t3,ตำราเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,114,—,121 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t3
+tome_t4,ตำราเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,153,—,147 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t4
+tome_t5,ตำราอำพัน,weapon,อาวุธ,ขั้น 5,30,—,201,—,191 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t5
+tome_t6,ตำรามิธริล,weapon,อาวุธ,ขั้น 6,40,—,261,—,237 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t6
+tome_t7,ตำราเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,321,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t7
+tome_t8,ตำราพายุ,weapon,อาวุธ,ขั้น 8,60,—,381,—,335 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t8
+tome_t9,ตำราผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,453,—,395 G,listing_table_only,https://wiki.bindertowngame.com/item/tome_t9
+tome_t10,ตำราผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,531,—,459 G,detail_page,https://wiki.bindertowngame.com/item/tome_t10
+hand_crossbow_t1,หน้าไม้มือฝึกหัด,weapon,อาวุธ,ขั้น 1,1,24,—,—,37 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t1
+hand_crossbow_t2,หน้าไม้มือทองแดง,weapon,อาวุธ,ขั้น 2,8,60,—,—,67 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t2
+hand_crossbow_t3,หน้าไม้มือเหล็ก,weapon,อาวุธ,ขั้น 3,15,96,—,—,97 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t3
+hand_crossbow_t4,หน้าไม้มือเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,132,—,—,121 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t4
+hand_crossbow_t5,หน้าไม้มืออำพัน,weapon,อาวุธ,ขั้น 5,30,174,—,—,155 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t5
+hand_crossbow_t6,หน้าไม้มือมิธริล,weapon,อาวุธ,ขั้น 6,40,225,—,—,195 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t6
+hand_crossbow_t7,หน้าไม้มือเหมันต์,weapon,อาวุธ,ขั้น 7,50,279,—,—,237 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t7
+hand_crossbow_t8,หน้าไม้มือพายุ,weapon,อาวุธ,ขั้น 8,60,330,—,—,277 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t8
+hand_crossbow_t9,หน้าไม้มือผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,393,—,—,325 G,listing_table_only,https://wiki.bindertowngame.com/item/hand_crossbow_t9
+hand_crossbow_t10,หน้าไม้มือผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,459,—,—,381 G,detail_page,https://wiki.bindertowngame.com/item/hand_crossbow_t10
+javelin_t1,หลาวฝึกหัด,weapon,อาวุธ,ขั้น 1,1,30,—,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t1
+javelin_t2,หลาวทองแดง,weapon,อาวุธ,ขั้น 2,8,72,—,—,81 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t2
+javelin_t3,หลาวเหล็ก,weapon,อาวุธ,ขั้น 3,15,114,—,—,121 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t3
+javelin_t4,หลาวเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,153,—,—,147 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t4
+javelin_t5,หลาวอำพัน,weapon,อาวุธ,ขั้น 5,30,201,—,—,191 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t5
+javelin_t6,หลาวมิธริล,weapon,อาวุธ,ขั้น 6,40,261,—,—,237 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t6
+javelin_t7,หลาวเหมันต์,weapon,อาวุธ,ขั้น 7,50,321,—,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t7
+javelin_t8,หลาวพายุ,weapon,อาวุธ,ขั้น 8,60,381,—,—,335 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t8
+javelin_t9,หลาวผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,453,—,—,395 G,listing_table_only,https://wiki.bindertowngame.com/item/javelin_t9
+javelin_t10,หลาวผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,531,—,—,459 G,detail_page,https://wiki.bindertowngame.com/item/javelin_t10
+sling_t1,สลิงฝึกหัด,weapon,อาวุธ,ขั้น 1,1,27,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t1
+sling_t2,สลิงทองแดง,weapon,อาวุธ,ขั้น 2,8,63,—,—,75 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t2
+sling_t3,สลิงเหล็ก,weapon,อาวุธ,ขั้น 3,15,102,—,—,113 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t3
+sling_t4,สลิงเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,138,—,—,137 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t4
+sling_t5,สลิงอำพัน,weapon,อาวุธ,ขั้น 5,30,180,—,—,177 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t5
+sling_t6,สลิงมิธริล,weapon,อาวุธ,ขั้น 6,40,234,—,—,219 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t6
+sling_t7,สลิงเหมันต์,weapon,อาวุธ,ขั้น 7,50,288,—,—,267 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t7
+sling_t8,สลิงพายุ,weapon,อาวุธ,ขั้น 8,60,342,—,—,309 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t8
+sling_t9,สลิงผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,405,—,—,363 G,listing_table_only,https://wiki.bindertowngame.com/item/sling_t9
+sling_t10,สลิงผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,477,—,—,423 G,detail_page,https://wiki.bindertowngame.com/item/sling_t10
+pike_t1,ทวนฝึกหัด,weapon,อาวุธ,ขั้น 1,1,45,—,—,57 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t1
+pike_t2,ทวนทองแดง,weapon,อาวุธ,ขั้น 2,8,108,—,—,105 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t2
+pike_t3,ทวนเหล็ก,weapon,อาวุธ,ขั้น 3,15,171,—,—,159 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t3
+pike_t4,ทวนเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,237,—,—,203 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t4
+pike_t5,ทวนอำพัน,weapon,อาวุธ,ขั้น 5,30,309,—,—,263 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t5
+pike_t6,ทวนมิธริล,weapon,อาวุธ,ขั้น 6,40,399,—,—,329 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t6
+pike_t7,ทวนเหมันต์,weapon,อาวุธ,ขั้น 7,50,492,—,—,403 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t7
+pike_t8,ทวนพายุ,weapon,อาวุธ,ขั้น 8,60,582,—,—,469 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t8
+pike_t9,ทวนผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,693,—,—,555 G,listing_table_only,https://wiki.bindertowngame.com/item/pike_t9
+pike_t10,ทวนผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,810,—,—,645 G,detail_page,https://wiki.bindertowngame.com/item/pike_t10
+lance_t1,หอกทหารม้าฝึกหัด,weapon,อาวุธ,ขั้น 1,1,30,—,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t1
+lance_t2,หอกทหารม้าทองแดง,weapon,อาวุธ,ขั้น 2,8,75,—,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t2
+lance_t3,หอกทหารม้าเหล็ก,weapon,อาวุธ,ขั้น 3,15,120,—,—,125 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t3
+lance_t4,หอกทหารม้าเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,162,—,—,153 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t4
+lance_t5,หอกทหารม้าอำพัน,weapon,อาวุธ,ขั้น 5,30,213,—,—,199 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t5
+lance_t6,หอกทหารม้ามิธริล,weapon,อาวุธ,ขั้น 6,40,276,—,—,247 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t6
+lance_t7,หอกทหารม้าเหมันต์,weapon,อาวุธ,ขั้น 7,50,339,—,—,301 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t7
+lance_t8,หอกทหารม้าพายุ,weapon,อาวุธ,ขั้น 8,60,402,—,—,349 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t8
+lance_t9,หอกทหารม้าผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,477,—,—,411 G,listing_table_only,https://wiki.bindertowngame.com/item/lance_t9
+lance_t10,หอกทหารม้าผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,561,—,—,479 G,detail_page,https://wiki.bindertowngame.com/item/lance_t10
+knuckles_t1,สนับมือฝึกหัด,weapon,อาวุธ,ขั้น 1,1,24,—,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t1
+knuckles_t2,สนับมือทองแดง,weapon,อาวุธ,ขั้น 2,8,60,—,—,73 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t2
+knuckles_t3,สนับมือเหล็ก,weapon,อาวุธ,ขั้น 3,15,96,—,—,109 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t3
+knuckles_t4,สนับมือเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,132,—,—,133 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t4
+knuckles_t5,สนับมืออำพัน,weapon,อาวุธ,ขั้น 5,30,174,—,—,173 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t5
+knuckles_t6,สนับมือมิธริล,weapon,อาวุธ,ขั้น 6,40,225,—,—,213 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t6
+knuckles_t7,สนับมือเหมันต์,weapon,อาวุธ,ขั้น 7,50,279,—,—,261 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t7
+knuckles_t8,สนับมือพายุ,weapon,อาวุธ,ขั้น 8,60,330,—,—,301 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t8
+knuckles_t9,สนับมือผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,393,—,—,355 G,listing_table_only,https://wiki.bindertowngame.com/item/knuckles_t9
+knuckles_t10,สนับมือผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,459,—,—,411 G,detail_page,https://wiki.bindertowngame.com/item/knuckles_t10
+flail_t1,ลูกตุ้มโซ่ฝึกหัด,weapon,อาวุธ,ขั้น 1,1,42,—,—,55 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t1
+flail_t2,ลูกตุ้มโซ่ทองแดง,weapon,อาวุธ,ขั้น 2,8,105,—,—,103 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t2
+flail_t3,ลูกตุ้มโซ่เหล็ก,weapon,อาวุธ,ขั้น 3,15,165,—,—,155 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t3
+flail_t4,ลูกตุ้มโซ่เหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,228,—,—,197 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t4
+flail_t5,ลูกตุ้มโซ่อำพัน,weapon,อาวุธ,ขั้น 5,30,297,—,—,255 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t5
+flail_t6,ลูกตุ้มโซ่มิธริล,weapon,อาวุธ,ขั้น 6,40,387,—,—,321 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t6
+flail_t7,ลูกตุ้มโซ่เหมันต์,weapon,อาวุธ,ขั้น 7,50,474,—,—,391 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t7
+flail_t8,ลูกตุ้มโซ่พายุ,weapon,อาวุธ,ขั้น 8,60,564,—,—,457 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t8
+flail_t9,ลูกตุ้มโซ่ผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,669,—,—,539 G,listing_table_only,https://wiki.bindertowngame.com/item/flail_t9
+flail_t10,ลูกตุ้มโซ่ผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,783,—,—,627 G,detail_page,https://wiki.bindertowngame.com/item/flail_t10
+rapier_t1,เรเปียร์ฝึกหัด,weapon,อาวุธ,ขั้น 1,1,27,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t1
+rapier_t2,เรเปียร์ทองแดง,weapon,อาวุธ,ขั้น 2,8,66,—,—,77 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t2
+rapier_t3,เรเปียร์เหล็ก,weapon,อาวุธ,ขั้น 3,15,108,—,—,117 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t3
+rapier_t4,เรเปียร์เหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,147,—,—,143 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t4
+rapier_t5,เรเปียร์อำพัน,weapon,อาวุธ,ขั้น 5,30,192,—,—,185 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t5
+rapier_t6,เรเปียร์มิธริล,weapon,อาวุธ,ขั้น 6,40,249,—,—,229 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t6
+rapier_t7,เรเปียร์เหมันต์,weapon,อาวุธ,ขั้น 7,50,306,—,—,279 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t7
+rapier_t8,เรเปียร์พายุ,weapon,อาวุธ,ขั้น 8,60,363,—,—,323 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t8
+rapier_t9,เรเปียร์ผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,429,—,—,379 G,listing_table_only,https://wiki.bindertowngame.com/item/rapier_t9
+rapier_t10,เรเปียร์ผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,504,—,—,441 G,detail_page,https://wiki.bindertowngame.com/item/rapier_t10
+throwing_knives_t1,มีดบินฝึกหัด,weapon,อาวุธ,ขั้น 1,1,24,—,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t1
+throwing_knives_t2,มีดบินทองแดง,weapon,อาวุธ,ขั้น 2,8,63,—,—,75 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t2
+throwing_knives_t3,มีดบินเหล็ก,weapon,อาวุธ,ขั้น 3,15,99,—,—,111 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t3
+throwing_knives_t4,มีดบินเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,138,—,—,137 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t4
+throwing_knives_t5,มีดบินอำพัน,weapon,อาวุธ,ขั้น 5,30,180,—,—,177 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t5
+throwing_knives_t6,มีดบินมิธริล,weapon,อาวุธ,ขั้น 6,40,231,—,—,217 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t6
+throwing_knives_t7,มีดบินเหมันต์,weapon,อาวุธ,ขั้น 7,50,285,—,—,265 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t7
+throwing_knives_t8,มีดบินพายุ,weapon,อาวุธ,ขั้น 8,60,339,—,—,307 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t8
+throwing_knives_t9,มีดบินผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,402,—,—,361 G,listing_table_only,https://wiki.bindertowngame.com/item/throwing_knives_t9
+throwing_knives_t10,มีดบินผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,471,—,—,419 G,detail_page,https://wiki.bindertowngame.com/item/throwing_knives_t10
+greatstaff_t1,ไม้เท้ายาวฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,45,—,57 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t1
+greatstaff_t2,ไม้เท้ายาวทองแดง,weapon,อาวุธ,ขั้น 2,8,—,111,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t2
+greatstaff_t3,ไม้เท้ายาวเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,177,—,163 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t3
+greatstaff_t4,ไม้เท้ายาวเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,243,—,207 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t4
+greatstaff_t5,ไม้เท้ายาวอำพัน,weapon,อาวุธ,ขั้น 5,30,—,321,—,271 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t5
+greatstaff_t6,ไม้เท้ายาวมิธริล,weapon,อาวุธ,ขั้น 6,40,—,414,—,339 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t6
+greatstaff_t7,ไม้เท้ายาวเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,510,—,415 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t7
+greatstaff_t8,ไม้เท้ายาวพายุ,weapon,อาวุธ,ขั้น 8,60,—,603,—,483 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t8
+greatstaff_t9,ไม้เท้ายาวผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,717,—,571 G,listing_table_only,https://wiki.bindertowngame.com/item/greatstaff_t9
+greatstaff_t10,ไม้เท้ายาวผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,840,—,665 G,detail_page,https://wiki.bindertowngame.com/item/greatstaff_t10
+spellstaff_t1,ไม้เท้าศึกฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,42,—,55 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t1
+spellstaff_t2,ไม้เท้าศึกทองแดง,weapon,อาวุธ,ขั้น 2,8,—,99,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t2
+spellstaff_t3,ไม้เท้าศึกเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,159,—,151 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t3
+spellstaff_t4,ไม้เท้าศึกเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,219,—,191 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t4
+spellstaff_t5,ไม้เท้าศึกอำพัน,weapon,อาวุธ,ขั้น 5,30,—,288,—,249 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t5
+spellstaff_t6,ไม้เท้าศึกมิธริล,weapon,อาวุธ,ขั้น 6,40,—,372,—,311 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t6
+spellstaff_t7,ไม้เท้าศึกเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,459,—,381 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t7
+spellstaff_t8,ไม้เท้าศึกพายุ,weapon,อาวุธ,ขั้น 8,60,—,543,—,443 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t8
+spellstaff_t9,ไม้เท้าศึกผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,645,—,523 G,listing_table_only,https://wiki.bindertowngame.com/item/spellstaff_t9
+spellstaff_t10,ไม้เท้าศึกผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,756,—,609 G,detail_page,https://wiki.bindertowngame.com/item/spellstaff_t10
+maul_t1,ค้อนศักดิ์สิทธิ์ฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,45,—,57 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t1
+maul_t2,ค้อนศักดิ์สิทธิ์ทองแดง,weapon,อาวุธ,ขั้น 2,8,—,111,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t2
+maul_t3,ค้อนศักดิ์สิทธิ์เหล็ก,weapon,อาวุธ,ขั้น 3,15,—,177,—,163 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t3
+maul_t4,ค้อนศักดิ์สิทธิ์เหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,243,—,207 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t4
+maul_t5,ค้อนศักดิ์สิทธิ์อำพัน,weapon,อาวุธ,ขั้น 5,30,—,321,—,271 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t5
+maul_t6,ค้อนศักดิ์สิทธิ์มิธริล,weapon,อาวุธ,ขั้น 6,40,—,414,—,339 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t6
+maul_t7,ค้อนศักดิ์สิทธิ์เหมันต์,weapon,อาวุธ,ขั้น 7,50,—,510,—,415 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t7
+maul_t8,ค้อนศักดิ์สิทธิ์พายุ,weapon,อาวุธ,ขั้น 8,60,—,603,—,483 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t8
+maul_t9,ค้อนศักดิ์สิทธิ์ผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,717,—,571 G,listing_table_only,https://wiki.bindertowngame.com/item/maul_t9
+maul_t10,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,840,—,665 G,detail_page,https://wiki.bindertowngame.com/item/maul_t10
+lightstaff_t1,ไม้เท้าแสงฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,45,—,57 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t1
+lightstaff_t2,ไม้เท้าแสงทองแดง,weapon,อาวุธ,ขั้น 2,8,—,108,—,105 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t2
+lightstaff_t3,ไม้เท้าแสงเหล็ก,weapon,อาวุธ,ขั้น 3,15,—,171,—,159 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t3
+lightstaff_t4,ไม้เท้าแสงเหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,237,—,203 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t4
+lightstaff_t5,ไม้เท้าแสงอำพัน,weapon,อาวุธ,ขั้น 5,30,—,309,—,263 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t5
+lightstaff_t6,ไม้เท้าแสงมิธริล,weapon,อาวุธ,ขั้น 6,40,—,399,—,329 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t6
+lightstaff_t7,ไม้เท้าแสงเหมันต์,weapon,อาวุธ,ขั้น 7,50,—,492,—,403 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t7
+lightstaff_t8,ไม้เท้าแสงพายุ,weapon,อาวุธ,ขั้น 8,60,—,582,—,469 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t8
+lightstaff_t9,ไม้เท้าแสงผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,693,—,555 G,listing_table_only,https://wiki.bindertowngame.com/item/lightstaff_t9
+lightstaff_t10,ไม้เท้าแสงผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,810,—,645 G,detail_page,https://wiki.bindertowngame.com/item/lightstaff_t10
+scythe_t1,เคียวใหญ่ฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,45,—,57 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t1
+scythe_t2,เคียวใหญ่ทองแดง,weapon,อาวุธ,ขั้น 2,8,—,108,—,105 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t2
+scythe_t3,เคียวใหญ่เหล็ก,weapon,อาวุธ,ขั้น 3,15,—,171,—,159 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t3
+scythe_t4,เคียวใหญ่เหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,237,—,203 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t4
+scythe_t5,เคียวใหญ่อำพัน,weapon,อาวุธ,ขั้น 5,30,—,309,—,263 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t5
+scythe_t6,เคียวใหญ่มิธริล,weapon,อาวุธ,ขั้น 6,40,—,399,—,329 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t6
+scythe_t7,เคียวใหญ่เหมันต์,weapon,อาวุธ,ขั้น 7,50,—,492,—,403 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t7
+scythe_t8,เคียวใหญ่พายุ,weapon,อาวุธ,ขั้น 8,60,—,582,—,469 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t8
+scythe_t9,เคียวใหญ่ผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,693,—,555 G,listing_table_only,https://wiki.bindertowngame.com/item/scythe_t9
+scythe_t10,เคียวใหญ่ผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,810,—,645 G,detail_page,https://wiki.bindertowngame.com/item/scythe_t10
+chain_sickle_t1,เคียวโซ่ฝึกหัด,weapon,อาวุธ,ขั้น 1,1,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t1
+chain_sickle_t2,เคียวโซ่ทองแดง,weapon,อาวุธ,ขั้น 2,8,—,72,—,81 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t2
+chain_sickle_t3,เคียวโซ่เหล็ก,weapon,อาวุธ,ขั้น 3,15,—,114,—,121 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t3
+chain_sickle_t4,เคียวโซ่เหล็กกล้า,weapon,อาวุธ,ขั้น 4,22,—,153,—,147 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t4
+chain_sickle_t5,เคียวโซ่อำพัน,weapon,อาวุธ,ขั้น 5,30,—,201,—,191 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t5
+chain_sickle_t6,เคียวโซ่มิธริล,weapon,อาวุธ,ขั้น 6,40,—,261,—,237 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t6
+chain_sickle_t7,เคียวโซ่เหมันต์,weapon,อาวุธ,ขั้น 7,50,—,321,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t7
+chain_sickle_t8,เคียวโซ่พายุ,weapon,อาวุธ,ขั้น 8,60,—,381,—,335 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t8
+chain_sickle_t9,เคียวโซ่ผลึกวิญญาณ,weapon,อาวุธ,ขั้น 9,72,—,453,—,395 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_sickle_t9
+chain_sickle_t10,เคียวโซ่ผู้คุมหุบเขา,weapon,อาวุธ,ขั้น 10,85,—,531,—,459 G,detail_page,https://wiki.bindertowngame.com/item/chain_sickle_t10
+chipped_blade_alt,ดาบฝึกหัด (เวท),weapon,อาวุธ,ขั้น 1,1,—,30,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/chipped_blade_alt
+iron_sword_alt,ดาบทองแดง (เวท),weapon,อาวุธ,ขั้น 2,8,—,75,—,77 G,listing_table_only,https://wiki.bindertowngame.com/item/iron_sword_alt
+valebrand_alt,ดาบเหล็ก (เวท),weapon,อาวุธ,ขั้น 3,15,—,120,—,113 G,listing_table_only,https://wiki.bindertowngame.com/item/valebrand_alt
+rune_blade_alt,ดาบเหล็กกล้า (เวท),weapon,อาวุธ,ขั้น 4,22,—,162,—,141 G,listing_table_only,https://wiki.bindertowngame.com/item/rune_blade_alt
+sword_t5_alt,ดาบอำพัน (เวท),weapon,อาวุธ,ขั้น 5,30,—,213,—,181 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t5_alt
+sword_t6_alt,ดาบมิธริล (เวท),weapon,อาวุธ,ขั้น 6,40,—,276,—,229 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t6_alt
+sword_t7_alt,ดาบเหมันต์ (เวท),weapon,อาวุธ,ขั้น 7,50,—,339,—,277 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t7_alt
+sword_t8_alt,ดาบพายุ (เวท),weapon,อาวุธ,ขั้น 8,60,—,402,—,325 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t8_alt
+sword_t9_alt,ดาบผลึกวิญญาณ (เวท),weapon,อาวุธ,ขั้น 9,72,—,477,—,381 G,listing_table_only,https://wiki.bindertowngame.com/item/sword_t9_alt
+sword_t10_alt,ดาบผู้คุมหุบเขา (เวท),weapon,อาวุธ,ขั้น 10,85,—,561,—,449 G,detail_page,https://wiki.bindertowngame.com/item/sword_t10_alt
+bp_sword,ดาบ Binder,weapon,อาวุธ,ขั้น 1,1,171,—,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_sword
+bp_greatsword,ดาบสองมือ Binder,weapon,อาวุธ,ขั้น 1,1,258,—,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_greatsword
+bp_bow,ธนู Binder,weapon,อาวุธ,ขั้น 1,1,165,—,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_bow
+bp_dagger,มีดสั้น Binder,weapon,อาวุธ,ขั้น 1,1,147,—,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_dagger
+bp_staff,ไม้เท้า Binder,weapon,อาวุธ,ขั้น 1,1,—,183,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_staff
+bp_rod,คทาแสง Binder,weapon,อาวุธ,ขั้น 1,1,—,159,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_rod
+bp_tome,ตำรา Binder,weapon,อาวุธ,ขั้น 1,1,—,165,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_tome
+ashen_oath,Ashen Oath,weapon,อาวุธ,ขั้น 5,30,213,—,—,181 G,listing_table_only,https://wiki.bindertowngame.com/item/ashen_oath
+ashen_oath_r6,Ashen Oath · T6,weapon,อาวุธ,ขั้น 6,40,276,—,—,229 G,listing_table_only,https://wiki.bindertowngame.com/item/ashen_oath_r6
+ashen_oath_r7,Ashen Oath · T7,weapon,อาวุธ,ขั้น 7,50,339,—,—,277 G,listing_table_only,https://wiki.bindertowngame.com/item/ashen_oath_r7
+ashen_oath_r8,Ashen Oath · T8,weapon,อาวุธ,ขั้น 8,60,402,—,—,325 G,listing_table_only,https://wiki.bindertowngame.com/item/ashen_oath_r8
+ashen_oath_r9,Ashen Oath · T9,weapon,อาวุธ,ขั้น 9,72,477,—,—,381 G,listing_table_only,https://wiki.bindertowngame.com/item/ashen_oath_r9
+ashen_oath_r10,Ashen Oath · T10,weapon,อาวุธ,ขั้น 10,85,561,—,—,449 G,detail_page,https://wiki.bindertowngame.com/item/ashen_oath_r10
+vipers_kiss,Viper's Kiss,weapon,อาวุธ,ขั้น 6,40,237,—,—,203 G,listing_table_only,https://wiki.bindertowngame.com/item/vipers_kiss
+vipers_kiss_r7,Viper's Kiss · T7,weapon,อาวุธ,ขั้น 7,50,291,—,—,245 G,listing_table_only,https://wiki.bindertowngame.com/item/vipers_kiss_r7
+vipers_kiss_r8,Viper's Kiss · T8,weapon,อาวุธ,ขั้น 8,60,345,—,—,287 G,listing_table_only,https://wiki.bindertowngame.com/item/vipers_kiss_r8
+vipers_kiss_r9,Viper's Kiss · T9,weapon,อาวุธ,ขั้น 9,72,411,—,—,337 G,listing_table_only,https://wiki.bindertowngame.com/item/vipers_kiss_r9
+vipers_kiss_r10,Viper's Kiss · T10,weapon,อาวุธ,ขั้น 10,85,480,—,—,395 G,detail_page,https://wiki.bindertowngame.com/item/vipers_kiss_r10
+starlit_thorn,Starlit Thorn,weapon,อาวุธ,ขั้น 6,40,—,261,—,237 G,listing_table_only,https://wiki.bindertowngame.com/item/starlit_thorn
+starlit_thorn_r7,Starlit Thorn · T7,weapon,อาวุธ,ขั้น 7,50,—,321,—,289 G,listing_table_only,https://wiki.bindertowngame.com/item/starlit_thorn_r7
+starlit_thorn_r8,Starlit Thorn · T8,weapon,อาวุธ,ขั้น 8,60,—,381,—,335 G,listing_table_only,https://wiki.bindertowngame.com/item/starlit_thorn_r8
+starlit_thorn_r9,Starlit Thorn · T9,weapon,อาวุธ,ขั้น 9,72,—,453,—,395 G,listing_table_only,https://wiki.bindertowngame.com/item/starlit_thorn_r9
+starlit_thorn_r10,Starlit Thorn · T10,weapon,อาวุธ,ขั้น 10,85,—,531,—,459 G,detail_page,https://wiki.bindertowngame.com/item/starlit_thorn_r10
+skyfall,Skyfall,weapon,อาวุธ,ขั้น 7,50,324,—,—,267 G,listing_table_only,https://wiki.bindertowngame.com/item/skyfall
+skyfall_r8,Skyfall · T8,weapon,อาวุธ,ขั้น 8,60,387,—,—,315 G,listing_table_only,https://wiki.bindertowngame.com/item/skyfall_r8
+skyfall_r9,Skyfall · T9,weapon,อาวุธ,ขั้น 9,72,459,—,—,369 G,listing_table_only,https://wiki.bindertowngame.com/item/skyfall_r9
+skyfall_r10,Skyfall · T10,weapon,อาวุธ,ขั้น 10,85,537,—,—,433 G,detail_page,https://wiki.bindertowngame.com/item/skyfall_r10
+bellbreaker,Bellbreaker,weapon,อาวุธ,ขั้น 8,60,450,—,—,381 G,listing_table_only,https://wiki.bindertowngame.com/item/bellbreaker
+bellbreaker_r9,Bellbreaker · T9,weapon,อาวุธ,ขั้น 9,72,534,—,—,449 G,listing_table_only,https://wiki.bindertowngame.com/item/bellbreaker_r9
+bellbreaker_r10,Bellbreaker · T10,weapon,อาวุธ,ขั้น 10,85,627,—,—,523 G,detail_page,https://wiki.bindertowngame.com/item/bellbreaker_r10
+wyrmsunder,Wyrmsunder,weapon,อาวุธ,ขั้น 9,72,717,—,—,571 G,listing_table_only,https://wiki.bindertowngame.com/item/wyrmsunder
+wyrmsunder_r10,Wyrmsunder · T10,weapon,อาวุธ,ขั้น 10,85,840,—,—,665 G,detail_page,https://wiki.bindertowngame.com/item/wyrmsunder_r10
+ember_tides,Ember Tides,weapon,อาวุธ,ขั้น 9,72,—,573,—,445 G,listing_table_only,https://wiki.bindertowngame.com/item/ember_tides
+ember_tides_r10,Ember Tides · T10,weapon,อาวุธ,ขั้น 10,85,—,672,—,523 G,detail_page,https://wiki.bindertowngame.com/item/ember_tides_r10
+bow_t4_alt,ไอเท็ม,weapon,,,,,,,,detail_page,https://wiki.bindertowngame.com/item/bow_t4_alt
+dagger_t10_alt,ไอเท็ม,weapon,,,,,,,,detail_page,https://wiki.bindertowngame.com/item/dagger_t10_alt
+greatsword_t4_alt,ไอเท็ม,weapon,,,,,,,,detail_page,https://wiki.bindertowngame.com/item/greatsword_t4_alt
+leather_vest,เสื้อหนัง,equipment,เกราะ,ขั้น 1,1,—,—,18,33 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_vest
+spirit_charm,เครื่องรางวิญญาณ,equipment,เครื่องประดับ,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/spirit_charm
+buckler,โล่จิ๋ว,equipment,มือรอง,ขั้น 1,1,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler
+sproutguard,โล่ต้นอ่อน,equipment,มือรอง,ขั้น 2,8,—,—,21,35 G,listing_table_only,https://wiki.bindertowngame.com/item/sproutguard
+iron_shield,โล่เหล็ก,equipment,มือรอง,ขั้น 3,15,—,—,33,49 G,listing_table_only,https://wiki.bindertowngame.com/item/iron_shield
+mirror_ward,โล่กระจก,equipment,มือรอง,ขั้น 2,8,—,24,15,47 G,listing_table_only,https://wiki.bindertowngame.com/item/mirror_ward
+hide_jerkin,เสื้อหนังสัตว์,equipment,เกราะ,ขั้น 1,1,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/hide_jerkin
+chain_hauberk,เกราะโซ่,equipment,เกราะ,ขั้น 2,8,—,—,36,51 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_hauberk
+pilgrim_robe,เสื้อคลุมแสวงบุญ,equipment,เกราะ,ขั้น 1,1,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/pilgrim_robe
+thornweave,ผ้าหนามทอ,equipment,เกราะ,ขั้น 2,8,—,—,24,43 G,listing_table_only,https://wiki.bindertowngame.com/item/thornweave
+rune_plate,เกราะรูน,equipment,เกราะ,ขั้น 3,15,—,—,57,71 G,listing_table_only,https://wiki.bindertowngame.com/item/rune_plate
+worn_shoes,รองเท้าเก่า,equipment,รองเท้า,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/worn_shoes
+travel_boots,รองเท้าบูทเดินทาง,equipment,รองเท้า,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/travel_boots
+swift_sandals,รองเท้าแตะเร็ว,equipment,รองเท้า,ขั้น 3,15,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/swift_sandals
+iron_greaves,สนับเหล็ก,equipment,รองเท้า,ขั้น 2,8,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/iron_greaves
+ring_of_might,แหวนพลัง,equipment,เครื่องประดับ,ขั้น 1,1,6,—,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_of_might
+wisp_amulet,ตะกรุดไฟผี,equipment,เครื่องประดับ,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_amulet
+lucky_charm,เครื่องรางโชค,equipment,เครื่องประดับ,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/lucky_charm
+echo_pendant,จี้เสียงสะท้อน,equipment,เครื่องประดับ,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/echo_pendant
+shield_t4,โล่เหล็กกล้า,equipment,มือรอง,ขั้น 4,22,—,—,45,57 G,listing_table_only,https://wiki.bindertowngame.com/item/shield_t4
+shield_t5,โล่อำพัน,equipment,มือรอง,ขั้น 5,30,—,—,60,73 G,listing_table_only,https://wiki.bindertowngame.com/item/shield_t5
+shield_t6,โล่มิธริล,equipment,มือรอง,ขั้น 6,40,—,—,75,83 G,listing_table_only,https://wiki.bindertowngame.com/item/shield_t6
+shield_t7,โล่เหมันต์,equipment,มือรอง,ขั้น 7,50,—,—,93,101 G,listing_table_only,https://wiki.bindertowngame.com/item/shield_t7
+shield_t8,โล่พายุ,equipment,มือรอง,ขั้น 8,60,—,—,108,111 G,listing_table_only,https://wiki.bindertowngame.com/item/shield_t8
+shield_t9,โล่ผลึกวิญญาณ,equipment,มือรอง,ขั้น 9,72,—,—,129,131 G,listing_table_only,https://wiki.bindertowngame.com/item/shield_t9
+shield_t10,โล่ผู้คุมหุบเขา,equipment,มือรอง,ขั้น 10,85,—,—,150,145 G,detail_page,https://wiki.bindertowngame.com/item/shield_t10
+ward_t1,โล่เวทฝึกหัด,equipment,มือรอง,ขั้น 1,1,—,12,6,33 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t1
+ward_t3,โล่เวทเหล็ก,equipment,มือรอง,ขั้น 3,15,—,36,21,65 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t3
+ward_t4,โล่เวทเหล็กกล้า,equipment,มือรอง,ขั้น 4,22,—,48,30,79 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t4
+ward_t5,โล่เวทอำพัน,equipment,มือรอง,ขั้น 5,30,—,63,39,101 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t5
+ward_t6,โล่เวทมิธริล,equipment,มือรอง,ขั้น 6,40,—,81,48,119 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t6
+ward_t7,โล่เวทเหมันต์,equipment,มือรอง,ขั้น 7,50,—,99,60,145 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t7
+ward_t8,โล่เวทพายุ,equipment,มือรอง,ขั้น 8,60,—,117,69,163 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t8
+ward_t9,โล่เวทผลึกวิญญาณ,equipment,มือรอง,ขั้น 9,72,—,138,81,191 G,listing_table_only,https://wiki.bindertowngame.com/item/ward_t9
+ward_t10,โล่เวทผู้คุมหุบเขา,equipment,มือรอง,ขั้น 10,85,—,162,96,217 G,detail_page,https://wiki.bindertowngame.com/item/ward_t10
+plate_t4,เกราะเหล็กกล้า,equipment,เกราะ,ขั้น 4,22,—,—,75,83 G,listing_table_only,https://wiki.bindertowngame.com/item/plate_t4
+plate_t5,เกราะอำพัน,equipment,เกราะ,ขั้น 5,30,—,—,96,103 G,listing_table_only,https://wiki.bindertowngame.com/item/plate_t5
+plate_t6,เกราะมิธริล,equipment,เกราะ,ขั้น 6,40,—,—,123,127 G,listing_table_only,https://wiki.bindertowngame.com/item/plate_t6
+plate_t7,เกราะเหมันต์,equipment,เกราะ,ขั้น 7,50,—,—,150,151 G,listing_table_only,https://wiki.bindertowngame.com/item/plate_t7
+plate_t8,เกราะพายุ,equipment,เกราะ,ขั้น 8,60,—,—,177,175 G,listing_table_only,https://wiki.bindertowngame.com/item/plate_t8
+plate_t9,เกราะผลึกวิญญาณ,equipment,เกราะ,ขั้น 9,72,—,—,210,203 G,listing_table_only,https://wiki.bindertowngame.com/item/plate_t9
+plate_t10,เกราะผู้คุมหุบเขา,equipment,เกราะ,ขั้น 10,85,—,—,246,239 G,detail_page,https://wiki.bindertowngame.com/item/plate_t10
+leather_t3,ชุดหนังเหล็ก,equipment,เกราะ,ขั้น 3,15,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t3
+leather_t4,ชุดหนังเหล็กกล้า,equipment,เกราะ,ขั้น 4,22,—,—,48,65 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t4
+leather_t5,ชุดหนังอำพัน,equipment,เกราะ,ขั้น 5,30,—,—,63,81 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t5
+leather_t6,ชุดหนังมิธริล,equipment,เกราะ,ขั้น 6,40,—,—,81,99 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t6
+leather_t7,ชุดหนังเหมันต์,equipment,เกราะ,ขั้น 7,50,—,—,99,117 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t7
+leather_t8,ชุดหนังพายุ,equipment,เกราะ,ขั้น 8,60,—,—,117,135 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t8
+leather_t9,ชุดหนังผลึกวิญญาณ,equipment,เกราะ,ขั้น 9,72,—,—,138,155 G,listing_table_only,https://wiki.bindertowngame.com/item/leather_t9
+leather_t10,ชุดหนังผู้คุมหุบเขา,equipment,เกราะ,ขั้น 10,85,—,—,162,183 G,detail_page,https://wiki.bindertowngame.com/item/leather_t10
+robe_t2,เสื้อคลุมทองแดง,equipment,เกราะ,ขั้น 2,8,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t2
+robe_t3,เสื้อคลุมเหล็ก,equipment,เกราะ,ขั้น 3,15,—,—,24,49 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t3
+robe_t4,เสื้อคลุมเหล็กกล้า,equipment,เกราะ,ขั้น 4,22,—,—,33,55 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t4
+robe_t5,เสื้อคลุมอำพัน,equipment,เกราะ,ขั้น 5,30,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t5
+robe_t6,เสื้อคลุมมิธริล,equipment,เกราะ,ขั้น 6,40,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t6
+robe_t7,เสื้อคลุมเหมันต์,equipment,เกราะ,ขั้น 7,50,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t7
+robe_t8,เสื้อคลุมพายุ,equipment,เกราะ,ขั้น 8,60,—,—,78,109 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t8
+robe_t9,เสื้อคลุมผลึกวิญญาณ,equipment,เกราะ,ขั้น 9,72,—,—,93,125 G,listing_table_only,https://wiki.bindertowngame.com/item/robe_t9
+robe_t10,เสื้อคลุมผู้คุมหุบเขา,equipment,เกราะ,ขั้น 10,85,—,—,108,147 G,detail_page,https://wiki.bindertowngame.com/item/robe_t10
+greaves_t1,สนับแข้งฝึกหัด,equipment,รองเท้า,ขั้น 1,1,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t1
+greaves_t3,สนับแข้งเหล็ก,equipment,รองเท้า,ขั้น 3,15,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t3
+greaves_t4,สนับแข้งเหล็กกล้า,equipment,รองเท้า,ขั้น 4,22,—,—,27,45 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t4
+greaves_t5,สนับแข้งอำพัน,equipment,รองเท้า,ขั้น 5,30,—,—,33,55 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t5
+greaves_t6,สนับแข้งมิธริล,equipment,รองเท้า,ขั้น 6,40,—,—,42,61 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t6
+greaves_t7,สนับแข้งเหมันต์,equipment,รองเท้า,ขั้น 7,50,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t7
+greaves_t8,สนับแข้งพายุ,equipment,รองเท้า,ขั้น 8,60,—,—,60,79 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t8
+greaves_t9,สนับแข้งผลึกวิญญาณ,equipment,รองเท้า,ขั้น 9,72,—,—,72,93 G,listing_table_only,https://wiki.bindertowngame.com/item/greaves_t9
+greaves_t10,สนับแข้งผู้คุมหุบเขา,equipment,รองเท้า,ขั้น 10,85,—,—,84,101 G,detail_page,https://wiki.bindertowngame.com/item/greaves_t10
+boots_t4,รองเท้าเหล็กกล้า,equipment,รองเท้า,ขั้น 4,22,—,—,18,39 G,listing_table_only,https://wiki.bindertowngame.com/item/boots_t4
+boots_t5,รองเท้าอำพัน,equipment,รองเท้า,ขั้น 5,30,—,—,24,49 G,listing_table_only,https://wiki.bindertowngame.com/item/boots_t5
+boots_t6,รองเท้ามิธริล,equipment,รองเท้า,ขั้น 6,40,—,—,30,53 G,listing_table_only,https://wiki.bindertowngame.com/item/boots_t6
+boots_t7,รองเท้าเหมันต์,equipment,รองเท้า,ขั้น 7,50,—,—,36,63 G,listing_table_only,https://wiki.bindertowngame.com/item/boots_t7
+boots_t8,รองเท้าพายุ,equipment,รองเท้า,ขั้น 8,60,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/boots_t8
+boots_t9,รองเท้าผลึกวิญญาณ,equipment,รองเท้า,ขั้น 9,72,—,—,51,79 G,listing_table_only,https://wiki.bindertowngame.com/item/boots_t9
+boots_t10,รองเท้าผู้คุมหุบเขา,equipment,รองเท้า,ขั้น 10,85,—,—,60,85 G,detail_page,https://wiki.bindertowngame.com/item/boots_t10
+ring_t2,แหวนทองแดง,equipment,เครื่องประดับ,ขั้น 2,8,15,—,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t2
+ring_t3,แหวนเหล็ก,equipment,เครื่องประดับ,ขั้น 3,15,21,—,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t3
+ring_t4,แหวนเหล็กกล้า,equipment,เครื่องประดับ,ขั้น 4,22,30,—,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t4
+ring_t5,แหวนอำพัน,equipment,เครื่องประดับ,ขั้น 5,30,39,—,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t5
+ring_t6,แหวนมิธริล,equipment,เครื่องประดับ,ขั้น 6,40,48,—,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t6
+ring_t7,แหวนเหมันต์,equipment,เครื่องประดับ,ขั้น 7,50,60,—,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t7
+ring_t8,แหวนพายุ,equipment,เครื่องประดับ,ขั้น 8,60,69,—,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t8
+ring_t9,แหวนผลึกวิญญาณ,equipment,เครื่องประดับ,ขั้น 9,72,81,—,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/ring_t9
+ring_t10,แหวนผู้คุมหุบเขา,equipment,เครื่องประดับ,ขั้น 10,85,96,—,—,109 G,detail_page,https://wiki.bindertowngame.com/item/ring_t10
+amulet_t3,จี้เหล็ก,equipment,เครื่องประดับ,ขั้น 3,15,—,21,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t3
+amulet_t4,จี้เหล็กกล้า,equipment,เครื่องประดับ,ขั้น 4,22,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t4
+amulet_t5,จี้อำพัน,equipment,เครื่องประดับ,ขั้น 5,30,—,39,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t5
+amulet_t6,จี้มิธริล,equipment,เครื่องประดับ,ขั้น 6,40,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t6
+amulet_t7,จี้เหมันต์,equipment,เครื่องประดับ,ขั้น 7,50,—,60,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t7
+amulet_t8,จี้พายุ,equipment,เครื่องประดับ,ขั้น 8,60,—,69,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t8
+amulet_t9,จี้ผลึกวิญญาณ,equipment,เครื่องประดับ,ขั้น 9,72,—,81,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/amulet_t9
+amulet_t10,จี้ผู้คุมหุบเขา,equipment,เครื่องประดับ,ขั้น 10,85,—,96,—,109 G,detail_page,https://wiki.bindertowngame.com/item/amulet_t10
+charm_t3,เครื่องรางเหล็ก,equipment,เครื่องประดับ,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t3
+charm_t4,เครื่องรางเหล็กกล้า,equipment,เครื่องประดับ,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t4
+charm_t5,เครื่องรางอำพัน,equipment,เครื่องประดับ,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t5
+charm_t6,เครื่องรางมิธริล,equipment,เครื่องประดับ,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t6
+charm_t7,เครื่องรางเหมันต์,equipment,เครื่องประดับ,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t7
+charm_t8,เครื่องรางพายุ,equipment,เครื่องประดับ,ขั้น 8,60,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t8
+charm_t9,เครื่องรางผลึกวิญญาณ,equipment,เครื่องประดับ,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/charm_t9
+charm_t10,เครื่องรางผู้คุมหุบเขา,equipment,เครื่องประดับ,ขั้น 10,85,—,—,—,51 G,detail_page,https://wiki.bindertowngame.com/item/charm_t10
+necklace_t1,สร้อยคอฝึกหัด,equipment,สร้อยคอ,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t1
+necklace_t2,สร้อยคอทองแดง,equipment,สร้อยคอ,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t2
+necklace_t3,สร้อยคอเหล็ก,equipment,สร้อยคอ,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t3
+necklace_t4,สร้อยคอเหล็กกล้า,equipment,สร้อยคอ,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t4
+necklace_t5,สร้อยคออำพัน,equipment,สร้อยคอ,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t5
+necklace_t6,สร้อยคอมิธริล,equipment,สร้อยคอ,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t6
+necklace_t7,สร้อยคอเหมันต์,equipment,สร้อยคอ,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t7
+necklace_t8,สร้อยคอพายุ,equipment,สร้อยคอ,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t8
+necklace_t9,สร้อยคอผลึกวิญญาณ,equipment,สร้อยคอ,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/necklace_t9
+necklace_t10,สร้อยคอผู้คุมหุบเขา,equipment,สร้อยคอ,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/necklace_t10
+belt_t1,เข็มขัดฝึกหัด,equipment,เข็มขัด,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t1
+belt_t2,เข็มขัดทองแดง,equipment,เข็มขัด,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t2
+belt_t3,เข็มขัดเหล็ก,equipment,เข็มขัด,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t3
+belt_t4,เข็มขัดเหล็กกล้า,equipment,เข็มขัด,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t4
+belt_t5,เข็มขัดอำพัน,equipment,เข็มขัด,ขั้น 5,30,—,—,15,43 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t5
+belt_t6,เข็มขัดมิธริล,equipment,เข็มขัด,ขั้น 6,40,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t6
+belt_t7,เข็มขัดเหมันต์,equipment,เข็มขัด,ขั้น 7,50,—,—,21,53 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t7
+belt_t8,เข็มขัดพายุ,equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t8
+belt_t9,เข็มขัดผลึกวิญญาณ,equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t9
+belt_t10,เข็มขัดผู้คุมหุบเขา,equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/belt_t10
+quiver_t1,ซองธนูฝึกหัด (Bodkin),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t1
+quiver_t2,ซองธนูทองแดง (Bodkin),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t2
+quiver_t3,ซองธนูเหล็ก (Bodkin),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t3
+quiver_t4,ซองธนูเหล็กกล้า (Bodkin),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t4
+quiver_t5,ซองธนูอำพัน (Bodkin),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t5
+quiver_t6,ซองธนูมิธริล (Bodkin),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t6
+quiver_t7,ซองธนูเหมันต์ (Bodkin),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t7
+quiver_t8,ซองธนูพายุ (Bodkin),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t8
+quiver_t9,ซองธนูผลึกวิญญาณ (Bodkin),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t9
+quiver_t10,ซองธนูผู้คุมหุบเขา (Bodkin),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/quiver_t10
+stone_pouch_t1,ถุงหินฝึกหัด (Round),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t1
+stone_pouch_t2,ถุงหินทองแดง (Round),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t2
+stone_pouch_t3,ถุงหินเหล็ก (Round),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t3
+stone_pouch_t4,ถุงหินเหล็กกล้า (Round),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t4
+stone_pouch_t5,ถุงหินอำพัน (Round),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t5
+stone_pouch_t6,ถุงหินมิธริล (Round),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t6
+stone_pouch_t7,ถุงหินเหมันต์ (Round),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t7
+stone_pouch_t8,ถุงหินพายุ (Round),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t8
+stone_pouch_t9,ถุงหินผลึกวิญญาณ (Round),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t9
+stone_pouch_t10,ถุงหินผู้คุมหุบเขา (Round),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/stone_pouch_t10
+tower_shield_t1,โล่หอคอยฝึกหัด (Bastion),equipment,มือรอง,ขั้น 1,1,—,—,15,31 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t1
+tower_shield_t2,โล่หอคอยทองแดง (Bastion),equipment,มือรอง,ขั้น 2,8,—,—,30,41 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t2
+tower_shield_t3,โล่หอคอยเหล็ก (Bastion),equipment,มือรอง,ขั้น 3,15,—,—,45,57 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t3
+tower_shield_t4,โล่หอคอยเหล็กกล้า (Bastion),equipment,มือรอง,ขั้น 4,22,—,—,57,65 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t4
+tower_shield_t5,โล่หอคอยอำพัน (Bastion),equipment,มือรอง,ขั้น 5,30,—,—,75,83 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t5
+tower_shield_t6,โล่หอคอยมิธริล (Bastion),equipment,มือรอง,ขั้น 6,40,—,—,96,97 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t6
+tower_shield_t7,โล่หอคอยเหมันต์ (Bastion),equipment,มือรอง,ขั้น 7,50,—,—,117,117 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t7
+tower_shield_t8,โล่หอคอยพายุ (Bastion),equipment,มือรอง,ขั้น 8,60,—,—,138,131 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t8
+tower_shield_t9,โล่หอคอยผลึกวิญญาณ (Bastion),equipment,มือรอง,ขั้น 9,72,—,—,162,153 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t9
+tower_shield_t10,โล่หอคอยผู้คุมหุบเขา (Bastion),equipment,มือรอง,ขั้น 10,85,—,—,189,171 G,detail_page,https://wiki.bindertowngame.com/item/tower_shield_t10
+buckler_t1,โล่กลมเล็กฝึกหัด (Parry),equipment,มือรอง,ขั้น 1,1,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t1
+buckler_t2,โล่กลมเล็กทองแดง (Parry),equipment,มือรอง,ขั้น 2,8,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t2
+buckler_t3,โล่กลมเล็กเหล็ก (Parry),equipment,มือรอง,ขั้น 3,15,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t3
+buckler_t4,โล่กลมเล็กเหล็กกล้า (Parry),equipment,มือรอง,ขั้น 4,22,—,—,27,45 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t4
+buckler_t5,โล่กลมเล็กอำพัน (Parry),equipment,มือรอง,ขั้น 5,30,—,—,33,55 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t5
+buckler_t6,โล่กลมเล็กมิธริล (Parry),equipment,มือรอง,ขั้น 6,40,—,—,42,61 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t6
+buckler_t7,โล่กลมเล็กเหมันต์ (Parry),equipment,มือรอง,ขั้น 7,50,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t7
+buckler_t8,โล่กลมเล็กพายุ (Parry),equipment,มือรอง,ขั้น 8,60,—,—,60,79 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t8
+buckler_t9,โล่กลมเล็กผลึกวิญญาณ (Parry),equipment,มือรอง,ขั้น 9,72,—,—,72,93 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t9
+buckler_t10,โล่กลมเล็กผู้คุมหุบเขา (Parry),equipment,มือรอง,ขั้น 10,85,—,—,84,101 G,detail_page,https://wiki.bindertowngame.com/item/buckler_t10
+kite_shield_t1,โล่ว่าวฝึกหัด (Charge),equipment,มือรอง,ขั้น 1,1,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t1
+kite_shield_t2,โล่ว่าวทองแดง (Charge),equipment,มือรอง,ขั้น 2,8,—,—,21,35 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t2
+kite_shield_t3,โล่ว่าวเหล็ก (Charge),equipment,มือรอง,ขั้น 3,15,—,—,33,49 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t3
+kite_shield_t4,โล่ว่าวเหล็กกล้า (Charge),equipment,มือรอง,ขั้น 4,22,—,—,42,55 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t4
+kite_shield_t5,โล่ว่าวอำพัน (Charge),equipment,มือรอง,ขั้น 5,30,—,—,54,69 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t5
+kite_shield_t6,โล่ว่าวมิธริล (Charge),equipment,มือรอง,ขั้น 6,40,—,—,69,79 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t6
+kite_shield_t7,โล่ว่าวเหมันต์ (Charge),equipment,มือรอง,ขั้น 7,50,—,—,84,95 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t7
+kite_shield_t8,โล่ว่าวพายุ (Charge),equipment,มือรอง,ขั้น 8,60,—,—,99,105 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t8
+kite_shield_t9,โล่ว่าวผลึกวิญญาณ (Charge),equipment,มือรอง,ขั้น 9,72,—,—,117,123 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t9
+kite_shield_t10,โล่ว่าวผู้คุมหุบเขา (Charge),equipment,มือรอง,ขั้น 10,85,—,—,138,137 G,detail_page,https://wiki.bindertowngame.com/item/kite_shield_t10
+war_banner_t1,ธงศึกฝึกหัด (Rally),equipment,มือรอง,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t1
+war_banner_t2,ธงศึกทองแดง (Rally),equipment,มือรอง,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t2
+war_banner_t3,ธงศึกเหล็ก (Rally),equipment,มือรอง,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t3
+war_banner_t4,ธงศึกเหล็กกล้า (Rally),equipment,มือรอง,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t4
+war_banner_t5,ธงศึกอำพัน (Rally),equipment,มือรอง,ขั้น 5,30,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t5
+war_banner_t6,ธงศึกมิธริล (Rally),equipment,มือรอง,ขั้น 6,40,—,—,21,47 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t6
+war_banner_t7,ธงศึกเหมันต์ (Rally),equipment,มือรอง,ขั้น 7,50,—,—,27,57 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t7
+war_banner_t8,ธงศึกพายุ (Rally),equipment,มือรอง,ขั้น 8,60,—,—,30,59 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t8
+war_banner_t9,ธงศึกผลึกวิญญาณ (Rally),equipment,มือรอง,ขั้น 9,72,—,—,36,69 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t9
+war_banner_t10,ธงศึกผู้คุมหุบเขา (Rally),equipment,มือรอง,ขั้น 10,85,—,—,42,73 G,detail_page,https://wiki.bindertowngame.com/item/war_banner_t10
+poison_vial_t1,ขวดพิษฝึกหัด (Toxin),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t1
+poison_vial_t2,ขวดพิษทองแดง (Toxin),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t2
+poison_vial_t3,ขวดพิษเหล็ก (Toxin),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t3
+poison_vial_t4,ขวดพิษเหล็กกล้า (Toxin),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t4
+poison_vial_t5,ขวดพิษอำพัน (Toxin),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t5
+poison_vial_t6,ขวดพิษมิธริล (Toxin),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t6
+poison_vial_t7,ขวดพิษเหมันต์ (Toxin),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t7
+poison_vial_t8,ขวดพิษพายุ (Toxin),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t8
+poison_vial_t9,ขวดพิษผลึกวิญญาณ (Toxin),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t9
+poison_vial_t10,ขวดพิษผู้คุมหุบเขา (Toxin),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/poison_vial_t10
+parrying_dagger_t1,มีดปัดฝึกหัด (Counter),equipment,มือรอง,ขั้น 1,1,6,—,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t1
+parrying_dagger_t2,มีดปัดทองแดง (Counter),equipment,มือรอง,ขั้น 2,8,15,—,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t2
+parrying_dagger_t3,มีดปัดเหล็ก (Counter),equipment,มือรอง,ขั้น 3,15,21,—,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t3
+parrying_dagger_t4,มีดปัดเหล็กกล้า (Counter),equipment,มือรอง,ขั้น 4,22,30,—,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t4
+parrying_dagger_t5,มีดปัดอำพัน (Counter),equipment,มือรอง,ขั้น 5,30,39,—,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t5
+parrying_dagger_t6,มีดปัดมิธริล (Counter),equipment,มือรอง,ขั้น 6,40,48,—,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t6
+parrying_dagger_t7,มีดปัดเหมันต์ (Counter),equipment,มือรอง,ขั้น 7,50,60,—,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t7
+parrying_dagger_t8,มีดปัดพายุ (Counter),equipment,มือรอง,ขั้น 8,60,69,—,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t8
+parrying_dagger_t9,มีดปัดผลึกวิญญาณ (Counter),equipment,มือรอง,ขั้น 9,72,81,—,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t9
+parrying_dagger_t10,มีดปัดผู้คุมหุบเขา (Counter),equipment,มือรอง,ขั้น 10,85,96,—,—,109 G,detail_page,https://wiki.bindertowngame.com/item/parrying_dagger_t10
+prism_t1,ปริซึมฝึกหัด (Split),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t1
+prism_t2,ปริซึมทองแดง (Split),equipment,มือรอง,ขั้น 2,8,—,18,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t2
+prism_t3,ปริซึมเหล็ก (Split),equipment,มือรอง,ขั้น 3,15,—,27,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t3
+prism_t4,ปริซึมเหล็กกล้า (Split),equipment,มือรอง,ขั้น 4,22,—,36,—,51 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t4
+prism_t5,ปริซึมอำพัน (Split),equipment,มือรอง,ขั้น 5,30,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t5
+prism_t6,ปริซึมมิธริล (Split),equipment,มือรอง,ขั้น 6,40,—,60,—,73 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t6
+prism_t7,ปริซึมเหมันต์ (Split),equipment,มือรอง,ขั้น 7,50,—,75,—,89 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t7
+prism_t8,ปริซึมพายุ (Split),equipment,มือรอง,ขั้น 8,60,—,87,—,97 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t8
+prism_t9,ปริซึมผลึกวิญญาณ (Split),equipment,มือรอง,ขั้น 9,72,—,102,—,113 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t9
+prism_t10,ปริซึมผู้คุมหุบเขา (Split),equipment,มือรอง,ขั้น 10,85,—,120,—,125 G,detail_page,https://wiki.bindertowngame.com/item/prism_t10
+familiar_t1,ภูตรับใช้ฝึกหัด (Ember),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t1
+familiar_t2,ภูตรับใช้ทองแดง (Ember),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t2
+familiar_t3,ภูตรับใช้เหล็ก (Ember),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t3
+familiar_t4,ภูตรับใช้เหล็กกล้า (Ember),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t4
+familiar_t5,ภูตรับใช้อำพัน (Ember),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t5
+familiar_t6,ภูตรับใช้มิธริล (Ember),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t6
+familiar_t7,ภูตรับใช้เหมันต์ (Ember),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t7
+familiar_t8,ภูตรับใช้พายุ (Ember),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t8
+familiar_t9,ภูตรับใช้ผลึกวิญญาณ (Ember),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t9
+familiar_t10,ภูตรับใช้ผู้คุมหุบเขา (Ember),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/familiar_t10
+censer_t1,กระถางกำยานฝึกหัด (Mending),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t1
+censer_t2,กระถางกำยานทองแดง (Mending),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t2
+censer_t3,กระถางกำยานเหล็ก (Mending),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t3
+censer_t4,กระถางกำยานเหล็กกล้า (Mending),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t4
+censer_t5,กระถางกำยานอำพัน (Mending),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t5
+censer_t6,กระถางกำยานมิธริล (Mending),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t6
+censer_t7,กระถางกำยานเหมันต์ (Mending),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t7
+censer_t8,กระถางกำยานพายุ (Mending),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t8
+censer_t9,กระถางกำยานผลึกวิญญาณ (Mending),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t9
+censer_t10,กระถางกำยานผู้คุมหุบเขา (Mending),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/censer_t10
+bell_t1,ระฆังฝึกหัด (Clear),equipment,มือรอง,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t1
+bell_t2,ระฆังทองแดง (Clear),equipment,มือรอง,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t2
+bell_t3,ระฆังเหล็ก (Clear),equipment,มือรอง,ขั้น 3,15,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t3
+bell_t4,ระฆังเหล็กกล้า (Clear),equipment,มือรอง,ขั้น 4,22,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t4
+bell_t5,ระฆังอำพัน (Clear),equipment,มือรอง,ขั้น 5,30,—,—,21,47 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t5
+bell_t6,ระฆังมิธริล (Clear),equipment,มือรอง,ขั้น 6,40,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t6
+bell_t7,ระฆังเหมันต์ (Clear),equipment,มือรอง,ขั้น 7,50,—,—,33,61 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t7
+bell_t8,ระฆังพายุ (Clear),equipment,มือรอง,ขั้น 8,60,—,—,39,65 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t8
+bell_t9,ระฆังผลึกวิญญาณ (Clear),equipment,มือรอง,ขั้น 9,72,—,—,45,75 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t9
+bell_t10,ระฆังผู้คุมหุบเขา (Clear),equipment,มือรอง,ขั้น 10,85,—,—,54,81 G,detail_page,https://wiki.bindertowngame.com/item/bell_t10
+lantern_t1,ตะเกียงวิญญาณฝึกหัด (Vessel),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t1
+lantern_t2,ตะเกียงวิญญาณทองแดง (Vessel),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t2
+lantern_t3,ตะเกียงวิญญาณเหล็ก (Vessel),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t3
+lantern_t4,ตะเกียงวิญญาณเหล็กกล้า (Vessel),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t4
+lantern_t5,ตะเกียงวิญญาณอำพัน (Vessel),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t5
+lantern_t6,ตะเกียงวิญญาณมิธริล (Vessel),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t6
+lantern_t7,ตะเกียงวิญญาณเหมันต์ (Vessel),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t7
+lantern_t8,ตะเกียงวิญญาณพายุ (Vessel),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t8
+lantern_t9,ตะเกียงวิญญาณผลึกวิญญาณ (Vessel),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t9
+lantern_t10,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/lantern_t10
+chain_t1,โซ่ฝึกหัด (Bind),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t1
+chain_t2,โซ่ทองแดง (Bind),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t2
+chain_t3,โซ่เหล็ก (Bind),equipment,มือรอง,ขั้น 3,15,—,21,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t3
+chain_t4,โซ่เหล็กกล้า (Bind),equipment,มือรอง,ขั้น 4,22,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t4
+chain_t5,โซ่อำพัน (Bind),equipment,มือรอง,ขั้น 5,30,—,39,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t5
+chain_t6,โซ่มิธริล (Bind),equipment,มือรอง,ขั้น 6,40,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t6
+chain_t7,โซ่เหมันต์ (Bind),equipment,มือรอง,ขั้น 7,50,—,60,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t7
+chain_t8,โซ่พายุ (Bind),equipment,มือรอง,ขั้น 8,60,—,69,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t8
+chain_t9,โซ่ผลึกวิญญาณ (Bind),equipment,มือรอง,ขั้น 9,72,—,81,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t9
+chain_t10,โซ่ผู้คุมหุบเขา (Bind),equipment,มือรอง,ขั้น 10,85,—,96,—,109 G,detail_page,https://wiki.bindertowngame.com/item/chain_t10
+skull_t1,กะโหลกฝึกหัด (Grinning),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t1
+skull_t2,กะโหลกทองแดง (Grinning),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t2
+skull_t3,กะโหลกเหล็ก (Grinning),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t3
+skull_t4,กะโหลกเหล็กกล้า (Grinning),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t4
+skull_t5,กะโหลกอำพัน (Grinning),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t5
+skull_t6,กะโหลกมิธริล (Grinning),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t6
+skull_t7,กะโหลกเหมันต์ (Grinning),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t7
+skull_t8,กะโหลกพายุ (Grinning),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t8
+skull_t9,กะโหลกผลึกวิญญาณ (Grinning),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t9
+skull_t10,กะโหลกผู้คุมหุบเขา (Grinning),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/skull_t10
+bandolier_t1,สายคาดมีดฝึกหัด (Barbed),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t1
+bandolier_t2,สายคาดมีดทองแดง (Barbed),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t2
+bandolier_t3,สายคาดมีดเหล็ก (Barbed),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t3
+bandolier_t4,สายคาดมีดเหล็กกล้า (Barbed),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t4
+bandolier_t5,สายคาดมีดอำพัน (Barbed),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t5
+bandolier_t6,สายคาดมีดมิธริล (Barbed),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t6
+bandolier_t7,สายคาดมีดเหมันต์ (Barbed),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t7
+bandolier_t8,สายคาดมีดพายุ (Barbed),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t8
+bandolier_t9,สายคาดมีดผลึกวิญญาณ (Barbed),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t9
+bandolier_t10,สายคาดมีดผู้คุมหุบเขา (Barbed),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/bandolier_t10
+belt_t1_agi,เข็มขัดฝึกหัด (AGI),equipment,เข็มขัด,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t1_agi
+belt_t1_vit,เข็มขัดฝึกหัด (VIT),equipment,เข็มขัด,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t1_vit
+belt_t1_int,เข็มขัดฝึกหัด (INT),equipment,เข็มขัด,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t1_int
+belt_t1_dex,เข็มขัดฝึกหัด (DEX),equipment,เข็มขัด,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t1_dex
+belt_t1_luk,เข็มขัดฝึกหัด (LUK),equipment,เข็มขัด,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t1_luk
+belt_t2_agi,เข็มขัดทองแดง (AGI),equipment,เข็มขัด,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t2_agi
+belt_t2_vit,เข็มขัดทองแดง (VIT),equipment,เข็มขัด,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t2_vit
+belt_t2_int,เข็มขัดทองแดง (INT),equipment,เข็มขัด,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t2_int
+belt_t2_dex,เข็มขัดทองแดง (DEX),equipment,เข็มขัด,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t2_dex
+belt_t2_luk,เข็มขัดทองแดง (LUK),equipment,เข็มขัด,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t2_luk
+belt_t3_agi,เข็มขัดเหล็ก (AGI),equipment,เข็มขัด,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t3_agi
+belt_t3_vit,เข็มขัดเหล็ก (VIT),equipment,เข็มขัด,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t3_vit
+belt_t3_int,เข็มขัดเหล็ก (INT),equipment,เข็มขัด,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t3_int
+belt_t3_dex,เข็มขัดเหล็ก (DEX),equipment,เข็มขัด,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t3_dex
+belt_t3_luk,เข็มขัดเหล็ก (LUK),equipment,เข็มขัด,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t3_luk
+belt_t4_agi,เข็มขัดเหล็กกล้า (AGI),equipment,เข็มขัด,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t4_agi
+belt_t4_vit,เข็มขัดเหล็กกล้า (VIT),equipment,เข็มขัด,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t4_vit
+belt_t4_int,เข็มขัดเหล็กกล้า (INT),equipment,เข็มขัด,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t4_int
+belt_t4_dex,เข็มขัดเหล็กกล้า (DEX),equipment,เข็มขัด,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t4_dex
+belt_t4_luk,เข็มขัดเหล็กกล้า (LUK),equipment,เข็มขัด,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t4_luk
+belt_t5_agi,เข็มขัดอำพัน (AGI),equipment,เข็มขัด,ขั้น 5,30,—,—,15,43 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t5_agi
+belt_t5_vit,เข็มขัดอำพัน (VIT),equipment,เข็มขัด,ขั้น 5,30,—,—,15,43 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t5_vit
+belt_t5_int,เข็มขัดอำพัน (INT),equipment,เข็มขัด,ขั้น 5,30,—,—,15,43 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t5_int
+belt_t5_dex,เข็มขัดอำพัน (DEX),equipment,เข็มขัด,ขั้น 5,30,—,—,15,43 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t5_dex
+belt_t5_luk,เข็มขัดอำพัน (LUK),equipment,เข็มขัด,ขั้น 5,30,—,—,15,43 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t5_luk
+belt_t6_agi,เข็มขัดมิธริล (AGI),equipment,เข็มขัด,ขั้น 6,40,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t6_agi
+belt_t6_vit,เข็มขัดมิธริล (VIT),equipment,เข็มขัด,ขั้น 6,40,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t6_vit
+belt_t6_int,เข็มขัดมิธริล (INT),equipment,เข็มขัด,ขั้น 6,40,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t6_int
+belt_t6_dex,เข็มขัดมิธริล (DEX),equipment,เข็มขัด,ขั้น 6,40,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t6_dex
+belt_t6_luk,เข็มขัดมิธริล (LUK),equipment,เข็มขัด,ขั้น 6,40,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t6_luk
+belt_t7_agi,เข็มขัดเหมันต์ (AGI),equipment,เข็มขัด,ขั้น 7,50,—,—,21,53 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t7_agi
+belt_t7_vit,เข็มขัดเหมันต์ (VIT),equipment,เข็มขัด,ขั้น 7,50,—,—,21,53 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t7_vit
+belt_t7_int,เข็มขัดเหมันต์ (INT),equipment,เข็มขัด,ขั้น 7,50,—,—,21,53 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t7_int
+belt_t7_dex,เข็มขัดเหมันต์ (DEX),equipment,เข็มขัด,ขั้น 7,50,—,—,21,53 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t7_dex
+belt_t7_luk,เข็มขัดเหมันต์ (LUK),equipment,เข็มขัด,ขั้น 7,50,—,—,21,53 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t7_luk
+belt_t8_agi,เข็มขัดพายุ (AGI),equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t8_agi
+belt_t8_vit,เข็มขัดพายุ (VIT),equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t8_vit
+belt_t8_int,เข็มขัดพายุ (INT),equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t8_int
+belt_t8_dex,เข็มขัดพายุ (DEX),equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t8_dex
+belt_t8_luk,เข็มขัดพายุ (LUK),equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t8_luk
+belt_t9_agi,เข็มขัดผลึกวิญญาณ (AGI),equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t9_agi
+belt_t9_vit,เข็มขัดผลึกวิญญาณ (VIT),equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t9_vit
+belt_t9_int,เข็มขัดผลึกวิญญาณ (INT),equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t9_int
+belt_t9_dex,เข็มขัดผลึกวิญญาณ (DEX),equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t9_dex
+belt_t9_luk,เข็มขัดผลึกวิญญาณ (LUK),equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/belt_t9_luk
+belt_t10_agi,เข็มขัดผู้คุมหุบเขา (AGI),equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/belt_t10_agi
+belt_t10_vit,เข็มขัดผู้คุมหุบเขา (VIT),equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/belt_t10_vit
+belt_t10_int,เข็มขัดผู้คุมหุบเขา (INT),equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/belt_t10_int
+belt_t10_dex,เข็มขัดผู้คุมหุบเขา (DEX),equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/belt_t10_dex
+belt_t10_luk,เข็มขัดผู้คุมหุบเขา (LUK),equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/belt_t10_luk
+quiver_t1_broadhead,ซองธนูฝึกหัด (Broadhead),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t1_broadhead
+quiver_t1_whistling,ซองธนูฝึกหัด (Whistling),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t1_whistling
+quiver_t2_broadhead,ซองธนูทองแดง (Broadhead),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t2_broadhead
+quiver_t2_whistling,ซองธนูทองแดง (Whistling),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t2_whistling
+quiver_t3_broadhead,ซองธนูเหล็ก (Broadhead),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t3_broadhead
+quiver_t3_whistling,ซองธนูเหล็ก (Whistling),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t3_whistling
+quiver_t4_broadhead,ซองธนูเหล็กกล้า (Broadhead),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t4_broadhead
+quiver_t4_whistling,ซองธนูเหล็กกล้า (Whistling),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t4_whistling
+quiver_t5_broadhead,ซองธนูอำพัน (Broadhead),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t5_broadhead
+quiver_t5_whistling,ซองธนูอำพัน (Whistling),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t5_whistling
+quiver_t6_broadhead,ซองธนูมิธริล (Broadhead),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t6_broadhead
+quiver_t6_whistling,ซองธนูมิธริล (Whistling),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t6_whistling
+quiver_t7_broadhead,ซองธนูเหมันต์ (Broadhead),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t7_broadhead
+quiver_t7_whistling,ซองธนูเหมันต์ (Whistling),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t7_whistling
+quiver_t8_broadhead,ซองธนูพายุ (Broadhead),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t8_broadhead
+quiver_t8_whistling,ซองธนูพายุ (Whistling),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t8_whistling
+quiver_t9_broadhead,ซองธนูผลึกวิญญาณ (Broadhead),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t9_broadhead
+quiver_t9_whistling,ซองธนูผลึกวิญญาณ (Whistling),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/quiver_t9_whistling
+quiver_t10_broadhead,ซองธนูผู้คุมหุบเขา (Broadhead),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/quiver_t10_broadhead
+quiver_t10_whistling,ซองธนูผู้คุมหุบเขา (Whistling),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/quiver_t10_whistling
+stone_pouch_t1_gravel,ถุงหินฝึกหัด (Gravel),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t1_gravel
+stone_pouch_t1_fire,ถุงหินฝึกหัด (Fire),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t1_fire
+stone_pouch_t2_gravel,ถุงหินทองแดง (Gravel),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t2_gravel
+stone_pouch_t2_fire,ถุงหินทองแดง (Fire),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t2_fire
+stone_pouch_t3_gravel,ถุงหินเหล็ก (Gravel),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t3_gravel
+stone_pouch_t3_fire,ถุงหินเหล็ก (Fire),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t3_fire
+stone_pouch_t4_gravel,ถุงหินเหล็กกล้า (Gravel),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t4_gravel
+stone_pouch_t4_fire,ถุงหินเหล็กกล้า (Fire),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t4_fire
+stone_pouch_t5_gravel,ถุงหินอำพัน (Gravel),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t5_gravel
+stone_pouch_t5_fire,ถุงหินอำพัน (Fire),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t5_fire
+stone_pouch_t6_gravel,ถุงหินมิธริล (Gravel),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t6_gravel
+stone_pouch_t6_fire,ถุงหินมิธริล (Fire),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t6_fire
+stone_pouch_t7_gravel,ถุงหินเหมันต์ (Gravel),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t7_gravel
+stone_pouch_t7_fire,ถุงหินเหมันต์ (Fire),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t7_fire
+stone_pouch_t8_gravel,ถุงหินพายุ (Gravel),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t8_gravel
+stone_pouch_t8_fire,ถุงหินพายุ (Fire),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t8_fire
+stone_pouch_t9_gravel,ถุงหินผลึกวิญญาณ (Gravel),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t9_gravel
+stone_pouch_t9_fire,ถุงหินผลึกวิญญาณ (Fire),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/stone_pouch_t9_fire
+stone_pouch_t10_gravel,ถุงหินผู้คุมหุบเขา (Gravel),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/stone_pouch_t10_gravel
+stone_pouch_t10_fire,ถุงหินผู้คุมหุบเขา (Fire),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/stone_pouch_t10_fire
+tower_shield_t1_rampart,โล่หอคอยฝึกหัด (Rampart),equipment,มือรอง,ขั้น 1,1,—,—,15,31 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t1_rampart
+tower_shield_t1_aegis,โล่หอคอยฝึกหัด (Aegis),equipment,มือรอง,ขั้น 1,1,—,—,15,31 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t1_aegis
+tower_shield_t2_rampart,โล่หอคอยทองแดง (Rampart),equipment,มือรอง,ขั้น 2,8,—,—,30,41 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t2_rampart
+tower_shield_t2_aegis,โล่หอคอยทองแดง (Aegis),equipment,มือรอง,ขั้น 2,8,—,—,30,41 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t2_aegis
+tower_shield_t3_rampart,โล่หอคอยเหล็ก (Rampart),equipment,มือรอง,ขั้น 3,15,—,—,45,57 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t3_rampart
+tower_shield_t3_aegis,โล่หอคอยเหล็ก (Aegis),equipment,มือรอง,ขั้น 3,15,—,—,45,57 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t3_aegis
+tower_shield_t4_rampart,โล่หอคอยเหล็กกล้า (Rampart),equipment,มือรอง,ขั้น 4,22,—,—,57,65 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t4_rampart
+tower_shield_t4_aegis,โล่หอคอยเหล็กกล้า (Aegis),equipment,มือรอง,ขั้น 4,22,—,—,57,65 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t4_aegis
+tower_shield_t5_rampart,โล่หอคอยอำพัน (Rampart),equipment,มือรอง,ขั้น 5,30,—,—,75,83 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t5_rampart
+tower_shield_t5_aegis,โล่หอคอยอำพัน (Aegis),equipment,มือรอง,ขั้น 5,30,—,—,75,83 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t5_aegis
+tower_shield_t6_rampart,โล่หอคอยมิธริล (Rampart),equipment,มือรอง,ขั้น 6,40,—,—,96,97 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t6_rampart
+tower_shield_t6_aegis,โล่หอคอยมิธริล (Aegis),equipment,มือรอง,ขั้น 6,40,—,—,96,97 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t6_aegis
+tower_shield_t7_rampart,โล่หอคอยเหมันต์ (Rampart),equipment,มือรอง,ขั้น 7,50,—,—,117,117 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t7_rampart
+tower_shield_t7_aegis,โล่หอคอยเหมันต์ (Aegis),equipment,มือรอง,ขั้น 7,50,—,—,117,117 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t7_aegis
+tower_shield_t8_rampart,โล่หอคอยพายุ (Rampart),equipment,มือรอง,ขั้น 8,60,—,—,138,131 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t8_rampart
+tower_shield_t8_aegis,โล่หอคอยพายุ (Aegis),equipment,มือรอง,ขั้น 8,60,—,—,138,131 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t8_aegis
+tower_shield_t9_rampart,โล่หอคอยผลึกวิญญาณ (Rampart),equipment,มือรอง,ขั้น 9,72,—,—,162,153 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t9_rampart
+tower_shield_t9_aegis,โล่หอคอยผลึกวิญญาณ (Aegis),equipment,มือรอง,ขั้น 9,72,—,—,162,153 G,listing_table_only,https://wiki.bindertowngame.com/item/tower_shield_t9_aegis
+tower_shield_t10_rampart,โล่หอคอยผู้คุมหุบเขา (Rampart),equipment,มือรอง,ขั้น 10,85,—,—,189,171 G,detail_page,https://wiki.bindertowngame.com/item/tower_shield_t10_rampart
+tower_shield_t10_aegis,โล่หอคอยผู้คุมหุบเขา (Aegis),equipment,มือรอง,ขั้น 10,85,—,—,189,171 G,detail_page,https://wiki.bindertowngame.com/item/tower_shield_t10_aegis
+buckler_t1_deflect,โล่กลมเล็กฝึกหัด (Deflect),equipment,มือรอง,ขั้น 1,1,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t1_deflect
+buckler_t1_bash,โล่กลมเล็กฝึกหัด (Bash),equipment,มือรอง,ขั้น 1,1,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t1_bash
+buckler_t2_deflect,โล่กลมเล็กทองแดง (Deflect),equipment,มือรอง,ขั้น 2,8,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t2_deflect
+buckler_t2_bash,โล่กลมเล็กทองแดง (Bash),equipment,มือรอง,ขั้น 2,8,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t2_bash
+buckler_t3_deflect,โล่กลมเล็กเหล็ก (Deflect),equipment,มือรอง,ขั้น 3,15,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t3_deflect
+buckler_t3_bash,โล่กลมเล็กเหล็ก (Bash),equipment,มือรอง,ขั้น 3,15,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t3_bash
+buckler_t4_deflect,โล่กลมเล็กเหล็กกล้า (Deflect),equipment,มือรอง,ขั้น 4,22,—,—,27,45 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t4_deflect
+buckler_t4_bash,โล่กลมเล็กเหล็กกล้า (Bash),equipment,มือรอง,ขั้น 4,22,—,—,27,45 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t4_bash
+buckler_t5_deflect,โล่กลมเล็กอำพัน (Deflect),equipment,มือรอง,ขั้น 5,30,—,—,33,55 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t5_deflect
+buckler_t5_bash,โล่กลมเล็กอำพัน (Bash),equipment,มือรอง,ขั้น 5,30,—,—,33,55 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t5_bash
+buckler_t6_deflect,โล่กลมเล็กมิธริล (Deflect),equipment,มือรอง,ขั้น 6,40,—,—,42,61 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t6_deflect
+buckler_t6_bash,โล่กลมเล็กมิธริล (Bash),equipment,มือรอง,ขั้น 6,40,—,—,42,61 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t6_bash
+buckler_t7_deflect,โล่กลมเล็กเหมันต์ (Deflect),equipment,มือรอง,ขั้น 7,50,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t7_deflect
+buckler_t7_bash,โล่กลมเล็กเหมันต์ (Bash),equipment,มือรอง,ขั้น 7,50,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t7_bash
+buckler_t8_deflect,โล่กลมเล็กพายุ (Deflect),equipment,มือรอง,ขั้น 8,60,—,—,60,79 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t8_deflect
+buckler_t8_bash,โล่กลมเล็กพายุ (Bash),equipment,มือรอง,ขั้น 8,60,—,—,60,79 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t8_bash
+buckler_t9_deflect,โล่กลมเล็กผลึกวิญญาณ (Deflect),equipment,มือรอง,ขั้น 9,72,—,—,72,93 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t9_deflect
+buckler_t9_bash,โล่กลมเล็กผลึกวิญญาณ (Bash),equipment,มือรอง,ขั้น 9,72,—,—,72,93 G,listing_table_only,https://wiki.bindertowngame.com/item/buckler_t9_bash
+buckler_t10_deflect,โล่กลมเล็กผู้คุมหุบเขา (Deflect),equipment,มือรอง,ขั้น 10,85,—,—,84,101 G,detail_page,https://wiki.bindertowngame.com/item/buckler_t10_deflect
+buckler_t10_bash,โล่กลมเล็กผู้คุมหุบเขา (Bash),equipment,มือรอง,ขั้น 10,85,—,—,84,101 G,detail_page,https://wiki.bindertowngame.com/item/buckler_t10_bash
+kite_shield_t1_pennant,โล่ว่าวฝึกหัด (Pennant),equipment,มือรอง,ขั้น 1,1,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t1_pennant
+kite_shield_t1_oath,โล่ว่าวฝึกหัด (Oath),equipment,มือรอง,ขั้น 1,1,—,—,12,29 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t1_oath
+kite_shield_t2_pennant,โล่ว่าวทองแดง (Pennant),equipment,มือรอง,ขั้น 2,8,—,—,21,35 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t2_pennant
+kite_shield_t2_oath,โล่ว่าวทองแดง (Oath),equipment,มือรอง,ขั้น 2,8,—,—,21,35 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t2_oath
+kite_shield_t3_pennant,โล่ว่าวเหล็ก (Pennant),equipment,มือรอง,ขั้น 3,15,—,—,33,49 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t3_pennant
+kite_shield_t3_oath,โล่ว่าวเหล็ก (Oath),equipment,มือรอง,ขั้น 3,15,—,—,33,49 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t3_oath
+kite_shield_t4_pennant,โล่ว่าวเหล็กกล้า (Pennant),equipment,มือรอง,ขั้น 4,22,—,—,42,55 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t4_pennant
+kite_shield_t4_oath,โล่ว่าวเหล็กกล้า (Oath),equipment,มือรอง,ขั้น 4,22,—,—,42,55 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t4_oath
+kite_shield_t5_pennant,โล่ว่าวอำพัน (Pennant),equipment,มือรอง,ขั้น 5,30,—,—,54,69 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t5_pennant
+kite_shield_t5_oath,โล่ว่าวอำพัน (Oath),equipment,มือรอง,ขั้น 5,30,—,—,54,69 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t5_oath
+kite_shield_t6_pennant,โล่ว่าวมิธริล (Pennant),equipment,มือรอง,ขั้น 6,40,—,—,69,79 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t6_pennant
+kite_shield_t6_oath,โล่ว่าวมิธริล (Oath),equipment,มือรอง,ขั้น 6,40,—,—,69,79 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t6_oath
+kite_shield_t7_pennant,โล่ว่าวเหมันต์ (Pennant),equipment,มือรอง,ขั้น 7,50,—,—,84,95 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t7_pennant
+kite_shield_t7_oath,โล่ว่าวเหมันต์ (Oath),equipment,มือรอง,ขั้น 7,50,—,—,84,95 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t7_oath
+kite_shield_t8_pennant,โล่ว่าวพายุ (Pennant),equipment,มือรอง,ขั้น 8,60,—,—,99,105 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t8_pennant
+kite_shield_t8_oath,โล่ว่าวพายุ (Oath),equipment,มือรอง,ขั้น 8,60,—,—,99,105 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t8_oath
+kite_shield_t9_pennant,โล่ว่าวผลึกวิญญาณ (Pennant),equipment,มือรอง,ขั้น 9,72,—,—,117,123 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t9_pennant
+kite_shield_t9_oath,โล่ว่าวผลึกวิญญาณ (Oath),equipment,มือรอง,ขั้น 9,72,—,—,117,123 G,listing_table_only,https://wiki.bindertowngame.com/item/kite_shield_t9_oath
+kite_shield_t10_pennant,โล่ว่าวผู้คุมหุบเขา (Pennant),equipment,มือรอง,ขั้น 10,85,—,—,138,137 G,detail_page,https://wiki.bindertowngame.com/item/kite_shield_t10_pennant
+kite_shield_t10_oath,โล่ว่าวผู้คุมหุบเขา (Oath),equipment,มือรอง,ขั้น 10,85,—,—,138,137 G,detail_page,https://wiki.bindertowngame.com/item/kite_shield_t10_oath
+war_banner_t1_taunt,ธงศึกฝึกหัด (Taunt),equipment,มือรอง,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t1_taunt
+war_banner_t1_march,ธงศึกฝึกหัด (March),equipment,มือรอง,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t1_march
+war_banner_t2_taunt,ธงศึกทองแดง (Taunt),equipment,มือรอง,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t2_taunt
+war_banner_t2_march,ธงศึกทองแดง (March),equipment,มือรอง,ขั้น 2,8,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t2_march
+war_banner_t3_taunt,ธงศึกเหล็ก (Taunt),equipment,มือรอง,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t3_taunt
+war_banner_t3_march,ธงศึกเหล็ก (March),equipment,มือรอง,ขั้น 3,15,—,—,9,33 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t3_march
+war_banner_t4_taunt,ธงศึกเหล็กกล้า (Taunt),equipment,มือรอง,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t4_taunt
+war_banner_t4_march,ธงศึกเหล็กกล้า (March),equipment,มือรอง,ขั้น 4,22,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t4_march
+war_banner_t5_taunt,ธงศึกอำพัน (Taunt),equipment,มือรอง,ขั้น 5,30,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t5_taunt
+war_banner_t5_march,ธงศึกอำพัน (March),equipment,มือรอง,ขั้น 5,30,—,—,18,45 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t5_march
+war_banner_t6_taunt,ธงศึกมิธริล (Taunt),equipment,มือรอง,ขั้น 6,40,—,—,21,47 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t6_taunt
+war_banner_t6_march,ธงศึกมิธริล (March),equipment,มือรอง,ขั้น 6,40,—,—,21,47 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t6_march
+war_banner_t7_taunt,ธงศึกเหมันต์ (Taunt),equipment,มือรอง,ขั้น 7,50,—,—,27,57 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t7_taunt
+war_banner_t7_march,ธงศึกเหมันต์ (March),equipment,มือรอง,ขั้น 7,50,—,—,27,57 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t7_march
+war_banner_t8_taunt,ธงศึกพายุ (Taunt),equipment,มือรอง,ขั้น 8,60,—,—,30,59 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t8_taunt
+war_banner_t8_march,ธงศึกพายุ (March),equipment,มือรอง,ขั้น 8,60,—,—,30,59 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t8_march
+war_banner_t9_taunt,ธงศึกผลึกวิญญาณ (Taunt),equipment,มือรอง,ขั้น 9,72,—,—,36,69 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t9_taunt
+war_banner_t9_march,ธงศึกผลึกวิญญาณ (March),equipment,มือรอง,ขั้น 9,72,—,—,36,69 G,listing_table_only,https://wiki.bindertowngame.com/item/war_banner_t9_march
+war_banner_t10_taunt,ธงศึกผู้คุมหุบเขา (Taunt),equipment,มือรอง,ขั้น 10,85,—,—,42,73 G,detail_page,https://wiki.bindertowngame.com/item/war_banner_t10_taunt
+war_banner_t10_march,ธงศึกผู้คุมหุบเขา (March),equipment,มือรอง,ขั้น 10,85,—,—,42,73 G,detail_page,https://wiki.bindertowngame.com/item/war_banner_t10_march
+poison_vial_t1_numbing,ขวดพิษฝึกหัด (Numbing),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t1_numbing
+poison_vial_t1_confusion,ขวดพิษฝึกหัด (Confusion),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t1_confusion
+poison_vial_t2_numbing,ขวดพิษทองแดง (Numbing),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t2_numbing
+poison_vial_t2_confusion,ขวดพิษทองแดง (Confusion),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t2_confusion
+poison_vial_t3_numbing,ขวดพิษเหล็ก (Numbing),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t3_numbing
+poison_vial_t3_confusion,ขวดพิษเหล็ก (Confusion),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t3_confusion
+poison_vial_t4_numbing,ขวดพิษเหล็กกล้า (Numbing),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t4_numbing
+poison_vial_t4_confusion,ขวดพิษเหล็กกล้า (Confusion),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t4_confusion
+poison_vial_t5_numbing,ขวดพิษอำพัน (Numbing),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t5_numbing
+poison_vial_t5_confusion,ขวดพิษอำพัน (Confusion),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t5_confusion
+poison_vial_t6_numbing,ขวดพิษมิธริล (Numbing),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t6_numbing
+poison_vial_t6_confusion,ขวดพิษมิธริล (Confusion),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t6_confusion
+poison_vial_t7_numbing,ขวดพิษเหมันต์ (Numbing),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t7_numbing
+poison_vial_t7_confusion,ขวดพิษเหมันต์ (Confusion),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t7_confusion
+poison_vial_t8_numbing,ขวดพิษพายุ (Numbing),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t8_numbing
+poison_vial_t8_confusion,ขวดพิษพายุ (Confusion),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t8_confusion
+poison_vial_t9_numbing,ขวดพิษผลึกวิญญาณ (Numbing),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t9_numbing
+poison_vial_t9_confusion,ขวดพิษผลึกวิญญาณ (Confusion),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/poison_vial_t9_confusion
+poison_vial_t10_numbing,ขวดพิษผู้คุมหุบเขา (Numbing),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/poison_vial_t10_numbing
+poison_vial_t10_confusion,ขวดพิษผู้คุมหุบเขา (Confusion),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/poison_vial_t10_confusion
+parrying_dagger_t1_slip,มีดปัดฝึกหัด (Slip),equipment,มือรอง,ขั้น 1,1,6,—,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t1_slip
+parrying_dagger_t1_flourish,มีดปัดฝึกหัด (Flourish),equipment,มือรอง,ขั้น 1,1,6,—,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t1_flourish
+parrying_dagger_t2_slip,มีดปัดทองแดง (Slip),equipment,มือรอง,ขั้น 2,8,15,—,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t2_slip
+parrying_dagger_t2_flourish,มีดปัดทองแดง (Flourish),equipment,มือรอง,ขั้น 2,8,15,—,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t2_flourish
+parrying_dagger_t3_slip,มีดปัดเหล็ก (Slip),equipment,มือรอง,ขั้น 3,15,21,—,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t3_slip
+parrying_dagger_t3_flourish,มีดปัดเหล็ก (Flourish),equipment,มือรอง,ขั้น 3,15,21,—,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t3_flourish
+parrying_dagger_t4_slip,มีดปัดเหล็กกล้า (Slip),equipment,มือรอง,ขั้น 4,22,30,—,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t4_slip
+parrying_dagger_t4_flourish,มีดปัดเหล็กกล้า (Flourish),equipment,มือรอง,ขั้น 4,22,30,—,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t4_flourish
+parrying_dagger_t5_slip,มีดปัดอำพัน (Slip),equipment,มือรอง,ขั้น 5,30,39,—,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t5_slip
+parrying_dagger_t5_flourish,มีดปัดอำพัน (Flourish),equipment,มือรอง,ขั้น 5,30,39,—,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t5_flourish
+parrying_dagger_t6_slip,มีดปัดมิธริล (Slip),equipment,มือรอง,ขั้น 6,40,48,—,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t6_slip
+parrying_dagger_t6_flourish,มีดปัดมิธริล (Flourish),equipment,มือรอง,ขั้น 6,40,48,—,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t6_flourish
+parrying_dagger_t7_slip,มีดปัดเหมันต์ (Slip),equipment,มือรอง,ขั้น 7,50,60,—,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t7_slip
+parrying_dagger_t7_flourish,มีดปัดเหมันต์ (Flourish),equipment,มือรอง,ขั้น 7,50,60,—,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t7_flourish
+parrying_dagger_t8_slip,มีดปัดพายุ (Slip),equipment,มือรอง,ขั้น 8,60,69,—,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t8_slip
+parrying_dagger_t8_flourish,มีดปัดพายุ (Flourish),equipment,มือรอง,ขั้น 8,60,69,—,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t8_flourish
+parrying_dagger_t9_slip,มีดปัดผลึกวิญญาณ (Slip),equipment,มือรอง,ขั้น 9,72,81,—,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t9_slip
+parrying_dagger_t9_flourish,มีดปัดผลึกวิญญาณ (Flourish),equipment,มือรอง,ขั้น 9,72,81,—,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/parrying_dagger_t9_flourish
+parrying_dagger_t10_slip,มีดปัดผู้คุมหุบเขา (Slip),equipment,มือรอง,ขั้น 10,85,96,—,—,109 G,detail_page,https://wiki.bindertowngame.com/item/parrying_dagger_t10_slip
+parrying_dagger_t10_flourish,มีดปัดผู้คุมหุบเขา (Flourish),equipment,มือรอง,ขั้น 10,85,96,—,—,109 G,detail_page,https://wiki.bindertowngame.com/item/parrying_dagger_t10_flourish
+prism_t1_refract,ปริซึมฝึกหัด (Refract),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t1_refract
+prism_t1_focus,ปริซึมฝึกหัด (Lens),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t1_focus
+prism_t2_refract,ปริซึมทองแดง (Refract),equipment,มือรอง,ขั้น 2,8,—,18,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t2_refract
+prism_t2_focus,ปริซึมทองแดง (Lens),equipment,มือรอง,ขั้น 2,8,—,18,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t2_focus
+prism_t3_refract,ปริซึมเหล็ก (Refract),equipment,มือรอง,ขั้น 3,15,—,27,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t3_refract
+prism_t3_focus,ปริซึมเหล็ก (Lens),equipment,มือรอง,ขั้น 3,15,—,27,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t3_focus
+prism_t4_refract,ปริซึมเหล็กกล้า (Refract),equipment,มือรอง,ขั้น 4,22,—,36,—,51 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t4_refract
+prism_t4_focus,ปริซึมเหล็กกล้า (Lens),equipment,มือรอง,ขั้น 4,22,—,36,—,51 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t4_focus
+prism_t5_refract,ปริซึมอำพัน (Refract),equipment,มือรอง,ขั้น 5,30,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t5_refract
+prism_t5_focus,ปริซึมอำพัน (Lens),equipment,มือรอง,ขั้น 5,30,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t5_focus
+prism_t6_refract,ปริซึมมิธริล (Refract),equipment,มือรอง,ขั้น 6,40,—,60,—,73 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t6_refract
+prism_t6_focus,ปริซึมมิธริล (Lens),equipment,มือรอง,ขั้น 6,40,—,60,—,73 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t6_focus
+prism_t7_refract,ปริซึมเหมันต์ (Refract),equipment,มือรอง,ขั้น 7,50,—,75,—,89 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t7_refract
+prism_t7_focus,ปริซึมเหมันต์ (Lens),equipment,มือรอง,ขั้น 7,50,—,75,—,89 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t7_focus
+prism_t8_refract,ปริซึมพายุ (Refract),equipment,มือรอง,ขั้น 8,60,—,87,—,97 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t8_refract
+prism_t8_focus,ปริซึมพายุ (Lens),equipment,มือรอง,ขั้น 8,60,—,87,—,97 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t8_focus
+prism_t9_refract,ปริซึมผลึกวิญญาณ (Refract),equipment,มือรอง,ขั้น 9,72,—,102,—,113 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t9_refract
+prism_t9_focus,ปริซึมผลึกวิญญาณ (Lens),equipment,มือรอง,ขั้น 9,72,—,102,—,113 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_t9_focus
+prism_t10_refract,ปริซึมผู้คุมหุบเขา (Refract),equipment,มือรอง,ขั้น 10,85,—,120,—,125 G,detail_page,https://wiki.bindertowngame.com/item/prism_t10_refract
+prism_t10_focus,ปริซึมผู้คุมหุบเขา (Lens),equipment,มือรอง,ขั้น 10,85,—,120,—,125 G,detail_page,https://wiki.bindertowngame.com/item/prism_t10_focus
+familiar_t1_frost,ภูตรับใช้ฝึกหัด (Frostling),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t1_frost
+familiar_t1_storm,ภูตรับใช้ฝึกหัด (Storm),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t1_storm
+familiar_t2_frost,ภูตรับใช้ทองแดง (Frostling),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t2_frost
+familiar_t2_storm,ภูตรับใช้ทองแดง (Storm),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t2_storm
+familiar_t3_frost,ภูตรับใช้เหล็ก (Frostling),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t3_frost
+familiar_t3_storm,ภูตรับใช้เหล็ก (Storm),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t3_storm
+familiar_t4_frost,ภูตรับใช้เหล็กกล้า (Frostling),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t4_frost
+familiar_t4_storm,ภูตรับใช้เหล็กกล้า (Storm),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t4_storm
+familiar_t5_frost,ภูตรับใช้อำพัน (Frostling),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t5_frost
+familiar_t5_storm,ภูตรับใช้อำพัน (Storm),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t5_storm
+familiar_t6_frost,ภูตรับใช้มิธริล (Frostling),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t6_frost
+familiar_t6_storm,ภูตรับใช้มิธริล (Storm),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t6_storm
+familiar_t7_frost,ภูตรับใช้เหมันต์ (Frostling),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t7_frost
+familiar_t7_storm,ภูตรับใช้เหมันต์ (Storm),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t7_storm
+familiar_t8_frost,ภูตรับใช้พายุ (Frostling),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t8_frost
+familiar_t8_storm,ภูตรับใช้พายุ (Storm),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t8_storm
+familiar_t9_frost,ภูตรับใช้ผลึกวิญญาณ (Frostling),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t9_frost
+familiar_t9_storm,ภูตรับใช้ผลึกวิญญาณ (Storm),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/familiar_t9_storm
+familiar_t10_frost,ภูตรับใช้ผู้คุมหุบเขา (Frostling),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/familiar_t10_frost
+familiar_t10_storm,ภูตรับใช้ผู้คุมหุบเขา (Storm),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/familiar_t10_storm
+censer_t1_purifying,กระถางกำยานฝึกหัด (Purifying),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t1_purifying
+censer_t1_burning,กระถางกำยานฝึกหัด (Burning),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t1_burning
+censer_t2_purifying,กระถางกำยานทองแดง (Purifying),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t2_purifying
+censer_t2_burning,กระถางกำยานทองแดง (Burning),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t2_burning
+censer_t3_purifying,กระถางกำยานเหล็ก (Purifying),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t3_purifying
+censer_t3_burning,กระถางกำยานเหล็ก (Burning),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t3_burning
+censer_t4_purifying,กระถางกำยานเหล็กกล้า (Purifying),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t4_purifying
+censer_t4_burning,กระถางกำยานเหล็กกล้า (Burning),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t4_burning
+censer_t5_purifying,กระถางกำยานอำพัน (Purifying),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t5_purifying
+censer_t5_burning,กระถางกำยานอำพัน (Burning),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t5_burning
+censer_t6_purifying,กระถางกำยานมิธริล (Purifying),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t6_purifying
+censer_t6_burning,กระถางกำยานมิธริล (Burning),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t6_burning
+censer_t7_purifying,กระถางกำยานเหมันต์ (Purifying),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t7_purifying
+censer_t7_burning,กระถางกำยานเหมันต์ (Burning),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t7_burning
+censer_t8_purifying,กระถางกำยานพายุ (Purifying),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t8_purifying
+censer_t8_burning,กระถางกำยานพายุ (Burning),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t8_burning
+censer_t9_purifying,กระถางกำยานผลึกวิญญาณ (Purifying),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t9_purifying
+censer_t9_burning,กระถางกำยานผลึกวิญญาณ (Burning),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/censer_t9_burning
+censer_t10_purifying,กระถางกำยานผู้คุมหุบเขา (Purifying),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/censer_t10_purifying
+censer_t10_burning,กระถางกำยานผู้คุมหุบเขา (Burning),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/censer_t10_burning
+bell_t1_warm,ระฆังฝึกหัด (Warm),equipment,มือรอง,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t1_warm
+bell_t1_swift,ระฆังฝึกหัด (Swiftbell),equipment,มือรอง,ขั้น 1,1,—,—,3,23 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t1_swift
+bell_t2_warm,ระฆังทองแดง (Warm),equipment,มือรอง,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t2_warm
+bell_t2_swift,ระฆังทองแดง (Swiftbell),equipment,มือรอง,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t2_swift
+bell_t3_warm,ระฆังเหล็ก (Warm),equipment,มือรอง,ขั้น 3,15,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t3_warm
+bell_t3_swift,ระฆังเหล็ก (Swiftbell),equipment,มือรอง,ขั้น 3,15,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t3_swift
+bell_t4_warm,ระฆังเหล็กกล้า (Warm),equipment,มือรอง,ขั้น 4,22,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t4_warm
+bell_t4_swift,ระฆังเหล็กกล้า (Swiftbell),equipment,มือรอง,ขั้น 4,22,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t4_swift
+bell_t5_warm,ระฆังอำพัน (Warm),equipment,มือรอง,ขั้น 5,30,—,—,21,47 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t5_warm
+bell_t5_swift,ระฆังอำพัน (Swiftbell),equipment,มือรอง,ขั้น 5,30,—,—,21,47 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t5_swift
+bell_t6_warm,ระฆังมิธริล (Warm),equipment,มือรอง,ขั้น 6,40,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t6_warm
+bell_t6_swift,ระฆังมิธริล (Swiftbell),equipment,มือรอง,ขั้น 6,40,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t6_swift
+bell_t7_warm,ระฆังเหมันต์ (Warm),equipment,มือรอง,ขั้น 7,50,—,—,33,61 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t7_warm
+bell_t7_swift,ระฆังเหมันต์ (Swiftbell),equipment,มือรอง,ขั้น 7,50,—,—,33,61 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t7_swift
+bell_t8_warm,ระฆังพายุ (Warm),equipment,มือรอง,ขั้น 8,60,—,—,39,65 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t8_warm
+bell_t8_swift,ระฆังพายุ (Swiftbell),equipment,มือรอง,ขั้น 8,60,—,—,39,65 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t8_swift
+bell_t9_warm,ระฆังผลึกวิญญาณ (Warm),equipment,มือรอง,ขั้น 9,72,—,—,45,75 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t9_warm
+bell_t9_swift,ระฆังผลึกวิญญาณ (Swiftbell),equipment,มือรอง,ขั้น 9,72,—,—,45,75 G,listing_table_only,https://wiki.bindertowngame.com/item/bell_t9_swift
+bell_t10_warm,ระฆังผู้คุมหุบเขา (Warm),equipment,มือรอง,ขั้น 10,85,—,—,54,81 G,detail_page,https://wiki.bindertowngame.com/item/bell_t10_warm
+bell_t10_swift,ระฆังผู้คุมหุบเขา (Swiftbell),equipment,มือรอง,ขั้น 10,85,—,—,54,81 G,detail_page,https://wiki.bindertowngame.com/item/bell_t10_swift
+lantern_t1_binding,ตะเกียงวิญญาณฝึกหัด (Binding),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t1_binding
+lantern_t1_champion,ตะเกียงวิญญาณฝึกหัด (Champion),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t1_champion
+lantern_t2_binding,ตะเกียงวิญญาณทองแดง (Binding),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t2_binding
+lantern_t2_champion,ตะเกียงวิญญาณทองแดง (Champion),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t2_champion
+lantern_t3_binding,ตะเกียงวิญญาณเหล็ก (Binding),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t3_binding
+lantern_t3_champion,ตะเกียงวิญญาณเหล็ก (Champion),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t3_champion
+lantern_t4_binding,ตะเกียงวิญญาณเหล็กกล้า (Binding),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t4_binding
+lantern_t4_champion,ตะเกียงวิญญาณเหล็กกล้า (Champion),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t4_champion
+lantern_t5_binding,ตะเกียงวิญญาณอำพัน (Binding),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t5_binding
+lantern_t5_champion,ตะเกียงวิญญาณอำพัน (Champion),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t5_champion
+lantern_t6_binding,ตะเกียงวิญญาณมิธริล (Binding),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t6_binding
+lantern_t6_champion,ตะเกียงวิญญาณมิธริล (Champion),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t6_champion
+lantern_t7_binding,ตะเกียงวิญญาณเหมันต์ (Binding),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t7_binding
+lantern_t7_champion,ตะเกียงวิญญาณเหมันต์ (Champion),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t7_champion
+lantern_t8_binding,ตะเกียงวิญญาณพายุ (Binding),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t8_binding
+lantern_t8_champion,ตะเกียงวิญญาณพายุ (Champion),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t8_champion
+lantern_t9_binding,ตะเกียงวิญญาณผลึกวิญญาณ (Binding),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t9_binding
+lantern_t9_champion,ตะเกียงวิญญาณผลึกวิญญาณ (Champion),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/lantern_t9_champion
+lantern_t10_binding,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/lantern_t10_binding
+lantern_t10_champion,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/lantern_t10_champion
+chain_t1_drag,โซ่ฝึกหัด (Drag),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t1_drag
+chain_t1_link,โซ่ฝึกหัด (Link),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t1_link
+chain_t2_drag,โซ่ทองแดง (Drag),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t2_drag
+chain_t2_link,โซ่ทองแดง (Link),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t2_link
+chain_t3_drag,โซ่เหล็ก (Drag),equipment,มือรอง,ขั้น 3,15,—,21,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t3_drag
+chain_t3_link,โซ่เหล็ก (Link),equipment,มือรอง,ขั้น 3,15,—,21,—,41 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t3_link
+chain_t4_drag,โซ่เหล็กกล้า (Drag),equipment,มือรอง,ขั้น 4,22,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t4_drag
+chain_t4_link,โซ่เหล็กกล้า (Link),equipment,มือรอง,ขั้น 4,22,—,30,—,47 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t4_link
+chain_t5_drag,โซ่อำพัน (Drag),equipment,มือรอง,ขั้น 5,30,—,39,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t5_drag
+chain_t5_link,โซ่อำพัน (Link),equipment,มือรอง,ขั้น 5,30,—,39,—,59 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t5_link
+chain_t6_drag,โซ่มิธริล (Drag),equipment,มือรอง,ขั้น 6,40,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t6_drag
+chain_t6_link,โซ่มิธริล (Link),equipment,มือรอง,ขั้น 6,40,—,48,—,65 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t6_link
+chain_t7_drag,โซ่เหมันต์ (Drag),equipment,มือรอง,ขั้น 7,50,—,60,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t7_drag
+chain_t7_link,โซ่เหมันต์ (Link),equipment,มือรอง,ขั้น 7,50,—,60,—,79 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t7_link
+chain_t8_drag,โซ่พายุ (Drag),equipment,มือรอง,ขั้น 8,60,—,69,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t8_drag
+chain_t8_link,โซ่พายุ (Link),equipment,มือรอง,ขั้น 8,60,—,69,—,85 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t8_link
+chain_t9_drag,โซ่ผลึกวิญญาณ (Drag),equipment,มือรอง,ขั้น 9,72,—,81,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t9_drag
+chain_t9_link,โซ่ผลึกวิญญาณ (Link),equipment,มือรอง,ขั้น 9,72,—,81,—,99 G,listing_table_only,https://wiki.bindertowngame.com/item/chain_t9_link
+chain_t10_drag,โซ่ผู้คุมหุบเขา (Drag),equipment,มือรอง,ขั้น 10,85,—,96,—,109 G,detail_page,https://wiki.bindertowngame.com/item/chain_t10_drag
+chain_t10_link,โซ่ผู้คุมหุบเขา (Link),equipment,มือรอง,ขั้น 10,85,—,96,—,109 G,detail_page,https://wiki.bindertowngame.com/item/chain_t10_link
+skull_t1_smoldering,กะโหลกฝึกหัด (Smoldering),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t1_smoldering
+skull_t1_elder,กะโหลกฝึกหัด (Elder),equipment,มือรอง,ขั้น 1,1,—,6,—,25 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t1_elder
+skull_t2_smoldering,กะโหลกทองแดง (Smoldering),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t2_smoldering
+skull_t2_elder,กะโหลกทองแดง (Elder),equipment,มือรอง,ขั้น 2,8,—,15,—,31 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t2_elder
+skull_t3_smoldering,กะโหลกเหล็ก (Smoldering),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t3_smoldering
+skull_t3_elder,กะโหลกเหล็ก (Elder),equipment,มือรอง,ขั้น 3,15,—,24,—,43 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t3_elder
+skull_t4_smoldering,กะโหลกเหล็กกล้า (Smoldering),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t4_smoldering
+skull_t4_elder,กะโหลกเหล็กกล้า (Elder),equipment,มือรอง,ขั้น 4,22,—,33,—,49 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t4_elder
+skull_t5_smoldering,กะโหลกอำพัน (Smoldering),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t5_smoldering
+skull_t5_elder,กะโหลกอำพัน (Elder),equipment,มือรอง,ขั้น 5,30,—,42,—,61 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t5_elder
+skull_t6_smoldering,กะโหลกมิธริล (Smoldering),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t6_smoldering
+skull_t6_elder,กะโหลกมิธริล (Elder),equipment,มือรอง,ขั้น 6,40,—,54,—,69 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t6_elder
+skull_t7_smoldering,กะโหลกเหมันต์ (Smoldering),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t7_smoldering
+skull_t7_elder,กะโหลกเหมันต์ (Elder),equipment,มือรอง,ขั้น 7,50,—,66,—,83 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t7_elder
+skull_t8_smoldering,กะโหลกพายุ (Smoldering),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t8_smoldering
+skull_t8_elder,กะโหลกพายุ (Elder),equipment,มือรอง,ขั้น 8,60,—,78,—,91 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t8_elder
+skull_t9_smoldering,กะโหลกผลึกวิญญาณ (Smoldering),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t9_smoldering
+skull_t9_elder,กะโหลกผลึกวิญญาณ (Elder),equipment,มือรอง,ขั้น 9,72,—,93,—,107 G,listing_table_only,https://wiki.bindertowngame.com/item/skull_t9_elder
+skull_t10_smoldering,กะโหลกผู้คุมหุบเขา (Smoldering),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/skull_t10_smoldering
+skull_t10_elder,กะโหลกผู้คุมหุบเขา (Elder),equipment,มือรอง,ขั้น 10,85,—,108,—,117 G,detail_page,https://wiki.bindertowngame.com/item/skull_t10_elder
+bandolier_t1_quickdraw,สายคาดมีดฝึกหัด (Quickdraw),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t1_quickdraw
+bandolier_t1_weighted,สายคาดมีดฝึกหัด (Weighted),equipment,มือรอง,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t1_weighted
+bandolier_t2_quickdraw,สายคาดมีดทองแดง (Quickdraw),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t2_quickdraw
+bandolier_t2_weighted,สายคาดมีดทองแดง (Weighted),equipment,มือรอง,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t2_weighted
+bandolier_t3_quickdraw,สายคาดมีดเหล็ก (Quickdraw),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t3_quickdraw
+bandolier_t3_weighted,สายคาดมีดเหล็ก (Weighted),equipment,มือรอง,ขั้น 3,15,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t3_weighted
+bandolier_t4_quickdraw,สายคาดมีดเหล็กกล้า (Quickdraw),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t4_quickdraw
+bandolier_t4_weighted,สายคาดมีดเหล็กกล้า (Weighted),equipment,มือรอง,ขั้น 4,22,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t4_weighted
+bandolier_t5_quickdraw,สายคาดมีดอำพัน (Quickdraw),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t5_quickdraw
+bandolier_t5_weighted,สายคาดมีดอำพัน (Weighted),equipment,มือรอง,ขั้น 5,30,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t5_weighted
+bandolier_t6_quickdraw,สายคาดมีดมิธริล (Quickdraw),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t6_quickdraw
+bandolier_t6_weighted,สายคาดมีดมิธริล (Weighted),equipment,มือรอง,ขั้น 6,40,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t6_weighted
+bandolier_t7_quickdraw,สายคาดมีดเหมันต์ (Quickdraw),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t7_quickdraw
+bandolier_t7_weighted,สายคาดมีดเหมันต์ (Weighted),equipment,มือรอง,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t7_weighted
+bandolier_t8_quickdraw,สายคาดมีดพายุ (Quickdraw),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t8_quickdraw
+bandolier_t8_weighted,สายคาดมีดพายุ (Weighted),equipment,มือรอง,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t8_weighted
+bandolier_t9_quickdraw,สายคาดมีดผลึกวิญญาณ (Quickdraw),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t9_quickdraw
+bandolier_t9_weighted,สายคาดมีดผลึกวิญญาณ (Weighted),equipment,มือรอง,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/bandolier_t9_weighted
+bandolier_t10_quickdraw,สายคาดมีดผู้คุมหุบเขา (Quickdraw),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/bandolier_t10_quickdraw
+bandolier_t10_weighted,สายคาดมีดผู้คุมหุบเขา (Weighted),equipment,มือรอง,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/bandolier_t10_weighted
+bp_plate,เกราะ Binder,equipment,เกราะ,ขั้น 1,1,—,—,72,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_plate
+bp_leather,ชุดหนัง Binder,equipment,เกราะ,ขั้น 1,1,—,—,51,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_leather
+bp_robe,เสื้อคลุม Binder,equipment,เกราะ,ขั้น 1,1,—,—,39,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_robe
+bp_greaves,สนับแข้ง Binder,equipment,รองเท้า,ขั้น 1,1,—,—,36,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_greaves
+bp_boots,รองเท้า Binder,equipment,รองเท้า,ขั้น 1,1,—,—,27,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_boots
+bp_ring,แหวน Binder,equipment,เครื่องประดับ,ขั้น 1,1,36,—,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_ring
+bp_ring_arcane,แหวนเวท Binder,equipment,เครื่องประดับ,ขั้น 1,1,—,36,—,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_ring_arcane
+tearstone_pendant,Tearstone Pendant,equipment,สร้อยคอ,ขั้น 7,50,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/tearstone_pendant
+tearstone_pendant_r8,Tearstone Pendant · T8,equipment,สร้อยคอ,ขั้น 8,60,—,—,—,39 G,listing_table_only,https://wiki.bindertowngame.com/item/tearstone_pendant_r8
+tearstone_pendant_r9,Tearstone Pendant · T9,equipment,สร้อยคอ,ขั้น 9,72,—,—,—,45 G,listing_table_only,https://wiki.bindertowngame.com/item/tearstone_pendant_r9
+tearstone_pendant_r10,Tearstone Pendant · T10,equipment,สร้อยคอ,ขั้น 10,85,—,—,—,45 G,detail_page,https://wiki.bindertowngame.com/item/tearstone_pendant_r10
+bulwark_of_dawn,Bulwark of Dawn,equipment,มือรอง,ขั้น 8,60,—,—,108,111 G,listing_table_only,https://wiki.bindertowngame.com/item/bulwark_of_dawn
+bulwark_of_dawn_r9,Bulwark of Dawn · T9,equipment,มือรอง,ขั้น 9,72,—,—,129,131 G,listing_table_only,https://wiki.bindertowngame.com/item/bulwark_of_dawn_r9
+bulwark_of_dawn_r10,Bulwark of Dawn · T10,equipment,มือรอง,ขั้น 10,85,—,—,150,145 G,detail_page,https://wiki.bindertowngame.com/item/bulwark_of_dawn_r10
+cinder_girdle,Cinder Girdle,equipment,เข็มขัด,ขั้น 8,60,—,—,24,55 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_girdle
+cinder_girdle_r9,Cinder Girdle · T9,equipment,เข็มขัด,ขั้น 9,72,—,—,30,65 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_girdle_r9
+cinder_girdle_r10,Cinder Girdle · T10,equipment,เข็มขัด,ขั้น 10,85,—,—,33,67 G,detail_page,https://wiki.bindertowngame.com/item/cinder_girdle_r10
+oathbound_band,Oathbound Band,equipment,เครื่องประดับ,ขั้น 10,85,96,—,—,109 G,detail_page,https://wiki.bindertowngame.com/item/oathbound_band
+witch_hat,Witch Hat,headgear,หมวก,ขั้น 2,10,—,—,12,35 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat
+witch_hat_r3,Witch Hat · T3,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r3
+witch_hat_r4,Witch Hat · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r4
+witch_hat_r5,Witch Hat · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r5
+witch_hat_r6,Witch Hat · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r6
+witch_hat_r7,Witch Hat · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r7
+witch_hat_r8,Witch Hat · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r8
+witch_hat_r9,Witch Hat · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_r9
+witch_hat_r10,Witch Hat · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/witch_hat_r10
+beanie,Pom Beanie,headgear,หมวก,ขั้น 1,5,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie
+beanie_r2,Pom Beanie · T2,headgear,หมวก,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r2
+beanie_r3,Pom Beanie · T3,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r3
+beanie_r4,Pom Beanie · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r4
+beanie_r5,Pom Beanie · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r5
+beanie_r6,Pom Beanie · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r6
+beanie_r7,Pom Beanie · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r7
+beanie_r8,Pom Beanie · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r8
+beanie_r9,Pom Beanie · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/beanie_r9
+beanie_r10,Pom Beanie · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/beanie_r10
+crown,Little Crown,headgear,หมวก,ขั้น 3,20,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/crown
+crown_r4,Little Crown · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/crown_r4
+crown_r5,Little Crown · T5,headgear,หมวก,ขั้น 5,30,—,—,30,53 G,listing_table_only,https://wiki.bindertowngame.com/item/crown_r5
+crown_r6,Little Crown · T6,headgear,หมวก,ขั้น 6,40,—,—,39,59 G,listing_table_only,https://wiki.bindertowngame.com/item/crown_r6
+crown_r7,Little Crown · T7,headgear,หมวก,ขั้น 7,50,—,—,48,77 G,listing_table_only,https://wiki.bindertowngame.com/item/crown_r7
+crown_r8,Little Crown · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/crown_r8
+crown_r9,Little Crown · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/crown_r9
+crown_r10,Little Crown · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/crown_r10
+viking,Horned Helm,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/viking
+viking_r4,Horned Helm · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_r4
+viking_r5,Horned Helm · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_r5
+viking_r6,Horned Helm · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_r6
+viking_r7,Horned Helm · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_r7
+viking_r8,Horned Helm · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_r8
+viking_r9,Horned Helm · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_r9
+viking_r10,Horned Helm · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/viking_r10
+halo,Holy Halo,headgear,หมวก,ขั้น 4,25,—,—,24,43 G,listing_table_only,https://wiki.bindertowngame.com/item/halo
+halo_r5,Holy Halo · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/halo_r5
+halo_r6,Holy Halo · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/halo_r6
+halo_r7,Holy Halo · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/halo_r7
+halo_r8,Holy Halo · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/halo_r8
+halo_r9,Holy Halo · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/halo_r9
+halo_r10,Holy Halo · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/halo_r10
+cat_ears,Cat Ears,headgear,หมวก,ขั้น 1,5,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears
+cat_ears_r2,Cat Ears · T2,headgear,หมวก,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r2
+cat_ears_r3,Cat Ears · T3,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r3
+cat_ears_r4,Cat Ears · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r4
+cat_ears_r5,Cat Ears · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r5
+cat_ears_r6,Cat Ears · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r6
+cat_ears_r7,Cat Ears · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r7
+cat_ears_r8,Cat Ears · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r8
+cat_ears_r9,Cat Ears · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_r9
+cat_ears_r10,Cat Ears · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/cat_ears_r10
+devil_horns,Devil Horns,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns
+devil_horns_r4,Devil Horns · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_r4
+devil_horns_r5,Devil Horns · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_r5
+devil_horns_r6,Devil Horns · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_r6
+devil_horns_r7,Devil Horns · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_r7
+devil_horns_r8,Devil Horns · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_r8
+devil_horns_r9,Devil Horns · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_r9
+devil_horns_r10,Devil Horns · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/devil_horns_r10
+flower_crown,Flower Crown,headgear,หมวก,ขั้น 1,5,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown
+flower_crown_r2,Flower Crown · T2,headgear,หมวก,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r2
+flower_crown_r3,Flower Crown · T3,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r3
+flower_crown_r4,Flower Crown · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r4
+flower_crown_r5,Flower Crown · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r5
+flower_crown_r6,Flower Crown · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r6
+flower_crown_r7,Flower Crown · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r7
+flower_crown_r8,Flower Crown · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r8
+flower_crown_r9,Flower Crown · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/flower_crown_r9
+flower_crown_r10,Flower Crown · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/flower_crown_r10
+top_hat,Top Hat,headgear,หมวก,ขั้น 3,20,—,—,18,39 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat
+top_hat_r4,Top Hat · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_r4
+top_hat_r5,Top Hat · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_r5
+top_hat_r6,Top Hat · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_r6
+top_hat_r7,Top Hat · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_r7
+top_hat_r8,Top Hat · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_r8
+top_hat_r9,Top Hat · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_r9
+top_hat_r10,Top Hat · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/top_hat_r10
+eyepatch,Eyepatch,headgear,หน้า,ขั้น 2,10,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch
+eyepatch_r3,Eyepatch · T3,headgear,หน้า,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r3
+eyepatch_r4,Eyepatch · T4,headgear,หน้า,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r4
+eyepatch_r5,Eyepatch · T5,headgear,หน้า,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r5
+eyepatch_r6,Eyepatch · T6,headgear,หน้า,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r6
+eyepatch_r7,Eyepatch · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r7
+eyepatch_r8,Eyepatch · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r8
+eyepatch_r9,Eyepatch · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/eyepatch_r9
+eyepatch_r10,Eyepatch · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/eyepatch_r10
+shades,Cool Shades,headgear,หน้า,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/shades
+shades_r4,Cool Shades · T4,headgear,หน้า,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/shades_r4
+shades_r5,Cool Shades · T5,headgear,หน้า,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/shades_r5
+shades_r6,Cool Shades · T6,headgear,หน้า,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/shades_r6
+shades_r7,Cool Shades · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/shades_r7
+shades_r8,Cool Shades · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/shades_r8
+shades_r9,Cool Shades · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/shades_r9
+shades_r10,Cool Shades · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/shades_r10
+glasses,Round Glasses,headgear,หน้า,ขั้น 1,5,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses
+glasses_r2,Round Glasses · T2,headgear,หน้า,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r2
+glasses_r3,Round Glasses · T3,headgear,หน้า,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r3
+glasses_r4,Round Glasses · T4,headgear,หน้า,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r4
+glasses_r5,Round Glasses · T5,headgear,หน้า,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r5
+glasses_r6,Round Glasses · T6,headgear,หน้า,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r6
+glasses_r7,Round Glasses · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r7
+glasses_r8,Round Glasses · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r8
+glasses_r9,Round Glasses · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/glasses_r9
+glasses_r10,Round Glasses · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/glasses_r10
+eyemask,Masquerade,headgear,หน้า,ขั้น 3,20,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask
+eyemask_r4,Masquerade · T4,headgear,หน้า,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask_r4
+eyemask_r5,Masquerade · T5,headgear,หน้า,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask_r5
+eyemask_r6,Masquerade · T6,headgear,หน้า,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask_r6
+eyemask_r7,Masquerade · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask_r7
+eyemask_r8,Masquerade · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask_r8
+eyemask_r9,Masquerade · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/eyemask_r9
+eyemask_r10,Masquerade · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/eyemask_r10
+rose,Rose,headgear,ปาก,ขั้น 1,5,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/rose
+rose_r2,Rose · T2,headgear,ปาก,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r2
+rose_r3,Rose · T3,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r3
+rose_r4,Rose · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r4
+rose_r5,Rose · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r5
+rose_r6,Rose · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r6
+rose_r7,Rose · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r7
+rose_r8,Rose · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r8
+rose_r9,Rose · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/rose_r9
+rose_r10,Rose · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/rose_r10
+pipe,Old Pipe,headgear,ปาก,ขั้น 2,10,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe
+pipe_r3,Old Pipe · T3,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r3
+pipe_r4,Old Pipe · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r4
+pipe_r5,Old Pipe · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r5
+pipe_r6,Old Pipe · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r6
+pipe_r7,Old Pipe · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r7
+pipe_r8,Old Pipe · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r8
+pipe_r9,Old Pipe · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/pipe_r9
+pipe_r10,Old Pipe · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/pipe_r10
+lollipop,Lollipop,headgear,ปาก,ขั้น 1,5,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop
+lollipop_r2,Lollipop · T2,headgear,ปาก,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r2
+lollipop_r3,Lollipop · T3,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r3
+lollipop_r4,Lollipop · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r4
+lollipop_r5,Lollipop · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r5
+lollipop_r6,Lollipop · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r6
+lollipop_r7,Lollipop · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r7
+lollipop_r8,Lollipop · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r8
+lollipop_r9,Lollipop · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/lollipop_r9
+lollipop_r10,Lollipop · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/lollipop_r10
+cigarette,Cigarette,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette
+cigarette_r4,Cigarette · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette_r4
+cigarette_r5,Cigarette · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette_r5
+cigarette_r6,Cigarette · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette_r6
+cigarette_r7,Cigarette · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette_r7
+cigarette_r8,Cigarette · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette_r8
+cigarette_r9,Cigarette · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/cigarette_r9
+cigarette_r10,Cigarette · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/cigarette_r10
+facecloth,Bandit Cloth,headgear,ปาก,ขั้น 2,10,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth
+facecloth_r3,Bandit Cloth · T3,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r3
+facecloth_r4,Bandit Cloth · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r4
+facecloth_r5,Bandit Cloth · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r5
+facecloth_r6,Bandit Cloth · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r6
+facecloth_r7,Bandit Cloth · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r7
+facecloth_r8,Bandit Cloth · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r8
+facecloth_r9,Bandit Cloth · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/facecloth_r9
+facecloth_r10,Bandit Cloth · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/facecloth_r10
+bloom_antlers,Bloom Antlers,headgear,หมวก,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers
+bloom_antlers_r3,Bloom Antlers · T3,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r3
+bloom_antlers_r4,Bloom Antlers · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r4
+bloom_antlers_r5,Bloom Antlers · T5,headgear,หมวก,ขั้น 5,30,—,—,30,53 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r5
+bloom_antlers_r6,Bloom Antlers · T6,headgear,หมวก,ขั้น 6,40,—,—,39,59 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r6
+bloom_antlers_r7,Bloom Antlers · T7,headgear,หมวก,ขั้น 7,50,—,—,48,77 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r7
+bloom_antlers_r8,Bloom Antlers · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r8
+bloom_antlers_r9,Bloom Antlers · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/bloom_antlers_r9
+bloom_antlers_r10,Bloom Antlers · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/bloom_antlers_r10
+prism_shell,Prism Shell,headgear,หมวก,ขั้น 3,18,—,—,18,39 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell
+prism_shell_r4,Prism Shell · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell_r4
+prism_shell_r5,Prism Shell · T5,headgear,หมวก,ขั้น 5,30,—,—,30,53 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell_r5
+prism_shell_r6,Prism Shell · T6,headgear,หมวก,ขั้น 6,40,—,—,39,59 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell_r6
+prism_shell_r7,Prism Shell · T7,headgear,หมวก,ขั้น 7,50,—,—,48,77 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell_r7
+prism_shell_r8,Prism Shell · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell_r8
+prism_shell_r9,Prism Shell · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/prism_shell_r9
+prism_shell_r10,Prism Shell · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/prism_shell_r10
+cinder_plume,Cinder Plume,headgear,หมวก,ขั้น 5,34,—,—,33,55 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_plume
+cinder_plume_r6,Cinder Plume · T6,headgear,หมวก,ขั้น 6,40,—,—,39,59 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_plume_r6
+cinder_plume_r7,Cinder Plume · T7,headgear,หมวก,ขั้น 7,50,—,—,48,77 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_plume_r7
+cinder_plume_r8,Cinder Plume · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_plume_r8
+cinder_plume_r9,Cinder Plume · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/cinder_plume_r9
+cinder_plume_r10,Cinder Plume · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/cinder_plume_r10
+lotus_bloom,Lotus Bloom,headgear,หมวก,ขั้น 5,38,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/lotus_bloom
+lotus_bloom_r6,Lotus Bloom · T6,headgear,หมวก,ขั้น 6,40,—,—,39,59 G,listing_table_only,https://wiki.bindertowngame.com/item/lotus_bloom_r6
+lotus_bloom_r7,Lotus Bloom · T7,headgear,หมวก,ขั้น 7,50,—,—,48,77 G,listing_table_only,https://wiki.bindertowngame.com/item/lotus_bloom_r7
+lotus_bloom_r8,Lotus Bloom · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/lotus_bloom_r8
+lotus_bloom_r9,Lotus Bloom · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/lotus_bloom_r9
+lotus_bloom_r10,Lotus Bloom · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/lotus_bloom_r10
+aurora_antlers,Aurora Antlers,headgear,หมวก,ขั้น 7,56,—,—,51,79 G,listing_table_only,https://wiki.bindertowngame.com/item/aurora_antlers
+aurora_antlers_r8,Aurora Antlers · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/aurora_antlers_r8
+aurora_antlers_r9,Aurora Antlers · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/aurora_antlers_r9
+aurora_antlers_r10,Aurora Antlers · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/aurora_antlers_r10
+tempest_crest,Tempest Crest,headgear,หมวก,ขั้น 8,68,—,—,63,87 G,listing_table_only,https://wiki.bindertowngame.com/item/tempest_crest
+tempest_crest_r9,Tempest Crest · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/tempest_crest_r9
+tempest_crest_r10,Tempest Crest · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/tempest_crest_r10
+warden_crown,Warden's Crown,headgear,หมวก,ขั้น 10,97,—,—,87,115 G,detail_page,https://wiki.bindertowngame.com/item/warden_crown
+sentinel_wings,Sentinel Wings,headgear,หมวก,ขั้น 8,70,—,—,63,93 G,listing_table_only,https://wiki.bindertowngame.com/item/sentinel_wings
+sentinel_wings_r9,Sentinel Wings · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/sentinel_wings_r9
+sentinel_wings_r10,Sentinel Wings · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/sentinel_wings_r10
+sprout_leaf,Sprout Leaf,headgear,หมวก,ขั้น 1,3,—,—,6,25 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf
+sprout_leaf_r2,Sprout Leaf · T2,headgear,หมวก,ขั้น 2,8,—,—,9,27 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r2
+sprout_leaf_r3,Sprout Leaf · T3,headgear,หมวก,ขั้น 3,15,—,—,15,37 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r3
+sprout_leaf_r4,Sprout Leaf · T4,headgear,หมวก,ขั้น 4,22,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r4
+sprout_leaf_r5,Sprout Leaf · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r5
+sprout_leaf_r6,Sprout Leaf · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r6
+sprout_leaf_r7,Sprout Leaf · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r7
+sprout_leaf_r8,Sprout Leaf · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r8
+sprout_leaf_r9,Sprout Leaf · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/sprout_leaf_r9
+sprout_leaf_r10,Sprout Leaf · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/sprout_leaf_r10
+mushroom_cap,Mushroom Cap,headgear,หมวก,ขั้น 4,24,—,—,21,41 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap
+mushroom_cap_r5,Mushroom Cap · T5,headgear,หมวก,ขั้น 5,30,—,—,27,51 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap_r5
+mushroom_cap_r6,Mushroom Cap · T6,headgear,หมวก,ขั้น 6,40,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap_r6
+mushroom_cap_r7,Mushroom Cap · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap_r7
+mushroom_cap_r8,Mushroom Cap · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap_r8
+mushroom_cap_r9,Mushroom Cap · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap_r9
+mushroom_cap_r10,Mushroom Cap · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/mushroom_cap_r10
+jelly_cap,Jelly Cap,headgear,หมวก,ขั้น 9,82,—,—,69,91 G,listing_table_only,https://wiki.bindertowngame.com/item/jelly_cap
+jelly_cap_r10,Jelly Cap · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/jelly_cap_r10
+moth_antennae,Moth Antennae,headgear,หมวก,ขั้น 10,92,—,—,75,101 G,detail_page,https://wiki.bindertowngame.com/item/moth_antennae
+plague_beak,Plague Beak,headgear,หน้า,ขั้น 6,45,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/plague_beak
+plague_beak_r7,Plague Beak · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/plague_beak_r7
+plague_beak_r8,Plague Beak · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/plague_beak_r8
+plague_beak_r9,Plague Beak · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/plague_beak_r9
+plague_beak_r10,Plague Beak · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/plague_beak_r10
+bone_mask,Bone Mask,headgear,หน้า,ขั้น 3,19,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask
+bone_mask_r4,Bone Mask · T4,headgear,หน้า,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask_r4
+bone_mask_r5,Bone Mask · T5,headgear,หน้า,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask_r5
+bone_mask_r6,Bone Mask · T6,headgear,หน้า,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask_r6
+bone_mask_r7,Bone Mask · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask_r7
+bone_mask_r8,Bone Mask · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask_r8
+bone_mask_r9,Bone Mask · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bone_mask_r9
+bone_mask_r10,Bone Mask · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/bone_mask_r10
+horror_eye,Horror Eye,headgear,หน้า,ขั้น 10,89,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/horror_eye
+wisp_monocle,Wisp Monocle,headgear,หน้า,ขั้น 1,1,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle
+wisp_monocle_r2,Wisp Monocle · T2,headgear,หน้า,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r2
+wisp_monocle_r3,Wisp Monocle · T3,headgear,หน้า,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r3
+wisp_monocle_r4,Wisp Monocle · T4,headgear,หน้า,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r4
+wisp_monocle_r5,Wisp Monocle · T5,headgear,หน้า,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r5
+wisp_monocle_r6,Wisp Monocle · T6,headgear,หน้า,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r6
+wisp_monocle_r7,Wisp Monocle · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r7
+wisp_monocle_r8,Wisp Monocle · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r8
+wisp_monocle_r9,Wisp Monocle · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/wisp_monocle_r9
+wisp_monocle_r10,Wisp Monocle · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/wisp_monocle_r10
+frost_visor,Frost Visor,headgear,หน้า,ขั้น 6,44,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_visor
+frost_visor_r7,Frost Visor · T7,headgear,หน้า,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_visor_r7
+frost_visor_r8,Frost Visor · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_visor_r8
+frost_visor_r9,Frost Visor · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_visor_r9
+frost_visor_r10,Frost Visor · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/frost_visor_r10
+moth_mask,Moth Mask,headgear,หน้า,ขั้น 10,92,—,—,—,39 G,detail_page,https://wiki.bindertowngame.com/item/moth_mask
+harpy_goggles,Harpy Goggles,headgear,หน้า,ขั้น 7,58,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/harpy_goggles
+harpy_goggles_r8,Harpy Goggles · T8,headgear,หน้า,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/harpy_goggles_r8
+harpy_goggles_r9,Harpy Goggles · T9,headgear,หน้า,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/harpy_goggles_r9
+harpy_goggles_r10,Harpy Goggles · T10,headgear,หน้า,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/harpy_goggles_r10
+opal_veil,Opal Veil,headgear,ปาก,ขั้น 9,78,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/opal_veil
+opal_veil_r10,Opal Veil · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/opal_veil_r10
+brute_tusks,Brute Tusks,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks
+brute_tusks_r4,Brute Tusks · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks_r4
+brute_tusks_r5,Brute Tusks · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks_r5
+brute_tusks_r6,Brute Tusks · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks_r6
+brute_tusks_r7,Brute Tusks · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks_r7
+brute_tusks_r8,Brute Tusks · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks_r8
+brute_tusks_r9,Brute Tusks · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/brute_tusks_r9
+brute_tusks_r10,Brute Tusks · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/brute_tusks_r10
+gold_grin,Gold Grin,headgear,ปาก,ขั้น 10,97,—,—,—,39 G,detail_page,https://wiki.bindertowngame.com/item/gold_grin
+spore_pipe,Spore Pipe,headgear,ปาก,ขั้น 4,24,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/spore_pipe
+spore_pipe_r5,Spore Pipe · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/spore_pipe_r5
+spore_pipe_r6,Spore Pipe · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/spore_pipe_r6
+spore_pipe_r7,Spore Pipe · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/spore_pipe_r7
+spore_pipe_r8,Spore Pipe · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/spore_pipe_r8
+spore_pipe_r9,Spore Pipe · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/spore_pipe_r9
+spore_pipe_r10,Spore Pipe · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/spore_pipe_r10
+fang_grill,Fang Grill,headgear,ปาก,ขั้น 3,17,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill
+fang_grill_r4,Fang Grill · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill_r4
+fang_grill_r5,Fang Grill · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill_r5
+fang_grill_r6,Fang Grill · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill_r6
+fang_grill_r7,Fang Grill · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill_r7
+fang_grill_r8,Fang Grill · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill_r8
+fang_grill_r9,Fang Grill · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/fang_grill_r9
+fang_grill_r10,Fang Grill · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/fang_grill_r10
+thorn_muzzle,Thorn Muzzle,headgear,ปาก,ขั้น 1,5,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle
+thorn_muzzle_r2,Thorn Muzzle · T2,headgear,ปาก,ขั้น 2,8,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r2
+thorn_muzzle_r3,Thorn Muzzle · T3,headgear,ปาก,ขั้น 3,15,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r3
+thorn_muzzle_r4,Thorn Muzzle · T4,headgear,ปาก,ขั้น 4,22,—,—,—,21 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r4
+thorn_muzzle_r5,Thorn Muzzle · T5,headgear,ปาก,ขั้น 5,30,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r5
+thorn_muzzle_r6,Thorn Muzzle · T6,headgear,ปาก,ขั้น 6,40,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r6
+thorn_muzzle_r7,Thorn Muzzle · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r7
+thorn_muzzle_r8,Thorn Muzzle · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r8
+thorn_muzzle_r9,Thorn Muzzle · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/thorn_muzzle_r9
+thorn_muzzle_r10,Thorn Muzzle · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/thorn_muzzle_r10
+bubble_gum,Bubble Gum,headgear,ปาก,ขั้น 9,82,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/bubble_gum
+bubble_gum_r10,Bubble Gum · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/bubble_gum_r10
+frost_scarf,Frost Scarf,headgear,ปาก,ขั้น 6,44,—,—,—,27 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_scarf
+frost_scarf_r7,Frost Scarf · T7,headgear,ปาก,ขั้น 7,50,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_scarf_r7
+frost_scarf_r8,Frost Scarf · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_scarf_r8
+frost_scarf_r9,Frost Scarf · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/frost_scarf_r9
+frost_scarf_r10,Frost Scarf · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/frost_scarf_r10
+harpy_feather,Harpy Feather,headgear,ปาก,ขั้น 7,58,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/harpy_feather
+harpy_feather_r8,Harpy Feather · T8,headgear,ปาก,ขั้น 8,60,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/harpy_feather_r8
+harpy_feather_r9,Harpy Feather · T9,headgear,ปาก,ขั้น 9,72,—,—,—,33 G,listing_table_only,https://wiki.bindertowngame.com/item/harpy_feather_r9
+harpy_feather_r10,Harpy Feather · T10,headgear,ปาก,ขั้น 10,85,—,—,—,33 G,detail_page,https://wiki.bindertowngame.com/item/harpy_feather_r10
+witch_hat_dusk,Dusk Witch Hat,headgear,หมวก,ขั้น 6,42,—,—,36,57 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_dusk
+witch_hat_dusk_r7,Dusk Witch Hat · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_dusk_r7
+witch_hat_dusk_r8,Dusk Witch Hat · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_dusk_r8
+witch_hat_dusk_r9,Dusk Witch Hat · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/witch_hat_dusk_r9
+witch_hat_dusk_r10,Dusk Witch Hat · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/witch_hat_dusk_r10
+viking_frost,Frost Viking Helm,headgear,หมวก,ขั้น 6,48,—,—,42,61 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_frost
+viking_frost_r7,Frost Viking Helm · T7,headgear,หมวก,ขั้น 7,50,—,—,42,67 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_frost_r7
+viking_frost_r8,Frost Viking Helm · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_frost_r8
+viking_frost_r9,Frost Viking Helm · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/viking_frost_r9
+viking_frost_r10,Frost Viking Helm · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/viking_frost_r10
+top_hat_ice,Icebound Top Hat,headgear,หมวก,ขั้น 7,55,—,—,45,69 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_ice
+top_hat_ice_r8,Icebound Top Hat · T8,headgear,หมวก,ขั้น 8,60,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_ice_r8
+top_hat_ice_r9,Icebound Top Hat · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/top_hat_ice_r9
+top_hat_ice_r10,Icebound Top Hat · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/top_hat_ice_r10
+cat_ears_gale,Gale Cat Ears,headgear,หมวก,ขั้น 8,61,—,—,51,73 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_gale
+cat_ears_gale_r9,Gale Cat Ears · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/cat_ears_gale_r9
+cat_ears_gale_r10,Gale Cat Ears · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/cat_ears_gale_r10
+devil_horns_sky,Skybolt Horns,headgear,หมวก,ขั้น 8,66,—,—,54,75 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_sky
+devil_horns_sky_r9,Skybolt Horns · T9,headgear,หมวก,ขั้น 9,72,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/devil_horns_sky_r9
+devil_horns_sky_r10,Skybolt Horns · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/devil_horns_sky_r10
+halo_glass,Glass Halo,headgear,หมวก,ขั้น 9,74,—,—,60,85 G,listing_table_only,https://wiki.bindertowngame.com/item/halo_glass
+halo_glass_r10,Glass Halo · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/halo_glass_r10
+mushroom_cap_void,Void Mushroom Cap,headgear,หมวก,ขั้น 9,77,—,—,63,87 G,listing_table_only,https://wiki.bindertowngame.com/item/mushroom_cap_void
+mushroom_cap_void_r10,Void Mushroom Cap · T10,headgear,หมวก,ขั้น 10,85,—,—,69,91 G,detail_page,https://wiki.bindertowngame.com/item/mushroom_cap_void_r10
+bp_cap,หมวก Binder,headgear,หมวก,ขั้น 1,1,—,—,30,—,listing_table_only,https://wiki.bindertowngame.com/item/bp_cap
+heartwood_crown,Heartwood Crown,headgear,หมวก,ขั้น 5,30,—,—,30,53 G,listing_table_only,https://wiki.bindertowngame.com/item/heartwood_crown
+heartwood_crown_r6,Heartwood Crown · T6,headgear,หมวก,ขั้น 6,40,—,—,39,59 G,listing_table_only,https://wiki.bindertowngame.com/item/heartwood_crown_r6
+heartwood_crown_r7,Heartwood Crown · T7,headgear,หมวก,ขั้น 7,50,—,—,48,77 G,listing_table_only,https://wiki.bindertowngame.com/item/heartwood_crown_r7
+heartwood_crown_r8,Heartwood Crown · T8,headgear,หมวก,ขั้น 8,60,—,—,54,81 G,listing_table_only,https://wiki.bindertowngame.com/item/heartwood_crown_r8
+heartwood_crown_r9,Heartwood Crown · T9,headgear,หมวก,ขั้น 9,72,—,—,66,95 G,listing_table_only,https://wiki.bindertowngame.com/item/heartwood_crown_r9
+heartwood_crown_r10,Heartwood Crown · T10,headgear,หมวก,ขั้น 10,85,—,—,78,103 G,detail_page,https://wiki.bindertowngame.com/item/heartwood_crown_r10

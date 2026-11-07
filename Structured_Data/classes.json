@@ -1,0 +1,1974 @@
+{
+ "_about": "8 classes (Binder/novice + 7). Class trait, resource mechanic and recommended pets are in tables/summary_text; full text in Classes/*.md.",
+ "count": 8,
+ "records": [
+  {
+   "name": "Acolyte",
+   "slug": "acolyte",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/berry_hamster",
+    "/pet/celestial_qilin",
+    "/pet/inkwell_owl",
+    "/pet/tidepearl_turtle",
+    "/skill/bless",
+    "/skill/blessed_soul",
+    "/skill/crusader",
+    "/skill/devotion",
+    "/skill/divine_chain",
+    "/skill/faith",
+    "/skill/gentle_hands",
+    "/skill/holy_lance",
+    "/skill/holy_wrath",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/martyr",
+    "/skill/mend",
+    "/skill/radiant_burst",
+    "/skill/renewal",
+    "/skill/saint",
+    "/skill/sanctuary",
+    "/skill/smite",
+    "/skill/soul_tether",
+    "/skill/tough_skin",
+    "/skill/zeal"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/acolyte",
+   "source_title": "Acolyte · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Acolyte.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครฮีลเลอร์ / ซัพพอร์ต · เล่นง่าย 5/5 · ตีหมู่ 3/5 · ความทน 4/5ต้องระวังเล่นเดี่ยวฆ่าช้า\n\nดาเมจต่อครั้งไม่สูง\n\nเก่งที่สุดตอนอยู่ในปาร์ตี้สเตตัสดาเมจมาจาก **INT** → MATK · VIT เพิ่ม HP · โบนัสอาชีพ +2 INT · +2 VITอาวุธ / มือรองค้อน · ไม้เท้า · คทา · คทาแสง · ตำรา · โล่ · โล่เวท · ค้อนศักดิ์สิทธิ์ · ไม้เท้าแสง · กระถางกำยาน · ระฆังสกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Smite](/skill/smite) · [Mend](/skill/mend) · [Soul Tether](/skill/soul_tether)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nสายผูกวิญญาณ — ดาเมจที่ทำไหลกลับมาเป็นพลังรักษา",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Atonement",
+     "header": [
+      "สกิลที่สร้าง Atonement",
+      "สกิลที่ใช้ Atonement"
+     ],
+     "rows": [
+      [
+       "Smite / Radiant Burst Evolution A · Radiant Atonement (สกิล Lv 3) / Holy Lance Evolution A · Atoning Lance (สกิล Lv 5) / Soul Tether Evolution B · Penance (สกิล Lv 5) / Divine Chain Evolution A · Binding Light (สกิล Lv 5)",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% MATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Judgment · Mastery 20 แต้ม: +6% MATK"
+      ],
+      [
+       "Smite",
+       "ยิง",
+       "1",
+       "ยิงแสงศักดิ์สิทธิ์ ดูดเลือดจากดาเมจ",
+       "239%",
+       "3 วิ"
+      ],
+      [
+       "Radiant Burst",
+       "ประชิด",
+       "5",
+       "ระเบิดแสงรอบตัว ผลักมอนกระเด็น + สโลว์",
+       "355%",
+       "10.8 วิ"
+      ],
+      [
+       "Holy Wrath",
+       "Passive",
+       "10",
+       "+5 INT, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Zeal",
+       "Passive",
+       "16",
+       "+5 INT, +5 DEX, +12.5% MATK, +5 HIT",
+       "—",
+       "—"
+      ],
+      [
+       "Holy Lance",
+       "ยิง",
+       "23",
+       "พุ่งหอกแสงทะลุแถว เปิดเป้าให้โดนดาเมจแรงขึ้น",
+       "541%",
+       "11.4 วิ"
+      ],
+      [
+       "Crusader",
+       "Passive",
+       "30",
+       "+3 INT, +6% MATK, +1.5% Spell Amp",
+       "—",
+       "—"
+      ],
+      [
+       "Mercy · Mastery 20 แต้ม: +9 ฟื้น HP/วิ"
+      ],
+      [
+       "Mend",
+       "รักษา",
+       "1",
+       "ฮีลทันที",
+       "—",
+       "10.8 วิ"
+      ],
+      [
+       "Sanctuary",
+       "วางพื้นที่",
+       "5",
+       "วางวงฮีล HP/MP ให้ทีม",
+       "104%",
+       "19.2 วิ"
+      ],
+      [
+       "Devotion",
+       "Passive",
+       "10",
+       "+5 INT, +5 VIT",
+       "—",
+       "—"
+      ],
+      [
+       "Gentle Hands",
+       "Passive",
+       "16",
+       "+5 INT, +5 VIT, +30 healPower, +90 Max MP, +15% MATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Renewal",
+       "รักษา",
+       "23",
+       "ฮีลตัวเองจำนวนมาก · ใช้เมื่อ HP วิกฤต",
+       "—",
+       "28.8 วิ"
+      ],
+      [
+       "Saint",
+       "Passive",
+       "30",
+       "+3 INT, +27 healPower, +90 Max MP",
+       "—",
+       "—"
+      ],
+      [
+       "Covenant · Mastery 20 แต้ม: +6% Max HP, +8% MATK"
+      ],
+      [
+       "Soul Tether",
+       "ยิง",
+       "1",
+       "ผูกเป้า ดาเมจที่ทำกลายเป็นฮีล",
+       "166%",
+       "14.4 วิ"
+      ],
+      [
+       "Bless",
+       "บัฟ",
+       "5",
+       "บัฟพลังโจมตี + ลดดาเมจที่ได้รับ",
+       "—",
+       "30 วิ"
+      ],
+      [
+       "Blessed Soul",
+       "Passive",
+       "10",
+       "+5 INT, +5 LUK",
+       "—",
+       "—"
+      ],
+      [
+       "Faith",
+       "Passive",
+       "16",
+       "+5 INT, +5 LUK, +5% Max HP, +2.5% ลดคูลดาวน์, +12.5% MATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Divine Chain",
+       "ยิง",
+       "23",
+       "ยิงโซ่ 3 เส้น ตรึงเป้า ดูดดาเมจเป็นฮีล",
+       "354%",
+       "12 วิ"
+      ],
+      [
+       "Martyr",
+       "Passive",
+       "30",
+       "+3 INT, +6% Max HP, +3 FLEE",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin",
+    "/skill/bless",
+    "/skill/blessed_soul",
+    "/skill/crusader",
+    "/skill/devotion",
+    "/skill/divine_chain",
+    "/skill/faith",
+    "/skill/gentle_hands",
+    "/skill/holy_lance",
+    "/skill/holy_wrath",
+    "/skill/martyr",
+    "/skill/mend",
+    "/skill/radiant_burst",
+    "/skill/renewal",
+    "/skill/saint",
+    "/skill/sanctuary",
+    "/skill/smite",
+    "/skill/soul_tether",
+    "/skill/zeal"
+   ]
+  },
+  {
+   "name": "Knight",
+   "slug": "knight",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/honey_bear",
+    "/skill/bash",
+    "/skill/blade_discipline",
+    "/skill/bulwark_training",
+    "/skill/echo_attunement",
+    "/skill/echo_wave",
+    "/skill/guardian_charge",
+    "/skill/iron_guard",
+    "/skill/judgment_blade",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/oathkeeper",
+    "/skill/resonance",
+    "/skill/reverb_field",
+    "/skill/shield_wall",
+    "/skill/slam",
+    "/skill/spirit_echo",
+    "/skill/sword_mastery",
+    "/skill/tough_skin",
+    "/skill/unbreakable",
+    "/skill/valor",
+    "/skill/war_horn"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/knight",
+   "source_title": "Knight · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Knight.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครแทงก์ · เล่นง่าย 5/5 · ตีหมู่ 3/5 · ความทน 5/5ต้องระวังฆ่ามอนช้ากว่าสายตีทุกสาย\n\nตีได้แค่ระยะประชิด\n\nคลื่นสวนแรงสุดต้องอ่านจังหวะศัตรูให้ออกสเตตัสดาเมจมาจาก **STR** → ATK · VIT เพิ่ม HP · โบนัสอาชีพ +3 VIT · +2 STRอาวุธ / มือรองดาบ · ดาบสองมือ · ค้อน · คทา · คทาแสง · โล่ · โล่เวท · หอก · ขวาน · ทวน · หอกทหารม้า · ลูกตุ้มโซ่ · โล่หอคอย · โล่กลมเล็ก · โล่ว่าวสกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Shield Bash](/skill/bash) · [Iron Guard](/skill/iron_guard) · [Spirit Echo](/skill/spirit_echo)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nโล่วิญญาณ — กักเก็บเสียงสะท้อนจากดาเมจที่ได้รับ แล้วปลดปล่อยกลับออกไป",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Bulwark",
+     "header": [
+      "สกิลที่สร้าง Bulwark",
+      "สกิลที่ใช้ Bulwark"
+     ],
+     "rows": [
+      [
+       "Shield Bash Evolution A · Concussion (สกิล Lv 5) / Bulwark Slam / Judgment Blade Evolution A · Condemn (สกิล Lv 5) / Guardian Charge Evolution B · Bastion Charge (สกิล Lv 5) / Spirit Echo Evolution A · Bastion Echo (สกิล Lv 5) / Spirit Echo Evolution B · Echo Taunt (สกิล Lv 5) / Echo Wave Evolution A · Bastion Wave (สกิล Lv 5)",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% ATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Blade · Mastery 20 แต้ม: +6% ATK"
+      ],
+      [
+       "Shield Bash",
+       "ประชิด",
+       "1",
+       "พุ่งเข้าไปฟาดโล่ เปิดจังหวะให้ทีม",
+       "416%",
+       "3.4 วิ"
+      ],
+      [
+       "Bulwark Slam",
+       "ประชิด",
+       "5",
+       "ฟาดหน้ากว้าง ตีหมู่ · ใช้เมื่อโดนรุม",
+       "437%",
+       "5.4 วิ"
+      ],
+      [
+       "Blade Discipline",
+       "Passive",
+       "10",
+       "+5 STR, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Sword Mastery",
+       "Passive",
+       "16",
+       "+5 STR, +5 DEX, +7% ATK, +5 HIT",
+       "—",
+       "—"
+      ],
+      [
+       "Judgment Blade",
+       "ประชิด",
+       "23",
+       "แทงตรงไปข้างหน้าแรงๆ แล้วเปิดเป้าให้โดนดาเมจแรงขึ้น",
+       "624%",
+       "10.8 วิ"
+      ],
+      [
+       "Valor",
+       "Passive",
+       "30",
+       "+3 STR, +3% คริ, +6% ดาเมจคริ",
+       "—",
+       "—"
+      ],
+      [
+       "Bulwark · Mastery 20 แต้ม: +36 DEF"
+      ],
+      [
+       "Iron Guard",
+       "บัฟ",
+       "1",
+       "กางการ์ดก่อนโดนดาเมจหนัก",
+       "—",
+       "21.6 วิ"
+      ],
+      [
+       "War Horn",
+       "บัฟ",
+       "5",
+       "ดึงมอนเข้าหาตัว แทงค์แทนทีม",
+       "322%",
+       "14.4 วิ"
+      ],
+      [
+       "Bulwark Training",
+       "Passive",
+       "10",
+       "+5 VIT, +5 AGI",
+       "—",
+       "—"
+      ],
+      [
+       "Shield Wall",
+       "Passive",
+       "16",
+       "+5 VIT, +5 AGI, +30 DEF, +15 Soft DEF, +12.5% ATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Guardian Charge",
+       "พุ่งตัว",
+       "23",
+       "พุ่งเข้ากลางวง สตัน + ดึงอักโกรมาที่ตัว",
+       "458%",
+       "12 วิ"
+      ],
+      [
+       "Unbreakable",
+       "Passive",
+       "30",
+       "+3 VIT, +6% Max HP, +3 ฟื้น HP",
+       "—",
+       "—"
+      ],
+      [
+       "Spirit Echo · Mastery 20 แต้ม: +6% Max HP"
+      ],
+      [
+       "Spirit Echo",
+       "ประชิด",
+       "1",
+       "ตั้งการ์ดบล็อกทุกดาเมจ แล้วสวนกลับ ยิ่งบล็อกเยอะยิ่งแรง",
+       "649%",
+       "14.4 วิ"
+      ],
+      [
+       "Echo Wave",
+       "ยิง",
+       "5",
+       "ปล่อยคลื่นทะลุแถวมอน พร้อมสโลว์",
+       "458%",
+       "6 วิ"
+      ],
+      [
+       "Echo Attunement",
+       "Passive",
+       "10",
+       "+5 INT, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Resonance",
+       "Passive",
+       "16",
+       "+5 INT, +10% MATK, +120 Max MP",
+       "—",
+       "—"
+      ],
+      [
+       "Reverb Field",
+       "วางพื้นที่",
+       "23",
+       "วางวงเสียงก้อง ตีหมู่ + สโลว์มอนรอบตัว",
+       "146%",
+       "16.8 วิ"
+      ],
+      [
+       "Oathkeeper",
+       "Passive",
+       "30",
+       "+3 INT, +3 DEX, +9% MATK, +1.5% ลดคูลดาวน์, +6% สปีดตี",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/bash",
+    "/skill/blade_discipline",
+    "/skill/bulwark_training",
+    "/skill/echo_attunement",
+    "/skill/echo_wave",
+    "/skill/guardian_charge",
+    "/skill/iron_guard",
+    "/skill/judgment_blade",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/oathkeeper",
+    "/skill/resonance",
+    "/skill/reverb_field",
+    "/skill/shield_wall",
+    "/skill/slam",
+    "/skill/spirit_echo",
+    "/skill/sword_mastery",
+    "/skill/tough_skin",
+    "/skill/unbreakable",
+    "/skill/valor",
+    "/skill/war_horn"
+   ]
+  },
+  {
+   "name": "Mage",
+   "slug": "mage",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/inkwell_owl",
+    "/pet/lantern_axolotl",
+    "/skill/arcane_attunement",
+    "/skill/archmage",
+    "/skill/bolt",
+    "/skill/enlightened",
+    "/skill/focus_mind",
+    "/skill/frostbind",
+    "/skill/glyph_study",
+    "/skill/ice_lance",
+    "/skill/inner_fire",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/mana_veil",
+    "/skill/meditation",
+    "/skill/meteor",
+    "/skill/mind_blast",
+    "/skill/nova",
+    "/skill/rune_lore",
+    "/skill/rune_sovereign",
+    "/skill/spell_mastery",
+    "/skill/spirit_rune",
+    "/skill/tough_skin"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/mage",
+   "source_title": "Mage · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Mage.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครจอมเวท AoE · เล่นง่าย 3/5 · ตีหมู่ 5/5 · ความทน 1/5ต้องระวังบางที่สุด — โดนรุมแล้วอันตราย\n\nกิน MP มาก ต้องพกยา MP\n\nสกิลใหญ่ต้องร่าย ขยับแล้วยกเลิก · มอนสาย Wisp (MDEF สูง) ตีเข้ายากสเตตัสดาเมจมาจาก **INT** → MATK · VIT เพิ่ม HP · โบนัสอาชีพ +3 INT · +1 VITอาวุธ / มือรองไม้เท้า · คทา · ตำรา · โล่เวท · ลูกแก้วเวท · ไม้เท้ายาว · ไม้เท้าศึก · ปริซึม · ภูตรับใช้สกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Spirit Bolt](/skill/bolt) · [Spirit Rune](/skill/spirit_rune) · [Mana Veil](/skill/mana_veil)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nปักรูนวิญญาณที่ต่อสู้แทนตัว — ยืนอยู่ในเขตศักดิ์สิทธิ์ของตัวเอง",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Chill · Shatter",
+     "header": [
+      "สกิลที่สร้าง Chill · Shatter",
+      "สกิลที่ใช้ Chill · Shatter"
+     ],
+     "rows": [
+      [
+       "Spirit Nova / Meteor Wave Evolution A · Frozen Comet (สกิล Lv 5) / Frostbind / Ice Lance / Mana Veil Evolution B · Frost Armor (สกิล Lv 3)",
+       "Spirit Nova Evolution B · Shatter Nova (สกิล Lv 5) / Ice Lance Evolution B · Shatter Lance (สกิล Lv 5)"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% MATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Destruction · Mastery 20 แต้ม: +8% MATK"
+      ],
+      [
+       "Spirit Bolt",
+       "ยิง",
+       "1",
+       "ยิงเวทเร็ว ใส่เป้าเดี่ยว",
+       "354%",
+       "1.7 วิ"
+      ],
+      [
+       "Spirit Nova",
+       "วางพื้นที่",
+       "5",
+       "ระเบิดเวทตรงจุดเล็ง ตีทั้งฝูงพร้อมกัน + Chill ให้มอนเดินช้าลง",
+       "395%",
+       "7.8 วิ"
+      ],
+      [
+       "Arcane Attunement",
+       "Passive",
+       "10",
+       "+5 INT, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Spell Mastery",
+       "Passive",
+       "16",
+       "+5 INT, +5 DEX, +7.5% MATK, +1.5% Spell Amp",
+       "—",
+       "—"
+      ],
+      [
+       "Meteor Wave",
+       "วางพื้นที่",
+       "23",
+       "เรียกอุกกาบาตถล่ม ตีหมู่วงกว้าง ดาเมจหนักในพริบตา",
+       "141%",
+       "19.2 วิ"
+      ],
+      [
+       "Archmage",
+       "Passive",
+       "30",
+       "+3 INT, +6% MATK, +3% Spell Amp",
+       "—",
+       "—"
+      ],
+      [
+       "Runecraft · Mastery 20 แต้ม: +5% ลดคูลดาวน์"
+      ],
+      [
+       "Spirit Rune",
+       "วางพื้นที่",
+       "1",
+       "วางรูน ตีซ้ำในพื้นที่",
+       "104%",
+       "15.6 วิ"
+      ],
+      [
+       "Frostbind",
+       "วางพื้นที่",
+       "5",
+       "วงน้ำแข็งตรงจุดเล็ง ตรึงทั้งฝูงไว้ห่างตัว + Chill — ตัวกันโดนรุมของ Mage",
+       "208%",
+       "10.8 วิ"
+      ],
+      [
+       "Rune Lore",
+       "Passive",
+       "10",
+       "+5 INT, +5 AGI",
+       "—",
+       "—"
+      ],
+      [
+       "Glyph Study",
+       "Passive",
+       "16",
+       "+5 INT, +5 AGI, +4% ลดคูลดาวน์, +90 Max MP, +10% MATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Ice Lance",
+       "ยิง",
+       "23",
+       "หอกน้ำแข็งทะลุแถว สโลว์หนัก",
+       "790%",
+       "7.2 วิ"
+      ],
+      [
+       "Rune Sovereign",
+       "Passive",
+       "30",
+       "+3 INT, +3% ลดคูลดาวน์, +3% MATK",
+       "—",
+       "—"
+      ],
+      [
+       "Mind · Mastery 20 แต้ม: +120 Max MP, +8% MATK"
+      ],
+      [
+       "Mana Veil",
+       "บัฟ",
+       "1",
+       "ลดดาเมจที่ได้รับ ก่อนมอนเข้าประชิด",
+       "—",
+       "26.4 วิ"
+      ],
+      [
+       "Focus Mind",
+       "บัฟ",
+       "5",
+       "ลดคูลดาวน์สกิลถัดไป",
+       "—",
+       "36 วิ"
+      ],
+      [
+       "Inner Fire",
+       "Passive",
+       "10",
+       "+5 INT, +5 VIT",
+       "—",
+       "—"
+      ],
+      [
+       "Meditation",
+       "Passive",
+       "16",
+       "+5 INT, +5 VIT, +180 Max MP, +12.5% MATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Mind Blast",
+       "วางพื้นที่",
+       "23",
+       "ระเบิดพลังจิตตรงจุดเล็ง สตันทั้งวง",
+       "707%",
+       "13.2 วิ"
+      ],
+      [
+       "Enlightened",
+       "Passive",
+       "30",
+       "+3 INT, +108 Max MP, +3% MATK",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin",
+    "/skill/arcane_attunement",
+    "/skill/archmage",
+    "/skill/bolt",
+    "/skill/enlightened",
+    "/skill/focus_mind",
+    "/skill/frostbind",
+    "/skill/glyph_study",
+    "/skill/ice_lance",
+    "/skill/inner_fire",
+    "/skill/mana_veil",
+    "/skill/meditation",
+    "/skill/meteor",
+    "/skill/mind_blast",
+    "/skill/nova",
+    "/skill/rune_lore",
+    "/skill/rune_sovereign",
+    "/skill/spell_mastery",
+    "/skill/spirit_rune"
+   ]
+  },
+  {
+   "name": "Binder",
+   "slug": "novice",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/novice",
+   "source_title": "Binder · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Binder.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครทุกคนเริ่มที่นี่ — ถึง Job Lv 10 เลือกอาชีพแรกฟรีสเตตัสดาเมจมาจาก **STR** → ATK · VIT เพิ่ม HP · โบนัสอาชีพ —อาวุธ / มือรองดาบ · กริช · โล่",
+   "tables": [
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% ATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Binder"
+      ],
+      [
+       "Tough Skin",
+       "Passive",
+       "1",
+       "+6 VIT",
+       "—",
+       "—"
+      ],
+      [
+       "Keen Edge",
+       "Passive",
+       "1",
+       "+3 STR, +3 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Light Step",
+       "Passive",
+       "1",
+       "+3 AGI, +3 LUK",
+       "—",
+       "—"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin"
+   ]
+  },
+  {
+   "name": "Rogue",
+   "slug": "rogue",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/celestial_qilin",
+    "/pet/ember_phoenix",
+    "/pet/knight_corgi",
+    "/pet/stormkite_falcon",
+    "/skill/adrenaline",
+    "/skill/assassinate",
+    "/skill/death_mark",
+    "/skill/dirty_tricks",
+    "/skill/essence_hunger",
+    "/skill/evasion",
+    "/skill/fade",
+    "/skill/fan_knives",
+    "/skill/flurry",
+    "/skill/keen_edge",
+    "/skill/killing_edge",
+    "/skill/lethality",
+    "/skill/light_step",
+    "/skill/night_veil",
+    "/skill/phantom_step",
+    "/skill/shadow_dance",
+    "/skill/shadow_strike",
+    "/skill/smoke_bomb",
+    "/skill/soul_filch",
+    "/skill/tough_skin",
+    "/skill/venom_craft"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/rogue",
+   "source_title": "Rogue · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Rogue.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครแอสซาซิน · เล่นง่าย 2/5 · ตีหมู่ 2/5 · ความทน 2/5ต้องระวังบาง — พลาดจังหวะแล้วตายง่าย\n\nตีหมู่ได้น้อย ฝูงใหญ่ช้า\n\nเล่นยาก ต้องคุมจังหวะสกิลสเตตัสดาเมจมาจาก **STR** → ATK · VIT เพิ่ม HP · โบนัสอาชีพ +3 AGI · +2 LUKอาวุธ / มือรองกริช · เรเปียร์ · มีดบิน · ขวดพิษ · มีดปัด · สายคาดมีดสกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Flurry](/skill/flurry) · [Fan of Knives](/skill/fan_knives) · [Fade](/skill/fade)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nขโมยสาระวิญญาณจากสิ่งที่ฆ่า",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Combo",
+     "header": [
+      "สกิลที่สร้าง Combo",
+      "สกิลที่ใช้ Combo"
+     ],
+     "rows": [
+      [
+       "Flurry Evolution A · Venom Edge (สกิล Lv 5) / Assassinate Evolution B · Clean Cut (สกิล Lv 5) / Fan of Knives Evolution B · Poison Fan (สกิล Lv 5) / Soul Filch Evolution A · Quick Hands (สกิล Lv 5)",
+       "Shadow Strike Evolution A · Ambush (สกิล Lv 5) / Assassinate Evolution A · Deathblow (สกิล Lv 5)"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% ATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Assassin · Mastery 20 แต้ม: +4% คริ"
+      ],
+      [
+       "Flurry",
+       "ประชิด",
+       "1",
+       "แทงรัวหลายที ทิ้งดาเมจต่อเนื่อง",
+       "125%",
+       "2.4 วิ"
+      ],
+      [
+       "Shadow Strike",
+       "พุ่งตัว",
+       "5",
+       "พุ่งผ่านเงาเข้าหาเป้า",
+       "416%",
+       "8.4 วิ"
+      ],
+      [
+       "Killing Edge",
+       "Passive",
+       "10",
+       "+5 AGI, +5 LUK",
+       "—",
+       "—"
+      ],
+      [
+       "Lethality",
+       "Passive",
+       "16",
+       "+5 AGI, +5 LUK, +4% คริ, +5% ดาเมจคริ",
+       "—",
+       "—"
+      ],
+      [
+       "Assassinate",
+       "ประชิด",
+       "23",
+       "แทงจุดตายทีเดียว ดาเมจแรงสุดในสาย",
+       "666%",
+       "14.4 วิ"
+      ],
+      [
+       "Death Mark",
+       "Passive",
+       "30",
+       "+3 AGI, +7.5% ดาเมจคริ",
+       "—",
+       "—"
+      ],
+      [
+       "Trickery · Mastery 20 แต้ม: +7.5% ดาเมจคริ, +8% ATK"
+      ],
+      [
+       "Fan of Knives",
+       "ยิง",
+       "1",
+       "ปามีดพัด 5 เล่ม เล่มละเป้า ติดพิษ — สกิลหลักตีหมู่ของสาย Trickery",
+       "129%",
+       "3.1 วิ"
+      ],
+      [
+       "Soul Filch",
+       "ประชิด",
+       "5",
+       "ตีเป้าที่ติดดีบัฟ ขโมยแก่น",
+       "437%",
+       "16.8 วิ"
+      ],
+      [
+       "Essence Hunger",
+       "Passive",
+       "10",
+       "+5 DEX, +5 STR",
+       "—",
+       "—"
+      ],
+      [
+       "Dirty Tricks",
+       "Passive",
+       "16",
+       "+5 DEX, +5 STR, +10 HIT, +12.5% ATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Smoke Bomb",
+       "วางพื้นที่",
+       "23",
+       "ปาระเบิดควันพิษ มอนในวงติดสโลว์ + โดนดาเมจต่อเนื่อง",
+       "73%",
+       "19.2 วิ"
+      ],
+      [
+       "Venom Craft",
+       "Passive",
+       "30",
+       "+3 DEX, +3% ลดคูลดาวน์, +3% ATK",
+       "—",
+       "—"
+      ],
+      [
+       "Shadow· Mastery 20 แต้ม: +6% สปีดวิ่ง"
+      ],
+      [
+       "Fade",
+       "บัฟ",
+       "1",
+       "สลัดอักโกร แล้วเปลี่ยนตำแหน่ง",
+       "—",
+       "18 วิ"
+      ],
+      [
+       "Adrenaline",
+       "บัฟ",
+       "5",
+       "บัฟสปีดตีช่วงสั้นๆ",
+       "—",
+       "30 วิ"
+      ],
+      [
+       "Phantom Step",
+       "Passive",
+       "10",
+       "+5 AGI, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Elusion",
+       "Passive",
+       "16",
+       "+5 AGI, +5 DEX, +10 FLEE, +5% สปีดวิ่ง, +10% ATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Shadow Dance",
+       "พุ่งตัว",
+       "23",
+       "พุ่งทะลุมอน 2 รอบติด สโลว์ทุกตัวที่ผ่าน",
+       "125%",
+       "6.7 วิ"
+      ],
+      [
+       "Night Veil",
+       "Passive",
+       "30",
+       "+3 AGI, +6 FLEE, +6% สปีดตี",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin",
+    "/skill/adrenaline",
+    "/skill/assassinate",
+    "/skill/death_mark",
+    "/skill/dirty_tricks",
+    "/skill/essence_hunger",
+    "/skill/evasion",
+    "/skill/fade",
+    "/skill/fan_knives",
+    "/skill/flurry",
+    "/skill/killing_edge",
+    "/skill/lethality",
+    "/skill/night_veil",
+    "/skill/phantom_step",
+    "/skill/shadow_dance",
+    "/skill/shadow_strike",
+    "/skill/smoke_bomb",
+    "/skill/soul_filch",
+    "/skill/venom_craft"
+   ]
+  },
+  {
+   "name": "Scout",
+   "slug": "scout",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/celestial_qilin",
+    "/pet/ember_phoenix",
+    "/pet/knight_corgi",
+    "/pet/stormkite_falcon",
+    "/skill/anchor_arrow",
+    "/skill/arrow_rain",
+    "/skill/backstep",
+    "/skill/blast_arrow",
+    "/skill/bombardier",
+    "/skill/deadeye",
+    "/skill/eagle_eye",
+    "/skill/focus",
+    "/skill/gale_volley",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/piercing_shot",
+    "/skill/powder_kit",
+    "/skill/siege_master",
+    "/skill/spirit_shot",
+    "/skill/steady_aim",
+    "/skill/tailwind",
+    "/skill/tough_skin",
+    "/skill/twin_strafe",
+    "/skill/windwalker",
+    "/skill/zephyr_soul"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/scout",
+   "source_title": "Scout · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Scout.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครยิงไกล · เล่นง่าย 4/5 · ตีหมู่ 3/5 · ความทน 2/5ต้องระวังบาง — ถ้ามอนเข้าประชิดจะลำบาก\n\nดาเมจเป้าเดียวไม่สูงเท่า Rogue\n\nมอนวิ่งเร็วไล่ทันได้สเตตัสดาเมจมาจาก **DEX** → ATK · VIT เพิ่ม HP · โบนัสอาชีพ +3 DEX · +2 AGIอาวุธ / มือรองธนู · หน้าไม้ · หน้าไม้มือ · หลาว · สลิง · ซองธนู · ถุงหิน · โล่กลมเล็กสกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Spirit Shot](/skill/spirit_shot) · [Anchor Arrow](/skill/anchor_arrow) · [Focus](/skill/focus)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nนักธนูวิญญาณ — ลูกศรที่ปักเหยื่อติดกับพื้น",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Hunter's Mark",
+     "header": [
+      "สกิลที่สร้าง Hunter's Mark",
+      "สกิลที่ใช้ Hunter's Mark"
+     ],
+     "rows": [
+      [
+       "Spirit Shot Evolution A · Hunter's Mark (สกิล Lv 5) / Anchor Arrow Evolution A · Pinning Shot (สกิล Lv 5)",
+       "Piercing Shot Evolution B · Kill Shot (สกิล Lv 5)"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% ATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Marksman · Mastery 20 แต้ม: +10 HIT"
+      ],
+      [
+       "Spirit Shot",
+       "ยิง",
+       "1",
+       "ยิงเปิดเป้าให้โดนดาเมจแรงขึ้น แล้วต่อด้วยศรคู่",
+       "260%",
+       "1.7 วิ"
+      ],
+      [
+       "Twin Strafe",
+       "ยิง",
+       "5",
+       "ยิงศรคู่ แรงขึ้นใส่เป้าที่ติดดีบัฟ",
+       "150%",
+       "3.4 วิ"
+      ],
+      [
+       "Eagle Eye",
+       "Passive",
+       "10",
+       "+5 DEX, +5 LUK",
+       "—",
+       "—"
+      ],
+      [
+       "Steady Aim",
+       "Passive",
+       "16",
+       "+5 DEX, +5 LUK, +4% คริ, +5 HIT",
+       "—",
+       "—"
+      ],
+      [
+       "Piercing Shot",
+       "ยิง",
+       "23",
+       "ยิงศรหนักทะลุทั้งแถว ไกลและเร็ว",
+       "582%",
+       "8.4 วิ"
+      ],
+      [
+       "Deadeye",
+       "Passive",
+       "30",
+       "+3 DEX, +7.5% ดาเมจคริ",
+       "—",
+       "—"
+      ],
+      [
+       "Artillery · Mastery 20 แต้ม: +10% ATK"
+      ],
+      [
+       "Anchor Arrow",
+       "ยิง",
+       "1",
+       "ยิงตรึงมอนติดกำแพง",
+       "478%",
+       "8.4 วิ"
+      ],
+      [
+       "Arrow Rain",
+       "วางพื้นที่",
+       "5",
+       "ยิงห่าศรปิดพื้นที่ ตีหมู่",
+       "156%",
+       "12 วิ"
+      ],
+      [
+       "Bombardier",
+       "Passive",
+       "10",
+       "+5 DEX, +5 STR",
+       "—",
+       "—"
+      ],
+      [
+       "Powder Kit",
+       "Passive",
+       "16",
+       "+5 DEX, +5 STR, +12.5% ATK, +5 HIT, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Blast Arrow",
+       "ยิง",
+       "23",
+       "ยิงศรระเบิดเป็นวง สตันมอนรอบจุดตก",
+       "645%",
+       "10.8 วิ"
+      ],
+      [
+       "Siege Master",
+       "Passive",
+       "30",
+       "+3 DEX, +3% ลดคูลดาวน์, +3% ATK",
+       "—",
+       "—"
+      ],
+      [
+       "Windwalker · Mastery 20 แต้ม: +10 FLEE, +10% ATK"
+      ],
+      [
+       "Focus",
+       "บัฟ",
+       "1",
+       "บัฟโอกาสคริ · ใช้ก่อนยิงรัว",
+       "—",
+       "24 วิ"
+      ],
+      [
+       "Backstep",
+       "พุ่งตัว",
+       "5",
+       "ถอยหนีออกจากระยะประชิดทันที",
+       "—",
+       "10.8 วิ"
+      ],
+      [
+       "Windwalker",
+       "Passive",
+       "10",
+       "+5 AGI, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Tailwind",
+       "Passive",
+       "16",
+       "+5 AGI, +5 DEX, +5% สปีดวิ่ง, +7.5 FLEE, +10% ATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Gale Volley",
+       "ยิง",
+       "23",
+       "ยิงศรลม 4 ดอกเป็นรูปพัด สโลว์ทุกเป้าที่โดน",
+       "187%",
+       "7.2 วิ"
+      ],
+      [
+       "Zephyr Soul",
+       "Passive",
+       "30",
+       "+3 AGI, +9% สปีดตี, +6 FLEE",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin",
+    "/skill/anchor_arrow",
+    "/skill/arrow_rain",
+    "/skill/backstep",
+    "/skill/blast_arrow",
+    "/skill/bombardier",
+    "/skill/deadeye",
+    "/skill/eagle_eye",
+    "/skill/focus",
+    "/skill/gale_volley",
+    "/skill/piercing_shot",
+    "/skill/powder_kit",
+    "/skill/siege_master",
+    "/skill/spirit_shot",
+    "/skill/steady_aim",
+    "/skill/tailwind",
+    "/skill/twin_strafe",
+    "/skill/windwalker",
+    "/skill/zephyr_soul"
+   ]
+  },
+  {
+   "name": "Summoner",
+   "slug": "summoner",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/inkwell_owl",
+    "/pet/lantern_axolotl",
+    "/skill/alpha_bond",
+    "/skill/bind_spirit",
+    "/skill/call_guardian",
+    "/skill/call_wisp",
+    "/skill/crystal_heart",
+    "/skill/deep_call",
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/link",
+    "/skill/pack_howl",
+    "/skill/pack_instinct",
+    "/skill/shard_burst",
+    "/skill/shard_focus",
+    "/skill/shard_toss",
+    "/skill/soul_bond",
+    "/skill/soul_harvest",
+    "/skill/soul_rend",
+    "/skill/soul_siphon",
+    "/skill/spirit_flock",
+    "/skill/spirit_pact",
+    "/skill/tough_skin"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/summoner",
+   "source_title": "Summoner · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Summoner.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครSoul Reaper · เล่นง่าย 3/5 · ตีหมู่ 4/5 · ความทน 3/5ต้องระวังเปิดไฟต์แรกช้า — ต้องฆ่าก่อนถึงจะมีกองทัพ\n\nเปลี่ยนแมพแล้ววิญญาณในตะเกียงหาย\n\nField Boss ปลุกเป็น Thrall ไม่ได้สเตตัสดาเมจมาจาก **INT** → MATK · VIT เพิ่ม HP · โบนัสอาชีพ +3 INT · +1 LUKอาวุธ / มือรองไม้เท้า · คทา · ตำรา · โล่เวท · ลูกแก้วเวท · ไม้เท้ายาว · เคียวใหญ่ · เคียวโซ่ · ตะเกียงวิญญาณ · โซ่ · กะโหลกสกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Raise Dead](/skill/bind_spirit) · [Soul Bolt](/skill/soul_rend) · [Soul Ward](/skill/shard_toss)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nSoul Reaper — เก็บวิญญาณมอนที่ฆ่า ปลุกเป็นกองทัพ Thrall 2–5 ตัว แล้วระเบิดทิ้งเมื่อถึงจังหวะ",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Soul Lantern",
+     "header": [
+      "สกิลที่สร้าง Soul Lantern",
+      "สกิลที่ใช้ Soul Lantern"
+     ],
+     "rows": [
+      [
+       "Reap / Soul Bolt Evolution B · Reaping Bolt (สกิล Lv 5) / Soul Surge Evolution B · Soul Spark (สกิล Lv 5) / Requiem Evolution B · Lingering Lantern (สกิล Lv 5)",
+       "Raise Dead / Legion Call / Soul Bolt / Requiem"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% MATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Harvest · Mastery 20 แต้ม: +10% MATK"
+      ],
+      [
+       "Raise Dead",
+       "อัญเชิญ",
+       "1",
+       "ปลุกวิญญาณในตะเกียงเป็น Thrall — ร่างวิญญาณของมอนที่คุณฆ่า (ตะเกียงว่าง = ได้วิญญาณหลงทางให้มีกองทัพอย่างน้อย 5 ตัว)",
+       "—",
+       "4.8 วิ"
+      ],
+      [
+       "Reap",
+       "ยิง",
+       "5",
+       "ขว้างเคียววิญญาณทะลุแถวมอน 3 ตัว มอนที่ตายจาก Reap ดรอปวิญญาณเพิ่ม",
+       "416%",
+       "6 วิ"
+      ],
+      [
+       "Soul Lantern",
+       "Passive",
+       "10",
+       "+5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง (Field Boss ไม่ดรอป)",
+       "—",
+       "—"
+      ],
+      [
+       "Grave Pact",
+       "Passive",
+       "16",
+       "+5 INT, +5 VIT, +5% Max HP, +5 ฟื้น HP, +10% สปีดตี · Thrall HP +30% · ดาเมจ +15%",
+       "—",
+       "—"
+      ],
+      [
+       "Legion Call",
+       "บัฟ",
+       "23",
+       "ปลุกวิญญาณทั้งหมดพร้อมกัน แล้วบัฟกองทัพและ Party",
+       "—",
+       "28.8 วิ"
+      ],
+      [
+       "Night Legion",
+       "Passive",
+       "30",
+       "+3 INT, +4.5% MATK, +4.5% Max HP · กลางคืน: Thrall ดาเมจ +24% และมอนทุกตัวดรอปวิญญาณ 2 ดวง",
+       "—",
+       "—"
+      ],
+      [
+       "Requiem · Mastery 20 แต้ม: +5% ลดคูลดาวน์"
+      ],
+      [
+       "Soul Bolt",
+       "ยิง",
+       "1",
+       "ยิงลูกวิญญาณ ถ้ามีวิญญาณในตะเกียงจะกิน 1 ดวงให้แรงขึ้น",
+       "239%",
+       "1.9 วิ"
+      ],
+      [
+       "Soul Surge",
+       "บัฟ",
+       "5",
+       "สั่ง Thrall ทุกตัวปล่อยคลื่นวิญญาณรอบตัวมัน — Thrall ยังอยู่สู้ต่อ",
+       "—",
+       "9.6 วิ"
+      ],
+      [
+       "Grave Chill",
+       "Passive",
+       "10",
+       "+5 INT, +5 LUK · Soul Surge แรงขึ้น 30% + สโลว์มอน 25% นาน 2 วิ",
+       "—",
+       "—"
+      ],
+      [
+       "Soul Siphon",
+       "Passive",
+       "16",
+       "+5 INT, +5 LUK, +6% MATK, +2.5% ดูดเลือด, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Requiem",
+       "บัฟ",
+       "23",
+       "ปล่อยวิญญาณทั้งตะเกียงไประเบิดตรงจุดเล็ง (ไกลสุด 8 ช่อง) ยิ่งเยอะยิ่งแรง",
+       "—",
+       "16.8 วิ"
+      ],
+      [
+       "Endless Requiem",
+       "Passive",
+       "30",
+       "+3 INT, +3.6% Spell Amp · Thrall ที่ตาย/ระเบิด/หมดเวลา มีโอกาส 60% คืนวิญญาณเข้าตะเกียง · Requiem เก็บวิญญาณไว้ 30%",
+       "—",
+       "—"
+      ],
+      [
+       "Warden · Mastery 20 แต้ม: +3 Spell Amp, +6% MATK"
+      ],
+      [
+       "Soul Ward",
+       "บัฟ",
+       "1",
+       "กางโล่วิญญาณ วิญญาณในตะเกียงยิ่งเยอะ โล่ยิ่งหนา",
+       "—",
+       "16.8 วิ"
+      ],
+      [
+       "Grave Guardian",
+       "อัญเชิญ",
+       "5",
+       "เรียก Grave Guardian ตัวถึก ยั่วยุมอน (ไม่นับรวม Thrall)",
+       "—",
+       "36 วิ"
+      ],
+      [
+       "Warden's Oath",
+       "Passive",
+       "10",
+       "+5 INT, +5 DEX · Thrall DEF +50%",
+       "—",
+       "—"
+      ],
+      [
+       "Pale Shroud",
+       "Passive",
+       "16",
+       "+3 INT, +3 DEX, +4.5 HIT, +1.8% ลดคูลดาวน์ · มี Thrall ยืนอยู่ 2 ตัวขึ้นไป = ลดดาเมจที่ได้รับ 9%",
+       "—",
+       "—"
+      ],
+      [
+       "Grave Toll",
+       "บัฟ",
+       "23",
+       "ให้ Thrall รับดาเมจแทนคุณบางส่วน + โล่ให้ Party",
+       "—",
+       "14.4 วิ"
+      ],
+      [
+       "Phylactery",
+       "Passive",
+       "30",
+       "+3 INT, +14 DEF, +4.5% Max HP · เมื่อโดนดาเมจถึงตาย → Thrall 1 ตัวตายแทน คุณรอดด้วย HP 30% (คูลดาวน์ 60 วิ)",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin",
+    "/skill/alpha_bond",
+    "/skill/bind_spirit",
+    "/skill/call_guardian",
+    "/skill/call_wisp",
+    "/skill/crystal_heart",
+    "/skill/deep_call",
+    "/skill/link",
+    "/skill/pack_howl",
+    "/skill/pack_instinct",
+    "/skill/shard_burst",
+    "/skill/shard_focus",
+    "/skill/shard_toss",
+    "/skill/soul_bond",
+    "/skill/soul_harvest",
+    "/skill/soul_rend",
+    "/skill/soul_siphon",
+    "/skill/spirit_flock",
+    "/skill/spirit_pact"
+   ]
+  },
+  {
+   "name": "Warrior",
+   "slug": "warrior",
+   "category": "class",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field",
+    "/pet/celestial_qilin",
+    "/pet/ember_phoenix",
+    "/pet/knight_corgi",
+    "/pet/stormkite_falcon",
+    "/skill/battle_hardened",
+    "/skill/berserk_instinct",
+    "/skill/bloodlust",
+    "/skill/cleave",
+    "/skill/execution",
+    "/skill/gash",
+    "/skill/hemorrhage",
+    "/skill/iron_hide",
+    "/skill/keen_edge",
+    "/skill/last_stand",
+    "/skill/leap_slam",
+    "/skill/light_step",
+    "/skill/open_veins",
+    "/skill/rampage",
+    "/skill/rend",
+    "/skill/second_wind",
+    "/skill/slash",
+    "/skill/tough_skin",
+    "/skill/warcry",
+    "/skill/whirlwind",
+    "/skill/wound_mastery"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/job/warrior",
+   "source_title": "Warrior · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Classes/Warrior.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "เหมาะกับใครนักรบตีหมู่ · เล่นง่าย 3/5 · ตีหมู่ 4/5 · ความทน 3/5ต้องระวังเสียเลือดเยอะกว่า Knight ต้องพกยามากกว่า\n\nต้องเข้าประชิด — มอนยิงไกลกวนใจ\n\nต้องสะสมแผลก่อนถึงจะแรงสุดสเตตัสดาเมจมาจาก **STR** → ATK · VIT เพิ่ม HP · โบนัสอาชีพ +3 STR · +2 VITอาวุธ / มือรองดาบ · ดาบสองมือ · ค้อน · โล่ · หอก · ขวาน · ทวน · สนับมือ · ลูกตุ้มโซ่ · ธงศึกสกิลแรกที่ได้สกิลแรกของแต่ละสาย ได้ฟรีตอนเลือกอาชีพ: [Heavy Slash](/skill/slash) · [Rend](/skill/rend) · [Leap Slam](/skill/leap_slam)ปลดล็อกBinder Job Lv10 · เปลี่ยนทีหลัง 50,000 G · กลับไปอาชีพเดิม 25,000 G\n\nดาบที่ฝากแผลวิญญาณไว้บนศัตรู — ระเบิดแผลด้วย Rend",
+   "tables": [
+    {
+     "section": "กลไกอาชีพ · Rage",
+     "header": [
+      "สกิลที่สร้าง Rage",
+      "สกิลที่ใช้ Rage"
+     ],
+     "rows": [
+      [
+       "Cleave Evolution A · Blood Sweep (สกิล Lv 5) / Whirlwind Evolution A · Blood Spin (สกิล Lv 5)",
+       "Execution Evolution A · Wrath (สกิล Lv 5) / Leap Slam Evolution B · Berserker Leap (สกิล Lv 3)"
+      ]
+     ]
+    },
+    {
+     "section": "สกิลทั้งหมด ทีละสาย",
+     "header": [
+      "สกิล",
+      "ประเภท",
+      "Job Lv",
+      "ทำอะไร",
+      "ดาเมจ (% ATK)",
+      "คูลดาวน์"
+     ],
+     "rows": [
+      [
+       "Fury · Mastery 20 แต้ม: +10% สปีดตี"
+      ],
+      [
+       "Heavy Slash",
+       "ประชิด",
+       "1",
+       "ฟันรัวๆ สะสมแผลวิญญาณ",
+       "499%",
+       "3.3 วิ"
+      ],
+      [
+       "Cleave",
+       "ประชิด",
+       "5",
+       "ฟันกว้าง ตีหมู่ พร้อมฝากแผล",
+       "374%",
+       "5 วิ"
+      ],
+      [
+       "Berserk Instinct",
+       "Passive",
+       "10",
+       "+5 STR, +5 AGI",
+       "—",
+       "—"
+      ],
+      [
+       "Bloodlust",
+       "Passive",
+       "16",
+       "+5 STR, +5 AGI, +10% สปีดตี, +4% ATK",
+       "—",
+       "—"
+      ],
+      [
+       "Whirlwind",
+       "ประชิด",
+       "23",
+       "หมุนฟันรอบตัว 3 ฮิต ฝากแผลทุกเป้า",
+       "166%",
+       "9.6 วิ"
+      ],
+      [
+       "Rampage",
+       "Passive",
+       "30",
+       "+3 STR, +9% สปีดตี, +4.5% ดาเมจคริ",
+       "—",
+       "—"
+      ],
+      [
+       "Wounds · Mastery 20 แต้ม: +7.5% ดาเมจคริ"
+      ],
+      [
+       "Rend",
+       "ประชิด",
+       "1",
+       "ระเบิดแผลที่สะสมไว้ ปิดจ็อบ",
+       "395%",
+       "12 วิ"
+      ],
+      [
+       "Gash",
+       "ประชิด",
+       "5",
+       "กรีดให้เลือดไหล (ดาเมจต่อเนื่อง) + ฝากแผลวิญญาณ",
+       "437%",
+       "5.4 วิ"
+      ],
+      [
+       "Wound Mastery",
+       "Passive",
+       "10",
+       "+5 STR, +5 DEX",
+       "—",
+       "—"
+      ],
+      [
+       "Open Veins",
+       "Passive",
+       "16",
+       "+5 STR, +5 DEX, +7.5% ดาเมจคริ, +5 HIT, +10% ATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Execution",
+       "ประชิด",
+       "23",
+       "ฟันปิดจ็อบ แรงขึ้นมากใส่เป้าที่ติดดีบัฟ",
+       "749%",
+       "14.4 วิ"
+      ],
+      [
+       "Hemorrhage",
+       "Passive",
+       "30",
+       "+3 STR, +2.1% ดูดเลือด, +2.1% คริ",
+       "—",
+       "—"
+      ],
+      [
+       "Survival · Mastery 20 แต้ม: +9 ฟื้น HP/วิ"
+      ],
+      [
+       "Leap Slam",
+       "พุ่งตัว",
+       "1",
+       "กระโดดทุบลงกลางฝูงมอน พร้อมฝากแผล",
+       "444%",
+       "9.6 วิ"
+      ],
+      [
+       "Second Wind",
+       "รักษา",
+       "5",
+       "ฮีลตัวเองตอนไฟต์ยืดเยื้อ",
+       "—",
+       "36 วิ"
+      ],
+      [
+       "Battle Hardened",
+       "Passive",
+       "10",
+       "+5 VIT, +5 STR",
+       "—",
+       "—"
+      ],
+      [
+       "Iron Hide",
+       "Passive",
+       "16",
+       "+5 VIT, +5 STR, +23 DEF, +5% Max HP, +10% ATK, +10% สปีดตี",
+       "—",
+       "—"
+      ],
+      [
+       "Warcry",
+       "บัฟ",
+       "23",
+       "บัฟดาเมจก่อนบุก แลกกับโดนดาเมจแรงขึ้น",
+       "—",
+       "24 วิ"
+      ],
+      [
+       "Last Stand",
+       "Passive",
+       "30",
+       "+3 VIT, +5 ฟื้น HP, +6% Max HP",
+       "—",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "ติดตัวจาก Binder",
+     "header": [
+      "สกิล",
+      "ที่ Lv สูงสุด"
+     ],
+     "rows": [
+      [
+       "Tough Skin",
+       "+6 VIT"
+      ],
+      [
+       "Keen Edge",
+       "+3 STR, +3 DEX"
+      ],
+      [
+       "Light Step",
+       "+3 AGI, +3 LUK"
+      ]
+     ]
+    }
+   ],
+   "skills": [
+    "/skill/keen_edge",
+    "/skill/light_step",
+    "/skill/tough_skin",
+    "/skill/battle_hardened",
+    "/skill/berserk_instinct",
+    "/skill/bloodlust",
+    "/skill/cleave",
+    "/skill/execution",
+    "/skill/gash",
+    "/skill/hemorrhage",
+    "/skill/iron_hide",
+    "/skill/last_stand",
+    "/skill/leap_slam",
+    "/skill/open_veins",
+    "/skill/rampage",
+    "/skill/rend",
+    "/skill/second_wind",
+    "/skill/slash",
+    "/skill/warcry",
+    "/skill/whirlwind",
+    "/skill/wound_mastery"
+   ]
+  }
+ ]
+}

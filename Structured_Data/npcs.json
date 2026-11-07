@@ -1,0 +1,3583 @@
+{
+ "_about": "All 71 NPCs.",
+ "count": 71,
+ "records": [
+  {
+   "name": "ปรุงยา",
+   "slug": "apothecary",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/apothecary",
+   "source_title": "ปรุงยา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/apothecary.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "นักจดหมายเหตุไอแซค",
+   "slug": "archivist",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/archivist",
+   "source_title": "นักจดหมายเหตุไอแซค · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/archivist.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "เปลี่ยนอาชีพ",
+   "slug": "binder_master",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/binder_master",
+   "source_title": "เปลี่ยนอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/binder_master.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ตีบวก / ซ่อม / Reroll",
+   "slug": "blacksmith",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook",
+    "/systems/smith"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/blacksmith",
+   "source_title": "ตีบวก / ซ่อม / Reroll · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/blacksmith.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
+   "tables": []
+  },
+  {
+   "name": "ตีบวก / ซ่อม / Reroll",
+   "slug": "blacksmith2",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/systems/smith"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/blacksmith2",
+   "source_title": "ตีบวก / ซ่อม / Reroll · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/blacksmith2.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
+   "tables": []
+  },
+  {
+   "name": "ตีบวก / ซ่อม / Reroll",
+   "slug": "blacksmith3",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/systems/smith"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/blacksmith3",
+   "source_title": "ตีบวก / ซ่อม / Reroll · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/blacksmith3.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
+   "tables": []
+  },
+  {
+   "name": "ทำอาหาร",
+   "slug": "camp_cook",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/camp_cook",
+   "source_title": "ทำอาหาร · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/camp_cook.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "Spirit Album · การ์ด",
+   "slug": "card_binder",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/card_binder",
+   "source_title": "Spirit Album · การ์ด · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/card_binder.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
+   "tables": []
+  },
+  {
+   "name": "Spirit Album · การ์ด",
+   "slug": "card_binder_a",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/card_binder_a",
+   "source_title": "Spirit Album · การ์ด · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/card_binder_a.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
+   "tables": []
+  },
+  {
+   "name": "Spirit Album · การ์ด",
+   "slug": "card_binder_c",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/card_binder_c",
+   "source_title": "Spirit Album · การ์ด · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/card_binder_c.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
+   "tables": []
+  },
+  {
+   "name": "Spirit Album · การ์ด",
+   "slug": "card_binder_s",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/card_binder_s",
+   "source_title": "Spirit Album · การ์ด · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/card_binder_s.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
+   "tables": []
+  },
+  {
+   "name": "ทำอาหาร",
+   "slug": "cook_mira",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/cook_mira",
+   "source_title": "ทำอาหาร · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/cook_mira.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "ผู้ใหญ่บ้านโอเว่น",
+   "slug": "elder",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/elder",
+   "source_title": "ผู้ใหญ่บ้านโอเว่น · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/elder.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "หัวหน้าเหมืองกาเร็ธ",
+   "slug": "elder2",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/elder2",
+   "source_title": "หัวหน้าเหมืองกาเร็ธ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/elder2.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "คนแจวเรือแอนเซล์ม",
+   "slug": "ferryman",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/ferryman",
+   "source_title": "คนแจวเรือแอนเซล์ม · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/ferryman.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ลิลลี่สาวตกปลา",
+   "slug": "fisher_lass",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/fisher_lass",
+   "source_title": "ลิลลี่สาวตกปลา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/fisher_lass.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ยามประตูทอม",
+   "slug": "gate_guard",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/gate_guard",
+   "source_title": "ยามประตูทอม · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/gate_guard.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "หัวหน้ากิลด์อัลเดน",
+   "slug": "guildmaster",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/guildmaster",
+   "source_title": "หัวหน้ากิลด์อัลเดน · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/guildmaster.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ปรุงยา",
+   "slug": "herbalist",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/herbalist",
+   "source_title": "ปรุงยา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/herbalist.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "ทำอาหาร",
+   "slug": "innkeep",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/innkeep",
+   "source_title": "ทำอาหาร · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/innkeep.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "เปลี่ยนอาชีพ",
+   "slug": "jobmaster",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/jobmaster",
+   "source_title": "เปลี่ยนอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/jobmaster.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Southvale Field](/map/southvale_field) Lv 1–4ทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "เปลี่ยนอาชีพ",
+   "slug": "jobmaster-valebrook",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/jobmaster-valebrook",
+   "source_title": "เปลี่ยนอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/jobmaster-valebrook.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "เปลี่ยนอาชีพ",
+   "slug": "jobmaster2",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/jobmaster2",
+   "source_title": "เปลี่ยนอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/jobmaster2.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "เปลี่ยนอาชีพ",
+   "slug": "jobmaster3",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/jobmaster3",
+   "source_title": "เปลี่ยนอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/jobmaster3.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ผู้เฝ้าประภาคารอิโซลเด",
+   "slug": "lighthouse_keeper",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/lighthouse_keeper",
+   "source_title": "ผู้เฝ้าประภาคารอิโซลเด · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/lighthouse_keeper.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Portal ออกจาก Gauntlet",
+   "slug": "ll_exit_1",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ll_ch1"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/ll_exit_1",
+   "source_title": "Portal ออกจาก Gauntlet · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/ll_exit_1.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Gauntlet · Valebrook Gate](/map/ll_ch1) แมพพิเศษทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Portal ออกจาก Gauntlet",
+   "slug": "ll_exit_2",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ll_ch2"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/ll_exit_2",
+   "source_title": "Portal ออกจาก Gauntlet · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/ll_exit_2.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Gauntlet · Ashford Gate](/map/ll_ch2) แมพพิเศษทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Portal ออกจาก Gauntlet",
+   "slug": "ll_exit_3",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ll_ch3"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/ll_exit_3",
+   "source_title": "Portal ออกจาก Gauntlet · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/ll_exit_3.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Gauntlet · Stormwall Gate](/map/ll_ch3) แมพพิเศษทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Portal ออกจาก Gauntlet",
+   "slug": "ll_exit_4",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ll_ch4"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/ll_exit_4",
+   "source_title": "Portal ออกจาก Gauntlet · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/ll_exit_4.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Gauntlet · Sanctum Gate](/map/ll_ch4) แมพพิเศษทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Portal ออกจาก Gauntlet",
+   "slug": "ll_exit_5",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ll_ch5"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/ll_exit_5",
+   "source_title": "Portal ออกจาก Gauntlet · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/ll_exit_5.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Gauntlet · The Last Gate](/map/ll_ch5) แมพพิเศษทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ตลาดโลก",
+   "slug": "market_board",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook",
+    "/systems/social"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/market_board",
+   "source_title": "ตลาดโลก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/market_board.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
+   "tables": []
+  },
+  {
+   "name": "ตลาดโลก",
+   "slug": "market_board_a",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/systems/social"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/market_board_a",
+   "source_title": "ตลาดโลก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/market_board_a.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
+   "tables": []
+  },
+  {
+   "name": "ตลาดโลก",
+   "slug": "market_board_c",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/systems/social"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/market_board_c",
+   "source_title": "ตลาดโลก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/market_board_c.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
+   "tables": []
+  },
+  {
+   "name": "ตลาดโลก",
+   "slug": "market_board_s",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/systems/social"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/market_board_s",
+   "source_title": "ตลาดโลก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/market_board_s.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
+   "tables": []
+  },
+  {
+   "name": "ร้านค้า · ซื้อ/ขาย",
+   "slug": "merchant",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/bandolier_t1",
+    "/item/bell_t1",
+    "/item/bound_grimoire",
+    "/item/buckler",
+    "/item/buckler_t1",
+    "/item/campfire_kit",
+    "/item/censer_t1",
+    "/item/chain_sickle_t1",
+    "/item/chain_t1",
+    "/item/chipped_blade",
+    "/item/dye_kit",
+    "/item/elixir",
+    "/item/ether",
+    "/item/familiar_t1",
+    "/item/fang_knife",
+    "/item/field_ration",
+    "/item/flail_t1",
+    "/item/grand_elixir",
+    "/item/greatstaff_t1",
+    "/item/greatsword_t1",
+    "/item/greaves_t1",
+    "/item/grilled_fish",
+    "/item/hand_crossbow_t1",
+    "/item/hi_potion",
+    "/item/hide_jerkin",
+    "/item/high_ether",
+    "/item/javelin_t1",
+    "/item/kite_shield_t1",
+    "/item/knuckles_t1",
+    "/item/lance_t1",
+    "/item/lantern_t1",
+    "/item/leather_vest",
+    "/item/lightstaff_t1",
+    "/item/mana_potion",
+    "/item/maul_t1",
+    "/item/mega_potion",
+    "/item/oak_staff",
+    "/item/parrying_dagger_t1",
+    "/item/pearl_elixir",
+    "/item/pearl_ether",
+    "/item/pike_t1",
+    "/item/pilgrim_robe",
+    "/item/pilgrim_rod",
+    "/item/poison_vial_t1",
+    "/item/potion",
+    "/item/prism_t1",
+    "/item/quiver_t1",
+    "/item/rapier_t1",
+    "/item/repair_kit",
+    "/item/scythe_t1",
+    "/item/short_bow",
+    "/item/skull_t1",
+    "/item/sling_t1",
+    "/item/sovereign_elixir",
+    "/item/sovereign_ether",
+    "/item/spellstaff_t1",
+    "/item/spirit_wand",
+    "/item/stone_maul",
+    "/item/stone_pouch_t1",
+    "/item/throwing_knives_t1",
+    "/item/tower_shield_t1",
+    "/item/war_banner_t1",
+    "/item/ward_t1",
+    "/item/worn_shoes",
+    "/map/valebrook",
+    "/systems/shop"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/merchant",
+   "source_title": "ร้านค้า · ซื้อ/ขาย · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/merchant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรซื้อยา / อาหาร / อุปกรณ์เริ่มต้น และขายของให้ร้านอ่านเพิ่ม[ร้านค้า](/systems/shop)ไม่อยากเดินมาPremium เปิดร้านค้าจากปุ่มบน HUD ได้ทุกที่",
+   "tables": [
+    {
+     "section": "ของที่ขาย",
+     "header": [
+      "ไอเท็ม",
+      "ราคา",
+      "ผล"
+     ],
+     "rows": [
+      [
+       "โพชั่น",
+       "12 G",
+       "ฮีล HP 180"
+      ],
+      [
+       "ไฮโพชั่น",
+       "32 G",
+       "ฮีล HP 480"
+      ],
+      [
+       "เมก้าโพชั่น",
+       "75 G",
+       "ฮีล HP 1,020"
+      ],
+      [
+       "อีลิกเซอร์",
+       "150 G",
+       "ฮีล HP 1,800"
+      ],
+      [
+       "อีลิกเซอร์หลวง",
+       "260 G",
+       "ฮีล HP 2,850"
+      ],
+      [
+       "ยามานา",
+       "16 G",
+       "ฟื้น MP 270"
+      ],
+      [
+       "อีเทอร์",
+       "40 G",
+       "ฟื้น MP 540"
+      ],
+      [
+       "อีเทอร์ชั้นสูง",
+       "100 G",
+       "ฟื้น MP 960"
+      ],
+      [
+       "อีลิกเซอร์ไข่มุก",
+       "400 G",
+       "ฮีล HP 4,200"
+      ],
+      [
+       "อีลิกเซอร์จักรพรรดิ",
+       "560 G",
+       "ฮีล HP 5,700"
+      ],
+      [
+       "อีเทอร์ไข่มุก",
+       "150 G",
+       "ฟื้น MP 1,440"
+      ],
+      [
+       "อีเทอร์จักรพรรดิ",
+       "210 G",
+       "ฟื้น MP 1,950"
+      ],
+      [
+       "ชุดซ่อม",
+       "100,000 G",
+       "ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว"
+      ],
+      [
+       "น้ำยาย้อมสี",
+       "25,000 G",
+       "เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม \"เปลี่ยนสีผม/ชุด\" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC"
+      ],
+      [
+       "ชุดกองไฟ",
+       "80 G",
+       "วางกองไฟ"
+      ],
+      [
+       "ข้าวกล่องภาคสนาม",
+       "48 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ปลาย่าง",
+       "40 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ดาบบิ่น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ดาบสองมือฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนหิน",
+       "196 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดเขี้ยว",
+       "156 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ธนูสั้น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าโอ๊ก",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้กายสิทธิ์วิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสวงบุญ",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ตำราผูกวิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "โล่จิ๋ว",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่เวทฝึกหัด",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "เสื้อหนัง",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อหนังสัตว์",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อคลุมแสวงบุญ",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "สนับแข้งฝึกหัด",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "รองเท้าเก่า",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "หน้าไม้มือฝึกหัด",
+       "148 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หลาวฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สลิงฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ทวนฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หอกทหารม้าฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สนับมือฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ลูกตุ้มโซ่ฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เรเปียร์ฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดบินฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้ายาวฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าศึกฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนศักดิ์สิทธิ์ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสงฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวใหญ่ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวโซ่ฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ซองธนูฝึกหัด (Bodkin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ถุงหินฝึกหัด (Round)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่หอคอยฝึกหัด (Bastion)",
+       "124 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่กลมเล็กฝึกหัด (Parry)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่ว่าวฝึกหัด (Charge)",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ธงศึกฝึกหัด (Rally)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ขวดพิษฝึกหัด (Toxin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "มีดปัดฝึกหัด (Counter)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ปริซึมฝึกหัด (Split)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ภูตรับใช้ฝึกหัด (Ember)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กระถางกำยานฝึกหัด (Mending)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ระฆังฝึกหัด (Clear)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ตะเกียงวิญญาณฝึกหัด (Vessel)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โซ่ฝึกหัด (Bind)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กะโหลกฝึกหัด (Grinning)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "สายคาดมีดฝึกหัด (Barbed)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ร้านค้า · ซื้อ/ขาย",
+   "slug": "merchant_a",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/bandolier_t1",
+    "/item/bell_t1",
+    "/item/bound_grimoire",
+    "/item/buckler",
+    "/item/buckler_t1",
+    "/item/campfire_kit",
+    "/item/censer_t1",
+    "/item/chain_sickle_t1",
+    "/item/chain_t1",
+    "/item/chipped_blade",
+    "/item/dye_kit",
+    "/item/elixir",
+    "/item/ether",
+    "/item/familiar_t1",
+    "/item/fang_knife",
+    "/item/field_ration",
+    "/item/flail_t1",
+    "/item/grand_elixir",
+    "/item/greatstaff_t1",
+    "/item/greatsword_t1",
+    "/item/greaves_t1",
+    "/item/grilled_fish",
+    "/item/hand_crossbow_t1",
+    "/item/hi_potion",
+    "/item/hide_jerkin",
+    "/item/high_ether",
+    "/item/javelin_t1",
+    "/item/kite_shield_t1",
+    "/item/knuckles_t1",
+    "/item/lance_t1",
+    "/item/lantern_t1",
+    "/item/leather_vest",
+    "/item/lightstaff_t1",
+    "/item/mana_potion",
+    "/item/maul_t1",
+    "/item/mega_potion",
+    "/item/oak_staff",
+    "/item/parrying_dagger_t1",
+    "/item/pearl_elixir",
+    "/item/pearl_ether",
+    "/item/pike_t1",
+    "/item/pilgrim_robe",
+    "/item/pilgrim_rod",
+    "/item/poison_vial_t1",
+    "/item/potion",
+    "/item/prism_t1",
+    "/item/quiver_t1",
+    "/item/rapier_t1",
+    "/item/repair_kit",
+    "/item/scythe_t1",
+    "/item/short_bow",
+    "/item/skull_t1",
+    "/item/sling_t1",
+    "/item/sovereign_elixir",
+    "/item/sovereign_ether",
+    "/item/spellstaff_t1",
+    "/item/spirit_wand",
+    "/item/stone_maul",
+    "/item/stone_pouch_t1",
+    "/item/throwing_knives_t1",
+    "/item/tower_shield_t1",
+    "/item/war_banner_t1",
+    "/item/ward_t1",
+    "/item/worn_shoes",
+    "/map/ashford",
+    "/systems/shop"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/merchant_a",
+   "source_title": "ร้านค้า · ซื้อ/ขาย · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/merchant_a.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรซื้อยา / อาหาร / อุปกรณ์เริ่มต้น และขายของให้ร้านอ่านเพิ่ม[ร้านค้า](/systems/shop)ไม่อยากเดินมาPremium เปิดร้านค้าจากปุ่มบน HUD ได้ทุกที่",
+   "tables": [
+    {
+     "section": "ของที่ขาย",
+     "header": [
+      "ไอเท็ม",
+      "ราคา",
+      "ผล"
+     ],
+     "rows": [
+      [
+       "โพชั่น",
+       "12 G",
+       "ฮีล HP 180"
+      ],
+      [
+       "ไฮโพชั่น",
+       "32 G",
+       "ฮีล HP 480"
+      ],
+      [
+       "เมก้าโพชั่น",
+       "75 G",
+       "ฮีล HP 1,020"
+      ],
+      [
+       "อีลิกเซอร์",
+       "150 G",
+       "ฮีล HP 1,800"
+      ],
+      [
+       "อีลิกเซอร์หลวง",
+       "260 G",
+       "ฮีล HP 2,850"
+      ],
+      [
+       "ยามานา",
+       "16 G",
+       "ฟื้น MP 270"
+      ],
+      [
+       "อีเทอร์",
+       "40 G",
+       "ฟื้น MP 540"
+      ],
+      [
+       "อีเทอร์ชั้นสูง",
+       "100 G",
+       "ฟื้น MP 960"
+      ],
+      [
+       "อีลิกเซอร์ไข่มุก",
+       "400 G",
+       "ฮีล HP 4,200"
+      ],
+      [
+       "อีลิกเซอร์จักรพรรดิ",
+       "560 G",
+       "ฮีล HP 5,700"
+      ],
+      [
+       "อีเทอร์ไข่มุก",
+       "150 G",
+       "ฟื้น MP 1,440"
+      ],
+      [
+       "อีเทอร์จักรพรรดิ",
+       "210 G",
+       "ฟื้น MP 1,950"
+      ],
+      [
+       "ชุดซ่อม",
+       "100,000 G",
+       "ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว"
+      ],
+      [
+       "น้ำยาย้อมสี",
+       "25,000 G",
+       "เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม \"เปลี่ยนสีผม/ชุด\" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC"
+      ],
+      [
+       "ชุดกองไฟ",
+       "80 G",
+       "วางกองไฟ"
+      ],
+      [
+       "ข้าวกล่องภาคสนาม",
+       "48 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ปลาย่าง",
+       "40 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ดาบบิ่น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ดาบสองมือฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนหิน",
+       "196 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดเขี้ยว",
+       "156 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ธนูสั้น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าโอ๊ก",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้กายสิทธิ์วิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสวงบุญ",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ตำราผูกวิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "โล่จิ๋ว",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่เวทฝึกหัด",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "เสื้อหนัง",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อหนังสัตว์",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อคลุมแสวงบุญ",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "สนับแข้งฝึกหัด",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "รองเท้าเก่า",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "หน้าไม้มือฝึกหัด",
+       "148 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หลาวฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สลิงฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ทวนฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หอกทหารม้าฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สนับมือฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ลูกตุ้มโซ่ฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เรเปียร์ฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดบินฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้ายาวฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าศึกฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนศักดิ์สิทธิ์ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสงฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวใหญ่ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวโซ่ฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ซองธนูฝึกหัด (Bodkin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ถุงหินฝึกหัด (Round)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่หอคอยฝึกหัด (Bastion)",
+       "124 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่กลมเล็กฝึกหัด (Parry)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่ว่าวฝึกหัด (Charge)",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ธงศึกฝึกหัด (Rally)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ขวดพิษฝึกหัด (Toxin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "มีดปัดฝึกหัด (Counter)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ปริซึมฝึกหัด (Split)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ภูตรับใช้ฝึกหัด (Ember)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กระถางกำยานฝึกหัด (Mending)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ระฆังฝึกหัด (Clear)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ตะเกียงวิญญาณฝึกหัด (Vessel)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โซ่ฝึกหัด (Bind)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กะโหลกฝึกหัด (Grinning)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "สายคาดมีดฝึกหัด (Barbed)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "name": "แม่ค้าเครื่องเทศซาร่า",
+   "slug": "merchant_b",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/merchant_b",
+   "source_title": "แม่ค้าเครื่องเทศซาร่า · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/merchant_b.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ร้านค้า · ซื้อ/ขาย",
+   "slug": "merchant_c",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/bandolier_t1",
+    "/item/bell_t1",
+    "/item/bound_grimoire",
+    "/item/buckler",
+    "/item/buckler_t1",
+    "/item/campfire_kit",
+    "/item/censer_t1",
+    "/item/chain_sickle_t1",
+    "/item/chain_t1",
+    "/item/chipped_blade",
+    "/item/dye_kit",
+    "/item/elixir",
+    "/item/ether",
+    "/item/familiar_t1",
+    "/item/fang_knife",
+    "/item/field_ration",
+    "/item/flail_t1",
+    "/item/grand_elixir",
+    "/item/greatstaff_t1",
+    "/item/greatsword_t1",
+    "/item/greaves_t1",
+    "/item/grilled_fish",
+    "/item/hand_crossbow_t1",
+    "/item/hi_potion",
+    "/item/hide_jerkin",
+    "/item/high_ether",
+    "/item/javelin_t1",
+    "/item/kite_shield_t1",
+    "/item/knuckles_t1",
+    "/item/lance_t1",
+    "/item/lantern_t1",
+    "/item/leather_vest",
+    "/item/lightstaff_t1",
+    "/item/mana_potion",
+    "/item/maul_t1",
+    "/item/mega_potion",
+    "/item/oak_staff",
+    "/item/parrying_dagger_t1",
+    "/item/pearl_elixir",
+    "/item/pearl_ether",
+    "/item/pike_t1",
+    "/item/pilgrim_robe",
+    "/item/pilgrim_rod",
+    "/item/poison_vial_t1",
+    "/item/potion",
+    "/item/prism_t1",
+    "/item/quiver_t1",
+    "/item/rapier_t1",
+    "/item/repair_kit",
+    "/item/scythe_t1",
+    "/item/short_bow",
+    "/item/skull_t1",
+    "/item/sling_t1",
+    "/item/sovereign_elixir",
+    "/item/sovereign_ether",
+    "/item/spellstaff_t1",
+    "/item/spirit_wand",
+    "/item/stone_maul",
+    "/item/stone_pouch_t1",
+    "/item/throwing_knives_t1",
+    "/item/tower_shield_t1",
+    "/item/war_banner_t1",
+    "/item/ward_t1",
+    "/item/worn_shoes",
+    "/map/stormwall_city",
+    "/systems/shop"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/merchant_c",
+   "source_title": "ร้านค้า · ซื้อ/ขาย · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/merchant_c.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรซื้อยา / อาหาร / อุปกรณ์เริ่มต้น และขายของให้ร้านอ่านเพิ่ม[ร้านค้า](/systems/shop)ไม่อยากเดินมาPremium เปิดร้านค้าจากปุ่มบน HUD ได้ทุกที่",
+   "tables": [
+    {
+     "section": "ของที่ขาย",
+     "header": [
+      "ไอเท็ม",
+      "ราคา",
+      "ผล"
+     ],
+     "rows": [
+      [
+       "โพชั่น",
+       "12 G",
+       "ฮีล HP 180"
+      ],
+      [
+       "ไฮโพชั่น",
+       "32 G",
+       "ฮีล HP 480"
+      ],
+      [
+       "เมก้าโพชั่น",
+       "75 G",
+       "ฮีล HP 1,020"
+      ],
+      [
+       "อีลิกเซอร์",
+       "150 G",
+       "ฮีล HP 1,800"
+      ],
+      [
+       "อีลิกเซอร์หลวง",
+       "260 G",
+       "ฮีล HP 2,850"
+      ],
+      [
+       "ยามานา",
+       "16 G",
+       "ฟื้น MP 270"
+      ],
+      [
+       "อีเทอร์",
+       "40 G",
+       "ฟื้น MP 540"
+      ],
+      [
+       "อีเทอร์ชั้นสูง",
+       "100 G",
+       "ฟื้น MP 960"
+      ],
+      [
+       "อีลิกเซอร์ไข่มุก",
+       "400 G",
+       "ฮีล HP 4,200"
+      ],
+      [
+       "อีลิกเซอร์จักรพรรดิ",
+       "560 G",
+       "ฮีล HP 5,700"
+      ],
+      [
+       "อีเทอร์ไข่มุก",
+       "150 G",
+       "ฟื้น MP 1,440"
+      ],
+      [
+       "อีเทอร์จักรพรรดิ",
+       "210 G",
+       "ฟื้น MP 1,950"
+      ],
+      [
+       "ชุดซ่อม",
+       "100,000 G",
+       "ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว"
+      ],
+      [
+       "น้ำยาย้อมสี",
+       "25,000 G",
+       "เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม \"เปลี่ยนสีผม/ชุด\" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC"
+      ],
+      [
+       "ชุดกองไฟ",
+       "80 G",
+       "วางกองไฟ"
+      ],
+      [
+       "ข้าวกล่องภาคสนาม",
+       "48 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ปลาย่าง",
+       "40 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ดาบบิ่น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ดาบสองมือฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนหิน",
+       "196 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดเขี้ยว",
+       "156 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ธนูสั้น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าโอ๊ก",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้กายสิทธิ์วิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสวงบุญ",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ตำราผูกวิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "โล่จิ๋ว",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่เวทฝึกหัด",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "เสื้อหนัง",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อหนังสัตว์",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อคลุมแสวงบุญ",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "สนับแข้งฝึกหัด",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "รองเท้าเก่า",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "หน้าไม้มือฝึกหัด",
+       "148 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หลาวฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สลิงฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ทวนฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หอกทหารม้าฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สนับมือฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ลูกตุ้มโซ่ฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เรเปียร์ฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดบินฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้ายาวฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าศึกฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนศักดิ์สิทธิ์ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสงฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวใหญ่ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวโซ่ฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ซองธนูฝึกหัด (Bodkin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ถุงหินฝึกหัด (Round)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่หอคอยฝึกหัด (Bastion)",
+       "124 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่กลมเล็กฝึกหัด (Parry)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่ว่าวฝึกหัด (Charge)",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ธงศึกฝึกหัด (Rally)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ขวดพิษฝึกหัด (Toxin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "มีดปัดฝึกหัด (Counter)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ปริซึมฝึกหัด (Split)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ภูตรับใช้ฝึกหัด (Ember)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กระถางกำยานฝึกหัด (Mending)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ระฆังฝึกหัด (Clear)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ตะเกียงวิญญาณฝึกหัด (Vessel)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โซ่ฝึกหัด (Bind)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กะโหลกฝึกหัด (Grinning)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "สายคาดมีดฝึกหัด (Barbed)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ร้านค้า · ซื้อ/ขาย",
+   "slug": "merchant_s",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/bandolier_t1",
+    "/item/bell_t1",
+    "/item/bound_grimoire",
+    "/item/buckler",
+    "/item/buckler_t1",
+    "/item/campfire_kit",
+    "/item/censer_t1",
+    "/item/chain_sickle_t1",
+    "/item/chain_t1",
+    "/item/chipped_blade",
+    "/item/dye_kit",
+    "/item/elixir",
+    "/item/ether",
+    "/item/familiar_t1",
+    "/item/fang_knife",
+    "/item/field_ration",
+    "/item/flail_t1",
+    "/item/grand_elixir",
+    "/item/greatstaff_t1",
+    "/item/greatsword_t1",
+    "/item/greaves_t1",
+    "/item/grilled_fish",
+    "/item/hand_crossbow_t1",
+    "/item/hi_potion",
+    "/item/hide_jerkin",
+    "/item/high_ether",
+    "/item/javelin_t1",
+    "/item/kite_shield_t1",
+    "/item/knuckles_t1",
+    "/item/lance_t1",
+    "/item/lantern_t1",
+    "/item/leather_vest",
+    "/item/lightstaff_t1",
+    "/item/mana_potion",
+    "/item/maul_t1",
+    "/item/mega_potion",
+    "/item/oak_staff",
+    "/item/parrying_dagger_t1",
+    "/item/pearl_elixir",
+    "/item/pearl_ether",
+    "/item/pike_t1",
+    "/item/pilgrim_robe",
+    "/item/pilgrim_rod",
+    "/item/poison_vial_t1",
+    "/item/potion",
+    "/item/prism_t1",
+    "/item/quiver_t1",
+    "/item/rapier_t1",
+    "/item/repair_kit",
+    "/item/scythe_t1",
+    "/item/short_bow",
+    "/item/skull_t1",
+    "/item/sling_t1",
+    "/item/sovereign_elixir",
+    "/item/sovereign_ether",
+    "/item/spellstaff_t1",
+    "/item/spirit_wand",
+    "/item/stone_maul",
+    "/item/stone_pouch_t1",
+    "/item/throwing_knives_t1",
+    "/item/tower_shield_t1",
+    "/item/war_banner_t1",
+    "/item/ward_t1",
+    "/item/worn_shoes",
+    "/map/sanctum",
+    "/systems/shop"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/merchant_s",
+   "source_title": "ร้านค้า · ซื้อ/ขาย · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/merchant_s.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรซื้อยา / อาหาร / อุปกรณ์เริ่มต้น และขายของให้ร้านอ่านเพิ่ม[ร้านค้า](/systems/shop)ไม่อยากเดินมาPremium เปิดร้านค้าจากปุ่มบน HUD ได้ทุกที่",
+   "tables": [
+    {
+     "section": "ของที่ขาย",
+     "header": [
+      "ไอเท็ม",
+      "ราคา",
+      "ผล"
+     ],
+     "rows": [
+      [
+       "โพชั่น",
+       "12 G",
+       "ฮีล HP 180"
+      ],
+      [
+       "ไฮโพชั่น",
+       "32 G",
+       "ฮีล HP 480"
+      ],
+      [
+       "เมก้าโพชั่น",
+       "75 G",
+       "ฮีล HP 1,020"
+      ],
+      [
+       "อีลิกเซอร์",
+       "150 G",
+       "ฮีล HP 1,800"
+      ],
+      [
+       "อีลิกเซอร์หลวง",
+       "260 G",
+       "ฮีล HP 2,850"
+      ],
+      [
+       "ยามานา",
+       "16 G",
+       "ฟื้น MP 270"
+      ],
+      [
+       "อีเทอร์",
+       "40 G",
+       "ฟื้น MP 540"
+      ],
+      [
+       "อีเทอร์ชั้นสูง",
+       "100 G",
+       "ฟื้น MP 960"
+      ],
+      [
+       "อีลิกเซอร์ไข่มุก",
+       "400 G",
+       "ฮีล HP 4,200"
+      ],
+      [
+       "อีลิกเซอร์จักรพรรดิ",
+       "560 G",
+       "ฮีล HP 5,700"
+      ],
+      [
+       "อีเทอร์ไข่มุก",
+       "150 G",
+       "ฟื้น MP 1,440"
+      ],
+      [
+       "อีเทอร์จักรพรรดิ",
+       "210 G",
+       "ฟื้น MP 1,950"
+      ],
+      [
+       "ชุดซ่อม",
+       "100,000 G",
+       "ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว"
+      ],
+      [
+       "น้ำยาย้อมสี",
+       "25,000 G",
+       "เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม \"เปลี่ยนสีผม/ชุด\" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC"
+      ],
+      [
+       "ชุดกองไฟ",
+       "80 G",
+       "วางกองไฟ"
+      ],
+      [
+       "ข้าวกล่องภาคสนาม",
+       "48 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ปลาย่าง",
+       "40 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ดาบบิ่น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ดาบสองมือฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนหิน",
+       "196 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดเขี้ยว",
+       "156 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ธนูสั้น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าโอ๊ก",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้กายสิทธิ์วิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสวงบุญ",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ตำราผูกวิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "โล่จิ๋ว",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่เวทฝึกหัด",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "เสื้อหนัง",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อหนังสัตว์",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อคลุมแสวงบุญ",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "สนับแข้งฝึกหัด",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "รองเท้าเก่า",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "หน้าไม้มือฝึกหัด",
+       "148 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หลาวฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สลิงฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ทวนฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หอกทหารม้าฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สนับมือฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ลูกตุ้มโซ่ฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เรเปียร์ฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดบินฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้ายาวฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าศึกฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนศักดิ์สิทธิ์ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสงฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวใหญ่ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวโซ่ฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ซองธนูฝึกหัด (Bodkin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ถุงหินฝึกหัด (Round)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่หอคอยฝึกหัด (Bastion)",
+       "124 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่กลมเล็กฝึกหัด (Parry)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่ว่าวฝึกหัด (Charge)",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ธงศึกฝึกหัด (Rally)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ขวดพิษฝึกหัด (Toxin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "มีดปัดฝึกหัด (Counter)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ปริซึมฝึกหัด (Split)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ภูตรับใช้ฝึกหัด (Ember)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กระถางกำยานฝึกหัด (Mending)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ระฆังฝึกหัด (Clear)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ตะเกียงวิญญาณฝึกหัด (Vessel)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โซ่ฝึกหัด (Bind)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กะโหลกฝึกหัด (Grinning)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "สายคาดมีดฝึกหัด (Barbed)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ตีบวก / ซ่อม / Reroll",
+   "slug": "reliquarian",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/systems/smith"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/reliquarian",
+   "source_title": "ตีบวก / ซ่อม / Reroll · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/reliquarian.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
+   "tables": []
+  },
+  {
+   "name": "ปรุงยา",
+   "slug": "rune_brewer",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/rune_brewer",
+   "source_title": "ปรุงยา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/rune_brewer.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "ทำอาหาร",
+   "slug": "sanctum_cook",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/sanctum_cook",
+   "source_title": "ทำอาหาร · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/sanctum_cook.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "นักสำรวจป่าเรน",
+   "slug": "scout_s",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/southvale_field"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/scout_s",
+   "source_title": "นักสำรวจป่าเรน · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/scout_s.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Southvale Field](/map/southvale_field) Lv 1–4ทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Portal กลับเมือง",
+   "slug": "sparring_exit",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sparring_hall"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/sparring_exit",
+   "source_title": "Portal กลับเมือง · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/sparring_exit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[⛰Sparring Hall](/map/sparring_hall) แมพพิเศษทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Bank · ฝากของ",
+   "slug": "spirit_broker",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/spirit_broker",
+   "source_title": "Bank · ฝากของ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/spirit_broker.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
+   "tables": []
+  },
+  {
+   "name": "Bank · ฝากของ",
+   "slug": "spirit_broker_a",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/spirit_broker_a",
+   "source_title": "Bank · ฝากของ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/spirit_broker_a.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
+   "tables": []
+  },
+  {
+   "name": "Bank · ฝากของ",
+   "slug": "spirit_broker_c",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/spirit_broker_c",
+   "source_title": "Bank · ฝากของ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/spirit_broker_c.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
+   "tables": []
+  },
+  {
+   "name": "Bank · ฝากของ",
+   "slug": "spirit_broker_s",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/spirit_broker_s",
+   "source_title": "Bank · ฝากของ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/spirit_broker_s.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
+   "tables": []
+  },
+  {
+   "name": "Bank · ฝากของ",
+   "slug": "tide_bank",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_bank",
+   "source_title": "Bank · ฝากของ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_bank.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
+   "tables": []
+  },
+  {
+   "name": "ปรุงยา",
+   "slug": "tide_brewer",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_brewer",
+   "source_title": "ปรุงยา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_brewer.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "Spirit Album · การ์ด",
+   "slug": "tide_cards",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_cards",
+   "source_title": "Spirit Album · การ์ด · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_cards.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
+   "tables": []
+  },
+  {
+   "name": "ทำอาหาร",
+   "slug": "tide_cook",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_cook",
+   "source_title": "ทำอาหาร · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_cook.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "ชาวประมงเกาะคอร์มอรันต์",
+   "slug": "tide_fisher",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_fisher",
+   "source_title": "ชาวประมงเกาะคอร์มอรันต์ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_fisher.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ตลาดโลก",
+   "slug": "tide_market",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/systems/social"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_market",
+   "source_title": "ตลาดโลก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_market.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
+   "tables": []
+  },
+  {
+   "name": "เปลี่ยนอาชีพ",
+   "slug": "tide_master",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_master",
+   "source_title": "เปลี่ยนอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_master.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "ร้านค้า · ซื้อ/ขาย",
+   "slug": "tide_merchant",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/bandolier_t1",
+    "/item/bell_t1",
+    "/item/bound_grimoire",
+    "/item/buckler",
+    "/item/buckler_t1",
+    "/item/campfire_kit",
+    "/item/censer_t1",
+    "/item/chain_sickle_t1",
+    "/item/chain_t1",
+    "/item/chipped_blade",
+    "/item/dye_kit",
+    "/item/elixir",
+    "/item/ether",
+    "/item/familiar_t1",
+    "/item/fang_knife",
+    "/item/field_ration",
+    "/item/flail_t1",
+    "/item/grand_elixir",
+    "/item/greatstaff_t1",
+    "/item/greatsword_t1",
+    "/item/greaves_t1",
+    "/item/grilled_fish",
+    "/item/hand_crossbow_t1",
+    "/item/hi_potion",
+    "/item/hide_jerkin",
+    "/item/high_ether",
+    "/item/javelin_t1",
+    "/item/kite_shield_t1",
+    "/item/knuckles_t1",
+    "/item/lance_t1",
+    "/item/lantern_t1",
+    "/item/leather_vest",
+    "/item/lightstaff_t1",
+    "/item/mana_potion",
+    "/item/maul_t1",
+    "/item/mega_potion",
+    "/item/oak_staff",
+    "/item/parrying_dagger_t1",
+    "/item/pearl_elixir",
+    "/item/pearl_ether",
+    "/item/pike_t1",
+    "/item/pilgrim_robe",
+    "/item/pilgrim_rod",
+    "/item/poison_vial_t1",
+    "/item/potion",
+    "/item/prism_t1",
+    "/item/quiver_t1",
+    "/item/rapier_t1",
+    "/item/repair_kit",
+    "/item/scythe_t1",
+    "/item/short_bow",
+    "/item/skull_t1",
+    "/item/sling_t1",
+    "/item/sovereign_elixir",
+    "/item/sovereign_ether",
+    "/item/spellstaff_t1",
+    "/item/spirit_wand",
+    "/item/stone_maul",
+    "/item/stone_pouch_t1",
+    "/item/throwing_knives_t1",
+    "/item/tower_shield_t1",
+    "/item/war_banner_t1",
+    "/item/ward_t1",
+    "/item/worn_shoes",
+    "/map/tidehaven",
+    "/systems/shop"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_merchant",
+   "source_title": "ร้านค้า · ซื้อ/ขาย · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_merchant.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรซื้อยา / อาหาร / อุปกรณ์เริ่มต้น และขายของให้ร้านอ่านเพิ่ม[ร้านค้า](/systems/shop)ไม่อยากเดินมาPremium เปิดร้านค้าจากปุ่มบน HUD ได้ทุกที่",
+   "tables": [
+    {
+     "section": "ของที่ขาย",
+     "header": [
+      "ไอเท็ม",
+      "ราคา",
+      "ผล"
+     ],
+     "rows": [
+      [
+       "โพชั่น",
+       "12 G",
+       "ฮีล HP 180"
+      ],
+      [
+       "ไฮโพชั่น",
+       "32 G",
+       "ฮีล HP 480"
+      ],
+      [
+       "เมก้าโพชั่น",
+       "75 G",
+       "ฮีล HP 1,020"
+      ],
+      [
+       "อีลิกเซอร์",
+       "150 G",
+       "ฮีล HP 1,800"
+      ],
+      [
+       "อีลิกเซอร์หลวง",
+       "260 G",
+       "ฮีล HP 2,850"
+      ],
+      [
+       "ยามานา",
+       "16 G",
+       "ฟื้น MP 270"
+      ],
+      [
+       "อีเทอร์",
+       "40 G",
+       "ฟื้น MP 540"
+      ],
+      [
+       "อีเทอร์ชั้นสูง",
+       "100 G",
+       "ฟื้น MP 960"
+      ],
+      [
+       "อีลิกเซอร์ไข่มุก",
+       "400 G",
+       "ฮีล HP 4,200"
+      ],
+      [
+       "อีลิกเซอร์จักรพรรดิ",
+       "560 G",
+       "ฮีล HP 5,700"
+      ],
+      [
+       "อีเทอร์ไข่มุก",
+       "150 G",
+       "ฟื้น MP 1,440"
+      ],
+      [
+       "อีเทอร์จักรพรรดิ",
+       "210 G",
+       "ฟื้น MP 1,950"
+      ],
+      [
+       "ชุดซ่อม",
+       "100,000 G",
+       "ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว"
+      ],
+      [
+       "น้ำยาย้อมสี",
+       "25,000 G",
+       "เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม \"เปลี่ยนสีผม/ชุด\" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC"
+      ],
+      [
+       "ชุดกองไฟ",
+       "80 G",
+       "วางกองไฟ"
+      ],
+      [
+       "ข้าวกล่องภาคสนาม",
+       "48 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ปลาย่าง",
+       "40 G",
+       "ฮีล HP 210"
+      ],
+      [
+       "ดาบบิ่น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ดาบสองมือฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนหิน",
+       "196 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดเขี้ยว",
+       "156 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ธนูสั้น",
+       "164 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าโอ๊ก",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้กายสิทธิ์วิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสวงบุญ",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ตำราผูกวิญญาณ",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "โล่จิ๋ว",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่เวทฝึกหัด",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "เสื้อหนัง",
+       "132 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อหนังสัตว์",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "เสื้อคลุมแสวงบุญ",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · เกราะ"
+      ],
+      [
+       "สนับแข้งฝึกหัด",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "รองเท้าเก่า",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · รองเท้า"
+      ],
+      [
+       "หน้าไม้มือฝึกหัด",
+       "148 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หลาวฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สลิงฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ทวนฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "หอกทหารม้าฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "สนับมือฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ลูกตุ้มโซ่ฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เรเปียร์ฝึกหัด",
+       "180 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "มีดบินฝึกหัด",
+       "172 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้ายาวฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าศึกฝึกหัด",
+       "220 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ค้อนศักดิ์สิทธิ์ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ไม้เท้าแสงฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวใหญ่ฝึกหัด",
+       "228 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "เคียวโซ่ฝึกหัด",
+       "188 G",
+       "อุปกรณ์ขั้น 1 · อาวุธ"
+      ],
+      [
+       "ซองธนูฝึกหัด (Bodkin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ถุงหินฝึกหัด (Round)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่หอคอยฝึกหัด (Bastion)",
+       "124 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่กลมเล็กฝึกหัด (Parry)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โล่ว่าวฝึกหัด (Charge)",
+       "116 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ธงศึกฝึกหัด (Rally)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ขวดพิษฝึกหัด (Toxin)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "มีดปัดฝึกหัด (Counter)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ปริซึมฝึกหัด (Split)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ภูตรับใช้ฝึกหัด (Ember)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กระถางกำยานฝึกหัด (Mending)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ระฆังฝึกหัด (Clear)",
+       "92 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "ตะเกียงวิญญาณฝึกหัด (Vessel)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "โซ่ฝึกหัด (Bind)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "กะโหลกฝึกหัด (Grinning)",
+       "100 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ],
+      [
+       "สายคาดมีดฝึกหัด (Barbed)",
+       "84 G",
+       "อุปกรณ์ขั้น 1 · มือรอง"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ตีบวก / ซ่อม / Reroll",
+   "slug": "tide_smith",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/systems/smith"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tide_smith",
+   "source_title": "ตีบวก / ซ่อม / Reroll · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tide_smith.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
+   "tables": []
+  },
+  {
+   "name": "ปรุงยา",
+   "slug": "tonic_binder",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/systems/crafting"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/tonic_binder",
+   "source_title": "ปรุงยา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/tonic_binder.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
+   "tables": []
+  },
+  {
+   "name": "Portal กลับเมือง",
+   "slug": "training_exit",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/training_grounds"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/training_exit",
+   "source_title": "Portal กลับเมือง · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/training_exit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Training Grounds](/map/training_grounds) แมพพิเศษทำอะไรกลับเมืองที่มา",
+   "tables": []
+  },
+  {
+   "name": "Portal ห้องฝึก",
+   "slug": "training_portal_ashford",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/map/training_grounds"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/training_portal_ashford",
+   "source_title": "Portal ห้องฝึก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/training_portal_ashford.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
+   "tables": []
+  },
+  {
+   "name": "Portal ห้องฝึก",
+   "slug": "training_portal_sanctum",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/map/training_grounds"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/training_portal_sanctum",
+   "source_title": "Portal ห้องฝึก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/training_portal_sanctum.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
+   "tables": []
+  },
+  {
+   "name": "Portal ห้องฝึก",
+   "slug": "training_portal_stormwall_city",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/map/training_grounds"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/training_portal_stormwall_city",
+   "source_title": "Portal ห้องฝึก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/training_portal_stormwall_city.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
+   "tables": []
+  },
+  {
+   "name": "Portal ห้องฝึก",
+   "slug": "training_portal_tidehaven",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/map/training_grounds"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/training_portal_tidehaven",
+   "source_title": "Portal ห้องฝึก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/training_portal_tidehaven.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
+   "tables": []
+  },
+  {
+   "name": "Portal ห้องฝึก",
+   "slug": "training_portal_valebrook",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/training_grounds",
+    "/map/valebrook"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/training_portal_valebrook",
+   "source_title": "Portal ห้องฝึก · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/training_portal_valebrook.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
+   "tables": []
+  },
+  {
+   "name": "ผู้พิทักษ์ประตูเฮลกา",
+   "slug": "warden_npc",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/warden_npc",
+   "source_title": "ผู้พิทักษ์ประตูเฮลกา · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/warden_npc.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไร—",
+   "tables": []
+  },
+  {
+   "name": "Valebrook Warp Statue",
+   "slug": "warp_statue",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/valebrook",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/warp_statue",
+   "source_title": "Valebrook Warp Statue · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/warp_statue.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
+   "tables": []
+  },
+  {
+   "name": "Ashford Warp Statue",
+   "slug": "warp_statue_a",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ashford",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/warp_statue_a",
+   "source_title": "Ashford Warp Statue · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/warp_statue_a.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
+   "tables": []
+  },
+  {
+   "name": "Stormwall Warp Statue",
+   "slug": "warp_statue_c",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/stormwall_city",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/warp_statue_c",
+   "source_title": "Stormwall Warp Statue · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/warp_statue_c.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
+   "tables": []
+  },
+  {
+   "name": "Sanctum Warp Statue",
+   "slug": "warp_statue_s",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/sanctum",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/warp_statue_s",
+   "source_title": "Sanctum Warp Statue · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/warp_statue_s.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
+   "tables": []
+  },
+  {
+   "name": "Tidehaven Warp Statue",
+   "slug": "warp_statue_t",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/tidehaven",
+    "/systems/rules"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/warp_statue_t",
+   "source_title": "Tidehaven Warp Statue · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/warp_statue_t.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
+   "tables": []
+  },
+  {
+   "name": "Portal กลับ",
+   "slug": "worldboss_exit",
+   "category": "npc",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/rootfall_barrow"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/npc/worldboss_exit",
+   "source_title": "Portal กลับ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Game_Systems/NPCs/worldboss_exit.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "อยู่ที่ไหน[Rootfall Barrow](/map/rootfall_barrow) แมพพิเศษทำอะไร—",
+   "tables": []
+  }
+ ]
+}

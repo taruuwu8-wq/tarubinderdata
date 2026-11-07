@@ -1,0 +1,603 @@
+{
+ "_about": "Patch notes from the official Discord (admin post, copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison.",
+ "patch_id": "patch_received_2026-11-07",
+ "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).",
+ "count": 36,
+ "records": [
+  {
+   "id": "patch_received_2026-11-07#1",
+   "index": 1,
+   "text_verbatim": "แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ",
+   "source_line": "•  แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ",
+   "topic_line": "แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ",
+   "is_topic_line": true,
+   "system": "Maps",
+   "affected_kb_files": [
+    "Maps/_All_Maps.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "[TO_VERIFY] Which 28 maps form the 'first continent' is not named in the patch; map sizes and spawn layouts on the Wiki may predate this change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#2",
+   "index": 2,
+   "text_verbatim": "ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก",
+   "source_line": "•  ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก",
+   "topic_line": "ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก",
+   "is_topic_line": true,
+   "system": "Maps",
+   "affected_kb_files": [
+    "Maps/_All_Maps.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Channel counts / spawn spread: not compared.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#3",
+   "index": 3,
+   "text_verbatim": "มอนไล่ตามแล้วเดินอ้อมเสา ต้นไม้ และหินแทนการติด",
+   "source_line": "•  มอนไล่ตามแล้วเดินอ้อมเสา ต้นไม้ และหินแทนการติด",
+   "topic_line": "มอนไล่ตามแล้วเดินอ้อมเสา ต้นไม้ และหินแทนการติด",
+   "is_topic_line": true,
+   "system": "Monsters (AI)",
+   "affected_kb_files": [
+    "Monsters/_All_Monsters.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "No Wiki statement found to compare.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#4",
+   "index": 4,
+   "text_verbatim": "แมพเริ่มต้นมีมอนใกล้จุดเกิดเท่าเดิม",
+   "source_line": "• แมพเริ่มต้นมีมอนใกล้จุดเกิดเท่าเดิม",
+   "topic_line": "มอนไล่ตามแล้วเดินอ้อมเสา ต้นไม้ และหินแทนการติด",
+   "is_topic_line": false,
+   "system": "Maps",
+   "affected_kb_files": [
+    "Maps/_All_Maps.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "No Wiki statement found to compare.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#5",
+   "index": 5,
+   "text_verbatim": "ลดอาการตัวละครเดินกระตุกตอนเซิร์ฟเวอร์ยุ่ง และลดการค้างของเซิร์ฟเวอร์",
+   "source_line": "•  ลดอาการตัวละครเดินกระตุกตอนเซิร์ฟเวอร์ยุ่ง และลดการค้างของเซิร์ฟเวอร์",
+   "topic_line": "ลดอาการตัวละครเดินกระตุกตอนเซิร์ฟเวอร์ยุ่ง และลดการค้างของเซิร์ฟเวอร์",
+   "is_topic_line": true,
+   "system": "Server",
+   "affected_kb_files": [],
+   "missing_kb_files": [],
+   "wiki_comparison": "Not a game-data change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#6",
+   "index": 6,
+   "text_verbatim": "ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น",
+   "source_line": "• ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น",
+   "topic_line": "ลดอาการตัวละครเดินกระตุกตอนเซิร์ฟเวอร์ยุ่ง และลดการค้างของเซิร์ฟเวอร์",
+   "is_topic_line": false,
+   "system": "UI",
+   "affected_kb_files": [
+    "Game_Systems/shop.md",
+    "Game_Systems/premium.md",
+    "Game_Systems/pass.md",
+    "Game_Systems/social.md",
+    "Game_Systems/windows.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Performance fix; no data impact.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#7",
+   "index": 7,
+   "text_verbatim": "แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28",
+   "source_line": "•  แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28",
+   "topic_line": "แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28",
+   "is_topic_line": true,
+   "system": "Fashion",
+   "affected_kb_files": [
+    "Game_Systems/fashion.md",
+    "Items/_Listings/fashion.md",
+    "Game_Systems/shop.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "CONFLICT-LIKELY: Wiki crawl (2026-11-07) lists 69 fashion items; the 106 new items are not in this knowledge base.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#8",
+   "index": 8,
+   "text_verbatim": "ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน",
+   "source_line": "•  ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน",
+   "topic_line": "ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน",
+   "is_topic_line": true,
+   "system": "Fashion / Dye",
+   "affected_kb_files": [
+    "Game_Systems/fashion.md",
+    "Items/_Listings/mat.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Wiki dye item text describes hair/outfit colour; hat/weapon dyeing is new per patch.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#9",
+   "index": 9,
+   "text_verbatim": "พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว",
+   "source_line": "•  พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว",
+   "topic_line": "พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว",
+   "is_topic_line": true,
+   "system": "Fashion / Mounts",
+   "affected_kb_files": [
+    "Game_Systems/fashion.md",
+    "Items/_Listings/fashion.md",
+    "Game_Systems/shop.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "CONFLICT: Wiki states mount run speed '+15%'; patch states 50% (was 15%). Patch is newer.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#10",
+   "index": 10,
+   "text_verbatim": "Bank ฝาก / ถอนหลายกองในครั้งเดียว และมีปุ่มรวมกองในคลัง",
+   "source_line": "•  Bank ฝาก / ถอนหลายกองในครั้งเดียว และมีปุ่มรวมกองในคลัง",
+   "topic_line": "Bank ฝาก / ถอนหลายกองในครั้งเดียว และมีปุ่มรวมกองในคลัง",
+   "is_topic_line": true,
+   "system": "Bank",
+   "affected_kb_files": [
+    "Game_Systems/rules.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "New UI feature; Wiki Bank rules otherwise unaffected.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#11",
+   "index": 11,
+   "text_verbatim": "ค้นหาเพื่อนจากชื่อหรือ UID ได้ คำขอเป็นเพื่อนรอคนออฟไลน์ 14 วัน",
+   "source_line": "•  ค้นหาเพื่อนจากชื่อหรือ UID ได้ คำขอเป็นเพื่อนรอคนออฟไลน์ 14 วัน",
+   "topic_line": "ค้นหาเพื่อนจากชื่อหรือ UID ได้ คำขอเป็นเพื่อนรอคนออฟไลน์ 14 วัน",
+   "is_topic_line": true,
+   "system": "Social",
+   "affected_kb_files": [
+    "Game_Systems/social.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "New feature.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#12",
+   "index": 12,
+   "text_verbatim": "ซ่อนอุปกรณ์จากโปรไฟล์ได้ (แฟชั่นยังเห็น)",
+   "source_line": "• ซ่อนอุปกรณ์จากโปรไฟล์ได้ (แฟชั่นยังเห็น)",
+   "topic_line": "ค้นหาเพื่อนจากชื่อหรือ UID ได้ คำขอเป็นเพื่อนรอคนออฟไลน์ 14 วัน",
+   "is_topic_line": false,
+   "system": "Social / Profile",
+   "affected_kb_files": [
+    "Game_Systems/social.md",
+    "Game_Systems/windows.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "New feature.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#13",
+   "index": 13,
+   "text_verbatim": "Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)",
+   "source_line": "•  Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)",
+   "topic_line": "Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)",
+   "is_topic_line": true,
+   "system": "Guild War",
+   "affected_kb_files": [
+    "Game_Systems/pvp.md",
+    "Game_Systems/social.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "No Wiki statement found to compare.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#14",
+   "index": 14,
+   "text_verbatim": "CH10 นับแต้มสงครามได้ทุกเวลา",
+   "source_line": "• CH10 นับแต้มสงครามได้ทุกเวลา",
+   "topic_line": "Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)",
+   "is_topic_line": false,
+   "system": "Guild War",
+   "affected_kb_files": [
+    "Game_Systems/pvp.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "No Wiki statement found to compare.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#15",
+   "index": 15,
+   "text_verbatim": "PvP Warrior: Rend / Gash หลบไม่ได้",
+   "source_line": "•  PvP Warrior: Rend / Gash หลบไม่ได้",
+   "topic_line": "PvP Warrior: Rend / Gash หลบไม่ได้",
+   "is_topic_line": true,
+   "system": "Class: Warrior (PvP)",
+   "affected_kb_files": [
+    "Classes/Warrior.md",
+    "Skills/Warrior/rend.md",
+    "Skills/Warrior/gash.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait changes; Wiki class traits may predate this patch.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#16",
+   "index": 16,
+   "text_verbatim": "HP ต่ำกว่า 60% เริ่มดูดเลือดจากผู้เล่น สูงสุด 20%",
+   "source_line": "• HP ต่ำกว่า 60% เริ่มดูดเลือดจากผู้เล่น สูงสุด 20%",
+   "topic_line": "PvP Warrior: Rend / Gash หลบไม่ได้",
+   "is_topic_line": false,
+   "system": "Class: Warrior (PvP)",
+   "affected_kb_files": [
+    "Classes/Warrior.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#17",
+   "index": 17,
+   "text_verbatim": "HP ต่ำกว่า 30% ได้โล่ 15% ของ HP นาน 6 วิ (ทุก 60 วิ)",
+   "source_line": "• HP ต่ำกว่า 30% ได้โล่ 15% ของ HP นาน 6 วิ (ทุก 60 วิ)",
+   "topic_line": "PvP Warrior: Rend / Gash หลบไม่ได้",
+   "is_topic_line": false,
+   "system": "Class: Warrior (PvP)",
+   "affected_kb_files": [
+    "Classes/Warrior.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#18",
+   "index": 18,
+   "text_verbatim": "PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
+   "source_line": "•  PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
+   "topic_line": "PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
+   "is_topic_line": true,
+   "system": "Class: Rogue (PvP)",
+   "affected_kb_files": [
+    "Classes/Rogue.md",
+    "Skills/Rogue/assassinate.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#19",
+   "index": 19,
+   "text_verbatim": "ฮิตแรกหลัง Dash / Fade แรงขึ้น 35%",
+   "source_line": "• ฮิตแรกหลัง Dash / Fade แรงขึ้น 35%",
+   "topic_line": "PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
+   "is_topic_line": false,
+   "system": "Class: Rogue (PvP)",
+   "affected_kb_files": [
+    "Classes/Rogue.md",
+    "Skills/Rogue/fade.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#20",
+   "index": 20,
+   "text_verbatim": "ฆ่าผู้เล่นแล้วได้ Dash คืน",
+   "source_line": "• ฆ่าผู้เล่นแล้วได้ Dash คืน",
+   "topic_line": "PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
+   "is_topic_line": false,
+   "system": "Class: Rogue (PvP)",
+   "affected_kb_files": [
+    "Classes/Rogue.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#21",
+   "index": 21,
+   "text_verbatim": "PvP Mage: โดนตีประชิดแล้วปล่อย Frost Nova ผลัก 3 ช่องและตรึง 1.5 วิ (ทุก 12 วิ)",
+   "source_line": "•  PvP Mage: โดนตีประชิดแล้วปล่อย Frost Nova ผลัก 3 ช่องและตรึง 1.5 วิ (ทุก 12 วิ)",
+   "topic_line": "PvP Mage: โดนตีประชิดแล้วปล่อย Frost Nova ผลัก 3 ช่องและตรึง 1.5 วิ (ทุก 12 วิ)",
+   "is_topic_line": true,
+   "system": "Class: Mage (PvP)",
+   "affected_kb_files": [
+    "Classes/Mage.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "New PvP trait. Note: on the Wiki 'Frost Nova' is also the name of Nova's Evolution A (Skills/Mage/nova.md) — different mechanic.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#22",
+   "index": 22,
+   "text_verbatim": "PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
+   "source_line": "•  PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
+   "topic_line": "PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
+   "is_topic_line": true,
+   "system": "Class: Scout (PvP)",
+   "affected_kb_files": [
+    "Classes/Scout.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#23",
+   "index": 23,
+   "text_verbatim": "ยิงจาก 5 ช่องขึ้นไปแรงขึ้น 20%",
+   "source_line": "• ยิงจาก 5 ช่องขึ้นไปแรงขึ้น 20%",
+   "topic_line": "PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
+   "is_topic_line": false,
+   "system": "Class: Scout (PvP)",
+   "affected_kb_files": [
+    "Classes/Scout.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#24",
+   "index": 24,
+   "text_verbatim": "โดนตีประชิดแล้วกระโดดหนี 4 ช่อง (ทุก 10 วิ)",
+   "source_line": "• โดนตีประชิดแล้วกระโดดหนี 4 ช่อง (ทุก 10 วิ)",
+   "topic_line": "PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
+   "is_topic_line": false,
+   "system": "Class: Scout (PvP)",
+   "affected_kb_files": [
+    "Classes/Scout.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP trait change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#25",
+   "index": 25,
+   "text_verbatim": "DEX ออกบนเกราะ รองเท้า และหมวกได้",
+   "source_line": "• DEX ออกบนเกราะ รองเท้า และหมวกได้",
+   "topic_line": "PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
+   "is_topic_line": false,
+   "system": "Affixes",
+   "affected_kb_files": [
+    "Affixes/affix.md",
+    "Classes/Scout.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "[TO_VERIFY] DEX on armor/boots/headgear is new per patch; the tier-10 per-item affix pools in this KB may not include it yet.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#26",
+   "index": 26,
+   "text_verbatim": "PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง",
+   "source_line": "•  PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง",
+   "topic_line": "PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง",
+   "is_topic_line": true,
+   "system": "Class: Acolyte (PvP)",
+   "affected_kb_files": [
+    "Classes/Acolyte.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "PvP rule change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#27",
+   "index": 27,
+   "text_verbatim": "Rend, Gash, Assassinate ลดฮีลที่เป้าได้รับ 40% นาน 5 วิ",
+   "source_line": "• Rend, Gash, Assassinate ลดฮีลที่เป้าได้รับ 40% นาน 5 วิ",
+   "topic_line": "PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง",
+   "is_topic_line": false,
+   "system": "Class: Acolyte (PvP)",
+   "affected_kb_files": [
+    "Classes/Acolyte.md",
+    "Skills/Warrior/rend.md",
+    "Skills/Warrior/gash.md",
+    "Skills/Rogue/assassinate.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Grouping under Acolyte follows the bullet layout of the source text [INFERENCE]; the effect itself names Rend, Gash, Assassinate.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#28",
+   "index": 28,
+   "text_verbatim": "Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้",
+   "source_line": "•  Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้",
+   "topic_line": "Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้",
+   "is_topic_line": true,
+   "system": "Class: Summoner",
+   "affected_kb_files": [
+    "Classes/Summoner.md",
+    "Combat_Mechanics/class-resources.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Class resource rule change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#29",
+   "index": 29,
+   "text_verbatim": "Oathbound Band: MATK เท่ากับ ATK และ INT เท่ากับ STR",
+   "source_line": "•  Oathbound Band: MATK เท่ากับ ATK และ INT เท่ากับ STR",
+   "topic_line": "Oathbound Band: MATK เท่ากับ ATK และ INT เท่ากับ STR",
+   "is_topic_line": true,
+   "system": "Unique item",
+   "affected_kb_files": [
+    "Equipment/oathbound_band.md",
+    "Blacksmith/uniques.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "CONFLICT-LIKELY: Wiki shows Oathbound Band as 'ATK +10% · MATK +10% · Block +5%' with Twin Oath; the patch adds MATK = ATK and INT = STR.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#30",
+   "index": 30,
+   "text_verbatim": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "source_line": "•  แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": true,
+   "system": "Bug fix: Fear status",
+   "affected_kb_files": [
+    "Combat_Mechanics/statuses.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Bug fix.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#31",
+   "index": 31,
+   "text_verbatim": "เปลี่ยนอาชีพแล้วบัฟสกิลอาชีพเดิมหาย",
+   "source_line": "• เปลี่ยนอาชีพแล้วบัฟสกิลอาชีพเดิมหาย",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": false,
+   "system": "Bug fix: class change",
+   "affected_kb_files": [
+    "Classes/_All_Classes.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Bug fix.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#32",
+   "index": 32,
+   "text_verbatim": "ป้าย KILL ขึ้นทุกการฆ่าผู้เล่น",
+   "source_line": "• ป้าย KILL ขึ้นทุกการฆ่าผู้เล่น",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": false,
+   "system": "Bug fix: PvP",
+   "affected_kb_files": [
+    "Game_Systems/pvp.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Bug fix.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#33",
+   "index": 33,
+   "text_verbatim": "สู้กับผู้เล่นยังไม่จบ ดูดเลือดจากมอนไม่ได้",
+   "source_line": "• สู้กับผู้เล่นยังไม่จบ ดูดเลือดจากมอนไม่ได้",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": false,
+   "system": "Bug fix: PvP lifesteal",
+   "affected_kb_files": [
+    "Game_Systems/pvp.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Bug fix.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#34",
+   "index": 34,
+   "text_verbatim": "Soulforge ชิ้นสุดท้ายข้ามแรงก์ 8 ได้",
+   "source_line": "• Soulforge ชิ้นสุดท้ายข้ามแรงก์ 8 ได้",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": false,
+   "system": "Bug fix: Soulforge",
+   "affected_kb_files": [],
+   "missing_kb_files": [],
+   "wiki_comparison": "[UNKNOWN] 'Soulforge' does not appear anywhere in the crawled Wiki.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#35",
+   "index": 35,
+   "text_verbatim": "Gate Brute กับ Golden Sentinel เกิดอีกครั้ง",
+   "source_line": "• Gate Brute กับ Golden Sentinel เกิดอีกครั้ง",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": false,
+   "system": "Bug fix: monster spawn",
+   "affected_kb_files": [
+    "Monsters/gate_brute.md",
+    "Monsters/golden_sentinel.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Bug fix (spawn restored).",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_received_2026-11-07#36",
+   "index": 36,
+   "text_verbatim": "การ์ด World Boss ไม่ต้องเปิดซอง",
+   "source_line": "• การ์ด World Boss ไม่ต้องเปิดซอง",
+   "topic_line": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
+   "is_topic_line": false,
+   "system": "Cards / World Boss",
+   "affected_kb_files": [
+    "Monsters/world-boss.md",
+    "Cards/Cards_and_Spirits.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Card delivery change.",
+   "verification_status": "PATCH",
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  }
+ ]
+}

@@ -1,0 +1,3392 @@
+{
+ "_about": "All 55 maps. summary_text holds level range / EXP cap / exits / matchup notes verbatim.",
+ "count": 55,
+ "records": [
+  {
+   "name": "Ancient Ruins",
+   "slug": "ancient_ruins",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/copper_ore",
+    "/item/moonleaf",
+    "/item/river_trout",
+    "/map/sunfield_plains",
+    "/map/whispering_woods",
+    "/mob/prism_shell_sovereign",
+    "/mob/remnant",
+    "/mob/shrine_firefly",
+    "/mob/vale_keeper",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ancient_ruins",
+   "source_title": "Ancient Ruins · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ancient_ruins.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 23** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Whispering Woods](/map/whispering_woods) Lv 4–9 · [Sunfield Plains](/map/sunfield_plains) Lv 18–24\n\nเลเวลถัดไป: [Sunfield Plains](/map/sunfield_plains) Lv 18–24สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 100% · Infusion ธาตุ Shadow 96% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Remnant](/mob/remnant) Elite\n\n[Vale Keeper](/mob/vale_keeper) Mini-boss\n\n[Prism Shell Sovereign](/mob/prism_shell_sovereign) Field BossChannel 10 (PvP)\n\nซากเมืองเก่าที่ถนนยังเป็นตารางสี่เหลี่ยมใต้ตะไคร่ ไม่มีใครใน Valebrook รู้ว่าใครสร้าง Remnant ที่เดินตรวจตามลานยังทำตามคำสั่งของเจ้าเมืองที่ตายไปนานแล้ว",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T2",
+       "ใบจันทร์",
+       "Lv 8",
+       "9"
+      ],
+      [
+       "Mining",
+       "T2",
+       "แร่ทองแดง",
+       "Lv 8",
+       "15"
+      ],
+      [
+       "Fishing",
+       "T2",
+       "ปลาเทราท์",
+       "Lv 8",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/prism_shell_sovereign",
+    "/mob/remnant",
+    "/mob/shrine_firefly",
+    "/mob/vale_keeper"
+   ]
+  },
+  {
+   "name": "Ashford",
+   "slug": "ashford",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/iron_ore",
+    "/item/ironwood",
+    "/map/duskgate_pass",
+    "/map/ember_hollow",
+    "/map/gloomroot_forest",
+    "/map/mistmire_swamp",
+    "/map/peatcut_bog",
+    "/map/pitchwood",
+    "/map/sunfield_plains",
+    "/map/yellowlick_flats",
+    "/npc/apothecary",
+    "/npc/blacksmith2",
+    "/npc/card_binder_a",
+    "/npc/elder2",
+    "/npc/innkeep",
+    "/npc/jobmaster2",
+    "/npc/market_board_a",
+    "/npc/merchant_a",
+    "/npc/merchant_b",
+    "/npc/spirit_broker_a",
+    "/npc/training_portal_ashford",
+    "/npc/warp_statue_a",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ashford",
+   "source_title": "Ashford · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ashford.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "มีบริการอะไรร้านค้า · ช่างตีเหล็ก · ทำอาหาร · ปรุงยา · วาร์ป · Bank · การ์ด · ตลาดโลก · Portal ห้องฝึกแมพรอบเมือง[Sunfield Plains](/map/sunfield_plains) Lv 18–24\n\n[Gloomroot Forest](/map/gloomroot_forest) Lv 24–30\n\n[Pitchwood](/map/pitchwood) Lv 24–30\n\n[Ember Hollow](/map/ember_hollow) Lv 28–36\n\n[Yellowlick Flats](/map/yellowlick_flats) Lv 30–36\n\n[Mistmire Swamp](/map/mistmire_swamp) Lv 34–40\n\n[Peatcut Bog](/map/peatcut_bog) Lv 36–42\n\n[Duskgate Pass](/map/duskgate_pass) Lv 40–45ทางออก[Sunfield Plains](/map/sunfield_plains) Lv 18–24\n\n[Gloomroot Forest](/map/gloomroot_forest) Lv 24–30\n\n[Ember Hollow](/map/ember_hollow) Lv 28–36\n\n[Mistmire Swamp](/map/mistmire_swamp) Lv 34–40\n\n[Duskgate Pass](/map/duskgate_pass) Lv 40–45พักผ่อนอยู่ในเมืองสะสม Rested EXP (ใกล้กองไฟกลางเมือง ×2)\n\nเมืองเหมืองแร่ที่เจาะเข้าไปในผาหินฝั่งตะวันออกเฉียงเหนือ เตาหลอมกับโรงตีเหล็กทำงานทั้งวันทั้งคืน กลางเมืองมีลานโรงเตี๊ยมที่คนงานเหมือง นักล่า และพ่อค้ามานั่งรวมกัน",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "3"
+      ],
+      [
+       "Logging",
+       "T3",
+       "ไม้เหล็ก",
+       "Lv 18",
+       "3"
+      ],
+      [
+       "Mining",
+       "T3",
+       "แร่เหล็ก",
+       "Lv 18",
+       "4"
+      ]
+     ]
+    }
+   ],
+   "monsters": []
+  },
+  {
+   "name": "Aurora Hollow",
+   "slug": "aurora_hollow",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/frozen_mere",
+    "/map/howling_steppes",
+    "/mob/aurora_antler_regent",
+    "/mob/frost_crab",
+    "/mob/ice_otter",
+    "/mob/ice_wisp"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/aurora_hollow",
+   "source_title": "Aurora Hollow · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/aurora_hollow.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 61** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Frozen Mere](/map/frozen_mere) Lv 52–58\n\nเลเวลถัดไป: [Howling Steppes](/map/howling_steppes) Lv 58–64สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 18% · ต้านเวท 18%) · Infusion ธาตุ Fire 64% ช่วยมอนตีก่อนไหม[Ice Otter](/mob/ice_otter) [Ice Wisp](/mob/ice_wisp)Elite / บอส[Aurora Antler Regent](/mob/aurora_antler_regent) Field BossChannel 10 (PvP)",
+   "tables": [],
+   "monsters": [
+    "/mob/aurora_antler_regent",
+    "/mob/frost_crab",
+    "/mob/ice_otter",
+    "/mob/ice_wisp"
+   ]
+  },
+  {
+   "name": "Bloomcrown Glade",
+   "slug": "bloomcrown_glade",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/bracken_sink",
+    "/map/old_quarry",
+    "/map/whispering_woods",
+    "/mob/acorn_skitter",
+    "/mob/bloom_crowned_stag",
+    "/mob/gloom_wisp",
+    "/mob/thornling"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/bloomcrown_glade",
+   "source_title": "Bloomcrown Glade · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/bloomcrown_glade.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 12** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Whispering Woods](/map/whispering_woods) Lv 4–9\n\nเลเวลถัดไป: [Bracken Sink](/map/bracken_sink) Lv 9–15 · [Old Quarry](/map/old_quarry) Lv 10–16สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 25% · Infusion ธาตุ Earth 50% · Fire 25% · Shadow 25% ช่วยมอนตีก่อนไหม[Thornling](/mob/thornling)Elite / บอส[Bloom Crowned Stag](/mob/bloom_crowned_stag) Field BossChannel 10 (PvP)",
+   "tables": [],
+   "monsters": [
+    "/mob/acorn_skitter",
+    "/mob/bloom_crowned_stag",
+    "/mob/gloom_wisp",
+    "/mob/thornling"
+   ]
+  },
+  {
+   "name": "Bracken Sink",
+   "slug": "bracken_sink",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/copper_ore",
+    "/item/moonleaf",
+    "/item/resin_wood",
+    "/item/river_trout",
+    "/map/ancient_ruins",
+    "/map/old_quarry",
+    "/map/sunfield_plains",
+    "/map/verdigris_rise",
+    "/map/whispering_woods",
+    "/mob/burrow_skitter",
+    "/mob/fern_thornling",
+    "/mob/moss_brute",
+    "/mob/moss_crab",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/bracken_sink",
+   "source_title": "Bracken Sink · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/bracken_sink.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 18** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Whispering Woods](/map/whispering_woods) Lv 4–9 · [Sunfield Plains](/map/sunfield_plains) Lv 18–24\n\nเลเวลถัดไป: [Old Quarry](/map/old_quarry) Lv 10–16 · [Ancient Ruins](/map/ancient_ruins) Lv 14–20 · [Verdigris Rise](/map/verdigris_rise) Lv 14–20สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 15% · ต้านเวท 0%) · Infusion ธาตุ Earth 55% · Fire 31% ช่วยมอนตีก่อนไหม[Fern Thornling](/mob/fern_thornling)Elite / บอส[Moss Brute](/mob/moss_brute) Elite\n\nหลุมยุบกลางป่าที่เฟิร์นขึ้นสูงท่วมหัว ตรงกลางมีบ่อน้ำพุเย็นที่ไม่เคยแห้ง คนตัดไม้ตั้งค่ายอยู่มุมตะวันออกเฉียงใต้ ใช้ที่นี่เป็นทางลัดจาก Whispering Woods ไป Sunfield Plains",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T2",
+       "ใบจันทร์",
+       "Lv 8",
+       "10"
+      ],
+      [
+       "Logging",
+       "T2",
+       "ไม้ยาง",
+       "Lv 8",
+       "13"
+      ],
+      [
+       "Mining",
+       "T2",
+       "แร่ทองแดง",
+       "Lv 8",
+       "5"
+      ],
+      [
+       "Fishing",
+       "T2",
+       "ปลาเทราท์",
+       "Lv 8",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/burrow_skitter",
+    "/mob/fern_thornling",
+    "/mob/moss_brute",
+    "/mob/moss_crab"
+   ]
+  },
+  {
+   "name": "Brinecrust Shoals",
+   "slug": "brinecrust_shoals",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/elderwood",
+    "/item/ember_root",
+    "/item/frost_koi",
+    "/item/mithril_ore",
+    "/map/frozen_mere",
+    "/map/howling_steppes",
+    "/mob/brine_crab",
+    "/mob/crust_lurker",
+    "/mob/floe_brute",
+    "/mob/floe_wisp",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/brinecrust_shoals",
+   "source_title": "Brinecrust Shoals · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/brinecrust_shoals.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 63** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Frozen Mere](/map/frozen_mere) Lv 52–58 · [Howling Steppes](/map/howling_steppes) Lv 58–64\n\nเลเวลถัดไป: [Howling Steppes](/map/howling_steppes) Lv 58–64สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 41% · Infusion ธาตุ Shadow 41% · Storm 39% ช่วยมอนตีก่อนไหม[Floe Wisp](/mob/floe_wisp) [Crust Lurker](/mob/crust_lurker)Elite / บอส[Floe Brute](/mob/floe_brute) Elite\n\nหาดน้ำตื้นระหว่าง Frozen Mere กับ Howling Steppes ที่น้ำทะเลเค็มแข็งตัวเป็นเปลือก ชาวประมงตัดรูวางอวน และมีคลื่นที่แข็งค้างอยู่กลางการซัดเข้าฝั่ง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T4",
+       "รากไฟตะกอน",
+       "Lv 30",
+       "5"
+      ],
+      [
+       "Logging",
+       "T4",
+       "ไม้เอลเดอร์",
+       "Lv 30",
+       "5"
+      ],
+      [
+       "Mining",
+       "T4",
+       "แร่มิธริล",
+       "Lv 30",
+       "13"
+      ],
+      [
+       "Fishing",
+       "T4",
+       "คาร์ฟน้ำแข็ง",
+       "Lv 30",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/brine_crab",
+    "/mob/crust_lurker",
+    "/mob/floe_brute",
+    "/mob/floe_wisp"
+   ]
+  },
+  {
+   "name": "Cinder Eyrie",
+   "slug": "cinder_eyrie",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/ember_hollow",
+    "/map/mistmire_swamp",
+    "/map/peatcut_bog",
+    "/mob/cinder_plume_roc",
+    "/mob/ember_hound",
+    "/mob/ember_wisp",
+    "/mob/magma_pebblit"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/cinder_eyrie",
+   "source_title": "Cinder Eyrie · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/cinder_eyrie.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 39** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Ember Hollow](/map/ember_hollow) Lv 28–36\n\nเลเวลถัดไป: [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40 · [Peatcut Bog](/map/peatcut_bog) Lv 36–42สายไหนได้เปรียบ**สายเวท** ได้เปรียบ — มอนเกราะหนา 20% · Infusion ธาตุ Fire 60% ช่วยมอนตีก่อนไหม[Ember Hound](/mob/ember_hound)Elite / บอส[Cinder Plume Roc](/mob/cinder_plume_roc) Field BossChannel 10 (PvP)",
+   "tables": [],
+   "monsters": [
+    "/mob/cinder_plume_roc",
+    "/mob/ember_hound",
+    "/mob/ember_wisp",
+    "/mob/magma_pebblit"
+   ]
+  },
+  {
+   "name": "Cloudspire Ruins",
+   "slug": "cloudspire_ruins",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/star_shard",
+    "/map/glasswrack",
+    "/map/howling_steppes",
+    "/map/kitewind_terraces",
+    "/map/sanctum",
+    "/map/shattered_vale",
+    "/map/stormwall_city",
+    "/map/tempest_aerie",
+    "/mob/cloud_brute",
+    "/mob/sky_sentinel",
+    "/mob/sky_wisp",
+    "/mob/storm_remnant",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/cloudspire_ruins",
+   "source_title": "Cloudspire Ruins · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/cloudspire_ruins.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 73** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Howling Steppes](/map/howling_steppes) Lv 58–64 · [Sanctum](/map/sanctum) เมือง · [Stormwall City](/map/stormwall_city) เมือง · [Tempest Aerie](/map/tempest_aerie) Lv 67–70 · [Kitewind Terraces](/map/kitewind_terraces) Lv 64–70\n\nเลเวลถัดไป: [Shattered Vale](/map/shattered_vale) Lv 70–80 · [Glasswrack](/map/glasswrack) Lv 72–80สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 99% · Infusion ธาตุ Shadow 97% ช่วยมอนตีก่อนไหม[Sky Wisp](/mob/sky_wisp)Elite / บอส[Storm Remnant](/mob/storm_remnant) Elite\n\n[Cloud Brute](/mob/cloud_brute) Elite\n\n[Sky Sentinel](/mob/sky_sentinel) Mini-boss\n\nซากหอคอยหินอ่อนที่อยู่สูงจนเมฆลอยผ่านระหว่างเสา คณะนักบวชเก่าใช้ที่นี่ส่งข่าวทางว่าวไปทั่วภูเขา เตาไฟบนลานยังจุดอยู่ทั้งที่ไม่มีคนเติมฟืน",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "8"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "10"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/cloud_brute",
+    "/mob/sky_sentinel",
+    "/mob/sky_wisp",
+    "/mob/storm_remnant"
+   ]
+  },
+  {
+   "name": "Coralstep Plateau",
+   "slug": "coralstep_plateau",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spirit_koi",
+    "/item/star_shard",
+    "/map/drowned_forum",
+    "/map/rustbell_barracks",
+    "/map/stormrail_causeway",
+    "/map/wreckwake_coast",
+    "/mob/ammonite_crawler",
+    "/mob/coral_brute",
+    "/mob/coral_pebblit",
+    "/mob/coralback_tortoise",
+    "/mob/pearl_wisp",
+    "/mob/shell_remnant",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/coralstep_plateau",
+   "source_title": "Coralstep Plateau · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/coralstep_plateau.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 109** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%เข้าได้ไหมทวีป Nacreon เข้าได้ตั้งแต่ **Lv 99** ขึ้นไปเท่านั้น · ทางเข้าทางใต้ของ [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ไปต่อที่ไหนทางออก: [Wreckwake Coast](/map/wreckwake_coast) Lv 99–102 · [Stormrail Causeway](/map/stormrail_causeway) Lv 107–110 · [Drowned Forum](/map/drowned_forum) Lv 105–108\n\nเลเวลถัดไป: [Drowned Forum](/map/drowned_forum) Lv 105–108 · [Stormrail Causeway](/map/stormrail_causeway) Lv 107–110สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 64% · Infusion ธาตุ Holy 42% · Frost 35% ช่วยมอนตีก่อนไหม[Coral Pebblit](/mob/coral_pebblit) [Shell Remnant](/mob/shell_remnant)Elite / บอส[Coral Brute](/mob/coral_brute) Elite\n\n[Ammonite Crawler](/mob/ammonite_crawler) Elite\n\n[Coralback Tortoise](/mob/coralback_tortoise) Mini-boss\n\nลานหินปูนที่เคยเป็นแนวปะการังก่อนทะเลลด ปะการังแห้งขาวโพลนอยู่ตามหิน แอ่งน้ำทะเลเหลือค้างเป็นจุด ๆ และกลางลานมีเปลือกหอยฟอสซิลขนาดยักษ์",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "14"
+      ],
+      [
+       "Fishing",
+       "T5",
+       "คาร์ฟวิญญาณ",
+       "Lv 42",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/ammonite_crawler",
+    "/mob/coral_brute",
+    "/mob/coral_pebblit",
+    "/mob/coralback_tortoise",
+    "/mob/pearl_wisp",
+    "/mob/shell_remnant"
+   ]
+  },
+  {
+   "name": "Drowned Forum",
+   "slug": "drowned_forum",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spirit_koi",
+    "/item/star_shard",
+    "/map/coralstep_plateau",
+    "/map/lanternrice_delta",
+    "/map/rustbell_barracks",
+    "/map/shellforge_basin",
+    "/map/stormrail_causeway",
+    "/mob/bronze_remnant",
+    "/mob/drowned_senator",
+    "/mob/forum_sentinel",
+    "/mob/fountain_serpent",
+    "/mob/mirror_merchant",
+    "/mob/vase_lurker",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/drowned_forum",
+   "source_title": "Drowned Forum · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/drowned_forum.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 111** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%เข้าได้ไหมทวีป Nacreon เข้าได้ตั้งแต่ **Lv 99** ขึ้นไปเท่านั้น · ทางเข้าทางใต้ของ [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ไปต่อที่ไหนทางออก: [Lanternrice Delta](/map/lanternrice_delta) Lv 101–104 · [Stormrail Causeway](/map/stormrail_causeway) Lv 107–110 · [Coralstep Plateau](/map/coralstep_plateau) Lv 103–106 · [Shellforge Basin](/map/shellforge_basin) Lv 110–113\n\nเลเวลถัดไป: [Stormrail Causeway](/map/stormrail_causeway) Lv 107–110 · [Shellforge Basin](/map/shellforge_basin) Lv 110–113สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 59% · Infusion ธาตุ Holy 82% ช่วยมอนตีก่อนไหม[Mirror Merchant](/mob/mirror_merchant) [Vase Lurker](/mob/vase_lurker)Elite / บอส[Forum Sentinel](/mob/forum_sentinel) Elite\n\n[Drowned Senator](/mob/drowned_senator) Elite\n\n[Fountain Serpent](/mob/fountain_serpent) Mini-boss\n\nนครแห่งสภาที่น้ำทะเลกลืนไปแล้ว คลองตัดผ่านกลางบล็อกเมือง เสาหินอ่อนหักเรียงรอบลานกลาง และรูปปั้นสำริดของสมาชิกสภายังยืนเฝ้าลานอยู่",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "12"
+      ],
+      [
+       "Fishing",
+       "T5",
+       "คาร์ฟวิญญาณ",
+       "Lv 42",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/bronze_remnant",
+    "/mob/drowned_senator",
+    "/mob/forum_sentinel",
+    "/mob/fountain_serpent",
+    "/mob/mirror_merchant",
+    "/mob/vase_lurker"
+   ]
+  },
+  {
+   "name": "Duskgate Pass",
+   "slug": "duskgate_pass",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/iron_ore",
+    "/map/ashford",
+    "/map/frostpeak_slopes",
+    "/map/mistmire_swamp",
+    "/map/sledrun_gully",
+    "/map/stormwall_city",
+    "/mob/dusk_herald",
+    "/mob/dusk_remnant",
+    "/mob/dusk_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/duskgate_pass",
+   "source_title": "Duskgate Pass · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/duskgate_pass.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 48** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40 · [Stormwall City](/map/stormwall_city) เมือง · [Ashford](/map/ashford) เมือง\n\nเลเวลถัดไป: [Frostpeak Slopes](/map/frostpeak_slopes) Lv 45–52 · [Sledrun Gully](/map/sledrun_gully) Lv 47–53สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 0% · ต้านเวท 1.1%) · Infusion ธาตุ Earth 99% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Dusk Remnant](/mob/dusk_remnant) Elite\n\n[Dusk Herald](/mob/dusk_herald) Mini-boss\n\nช่องเขาแคบที่แสงแดดส่องถึงพื้นได้แค่ตอนเที่ยง ประตูหินโบราณที่ปากช่องเป็นทางเดียวจาก Ashford ไป Stormwall กองคาราวานต้องจ้างคุ้มกันทุกเที่ยว",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "5"
+      ],
+      [
+       "Mining",
+       "T3",
+       "แร่เหล็ก",
+       "Lv 18",
+       "18"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/dusk_herald",
+    "/mob/dusk_remnant",
+    "/mob/dusk_skitter"
+   ]
+  },
+  {
+   "name": "Ember Hollow",
+   "slug": "ember_hollow",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/iron_ore",
+    "/map/ashford",
+    "/map/cinder_eyrie",
+    "/map/mistmire_swamp",
+    "/map/peatcut_bog",
+    "/map/yellowlick_flats",
+    "/mob/cinder_brute",
+    "/mob/ember_hound",
+    "/mob/ember_wisp",
+    "/mob/magma_pebblit",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ember_hollow",
+   "source_title": "Ember Hollow · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ember_hollow.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 39** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Ashford](/map/ashford) เมือง · [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40 · [Cinder Eyrie](/map/cinder_eyrie) Lv 32–36 · [Yellowlick Flats](/map/yellowlick_flats) Lv 30–36\n\nเลเวลถัดไป: [Yellowlick Flats](/map/yellowlick_flats) Lv 30–36 · [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40 · [Peatcut Bog](/map/peatcut_bog) Lv 36–42สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 27% · Infusion ธาตุ Fire 50% · Shadow 27% ช่วยมอนตีก่อนไหม[Ember Hound](/mob/ember_hound)Elite / บอส[Cinder Brute](/mob/cinder_brute) Elite\n\nแอ่งภูเขาไฟที่มีแม่น้ำลาวาไหลลงด้านตะวันออก ค่ายคนงานเหมืองตั้งอยู่ปากทางเข้าทางเหนือ แร่ดีที่สุดของ Ashford มาจากขอบหลุมที่ยังมีควันพวยพุ่ง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "6"
+      ],
+      [
+       "Mining",
+       "T3",
+       "แร่เหล็ก",
+       "Lv 18",
+       "28"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/cinder_brute",
+    "/mob/ember_hound",
+    "/mob/ember_wisp",
+    "/mob/magma_pebblit"
+   ]
+  },
+  {
+   "name": "Frostpeak Slopes",
+   "slug": "frostpeak_slopes",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/elderwood",
+    "/item/ember_root",
+    "/item/mithril_ore",
+    "/map/brinecrust_shoals",
+    "/map/frozen_mere",
+    "/map/sledrun_gully",
+    "/map/stormwall_city",
+    "/mob/frost_fang",
+    "/mob/frost_skitter",
+    "/mob/frost_wisp",
+    "/mob/rime_brute",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/frostpeak_slopes",
+   "source_title": "Frostpeak Slopes · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/frostpeak_slopes.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 55** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Stormwall City](/map/stormwall_city) เมือง · [Sledrun Gully](/map/sledrun_gully) Lv 47–53\n\nเลเวลถัดไป: [Sledrun Gully](/map/sledrun_gully) Lv 47–53 · [Frozen Mere](/map/frozen_mere) Lv 52–58 · [Brinecrust Shoals](/map/brinecrust_shoals) Lv 54–60สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 23% · Infusion ธาตุ Fire 46% · Earth 30% ช่วยมอนตีก่อนไหม[Frost Fang](/mob/frost_fang)Elite / บอส[Rime Brute](/mob/rime_brute) Elite\n\nทางลาดภูเขาที่สนหิมะขึ้นเบียดกัน ก้อนหินแข็งตัวจนแตกเป็นเสี่ยง ด้านบนมีหุบเหวที่นักส่งสารของ Stormwall ใช้ไถลเลื่อนลงมา",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T4",
+       "รากไฟตะกอน",
+       "Lv 30",
+       "10"
+      ],
+      [
+       "Logging",
+       "T4",
+       "ไม้เอลเดอร์",
+       "Lv 30",
+       "8"
+      ],
+      [
+       "Mining",
+       "T4",
+       "แร่มิธริล",
+       "Lv 30",
+       "13"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/frost_fang",
+    "/mob/frost_skitter",
+    "/mob/frost_wisp",
+    "/mob/rime_brute"
+   ]
+  },
+  {
+   "name": "Frozen Mere",
+   "slug": "frozen_mere",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/ember_root",
+    "/item/frost_koi",
+    "/item/mithril_ore",
+    "/map/aurora_hollow",
+    "/map/brinecrust_shoals",
+    "/map/howling_steppes",
+    "/map/stormwall_city",
+    "/mob/frost_crab",
+    "/mob/ice_otter",
+    "/mob/ice_wisp",
+    "/mob/mere_lurker",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/frozen_mere",
+   "source_title": "Frozen Mere · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/frozen_mere.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 61** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Stormwall City](/map/stormwall_city) เมือง · [Aurora Hollow](/map/aurora_hollow) Lv 55–58 · [Brinecrust Shoals](/map/brinecrust_shoals) Lv 54–60\n\nเลเวลถัดไป: [Brinecrust Shoals](/map/brinecrust_shoals) Lv 54–60 · [Howling Steppes](/map/howling_steppes) Lv 58–64สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 31% · Infusion ธาตุ Fire 42% · Shadow 31% · Storm 25% ช่วยมอนตีก่อนไหม[Ice Otter](/mob/ice_otter) [Frost Crab](/mob/frost_crab)Elite / บอส[Mere Lurker](/mob/mere_lurker) Elite\n\nทะเลสาบที่แข็งตัวทั้งปี ชาวประมงเจาะรูตกปลาตั้งค่ายบนน้ำแข็งฝั่งตะวันตก กองหินที่ตั้งเรียงไว้บนน้ำแข็งเป็นเครื่องหมายบอกว่าตรงไหนน้ำแข็งบาง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T4",
+       "รากไฟตะกอน",
+       "Lv 30",
+       "9"
+      ],
+      [
+       "Mining",
+       "T4",
+       "แร่มิธริล",
+       "Lv 30",
+       "12"
+      ],
+      [
+       "Fishing",
+       "T4",
+       "คาร์ฟน้ำแข็ง",
+       "Lv 30",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/frost_crab",
+    "/mob/ice_otter",
+    "/mob/ice_wisp",
+    "/mob/mere_lurker"
+   ]
+  },
+  {
+   "name": "Glasswrack",
+   "slug": "glasswrack",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/star_shard",
+    "/map/marrowdeep",
+    "/map/shattered_vale",
+    "/map/umbral_depths",
+    "/mob/glass_crab",
+    "/mob/glass_sprout",
+    "/mob/wrack_brute",
+    "/mob/wrack_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/glasswrack",
+   "source_title": "Glasswrack · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/glasswrack.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 83** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Shattered Vale](/map/shattered_vale) Lv 70–80\n\nเลเวลถัดไป: [Umbral Depths](/map/umbral_depths) Lv 80–90 · [Marrowdeep](/map/marrowdeep) Lv 82–90สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 15% · ต้านเวท 0%) · Infusion ธาตุ Earth 52% · Fire 33% ช่วยมอนตีก่อนไหม[Glass Sprout](/mob/glass_sprout) [Glass Crab](/mob/glass_crab)Elite / บอส[Wrack Brute](/mob/wrack_brute) Elite\n\nเมืองที่หลอมกลายเป็นแก้วสีเขียวตอนที่ Shattered Vale แตก เนินทรายในนี้คือเศษแก้วที่ลมพัดกองไว้ ยอดหอคอยครึ่งหนึ่งจมอยู่ในทราย และหลุมยุบกลางเมืองมีเสียงดังกังวานไม่หยุด",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "4"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "14"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/glass_crab",
+    "/mob/glass_sprout",
+    "/mob/wrack_brute",
+    "/mob/wrack_skitter"
+   ]
+  },
+  {
+   "name": "Gloomroot Forest",
+   "slug": "gloomroot_forest",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/ironwood",
+    "/item/silverfin",
+    "/map/ashford",
+    "/map/ember_hollow",
+    "/map/pitchwood",
+    "/map/sunfield_plains",
+    "/map/yellowlick_flats",
+    "/mob/corrupt_thornling",
+    "/mob/corrupt_treant",
+    "/mob/gloom_sprout",
+    "/mob/spore_lantern",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/gloomroot_forest",
+   "source_title": "Gloomroot Forest · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/gloomroot_forest.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 33** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Sunfield Plains](/map/sunfield_plains) Lv 18–24 · [Ashford](/map/ashford) เมือง · [Pitchwood](/map/pitchwood) Lv 24–30\n\nเลเวลถัดไป: [Ember Hollow](/map/ember_hollow) Lv 28–36 · [Yellowlick Flats](/map/yellowlick_flats) Lv 30–36สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 29% · Infusion ธาตุ Fire 70% · Shadow 29% ช่วยมอนตีก่อนไหม[Corrupt Thornling](/mob/corrupt_thornling)Elite / บอส[Corrupt Treant](/mob/corrupt_treant) Elite\n\nป่าที่รากไม้ดำเน่าจากใต้ดินขึ้นมา ต้นไม้ยืนตายแต่ยังไม่ล้ม Thornling ซ่อนตัวในพุ่มไม้แห้ง ทางเหนือมีทางเดินไปยังป่าสนกรีดยาง Pitchwood",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "10"
+      ],
+      [
+       "Logging",
+       "T3",
+       "ไม้เหล็ก",
+       "Lv 18",
+       "15"
+      ],
+      [
+       "Fishing",
+       "T3",
+       "ปลาครีบเงิน",
+       "Lv 18",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/corrupt_thornling",
+    "/mob/corrupt_treant",
+    "/mob/gloom_sprout",
+    "/mob/spore_lantern"
+   ]
+  },
+  {
+   "name": "Honeyrill",
+   "slug": "honeyrill",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/herb_leaf",
+    "/item/raw_fish",
+    "/item/stone",
+    "/item/wood",
+    "/map/bracken_sink",
+    "/map/riverside",
+    "/map/southvale_field",
+    "/map/whispering_woods",
+    "/mob/clover_sprout",
+    "/mob/hive_skitter",
+    "/mob/pollen_wisp",
+    "/mob/willow_brute",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/honeyrill",
+   "source_title": "Honeyrill · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/honeyrill.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 11** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Southvale Field](/map/southvale_field) Lv 1–4 · [Riverside](/map/riverside) Lv 6–12\n\nเลเวลถัดไป: [Whispering Woods](/map/whispering_woods) Lv 4–9 · [Riverside](/map/riverside) Lv 6–12 · [Bracken Sink](/map/bracken_sink) Lv 9–15สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 28% · Infusion ธาตุ Fire 37% · Earth 34% · Shadow 28% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Willow Brute](/mob/willow_brute) Elite\n\nลำธารเล็กไหลผ่านทุ่งดอกไม้ป่า ริมน้ำมีต้นหลิวเรียงแถว ทางเหนือหลังรั้วพุ่มไม้คือสวนผึ้งเก่าของตระกูลคนเลี้ยงผึ้งที่ย้ายเข้าเมืองไปแล้ว ผึ้งไม่ได้ย้ายตาม และตอนนี้มันตัวใหญ่ขึ้นมาก",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T1",
+       "ใบสมุนไพร",
+       "Lv 1",
+       "14"
+      ],
+      [
+       "Logging",
+       "T1",
+       "ไม้",
+       "Lv 1",
+       "7"
+      ],
+      [
+       "Mining",
+       "T1",
+       "หิน",
+       "Lv 1",
+       "5"
+      ],
+      [
+       "Fishing",
+       "T1",
+       "ปลาดิบ",
+       "Lv 1",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/clover_sprout",
+    "/mob/hive_skitter",
+    "/mob/pollen_wisp",
+    "/mob/willow_brute"
+   ]
+  },
+  {
+   "name": "Howling Steppes",
+   "slug": "howling_steppes",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spiritwood",
+    "/item/star_shard",
+    "/map/brinecrust_shoals",
+    "/map/cloudspire_ruins",
+    "/map/kitewind_terraces",
+    "/map/stormwall_city",
+    "/mob/gale_wisp",
+    "/mob/steppe_hound",
+    "/mob/storm_harpy",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/howling_steppes",
+   "source_title": "Howling Steppes · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/howling_steppes.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 67** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Stormwall City](/map/stormwall_city) เมือง · [Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70 · [Brinecrust Shoals](/map/brinecrust_shoals) Lv 54–60\n\nเลเวลถัดไป: [Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70 · [Kitewind Terraces](/map/kitewind_terraces) Lv 64–70สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 28% · Infusion ธาตุ Fire 42% · Earth 30% · Shadow 28% ช่วยมอนตีก่อนไหม[Steppe Hound](/mob/steppe_hound) [Gale Wisp](/mob/gale_wisp)\n\nทุ่งหญ้าโล่งที่ลมไม่เคยหยุด เสียงลมผ่านหินผุฟังเหมือนหมาป่าหอน ฝูง Hound วิ่งตามลมไล่ล่าทุกอย่างที่เคลื่อนไหว",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "14"
+      ],
+      [
+       "Logging",
+       "T5",
+       "ไม้วิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "14"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/gale_wisp",
+    "/mob/steppe_hound",
+    "/mob/storm_harpy"
+   ]
+  },
+  {
+   "name": "Kitewind Terraces",
+   "slug": "kitewind_terraces",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spiritwood",
+    "/item/star_shard",
+    "/map/cloudspire_ruins",
+    "/map/glasswrack",
+    "/map/shattered_vale",
+    "/mob/chime_wisp",
+    "/mob/kite_harpy",
+    "/mob/terrace_sentinel",
+    "/mob/terrace_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/kitewind_terraces",
+   "source_title": "Kitewind Terraces · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/kitewind_terraces.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 73** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70\n\nเลเวลถัดไป: [Shattered Vale](/map/shattered_vale) Lv 70–80 · [Glasswrack](/map/glasswrack) Lv 72–80สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 26% · Infusion ธาตุ Earth 74% · Shadow 25% ช่วยมอนตีก่อนไหม[Kite Harpy](/mob/kite_harpy) [Chime Wisp](/mob/chime_wisp)Elite / บอส[Terrace Sentinel](/mob/terrace_sentinel) Elite\n\nลานหินเป็นขั้นบันไดใต้ Cloudspire ที่คณะนักบวชเคยปล่อยว่าวส่งข่าว แต่ละขั้นมีลานปูหินไว้ปล่อยว่าว เสาธงตามขอบยังส่งเสียงหึ่งทุกครั้งที่ลมแรง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "8"
+      ],
+      [
+       "Logging",
+       "T5",
+       "ไม้วิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "8"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/chime_wisp",
+    "/mob/kite_harpy",
+    "/mob/terrace_sentinel",
+    "/mob/terrace_skitter"
+   ]
+  },
+  {
+   "name": "Lanternrice Delta",
+   "slug": "lanternrice_delta",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spirit_koi",
+    "/item/spiritwood",
+    "/map/coralstep_plateau",
+    "/map/drowned_forum",
+    "/map/rustbell_barracks",
+    "/map/stormrail_causeway",
+    "/map/wreckwake_coast",
+    "/mob/kite_drake",
+    "/mob/lantern_skitter",
+    "/mob/paddy_brute",
+    "/mob/paddy_ox",
+    "/mob/reed_crane",
+    "/mob/straw_thornling",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/lanternrice_delta",
+   "source_title": "Lanternrice Delta · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/lanternrice_delta.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 107** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%เข้าได้ไหมทวีป Nacreon เข้าได้ตั้งแต่ **Lv 99** ขึ้นไปเท่านั้น · ทางเข้าทางใต้ของ [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ไปต่อที่ไหนทางออก: [Wreckwake Coast](/map/wreckwake_coast) Lv 99–102 · [Drowned Forum](/map/drowned_forum) Lv 105–108\n\nเลเวลถัดไป: [Coralstep Plateau](/map/coralstep_plateau) Lv 103–106 · [Drowned Forum](/map/drowned_forum) Lv 105–108 · [Stormrail Causeway](/map/stormrail_causeway) Lv 107–110สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 1.4% · ต้านเวท 0%) · Infusion ธาตุ Earth 86% ช่วยมอนตีก่อนไหม[Straw Thornling](/mob/straw_thornling) [Reed Crane](/mob/reed_crane)Elite / บอส[Paddy Brute](/mob/paddy_brute) Elite\n\n[Paddy Ox](/mob/paddy_ox) Elite\n\n[Kite Drake](/mob/kite_drake) Mini-boss\n\nนาข้าวริมปากแม่น้ำที่ชาวนาจุดโคมกระดาษตลอดคันนา คูน้ำสั้น ๆ แบ่งแปลงนา กังหันน้ำทางเหนือยังหมุนอยู่ทั้งที่ไม่มีใครดูแล หุ่นไล่กาในแปลงบางตัวขยับเองได้",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "13"
+      ],
+      [
+       "Logging",
+       "T5",
+       "ไม้วิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Fishing",
+       "T5",
+       "คาร์ฟวิญญาณ",
+       "Lv 42",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/kite_drake",
+    "/mob/lantern_skitter",
+    "/mob/paddy_brute",
+    "/mob/paddy_ox",
+    "/mob/reed_crane",
+    "/mob/straw_thornling"
+   ]
+  },
+  {
+   "name": "Gauntlet · Valebrook Gate",
+   "slug": "ll_ch1",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/ll_exit_1"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ll_ch1",
+   "source_title": "Gauntlet · Valebrook Gate · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ll_ch1.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Gauntlet · Ashford Gate",
+   "slug": "ll_ch2",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/ll_exit_2"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ll_ch2",
+   "source_title": "Gauntlet · Ashford Gate · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ll_ch2.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Gauntlet · Stormwall Gate",
+   "slug": "ll_ch3",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/ll_exit_3"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ll_ch3",
+   "source_title": "Gauntlet · Stormwall Gate · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ll_ch3.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Gauntlet · Sanctum Gate",
+   "slug": "ll_ch4",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/ll_exit_4"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ll_ch4",
+   "source_title": "Gauntlet · Sanctum Gate · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ll_ch4.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Gauntlet · The Last Gate",
+   "slug": "ll_ch5",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/ll_exit_5"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/ll_ch5",
+   "source_title": "Gauntlet · The Last Gate · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/ll_ch5.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Lotus Hollow",
+   "slug": "lotus_hollow",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/silverfin",
+    "/map/duskgate_pass",
+    "/map/mistmire_swamp",
+    "/mob/bog_crab",
+    "/mob/bog_wisp",
+    "/mob/lotus_maw_matriarch",
+    "/mob/mire_lurker",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/lotus_hollow",
+   "source_title": "Lotus Hollow · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/lotus_hollow.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 43** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40\n\nเลเวลถัดไป: [Duskgate Pass](/map/duskgate_pass) Lv 40–45สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 50% · Infusion ธาตุ Shadow 50% · Frost 25% · Storm 25% ช่วยมอนตีก่อนไหม[Mire Lurker](/mob/mire_lurker)Elite / บอส[Lotus Maw Matriarch](/mob/lotus_maw_matriarch) Field BossChannel 10 (PvP)",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Fishing",
+       "T3",
+       "ปลาครีบเงิน",
+       "Lv 18",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/bog_crab",
+    "/mob/bog_wisp",
+    "/mob/lotus_maw_matriarch",
+    "/mob/mire_lurker"
+   ]
+  },
+  {
+   "name": "Marrowdeep",
+   "slug": "marrowdeep",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/star_shard",
+    "/map/rustbell_barracks",
+    "/map/throne_of_warden",
+    "/map/umbral_depths",
+    "/mob/marrow_horror",
+    "/mob/marrow_skitter",
+    "/mob/pit_lurker",
+    "/mob/tallow_wisp",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/marrowdeep",
+   "source_title": "Marrowdeep · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/marrowdeep.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 93** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Umbral Depths](/map/umbral_depths) Lv 80–90\n\nเลเวลถัดไป: [Throne of the Warden](/map/throne_of_warden) Lv 90–99 · [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 0% · ต้านเวท 18%) · Infusion ธาตุ Earth 57% · Frost 25% ช่วยมอนตีก่อนไหม[Pit Lurker](/mob/pit_lurker) [Tallow Wisp](/mob/tallow_wisp)Elite / บอส[Marrow Horror](/mob/marrow_horror) Elite\n\nหลุมกระดูกใต้ Umbral Depths ที่ Sanctum ใช้เก็บศพมาพันปี ชั้นหินเรียงเต็มไปด้วยกระดูก ตะเกียงไขสัตว์ส่องทางลงบันได และมุมตะวันตกเฉียงเหนือเป็นหลุมที่ไม่มีใครเคยเห็นก้น",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "4"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "10"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/marrow_horror",
+    "/mob/marrow_skitter",
+    "/mob/pit_lurker",
+    "/mob/tallow_wisp"
+   ]
+  },
+  {
+   "name": "Mistmire Swamp",
+   "slug": "mistmire_swamp",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/iron_ore",
+    "/item/silverfin",
+    "/map/ashford",
+    "/map/duskgate_pass",
+    "/map/ember_hollow",
+    "/map/lotus_hollow",
+    "/map/peatcut_bog",
+    "/mob/bog_crab",
+    "/mob/bog_wisp",
+    "/mob/mire_elder",
+    "/mob/mire_lurker",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/mistmire_swamp",
+   "source_title": "Mistmire Swamp · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/mistmire_swamp.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 43** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Ashford](/map/ashford) เมือง · [Ember Hollow](/map/ember_hollow) Lv 28–36 · [Duskgate Pass](/map/duskgate_pass) Lv 40–45 · [Lotus Hollow](/map/lotus_hollow) Lv 37–40 · [Peatcut Bog](/map/peatcut_bog) Lv 36–42\n\nเลเวลถัดไป: [Peatcut Bog](/map/peatcut_bog) Lv 36–42 · [Duskgate Pass](/map/duskgate_pass) Lv 40–45สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 40% · Infusion ธาตุ Shadow 40% · Storm 33% · Frost 26% ช่วยมอนตีก่อนไหม[Mire Lurker](/mob/mire_lurker)Elite / บอส[Mire Elder](/mob/mire_elder) Elite\n\nบึงหมอกที่ท่าเรือไม้ผุจมลงไปครึ่งหนึ่ง ทางเดินคือแนวดินแข็งระหว่างบ่อน้ำ Lurker นอนรออยู่ใต้ผิวโคลนจนกว่าจะมีคนเหยียบใกล้พอ",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "11"
+      ],
+      [
+       "Mining",
+       "T3",
+       "แร่เหล็ก",
+       "Lv 18",
+       "5"
+      ],
+      [
+       "Fishing",
+       "T3",
+       "ปลาครีบเงิน",
+       "Lv 18",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/bog_crab",
+    "/mob/bog_wisp",
+    "/mob/mire_elder",
+    "/mob/mire_lurker"
+   ]
+  },
+  {
+   "name": "Old Quarry",
+   "slug": "old_quarry",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/copper_ore",
+    "/item/moonleaf",
+    "/map/ancient_ruins",
+    "/map/sunfield_plains",
+    "/map/valebrook",
+    "/map/verdigris_rise",
+    "/mob/brute",
+    "/mob/pebblit",
+    "/mob/quarry_brute",
+    "/mob/rock_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/old_quarry",
+   "source_title": "Old Quarry · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/old_quarry.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 19** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Valebrook](/map/valebrook) เมือง · [Verdigris Rise](/map/verdigris_rise) Lv 14–20\n\nเลเวลถัดไป: [Ancient Ruins](/map/ancient_ruins) Lv 14–20 · [Verdigris Rise](/map/verdigris_rise) Lv 14–20 · [Sunfield Plains](/map/sunfield_plains) Lv 18–24สายไหนได้เปรียบ**สายเวท** ได้เปรียบ — มอนเกราะหนา 33% · Infusion ธาตุ Earth 64% · Frost 33% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Brute](/mob/brute) Elite\n\n[Quarry Brute](/mob/quarry_brute) Elite\n\nเหมืองหินขั้นบันไดที่ Valebrook ขุดหินไปสร้างกำแพงหมู่บ้าน ตอนนี้ร้างแล้ว เหลือแต่รางเกวียนกับกองหินที่ขยับได้เอง ทางตะวันตกมีทางเดินต่อไปยังเนิน Verdigris Rise",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T2",
+       "ใบจันทร์",
+       "Lv 8",
+       "5"
+      ],
+      [
+       "Mining",
+       "T2",
+       "แร่ทองแดง",
+       "Lv 8",
+       "22"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/brute",
+    "/mob/pebblit",
+    "/mob/quarry_brute",
+    "/mob/rock_skitter"
+   ]
+  },
+  {
+   "name": "Opalweb Grotto",
+   "slug": "opalweb_grotto",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/marrowdeep",
+    "/map/shattered_vale",
+    "/map/umbral_depths",
+    "/mob/opal_weaver_queen",
+    "/mob/shard_thornling",
+    "/mob/vale_sprout",
+    "/mob/void_wisp"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/opalweb_grotto",
+   "source_title": "Opalweb Grotto · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/opalweb_grotto.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 83** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Shattered Vale](/map/shattered_vale) Lv 70–80\n\nเลเวลถัดไป: [Umbral Depths](/map/umbral_depths) Lv 80–90 · [Marrowdeep](/map/marrowdeep) Lv 82–90สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 25% · Infusion ธาตุ Fire 75% · Shadow 25% ช่วยมอนตีก่อนไหม[Vale Sprout](/mob/vale_sprout) [Void Wisp](/mob/void_wisp)Elite / บอส[Opal Weaver Queen](/mob/opal_weaver_queen) Field BossChannel 10 (PvP)",
+   "tables": [],
+   "monsters": [
+    "/mob/opal_weaver_queen",
+    "/mob/shard_thornling",
+    "/mob/vale_sprout",
+    "/mob/void_wisp"
+   ]
+  },
+  {
+   "name": "Peatcut Bog",
+   "slug": "peatcut_bog",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/ironwood",
+    "/item/silverfin",
+    "/map/duskgate_pass",
+    "/map/frostpeak_slopes",
+    "/map/mistmire_swamp",
+    "/mob/peat_crab",
+    "/mob/peat_elder",
+    "/mob/peat_wisp",
+    "/mob/reed_lurker",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/peatcut_bog",
+   "source_title": "Peatcut Bog · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/peatcut_bog.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 45** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40\n\nเลเวลถัดไป: [Duskgate Pass](/map/duskgate_pass) Lv 40–45 · [Frostpeak Slopes](/map/frostpeak_slopes) Lv 45–52สายไหนได้เปรียบ**สายเวท** ได้เปรียบ — มอนเกราะหนา 37% · Infusion ธาตุ Frost 38% · Storm 37% · Shadow 25% ช่วยมอนตีก่อนไหม[Reed Lurker](/mob/reed_lurker)Elite / บอส[Peat Elder](/mob/peat_elder) Elite\n\nบึงพีทที่คนขุดเป็นร่องสี่เหลี่ยมเรียงแถว ก้อนพีทถูกวางตากไว้บนชั้นไม้ ต้นกกสูงเกินหัวคน คนขุดพีทมีกฎข้อเดียวคือห้ามลงร่องที่น้ำดำจนมองไม่เห็นก้น",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "15"
+      ],
+      [
+       "Logging",
+       "T3",
+       "ไม้เหล็ก",
+       "Lv 18",
+       "12"
+      ],
+      [
+       "Fishing",
+       "T3",
+       "ปลาครีบเงิน",
+       "Lv 18",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/peat_crab",
+    "/mob/peat_elder",
+    "/mob/peat_wisp",
+    "/mob/reed_lurker"
+   ]
+  },
+  {
+   "name": "Pitchwood",
+   "slug": "pitchwood",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/iron_ore",
+    "/item/ironwood",
+    "/item/silverfin",
+    "/map/ember_hollow",
+    "/map/gloomroot_forest",
+    "/map/yellowlick_flats",
+    "/mob/pitch_brute",
+    "/mob/resin_sprout",
+    "/mob/sap_wisp",
+    "/mob/tar_thornling",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/pitchwood",
+   "source_title": "Pitchwood · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/pitchwood.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 33** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Gloomroot Forest](/map/gloomroot_forest) Lv 24–30\n\nเลเวลถัดไป: [Ember Hollow](/map/ember_hollow) Lv 28–36 · [Yellowlick Flats](/map/yellowlick_flats) Lv 30–36สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 1.3% · ต้านเวท 19%) · Infusion ธาตุ Fire 79% ช่วยมอนตีก่อนไหม[Tar Thornling](/mob/tar_thornling)Elite / บอส[Pitch Brute](/mob/pitch_brute) Elite\n\nป่าสนที่คนกรีดยางทำร่องเป็นลายก้างปลาไว้บนเปลือกไม้ ยางไหลลงไปรวมเป็นบ่อดำเหนียวกลางป่า ค่ายคนกรีดยางอยู่สุดทางเหนือ และพวกเขาไม่จุดไฟใกล้บ่อเด็ดขาด",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "8"
+      ],
+      [
+       "Logging",
+       "T3",
+       "ไม้เหล็ก",
+       "Lv 18",
+       "18"
+      ],
+      [
+       "Mining",
+       "T3",
+       "แร่เหล็ก",
+       "Lv 18",
+       "5"
+      ],
+      [
+       "Fishing",
+       "T3",
+       "ปลาครีบเงิน",
+       "Lv 18",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/pitch_brute",
+    "/mob/resin_sprout",
+    "/mob/sap_wisp",
+    "/mob/tar_thornling"
+   ]
+  },
+  {
+   "name": "Riverside",
+   "slug": "riverside",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/herb_leaf",
+    "/item/raw_fish",
+    "/item/stone",
+    "/item/wood",
+    "/map/ancient_ruins",
+    "/map/bracken_sink",
+    "/map/honeyrill",
+    "/map/old_quarry",
+    "/map/valebrook",
+    "/mob/reed_skipper",
+    "/mob/river_wisp",
+    "/mob/snipcrab",
+    "/mob/tide_brute",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/riverside",
+   "source_title": "Riverside · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/riverside.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 15** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Valebrook](/map/valebrook) เมือง · [Honeyrill](/map/honeyrill) Lv 3–8\n\nเลเวลถัดไป: [Bracken Sink](/map/bracken_sink) Lv 9–15 · [Old Quarry](/map/old_quarry) Lv 10–16 · [Ancient Ruins](/map/ancient_ruins) Lv 14–20สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 41% · Infusion ธาตุ Shadow 41% · Storm 33% · Earth 26% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Tide Brute](/mob/tide_brute) Elite\n\nหุบแม่น้ำยาวที่มีท่าข้ามสามจุดเชื่อมฝั่งทุ่งกับฝั่งป่า ค่ายชาวประมงตั้งอยู่ริมตลิ่งด้านใต้ ปูก้ามใหญ่ขึ้นมาแย่งปลาจากตะกร้าทุกครั้งที่น้ำลด",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T1",
+       "ใบสมุนไพร",
+       "Lv 1",
+       "8"
+      ],
+      [
+       "Logging",
+       "T1",
+       "ไม้",
+       "Lv 1",
+       "8"
+      ],
+      [
+       "Mining",
+       "T1",
+       "หิน",
+       "Lv 1",
+       "5"
+      ],
+      [
+       "Fishing",
+       "T1",
+       "ปลาดิบ",
+       "Lv 1",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/reed_skipper",
+    "/mob/river_wisp",
+    "/mob/snipcrab",
+    "/mob/tide_brute"
+   ]
+  },
+  {
+   "name": "Rootfall Barrow",
+   "slug": "rootfall_barrow",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/worldboss_exit",
+    "/systems/world-boss"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/rootfall_barrow",
+   "source_title": "Rootfall Barrow · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/rootfall_barrow.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้อง World Boss Wraithroot Colossus · มาทุกวัน 12:30 และ 19:30 น. · อยู่ 20 นาที · HP ก้อนเดียวทุก Channelเข้ายังไงปุ่ม World Boss ใต้นาฬิกาบน HUD ตอนใกล้เวลา → วาร์ปฟรีจากแมพไหนก็ได้ · ออก = กลับแมพที่มาอ่านเพิ่ม[World Boss](/systems/world-boss)",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Rustbell Barracks",
+   "slug": "rustbell_barracks",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/star_shard",
+    "/map/lanternrice_delta",
+    "/map/sanctum",
+    "/map/tidehaven",
+    "/map/wreckwake_coast",
+    "/mob/lamp_wisp",
+    "/mob/muster_hound",
+    "/mob/rust_captain",
+    "/mob/rust_remnant",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/rustbell_barracks",
+   "source_title": "Rustbell Barracks · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/rustbell_barracks.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 102** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10% · **Lv 99+ ได้ EXP แค่ 10%** (ทวีปเดิม — ไปทวีป Nacreon ได้ EXP เต็ม)ไปต่อที่ไหนทางออก: [Sanctum](/map/sanctum) เมือง · [Tidehaven](/map/tidehaven) เมือง\n\nเลเวลถัดไป: [Wreckwake Coast](/map/wreckwake_coast) Lv 99–102 · [Lanternrice Delta](/map/lanternrice_delta) Lv 101–104สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 51% · Infusion ธาตุ Fire 49% · Holy 35% ช่วยมอนตีก่อนไหม[Rust Remnant](/mob/rust_remnant) [Lamp Wisp](/mob/lamp_wisp)Elite / บอส[Rust Captain](/mob/rust_captain) Elite\n\nค่ายทหารของ Warden อยู่ใต้บันไดทางใต้ของ Sanctum ลานฝึกขึ้นสนิมทั้งหมด ระฆังเตือนภัยบนหอห้ามใครตี ทหารยามชุดเก่ายังเดินตรวจตามรอบของมันเหมือนวันที่ยังมีคนสั่งการ",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "4"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "9"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/lamp_wisp",
+    "/mob/muster_hound",
+    "/mob/rust_captain",
+    "/mob/rust_remnant"
+   ]
+  },
+  {
+   "name": "Sanctum",
+   "slug": "sanctum",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spiritwood",
+    "/item/star_shard",
+    "/map/cloudspire_ruins",
+    "/map/glasswrack",
+    "/map/marrowdeep",
+    "/map/rustbell_barracks",
+    "/map/shattered_vale",
+    "/map/throne_of_warden",
+    "/map/umbral_depths",
+    "/npc/archivist",
+    "/npc/binder_master",
+    "/npc/card_binder_s",
+    "/npc/market_board_s",
+    "/npc/merchant_s",
+    "/npc/reliquarian",
+    "/npc/sanctum_cook",
+    "/npc/spirit_broker_s",
+    "/npc/tonic_binder",
+    "/npc/training_portal_sanctum",
+    "/npc/warp_statue_s",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/sanctum",
+   "source_title": "Sanctum · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/sanctum.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "มีบริการอะไรช่างตีเหล็ก · ร้านค้า · ทำอาหาร · ปรุงยา · วาร์ป · Bank · การ์ด · ตลาดโลก · Portal ห้องฝึกแมพรอบเมือง[Shattered Vale](/map/shattered_vale) Lv 70–80\n\n[Glasswrack](/map/glasswrack) Lv 72–80\n\n[Umbral Depths](/map/umbral_depths) Lv 80–90\n\n[Marrowdeep](/map/marrowdeep) Lv 82–90\n\n[Throne of the Warden](/map/throne_of_warden) Lv 90–99\n\n[Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ทางออก[Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70\n\n[Shattered Vale](/map/shattered_vale) Lv 70–80\n\n[Umbral Depths](/map/umbral_depths) Lv 80–90\n\n[Throne of the Warden](/map/throne_of_warden) Lv 90–99\n\n[Rustbell Barracks](/map/rustbell_barracks) Lv 92–99พักผ่อนอยู่ในเมืองสะสม Rested EXP (ใกล้กองไฟกลางเมือง ×2)\n\nวิหารขั้นบันไดที่สร้างครอบรอยแยกของโลก ลานคริสตัลกับวงหินรูนเป็นที่สุดท้ายที่ปลอดภัยก่อนเข้าเขตอันตราย บันไดทางใต้ลงไปยังค่ายทหารเก่าของ Warden",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "4"
+      ],
+      [
+       "Logging",
+       "T5",
+       "ไม้วิญญาณ",
+       "Lv 42",
+       "2"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "3"
+      ]
+     ]
+    }
+   ],
+   "monsters": []
+  },
+  {
+   "name": "Shattered Vale",
+   "slug": "shattered_vale",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/star_shard",
+    "/map/glasswrack",
+    "/map/marrowdeep",
+    "/map/opalweb_grotto",
+    "/map/sanctum",
+    "/map/umbral_depths",
+    "/mob/shard_brute",
+    "/mob/shard_thornling",
+    "/mob/vale_remnant",
+    "/mob/vale_sprout",
+    "/mob/void_wisp",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/shattered_vale",
+   "source_title": "Shattered Vale · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/shattered_vale.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 83** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Sanctum](/map/sanctum) เมือง · [Opalweb Grotto](/map/opalweb_grotto) Lv 75–80 · [Glasswrack](/map/glasswrack) Lv 72–80\n\nเลเวลถัดไป: [Glasswrack](/map/glasswrack) Lv 72–80 · [Umbral Depths](/map/umbral_depths) Lv 80–90 · [Marrowdeep](/map/marrowdeep) Lv 82–90สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 35% · Infusion ธาตุ Fire 64% · Shadow 34% ช่วยมอนตีก่อนไหม[Vale Sprout](/mob/vale_sprout) [Shard Thornling](/mob/shard_thornling)Elite / บอส[Vale Remnant](/mob/vale_remnant) Elite\n\n[Shard Brute](/mob/shard_brute) Elite\n\nหุบเขาที่แผ่นดินแตกออกเป็นชิ้นตอนที่รอยแยกเปิด แสงสีม่วงรั่วออกมาจากรอยร้าวบนพื้น ทางตะวันตกเป็นเมืองที่หลอมกลายเป็นแก้ว",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "8"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "13"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/shard_brute",
+    "/mob/shard_thornling",
+    "/mob/vale_remnant",
+    "/mob/vale_sprout",
+    "/mob/void_wisp"
+   ]
+  },
+  {
+   "name": "Shellforge Basin",
+   "slug": "shellforge_basin",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spirit_koi",
+    "/item/star_shard",
+    "/map/drowned_forum",
+    "/map/rustbell_barracks",
+    "/mob/crucible_hound",
+    "/mob/forge_hermit",
+    "/mob/furnace_warden",
+    "/mob/hollow_caster",
+    "/mob/plate_turtle",
+    "/mob/rivet_golem",
+    "/mob/slag_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/shellforge_basin",
+   "source_title": "Shellforge Basin · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/shellforge_basin.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 116** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%เข้าได้ไหมทวีป Nacreon เข้าได้ตั้งแต่ **Lv 99** ขึ้นไปเท่านั้น · ทางเข้าทางใต้ของ [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ไปต่อที่ไหนทางออก: [Drowned Forum](/map/drowned_forum) Lv 105–108สายไหนได้เปรียบ**สายเวท** ได้เปรียบ — มอนเกราะหนา 44% · Infusion ธาตุ Earth 34% · Frost 29% ช่วยมอนตีก่อนไหม[Rivet Golem](/mob/rivet_golem) [Hollow Caster](/mob/hollow_caster)Elite / บอส[Furnace Warden](/mob/furnace_warden) Elite\n\n[Crucible Hound](/mob/crucible_hound) Elite\n\n[Forge Hermit](/mob/forge_hermit) Mini-boss\n\nอู่หล่อโลหะโบราณในแอ่งริมทะเล ลานวงรอบล้อมแม่พิมพ์สำริดรูปเปลือกหอยยักษ์ เตาหลอมเรียงแถวทางเหนือใต้เครนเหล็ก กองตะกรันทางตะวันตกเฉียงใต้ยังมีถ่านคุอยู่ และเครื่องจักรของช่างหล่อยังเดินงานต่อทั้งที่ไม่มีใครสั่ง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "13"
+      ],
+      [
+       "Fishing",
+       "T5",
+       "คาร์ฟวิญญาณ",
+       "Lv 42",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/crucible_hound",
+    "/mob/forge_hermit",
+    "/mob/furnace_warden",
+    "/mob/hollow_caster",
+    "/mob/plate_turtle",
+    "/mob/rivet_golem",
+    "/mob/slag_skitter"
+   ]
+  },
+  {
+   "name": "Sledrun Gully",
+   "slug": "sledrun_gully",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/elderwood",
+    "/item/ember_root",
+    "/item/mithril_ore",
+    "/map/brinecrust_shoals",
+    "/map/frostpeak_slopes",
+    "/map/frozen_mere",
+    "/mob/drift_skitter",
+    "/mob/gully_brute",
+    "/mob/scree_pebblit",
+    "/mob/tusk_fang",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/sledrun_gully",
+   "source_title": "Sledrun Gully · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/sledrun_gully.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 56** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Frostpeak Slopes](/map/frostpeak_slopes) Lv 45–52\n\nเลเวลถัดไป: [Frozen Mere](/map/frozen_mere) Lv 52–58 · [Brinecrust Shoals](/map/brinecrust_shoals) Lv 54–60สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 11% · ต้านเวท 0%) · Infusion ธาตุ Earth 50% · Fire 38% ช่วยมอนตีก่อนไหม[Tusk Fang](/mob/tusk_fang)Elite / บอส[Gully Brute](/mob/gully_brute) Elite\n\nหุบเหวยาวที่มีรางน้ำแข็งคดเคี้ยวลงจากยอดเขา นักส่งสารของ Stormwall ไถลเลื่อนลงมาตามรางนี้ทุกเช้า ผนังหินกรวดสองข้างพังลงมาทุกครั้งที่มีเสียงดัง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T4",
+       "รากไฟตะกอน",
+       "Lv 30",
+       "5"
+      ],
+      [
+       "Logging",
+       "T4",
+       "ไม้เอลเดอร์",
+       "Lv 30",
+       "5"
+      ],
+      [
+       "Mining",
+       "T4",
+       "แร่มิธริล",
+       "Lv 30",
+       "14"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/drift_skitter",
+    "/mob/gully_brute",
+    "/mob/scree_pebblit",
+    "/mob/tusk_fang"
+   ]
+  },
+  {
+   "name": "Southvale Field",
+   "slug": "southvale_field",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/herb_leaf",
+    "/item/raw_fish",
+    "/item/stone",
+    "/item/wood",
+    "/map/honeyrill",
+    "/map/riverside",
+    "/map/valebrook",
+    "/map/whispering_woods",
+    "/mob/elder_sprout",
+    "/mob/skitter",
+    "/mob/sprout",
+    "/mob/wisp",
+    "/npc/jobmaster",
+    "/npc/scout_s",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/southvale_field",
+   "source_title": "Southvale Field · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/southvale_field.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 7** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Valebrook](/map/valebrook) เมือง · [Honeyrill](/map/honeyrill) Lv 3–8\n\nเลเวลถัดไป: [Honeyrill](/map/honeyrill) Lv 3–8 · [Whispering Woods](/map/whispering_woods) Lv 4–9 · [Riverside](/map/riverside) Lv 6–12สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 39% · Infusion ธาตุ Fire 47% · Earth 36% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Elder Sprout](/mob/elder_sprout) Elite\n\nไร่ผืนใหญ่ทางใต้ของ Valebrook ที่ชาวบ้านปลูกข้าวสาลีกับกะหล่ำมาสามชั่วคน ปีนี้ต้นอ่อนในแปลงลุกขึ้นเดินได้เองเลยต้องจ้างนักเดินทางมาช่วยถอน หุ่นไล่กาที่ยืนกลางทุ่งไม่มีใครกล้ารื้อ เพราะเชื่อกันว่ามันยังเฝ้าแปลงอยู่",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T1",
+       "ใบสมุนไพร",
+       "Lv 1",
+       "6"
+      ],
+      [
+       "Logging",
+       "T1",
+       "ไม้",
+       "Lv 1",
+       "11"
+      ],
+      [
+       "Mining",
+       "T1",
+       "หิน",
+       "Lv 1",
+       "4"
+      ],
+      [
+       "Fishing",
+       "T1",
+       "ปลาดิบ",
+       "Lv 1",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/elder_sprout",
+    "/mob/skitter",
+    "/mob/sprout",
+    "/mob/wisp"
+   ]
+  },
+  {
+   "name": "Sparring Hall",
+   "slug": "sparring_hall",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/sparring_exit"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/sparring_hall",
+   "source_title": "Sparring Hall · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/sparring_hall.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องซ้อม PvP ของ Guild — คนต่าง Guild ตีกันได้ ตายไม่เสียอะไร ลุกที่เดิม · ไม่นับ Honor / ประวัติ PvPเข้ายังไงหน้าต่าง Guild → ห้องซ้อม PvP (จากในเมือง สมาชิก Guild เท่านั้น)",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Stormrail Causeway",
+   "slug": "stormrail_causeway",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spirit_koi",
+    "/item/star_shard",
+    "/map/coralstep_plateau",
+    "/map/drowned_forum",
+    "/map/rustbell_barracks",
+    "/map/shellforge_basin",
+    "/mob/compass_wisp",
+    "/mob/rail_brute",
+    "/mob/spark_eel",
+    "/mob/stationmaster_automaton",
+    "/mob/thunder_harpy",
+    "/mob/tram_remnant",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/stormrail_causeway",
+   "source_title": "Stormrail Causeway · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/stormrail_causeway.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 113** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%เข้าได้ไหมทวีป Nacreon เข้าได้ตั้งแต่ **Lv 99** ขึ้นไปเท่านั้น · ทางเข้าทางใต้ของ [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ไปต่อที่ไหนทางออก: [Coralstep Plateau](/map/coralstep_plateau) Lv 103–106 · [Drowned Forum](/map/drowned_forum) Lv 105–108\n\nเลเวลถัดไป: [Shellforge Basin](/map/shellforge_basin) Lv 110–113สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 48% · Infusion ธาตุ Earth 52% · Shadow 35% ช่วยมอนตีก่อนไหม[Compass Wisp](/mob/compass_wisp) [Thunder Harpy](/mob/thunder_harpy)Elite / บอส[Rail Brute](/mob/rail_brute) Elite\n\n[Spark Eel](/mob/spark_eel) Elite\n\n[Stationmaster Automaton](/mob/stationmaster_automaton) Mini-boss\n\nรางรถรางเก่าที่วิ่งไปตามสันเขื่อนกั้นทะเล มีเสาล่อฟ้าตั้งเป็นระยะ สถานีร้างอยู่บนทางแยกด้านเหนือ ฝั่งหนึ่งเป็นอ่างเก็บน้ำ อีกฝั่งเป็นทะเล",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "13"
+      ],
+      [
+       "Fishing",
+       "T5",
+       "คาร์ฟวิญญาณ",
+       "Lv 42",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/compass_wisp",
+    "/mob/rail_brute",
+    "/mob/spark_eel",
+    "/mob/stationmaster_automaton",
+    "/mob/thunder_harpy",
+    "/mob/tram_remnant"
+   ]
+  },
+  {
+   "name": "Stormwall City",
+   "slug": "stormwall_city",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/elderwood",
+    "/item/ember_root",
+    "/item/mithril_ore",
+    "/map/brinecrust_shoals",
+    "/map/cloudspire_ruins",
+    "/map/duskgate_pass",
+    "/map/frostpeak_slopes",
+    "/map/frozen_mere",
+    "/map/howling_steppes",
+    "/map/kitewind_terraces",
+    "/map/sledrun_gully",
+    "/npc/blacksmith3",
+    "/npc/camp_cook",
+    "/npc/card_binder_c",
+    "/npc/guildmaster",
+    "/npc/jobmaster3",
+    "/npc/market_board_c",
+    "/npc/merchant_c",
+    "/npc/rune_brewer",
+    "/npc/spirit_broker_c",
+    "/npc/training_portal_stormwall_city",
+    "/npc/warden_npc",
+    "/npc/warp_statue_c",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/stormwall_city",
+   "source_title": "Stormwall City · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/stormwall_city.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "มีบริการอะไรร้านค้า · ทำอาหาร · ปรุงยา · ช่างตีเหล็ก · วาร์ป · Bank · การ์ด · ตลาดโลก · Portal ห้องฝึกแมพรอบเมือง[Frostpeak Slopes](/map/frostpeak_slopes) Lv 45–52\n\n[Sledrun Gully](/map/sledrun_gully) Lv 47–53\n\n[Frozen Mere](/map/frozen_mere) Lv 52–58\n\n[Brinecrust Shoals](/map/brinecrust_shoals) Lv 54–60\n\n[Howling Steppes](/map/howling_steppes) Lv 58–64\n\n[Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70\n\n[Kitewind Terraces](/map/kitewind_terraces) Lv 64–70ทางออก[Duskgate Pass](/map/duskgate_pass) Lv 40–45\n\n[Frostpeak Slopes](/map/frostpeak_slopes) Lv 45–52\n\n[Frozen Mere](/map/frozen_mere) Lv 52–58\n\n[Howling Steppes](/map/howling_steppes) Lv 58–64\n\n[Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70พักผ่อนอยู่ในเมืองสะสม Rested EXP (ใกล้กองไฟกลางเมือง ×2)\n\nป้อมปราการบนภูเขาหิมะ ส่วนบนของเมืองอยู่หลังกำแพงที่มีหอคอยเว้นเป็นระยะ ทหารของ Stormwall คุมเส้นทางทั้งหมดระหว่างช่องเขากับทะเลสาบน้ำแข็ง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T4",
+       "รากไฟตะกอน",
+       "Lv 30",
+       "3"
+      ],
+      [
+       "Logging",
+       "T4",
+       "ไม้เอลเดอร์",
+       "Lv 30",
+       "3"
+      ],
+      [
+       "Mining",
+       "T4",
+       "แร่มิธริล",
+       "Lv 30",
+       "3"
+      ]
+     ]
+    }
+   ],
+   "monsters": []
+  },
+  {
+   "name": "Sunfield Plains",
+   "slug": "sunfield_plains",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/copper_ore",
+    "/item/moonleaf",
+    "/item/resin_wood",
+    "/map/ancient_ruins",
+    "/map/ashford",
+    "/map/bracken_sink",
+    "/map/gloomroot_forest",
+    "/map/pitchwood",
+    "/mob/ash_hound",
+    "/mob/field_brute",
+    "/mob/field_sprout",
+    "/mob/plains_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/sunfield_plains",
+   "source_title": "Sunfield Plains · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/sunfield_plains.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 27** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Ancient Ruins](/map/ancient_ruins) Lv 14–20 · [Ashford](/map/ashford) เมือง · [Gloomroot Forest](/map/gloomroot_forest) Lv 24–30 · [Bracken Sink](/map/bracken_sink) Lv 9–15\n\nเลเวลถัดไป: [Gloomroot Forest](/map/gloomroot_forest) Lv 24–30 · [Pitchwood](/map/pitchwood) Lv 24–30สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 0.97% · ต้านเวท 0%) · Infusion ธาตุ Fire 67% · Earth 32% ช่วยมอนตีก่อนไหม[Ash Hound](/mob/ash_hound)Elite / บอส[Field Brute](/mob/field_brute) Elite\n\nทุ่งข้าวสาลีสุดลูกหูลูกตาที่ส่งเสบียงให้ Ashford กองฟางเรียงตามแนวรั้ว เมื่อเข้าหน้าแล้ง หมาป่าเถ้าจากหุบภูเขาไฟจะลงมาล่าเหยื่อในทุ่ง",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T2",
+       "ใบจันทร์",
+       "Lv 8",
+       "14"
+      ],
+      [
+       "Logging",
+       "T2",
+       "ไม้ยาง",
+       "Lv 8",
+       "11"
+      ],
+      [
+       "Mining",
+       "T2",
+       "แร่ทองแดง",
+       "Lv 8",
+       "8"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/ash_hound",
+    "/mob/field_brute",
+    "/mob/field_sprout",
+    "/mob/plains_skitter"
+   ]
+  },
+  {
+   "name": "Tempest Aerie",
+   "slug": "tempest_aerie",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/cloudspire_ruins",
+    "/map/glasswrack",
+    "/map/shattered_vale",
+    "/mob/sky_wisp",
+    "/mob/tempest_kite_empress"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/tempest_aerie",
+   "source_title": "Tempest Aerie · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/tempest_aerie.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 73** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Cloudspire Ruins](/map/cloudspire_ruins) Lv 64–70\n\nเลเวลถัดไป: [Shattered Vale](/map/shattered_vale) Lv 70–80 · [Glasswrack](/map/glasswrack) Lv 72–80สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 100% · Infusion ธาตุ Shadow 100% ช่วยมอนตีก่อนไหม[Sky Wisp](/mob/sky_wisp)Elite / บอส[Tempest Kite Empress](/mob/tempest_kite_empress) Field BossChannel 10 (PvP)",
+   "tables": [],
+   "monsters": [
+    "/mob/sky_wisp",
+    "/mob/tempest_kite_empress"
+   ]
+  },
+  {
+   "name": "Throne of the Warden",
+   "slug": "throne_of_warden",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/map/lanternrice_delta",
+    "/map/rustbell_barracks",
+    "/map/sanctum",
+    "/map/umbral_depths",
+    "/map/wardens_seat",
+    "/map/wreckwake_coast",
+    "/mob/gloom_skitter",
+    "/mob/lantern_moth",
+    "/mob/throne_guard",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/throne_of_warden",
+   "source_title": "Throne of the Warden · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/throne_of_warden.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 102** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10% · **Lv 99+ ได้ EXP แค่ 10%** (ทวีปเดิม — ไปทวีป Nacreon ได้ EXP เต็ม)ไปต่อที่ไหนทางออก: [Umbral Depths](/map/umbral_depths) Lv 80–90 · [Sanctum](/map/sanctum) เมือง · [Warden's Seat](/map/wardens_seat) Lv 94–99\n\nเลเวลถัดไป: [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99 · [Wreckwake Coast](/map/wreckwake_coast) Lv 99–102 · [Lanternrice Delta](/map/lanternrice_delta) Lv 101–104สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 37% · Infusion ธาตุ Earth 63% · Shadow 35% ช่วยมอนตีก่อนไหม[Gloom Skitter](/mob/gloom_skitter) [Lantern Moth](/mob/lantern_moth)Elite / บอส[Throne Guard](/mob/throne_guard) Elite\n\nห้องโถงบัลลังก์ที่ลอยอยู่กลางความว่างเปล่า เข้าได้ทางสะพานหินฝั่งตะวันตกทางเดียว ทางใต้ของโถงมีทางลงสู่ Warden's Seat ที่ Warden ยังนั่งเฝ้าอยู่ แม้ทุกคนที่เคยรับใช้จะหายไปหมดแล้ว",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "4"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/gloom_skitter",
+    "/mob/lantern_moth",
+    "/mob/throne_guard"
+   ]
+  },
+  {
+   "name": "Tidehaven",
+   "slug": "tidehaven",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spiritwood",
+    "/item/star_shard",
+    "/map/coralstep_plateau",
+    "/map/drowned_forum",
+    "/map/lanternrice_delta",
+    "/map/rustbell_barracks",
+    "/map/shellforge_basin",
+    "/map/stormrail_causeway",
+    "/map/wreckwake_coast",
+    "/npc/ferryman",
+    "/npc/lighthouse_keeper",
+    "/npc/tide_bank",
+    "/npc/tide_brewer",
+    "/npc/tide_cards",
+    "/npc/tide_cook",
+    "/npc/tide_fisher",
+    "/npc/tide_market",
+    "/npc/tide_master",
+    "/npc/tide_merchant",
+    "/npc/tide_smith",
+    "/npc/training_portal_tidehaven",
+    "/npc/warp_statue_t",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/tidehaven",
+   "source_title": "Tidehaven · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/tidehaven.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "มีบริการอะไรวาร์ป · Bank · การ์ด · ร้านค้า · ตลาดโลก · ช่างตีเหล็ก · ทำอาหาร · ปรุงยา · Portal ห้องฝึกแมพรอบเมือง[Wreckwake Coast](/map/wreckwake_coast) Lv 99–102\n\n[Lanternrice Delta](/map/lanternrice_delta) Lv 101–104\n\n[Coralstep Plateau](/map/coralstep_plateau) Lv 103–106\n\n[Drowned Forum](/map/drowned_forum) Lv 105–108\n\n[Stormrail Causeway](/map/stormrail_causeway) Lv 107–110\n\n[Shellforge Basin](/map/shellforge_basin) Lv 110–113ทางออก[Rustbell Barracks](/map/rustbell_barracks) Lv 92–99\n\n[Wreckwake Coast](/map/wreckwake_coast) Lv 99–102พักผ่อนอยู่ในเมืองสะสม Rested EXP (ใกล้กองไฟกลางเมือง ×2)\n\nเมืองท่าแห่งแรกของ Nacreon บ้านผนังขาวหลังคาครามเรียงตามถนนหินลงไปถึงอ่าว ประภาคารบนโขดหินตะวันออกส่องไฟให้เรือข้ามทะเลจากทวีปเก่า และท่าเรือข้ามฟากยังรอส่งคนกลับไปทาง Rustbell Barracks",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "3"
+      ],
+      [
+       "Logging",
+       "T5",
+       "ไม้วิญญาณ",
+       "Lv 42",
+       "2"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "2"
+      ]
+     ]
+    }
+   ],
+   "monsters": []
+  },
+  {
+   "name": "Training Grounds",
+   "slug": "training_grounds",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/npc/training_exit"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/training_grounds",
+   "source_title": "Training Grounds · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/training_grounds.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "นี่คืออะไรห้องฝึก — หุ่นฟางไม่มีวันตาย ไว้ลองสกิลและวัดดาเมจ (มีหน้าต่างวัด DPS) · มีหุ่นของ Field Boss แต่ละตัว (เกราะ / ต้านเวทเท่าบอสจริง) · ไม่มีของดรอป ไม่ได้ EXPเข้ายังไงPortal ห้องฝึกในเมือง (ฟรี) · ออกทาง Portal กลับเมืองAUTOเปิดได้ — ใช้วัดดาเมจของ AUTO",
+   "tables": [],
+   "monsters": []
+  },
+  {
+   "name": "Umbral Depths",
+   "slug": "umbral_depths",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/star_shard",
+    "/map/marrowdeep",
+    "/map/rustbell_barracks",
+    "/map/sanctum",
+    "/map/throne_of_warden",
+    "/mob/abyss_jelly",
+    "/mob/depth_brute",
+    "/mob/umbral_horror",
+    "/mob/umbral_skitter",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/umbral_depths",
+   "source_title": "Umbral Depths · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/umbral_depths.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 93** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Sanctum](/map/sanctum) เมือง · [Throne of the Warden](/map/throne_of_warden) Lv 90–99 · [Marrowdeep](/map/marrowdeep) Lv 82–90\n\nเลเวลถัดไป: [Marrowdeep](/map/marrowdeep) Lv 82–90 · [Throne of the Warden](/map/throne_of_warden) Lv 90–99 · [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 47% · Infusion ธาตุ Earth 52% · Shadow 46% ช่วยมอนตีก่อนไหม[Umbral Skitter](/mob/umbral_skitter) [Abyss Jelly](/mob/abyss_jelly)Elite / บอส[Umbral Horror](/mob/umbral_horror) Elite\n\n[Depth Brute](/mob/depth_brute) Elite\n\nถ้ำลึกใต้ Sanctum ที่ทางเดินวนเป็นห่วงรอบหลุมมืด ไม่มีแสงอาทิตย์ส่องถึง ใต้ลงไปอีกชั้นคือหลุมกระดูกที่ Sanctum ใช้ฝังคนตายมาพันปี",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "7"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "12"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/abyss_jelly",
+    "/mob/depth_brute",
+    "/mob/umbral_horror",
+    "/mob/umbral_skitter"
+   ]
+  },
+  {
+   "name": "Valebrook",
+   "slug": "valebrook",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/herb_leaf",
+    "/item/stone",
+    "/item/wood",
+    "/map/ancient_ruins",
+    "/map/bracken_sink",
+    "/map/honeyrill",
+    "/map/old_quarry",
+    "/map/riverside",
+    "/map/southvale_field",
+    "/map/verdigris_rise",
+    "/map/whispering_woods",
+    "/npc/blacksmith",
+    "/npc/card_binder",
+    "/npc/cook_mira",
+    "/npc/elder",
+    "/npc/fisher_lass",
+    "/npc/gate_guard",
+    "/npc/herbalist",
+    "/npc/jobmaster-valebrook",
+    "/npc/market_board",
+    "/npc/merchant",
+    "/npc/spirit_broker",
+    "/npc/training_portal_valebrook",
+    "/npc/warp_statue",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/valebrook",
+   "source_title": "Valebrook · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/valebrook.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "มีบริการอะไรร้านค้า · ทำอาหาร · ปรุงยา · ช่างตีเหล็ก · วาร์ป · Bank · การ์ด · ตลาดโลก · Portal ห้องฝึกแมพรอบเมือง[Southvale Field](/map/southvale_field) Lv 1–4\n\n[Honeyrill](/map/honeyrill) Lv 3–8\n\n[Whispering Woods](/map/whispering_woods) Lv 4–9\n\n[Riverside](/map/riverside) Lv 6–12\n\n[Bracken Sink](/map/bracken_sink) Lv 9–15\n\n[Old Quarry](/map/old_quarry) Lv 10–16\n\n[Ancient Ruins](/map/ancient_ruins) Lv 14–20\n\n[Verdigris Rise](/map/verdigris_rise) Lv 14–20ทางออก[Southvale Field](/map/southvale_field) Lv 1–4\n\n[Whispering Woods](/map/whispering_woods) Lv 4–9\n\n[Riverside](/map/riverside) Lv 6–12\n\n[Old Quarry](/map/old_quarry) Lv 10–16พักผ่อนอยู่ในเมืองสะสม Rested EXP (ใกล้กองไฟกลางเมือง ×2)\n\nหมู่บ้านเกษตรรอบลานหญ้ากลาง มีกังหันลม โรงนา และบ่อน้ำกับท่าเรือเล็กๆ ทางตะวันออกเฉียงใต้ที่คนชอบมานั่งผิงไฟหลังเลิกงาน ทุกเส้นทางของ Region A เริ่มจากประตูทั้งสี่ของที่นี่",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T1",
+       "ใบสมุนไพร",
+       "Lv 1",
+       "3"
+      ],
+      [
+       "Logging",
+       "T1",
+       "ไม้",
+       "Lv 1",
+       "3"
+      ],
+      [
+       "Mining",
+       "T1",
+       "หิน",
+       "Lv 1",
+       "2"
+      ]
+     ]
+    }
+   ],
+   "monsters": []
+  },
+  {
+   "name": "Verdigris Rise",
+   "slug": "verdigris_rise",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/copper_ore",
+    "/item/moonleaf",
+    "/item/resin_wood",
+    "/map/old_quarry",
+    "/map/sunfield_plains",
+    "/mob/copper_brute",
+    "/mob/copper_pebblit",
+    "/mob/dust_wisp",
+    "/mob/hill_hound",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/verdigris_rise",
+   "source_title": "Verdigris Rise · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/verdigris_rise.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 23** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Old Quarry](/map/old_quarry) Lv 10–16\n\nเลเวลถัดไป: [Sunfield Plains](/map/sunfield_plains) Lv 18–24สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 33% · Infusion ธาตุ Fire 37% · Shadow 33% · Frost 29% ช่วยมอนตีก่อนไหม[Hill Hound](/mob/hill_hound)Elite / บอส[Copper Brute](/mob/copper_brute) Elite\n\nเนินเขาที่หินโผล่มีคราบเขียวของทองแดงเก่า นักสำรวจแร่ปักเต็นท์ไว้บนยอด ส่วนปากอุโมงค์ที่ผาตะวันตกถูกปิดตายตั้งแต่คนงานกลุ่มสุดท้ายไม่ได้กลับออกมา",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T2",
+       "ใบจันทร์",
+       "Lv 8",
+       "5"
+      ],
+      [
+       "Logging",
+       "T2",
+       "ไม้ยาง",
+       "Lv 8",
+       "5"
+      ],
+      [
+       "Mining",
+       "T2",
+       "แร่ทองแดง",
+       "Lv 8",
+       "17"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/copper_brute",
+    "/mob/copper_pebblit",
+    "/mob/dust_wisp",
+    "/mob/hill_hound"
+   ]
+  },
+  {
+   "name": "Warden's Seat",
+   "slug": "wardens_seat",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/lanternrice_delta",
+    "/map/throne_of_warden",
+    "/map/wreckwake_coast",
+    "/mob/gloom_skitter",
+    "/mob/lantern_moth",
+    "/mob/vale_warden"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/wardens_seat",
+   "source_title": "Warden's Seat · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/wardens_seat.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 102** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10% · **Lv 99+ ได้ EXP แค่ 10%** (ทวีปเดิม — ไปทวีป Nacreon ได้ EXP เต็ม)ไปต่อที่ไหนทางออก: [Throne of the Warden](/map/throne_of_warden) Lv 90–99\n\nเลเวลถัดไป: [Wreckwake Coast](/map/wreckwake_coast) Lv 99–102 · [Lanternrice Delta](/map/lanternrice_delta) Lv 101–104สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 50% · Infusion ธาตุ Shadow 50% · Earth 50% ช่วยมอนตีก่อนไหม[Gloom Skitter](/mob/gloom_skitter) [Lantern Moth](/mob/lantern_moth)Elite / บอส[Vale Warden](/mob/vale_warden) Field BossChannel 10 (PvP)",
+   "tables": [],
+   "monsters": [
+    "/mob/gloom_skitter",
+    "/mob/lantern_moth",
+    "/mob/vale_warden"
+   ]
+  },
+  {
+   "name": "Whispering Woods",
+   "slug": "whispering_woods",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/herb_leaf",
+    "/item/raw_fish",
+    "/item/wood",
+    "/map/ancient_ruins",
+    "/map/bloomcrown_glade",
+    "/map/bracken_sink",
+    "/map/old_quarry",
+    "/map/riverside",
+    "/map/valebrook",
+    "/mob/acorn_skitter",
+    "/mob/gloom_wisp",
+    "/mob/thicket_stag",
+    "/mob/thornling",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/whispering_woods",
+   "source_title": "Whispering Woods · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/whispering_woods.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 12** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Valebrook](/map/valebrook) เมือง · [Ancient Ruins](/map/ancient_ruins) Lv 14–20 · [Bloomcrown Glade](/map/bloomcrown_glade) Lv 6–9 · [Bracken Sink](/map/bracken_sink) Lv 9–15\n\nเลเวลถัดไป: [Riverside](/map/riverside) Lv 6–12 · [Bracken Sink](/map/bracken_sink) Lv 9–15 · [Old Quarry](/map/old_quarry) Lv 10–16สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 36% · Infusion ธาตุ Earth 41% · Shadow 36% ช่วยมอนตีก่อนไหม[Thornling](/mob/thornling)Elite / บอส[Thicket Stag](/mob/thicket_stag) Elite\n\nป่าทึบที่ลมพัดผ่านช่องไม้แล้วเกิดเสียงเหมือนคนกระซิบ คนตัดไม้ของ Valebrook เข้าได้แค่ลานโล่งตอนกลางวัน ลึกเข้าไปทางเหนือคือทางลงสู่ Bloomcrown Glade",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T1",
+       "ใบสมุนไพร",
+       "Lv 1",
+       "10"
+      ],
+      [
+       "Logging",
+       "T1",
+       "ไม้",
+       "Lv 1",
+       "20"
+      ],
+      [
+       "Fishing",
+       "T1",
+       "ปลาดิบ",
+       "Lv 1",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/acorn_skitter",
+    "/mob/gloom_wisp",
+    "/mob/thicket_stag",
+    "/mob/thornling"
+   ]
+  },
+  {
+   "name": "Wreckwake Coast",
+   "slug": "wreckwake_coast",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/spirit_bloom",
+    "/item/spirit_koi",
+    "/item/spiritwood",
+    "/item/star_shard",
+    "/map/coralstep_plateau",
+    "/map/drowned_forum",
+    "/map/lanternrice_delta",
+    "/map/rustbell_barracks",
+    "/map/tidehaven",
+    "/mob/anchor_crab",
+    "/mob/barnacle_remnant",
+    "/mob/brass_mimic",
+    "/mob/drowned_bosun",
+    "/mob/gull_harpy",
+    "/mob/hullbreaker_kraken",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/wreckwake_coast",
+   "source_title": "Wreckwake Coast · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/wreckwake_coast.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 105** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%เข้าได้ไหมทวีป Nacreon เข้าได้ตั้งแต่ **Lv 99** ขึ้นไปเท่านั้น · ทางเข้าทางใต้ของ [Rustbell Barracks](/map/rustbell_barracks) Lv 92–99ไปต่อที่ไหนทางออก: [Tidehaven](/map/tidehaven) เมือง · [Lanternrice Delta](/map/lanternrice_delta) Lv 101–104 · [Coralstep Plateau](/map/coralstep_plateau) Lv 103–106\n\nเลเวลถัดไป: [Lanternrice Delta](/map/lanternrice_delta) Lv 101–104 · [Coralstep Plateau](/map/coralstep_plateau) Lv 103–106 · [Drowned Forum](/map/drowned_forum) Lv 105–108สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 40% · Infusion ธาตุ Holy 40% · Earth 35% ช่วยมอนตีก่อนไหม[Anchor Crab](/mob/anchor_crab) [Gull Harpy](/mob/gull_harpy)Elite / บอส[Drowned Bosun](/mob/drowned_bosun) Elite\n\n[Brass Mimic](/mob/brass_mimic) Elite\n\n[Hullbreaker Kraken](/mob/hullbreaker_kraken) Mini-boss\n\nชายฝั่งที่เรือใหญ่มาเกยตื้นจนเป็นสุสานเรือ หัวเรือกาเลียนลำหนึ่งยังปักอยู่กลางหาด สมอกับเสากระโดงจมทรายตามจุดที่ตัวเรือจม อ่าวเล็กฝั่งตะวันออกเป็นที่ตกปลาของคนเก็บซาก",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T5",
+       "ดอกวิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Logging",
+       "T5",
+       "ไม้วิญญาณ",
+       "Lv 42",
+       "5"
+      ],
+      [
+       "Mining",
+       "T5",
+       "เศษดาว",
+       "Lv 42",
+       "7"
+      ],
+      [
+       "Fishing",
+       "T5",
+       "คาร์ฟวิญญาณ",
+       "Lv 42",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/anchor_crab",
+    "/mob/barnacle_remnant",
+    "/mob/brass_mimic",
+    "/mob/drowned_bosun",
+    "/mob/gull_harpy",
+    "/mob/hullbreaker_kraken"
+   ]
+  },
+  {
+   "name": "Yellowlick Flats",
+   "slug": "yellowlick_flats",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/item/frost_mint",
+    "/item/iron_ore",
+    "/item/silverfin",
+    "/map/ember_hollow",
+    "/map/mistmire_swamp",
+    "/map/peatcut_bog",
+    "/mob/salt_brute",
+    "/mob/salt_pebblit",
+    "/mob/sulfur_skitter",
+    "/mob/vent_wisp",
+    "/systems/gathering"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/yellowlick_flats",
+   "source_title": "Yellowlick Flats · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Maps/yellowlick_flats.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 39** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10%ไปต่อที่ไหนทางออก: [Ember Hollow](/map/ember_hollow) Lv 28–36\n\nเลเวลถัดไป: [Mistmire Swamp](/map/mistmire_swamp) Lv 34–40 · [Peatcut Bog](/map/peatcut_bog) Lv 36–42สายไหนได้เปรียบ**สายกายภาพ** ได้เปรียบ — มอนต้านเวท 29% · Infusion ธาตุ Earth 57% · Shadow 29% ช่วยมอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้นElite / บอส[Salt Brute](/mob/salt_brute) Elite\n\nที่ราบเกลือที่ผิวดินกลายเป็นคราบเหลืองจากกำมะถัน ไอน้ำพุ่งขึ้นจากรอยแยกในแปลงหิน คนคราดเกลือของ Ashford ตั้งค่ายที่ประตูตะวันตก และรู้ว่าตรงไหนเหยียบแล้วเปลือกเกลือจะยุบ",
+   "tables": [
+    {
+     "section": "Gathering",
+     "header": [
+      "สาย",
+      "Tier",
+      "ได้",
+      "ต้อง Lv สาย",
+      "จุด"
+     ],
+     "rows": [
+      [
+       "Herbalism",
+       "T3",
+       "มิ้นต์เหมันต์",
+       "Lv 18",
+       "5"
+      ],
+      [
+       "Mining",
+       "T3",
+       "แร่เหล็ก",
+       "Lv 18",
+       "18"
+      ],
+      [
+       "Fishing",
+       "T3",
+       "ปลาครีบเงิน",
+       "Lv 18",
+       "ตกในน้ำ"
+      ]
+     ]
+    }
+   ],
+   "monsters": [
+    "/mob/salt_brute",
+    "/mob/salt_pebblit",
+    "/mob/sulfur_skitter",
+    "/mob/vent_wisp"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+---
+source_url: "https://wiki.bindertowngame.com/skill/whirlwind"
+source_title: "Whirlwind · Binder Town Wiki"
+http_status: 200
+crawled_date: "2026-11-07"
+crawler: "Firecrawl scrape (markdown)"
+verification_status: "WIKI"
+---
+
+## ตอบให้ก่อน
+
+ทำอะไร
+
+- PvP: ดาเมจใส่ผู้เล่น 128% ของที่การ์ดบอก (ที่ Lv 60)
+- ตีโดนสูงสุด 6 ตัว
+- ตี 3 ฮิต
+- ตีรอบตัว
+- ฝากแผลวิญญาณ
+- สกิลนี้ไม่ติดคริ (ดาเมจคงที่ตามพลังโจมตี)
+- Break 5 ต่อเป้า — ลงที่แถบ Break ของ Elite / บอส
+
+ดาเมจ80% → 166% ของ ATK ต่อการใช้ 1 ครั้ง (Lv 1 → Lv 10) · ก่อนหัก DEF ของเป้าคูลดาวน์ / ร่าย / MPคูลดาวน์ 9.6 วิ · ร่าย 0.42 วิ · MP 6 (Lv 1) ถึง 63 (Lv 99)ปลดล็อกJob Lv 23 และ [![](https://wiki.bindertowngame.com/img/skill/bloodlust.png)Bloodlust](https://wiki.bindertowngame.com/skill/bloodlust) Lv 3
+
+## Evolution A / B (เปิดที่สกิล Lv 5)
+
+ทางเลือก A **Blood Spin** Rage: ทุกมอนที่ปั่นโดน **+1** Rage · Rage: ทุกมอนที่โดน **+1** Rage (สูงสุด **10**) · Rage ละ **+0.3%** ดาเมจทุกฮิต · หยุดตี **5** วิ แล้วค่อยๆ หาย
+
+ทางเลือก B **Blade Storm** ปั่นแล้วเหวี่ยงใบมีด **6** ใบออกรอบทิศ ( **60%**) · ดาเมจปั่น **−15%** · ดาเมจที่ Lv **10** **141%** · ปล่อยคลื่นรอบทิศ **6** ลูก (ลูกละ ดาเมจกายภาพ **60%** ATK)
+
+เลือกครั้งแรกฟรี · ก่อน Lv 50 เปลี่ยนฟรี · หลังจากนั้น 10,000 G · ตัวเลข = ที่สกิล Lv 10
+
+## Breakpoint
+
+สกิล Lv 5 **Breakpoint** คูลดาวน์ **−8%**
+
+สกิล Lv 10 **Breakpoint** ใช้ MP **−15%**
+
+## ค่าตามเลเวลสกิล
+
+ดูตาราง
+
+| Lv | ดาเมจ (% ของ ATK ต่อการใช้ 1 ครั้ง) | คูลดาวน์ |
+| --- | --- | --- |
+| 1 | 80% | 9.6 วิ |
+| 2 | 90% | 9.6 วิ |
+| 3 | 99% | 9.6 วิ |
+| 4 | 109% | 9.6 วิ |
+| 5 | 118% | 8.8 วิ |
+| 6 | 128% | 8.8 วิ |
+| 7 | 138% | 8.8 วิ |
+| 8 | 147% | 8.8 วิ |
+| 9 | 157% | 8.8 วิ |
+| 10 | 166% | 8.8 วิ |
+
+## ต่อไป
+
+[**อาชีพ Warrior** Skill Tree ทั้งหมด](https://wiki.bindertowngame.com/job/warrior) [**Bloodlust**](https://wiki.bindertowngame.com/skill/bloodlust)

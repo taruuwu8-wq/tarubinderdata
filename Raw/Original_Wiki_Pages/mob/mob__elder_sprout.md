@@ -1,0 +1,231 @@
+---
+source_url: "https://wiki.bindertowngame.com/mob/elder_sprout"
+source_title: "Elder Sprout · Binder Town Wiki"
+http_status: 200
+crawled_date: "2026-11-07"
+crawler: "Firecrawl scrape (markdown)"
+verification_status: "WIKI"
+---
+
+## ตอบให้ก่อน
+
+ได้อะไรต่อตัวEXP 35,128 · Job EXP45,028 · Gold 17–39(ที่ Lv 5 ก่อนตัวคูณ)อันตรายไหมเห็นแล้ววิ่งเข้ามาตี (ระยะมองเห็น 6 ช่อง)
+
+ตีครั้งละ 81–108 ทุก 1.26 วิ · HP 2,013
+
+ผู้เล่น Lv ต่ำกว่า 6 โดนมอนตีเบาลง (Lv 1–2 โดนแค่ 50%)
+
+มีท่าพิเศษ 1 ท่า — วงเตือนบนพื้น เดิน / Dash ออก (FLEE หลบไม่ได้)ของที่ควรล่า[![](https://wiki.bindertowngame.com/img/item/loose_spirit.png)วิญญาณเร่ร่อน](https://wiki.bindertowngame.com/item/loose_spirit) 35%(ตีราว 3 ตัว)
+
+[![](https://wiki.bindertowngame.com/img/item/copper_ore.png)แร่ทองแดง](https://wiki.bindertowngame.com/item/copper_ore) 1.9%(ตีราว 51 ตัว)
+
+[![](https://wiki.bindertowngame.com/img/item/essence_hp.png)Vitality Essence](https://wiki.bindertowngame.com/item/essence_hp) 1.5%(ตีราว 68 ตัว)
+
+[![](https://wiki.bindertowngame.com/img/item/essence_vit.png)Endurance Essence](https://wiki.bindertowngame.com/item/essence_vit) 1.5%(ตีราว 68 ตัว)อุปกรณ์9.6% ต่อตัว (ตีราว 10 ตัว) · ขั้น 1กลางคืนมอนตีแรง ×1.35 รับดาเมจ ×0.78 · EXP ×1.25 · Gold ×1.4 · ดรอป ×1.4 · ตัวนี้หลับ เข้าไปตีก่อนได้ของตกเป็นของใครคนที่ทำดาเมจมากที่สุด — ของรอจนหายไปใน 60 วิ · EXP / Job EXP / Gold แบ่งตามดาเมจของทุกคนที่ตีภายใน 30 วิ
+
+## อยู่ที่ไหน
+
+[![](https://wiki.bindertowngame.com/img/gen/map/southvale_field.png)**Southvale Field** Lv 5 · 1 ตัว](https://wiki.bindertowngame.com/map/southvale_field)
+
+## แพ้ทาง / ชนะทาง
+
+ค่าที่ Lv 5 · "ปกติ / สูง / ต่ำ" เทียบกับมอนEliteเลเวลเดียวกัน
+
+ประเภท **Sprout · พืชเดินได้ — ตัวนิ่ม ช้า ไม่ตีก่อน**
+
+บทบาท **Elite · แรงกว่ามอนทั่วไปหลายเท่า**
+
+แพ้ธาตุ **Fire (ไฟ) ×1.2**
+
+ต้านธาตุ **Earth (ดิน) ×0.85**
+
+เกราะกายภาพ (DEF) **ปกติ · 4**
+
+ต้านเวท (MDEF) **ปกติ · 3**
+
+หลบ (FLEE) **ปกติ · 6**
+
+ความถึก (HP) **ปกติ**
+
+ตีแรง **ปกติ (เทียบมอนเลเวลเดียวกัน — ผู้เล่น Lv ต่ำกว่า 6 โดนเบาลง)**
+
+ระยะโจมตี **ประชิด 1.4 ช่อง**
+
+**ได้เปรียบเมื่อ (มันแพ้ทาง)**
+
+- อาวุธที่ [Infusion](https://wiki.bindertowngame.com/systems/smith#infusion) ธาตุ **Fire (ไฟ)** — ตีธรรมดาแรงขึ้น ×1.2
+- ตอนกลางคืนมันหลับ — เดินเข้าไปตีได้ก่อน มันตื่นมางงช่วงหนึ่ง
+- มี **Break Bar**: สกิลควบคุม (สตัน / ตรึง / ผลัก / Chill / ยั่วยุ) และกลไกอาชีพ (Rage / Combo / Mark) เติมแถบจนเต็ม → STAGGER 3 วิ รับดาเมจ ×1.4 และหยุดร่ายท่าใหม่
+
+**ระวัง (มันชนะทาง)**
+
+- อาวุธ Infusion ธาตุ **Earth (ดิน)** — ตีธรรมดาเบาลง ×0.85
+- มีท่าพิเศษ 1 ท่า (ตารางด้านล่าง) — วงเตือนก่อนตกเสมอ หลบด้วยการเดิน / Dash ไม่ใช่ FLEE
+- เห็นคุณแล้ววิ่งเข้ามาตีก่อน — เตรียมยาให้พร้อม
+- ตีธรรมดาติดคริ 15% แรง ×1.5 — Crit Resist (LUK / VIT) ช่วยลด
+- ผลัก / ดึงไม่ขยับ (ไม่โดนกระเด็น)
+- กลางคืนมันตีแรงขึ้น ×1.35 และถึกขึ้น (รับดาเมจ ×0.78) — แต่ให้ EXP ×1.25 · Gold ×1.4 · ดรอป ×1.4
+
+ตีกายภาพโดน ~90% เมื่อ HIT ≥ 4 (เวทโดนเสมอ) · FLEE ของคุณหลบตีธรรมดาของมันได้อย่างน้อย 20% และไม่เกิน 40% · ต้องมี FLEE ~43 ถึงหลบได้ราว 30% · ท่าพิเศษ / วงอันตรายหลบด้วย FLEE ไม่ได้
+
+## ท่าพิเศษ
+
+| ท่า | รูปแบบ | เตือนก่อน | แรง |
+| --- | --- | --- | --- |
+| **Root Bind** | วงกลม 2.2 ช่อง | 1.3 วิ | ×0.8 |
+
+## ของดรอป
+
+โอกาสต่อการฆ่า 1 ตัวที่ Lv 5 · กลางคืน ×1.4 · ChannelPvP ×1.3 · Premium ×1.15
+
+| ไอเท็ม | โอกาสต่อตัว | ตีกี่ตัวถึงได้ (ราว) | จำนวน | หมายเหตุ |
+| --- | --- | --- | --- | --- |
+| การ์ด & วิญญาณ |
+| [![](https://wiki.bindertowngame.com/img/item/loose_spirit.png)วิญญาณเร่ร่อน](https://wiki.bindertowngame.com/item/loose_spirit) | 35% | 3 ตัว | 1 | วิญญาณ Elder Sprout — สะสมแลกการ์ด / อัป ★ |
+| [![](https://wiki.bindertowngame.com/img/item/spirit_card.png)การ์ดวิญญาณ](https://wiki.bindertowngame.com/item/spirit_card) | 0.003% | 28,571 ตัว | 1 | การ์ด Elder Sprout ★1 — ประกาศทั้งเซิร์ฟ |
+| ของมีค่า |
+| [![](https://wiki.bindertowngame.com/img/item/copper_ore.png)แร่ทองแดง](https://wiki.bindertowngame.com/item/copper_ore) | 1.9% | 51 ตัว | 1 |  |
+| [![](https://wiki.bindertowngame.com/img/item/essence_hp.png)Vitality Essence](https://wiki.bindertowngame.com/item/essence_hp) | 1.5% | 68 ตัว | 1 | Essence ของแมพ Southvale Field · แมพประจำวัน ×2 |
+| [![](https://wiki.bindertowngame.com/img/item/essence_vit.png)Endurance Essence](https://wiki.bindertowngame.com/item/essence_vit) | 1.5% | 68 ตัว | 1 | Essence ของแมพ Southvale Field · แมพประจำวัน ×2 |
+| [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) | 0.8% | 125 ตัว | 1 |  |
+| หมวก · หน้า · ปาก |
+| [![](https://wiki.bindertowngame.com/img/item/rose.png)Rose](https://wiki.bindertowngame.com/item/rose) | 1.6% | 63 ตัว | 1 |  |
+| [![](https://wiki.bindertowngame.com/img/item/sprout_leaf.png)Sprout Leaf](https://wiki.bindertowngame.com/item/sprout_leaf) | 1.6% | 63 ตัว | 1 |  |
+| วัตถุดิบ / ของใช้ |
+| [![](https://wiki.bindertowngame.com/img/item/sprout_crown.png)มงกุฎต้นอ่อน](https://wiki.bindertowngame.com/item/sprout_crown) | 10% | 10 ตัว | 1 |  |
+| ชิ้นส่วนมอน (ขาย NPC) |
+| [![](https://wiki.bindertowngame.com/img/item/drop_elder_sprout.png)เยลลี่ต้นอ่อน · Elder Sprout](https://wiki.bindertowngame.com/item/drop_elder_sprout) | 100% | 1 ตัว | 1–3 |  |
+
+## อุปกรณ์ที่ดรอป
+
+รวม 9.6% ต่อตัว · 95 ชิ้น · ขั้น 1 · ความหายากสุ่มตอนดรอป
+
+| กลุ่ม | จำนวนชิ้น | โอกาสรวมต่อตัว | ตีกี่ตัวถึงได้ (ราว) | ใครใช้ได้ |
+| --- | --- | --- | --- | --- |
+| **เกราะ · รองเท้า · เครื่องประดับ** | 9 | 3.2% | 31 ตัว | ทุกอาชีพ |
+| **อาวุธพื้นฐาน** | 15 | 3.2% | 31 ตัว | Knight, Warrior, Acolyte, Binder, Rogue, Scout, Mage, Summoner |
+| **อาวุธแบบอื่น (Grip ของแต่ละอาชีพ)** | 15 | 1.4% | 73 ตัว | Scout, Knight, Warrior, Rogue, Mage, Summoner, Acolyte |
+| **มือรอง** | 50 | 1.4% | 70 ตัว | Binder, Knight, Warrior, Acolyte, Mage, Summoner, Scout, Rogue |
+| **เข็มขัด** | 6 | 0.36% | 279 ตัว | ทุกอาชีพ |
+
+ดูทุกชิ้น 95 ชิ้น (กดดู)
+
+| ชิ้น | ขั้น | โอกาสต่อตัว | สวมได้ | ใครใช้ได้ |
+| --- | --- | --- | --- | --- |
+| เกราะ · รองเท้า · เครื่องประดับ · 9 ชิ้น |
+| [![](https://wiki.bindertowngame.com/img/item/leather_vest.png)เสื้อหนัง](https://wiki.bindertowngame.com/item/leather_vest) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/hide_jerkin.png)เสื้อหนังสัตว์](https://wiki.bindertowngame.com/item/hide_jerkin) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/pilgrim_robe.png)เสื้อคลุมแสวงบุญ](https://wiki.bindertowngame.com/item/pilgrim_robe) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/greaves_t1.png)สนับแข้งฝึกหัด](https://wiki.bindertowngame.com/item/greaves_t1) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/worn_shoes.png)รองเท้าเก่า](https://wiki.bindertowngame.com/item/worn_shoes) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/ring_of_might.png)แหวนพลัง](https://wiki.bindertowngame.com/item/ring_of_might) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/wisp_amulet.png)ตะกรุดไฟผี](https://wiki.bindertowngame.com/item/wisp_amulet) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/lucky_charm.png)เครื่องรางโชค](https://wiki.bindertowngame.com/item/lucky_charm) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/necklace_t1.png)สร้อยคอฝึกหัด](https://wiki.bindertowngame.com/item/necklace_t1) | 1 | 0.36% | Lv 1 | ทุกอาชีพ |
+| อาวุธพื้นฐาน · 15 ชิ้น |
+| [![](https://wiki.bindertowngame.com/img/item/greatsword_t1.png)ดาบสองมือฝึกหัด](https://wiki.bindertowngame.com/item/greatsword_t1) | 1 | 0.25% | Lv 1 | Knight, Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/stone_maul.png)ค้อนหิน](https://wiki.bindertowngame.com/item/stone_maul) | 1 | 0.25% | Lv 1 | Knight, Warrior, Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/fang_knife.png)มีดเขี้ยว](https://wiki.bindertowngame.com/item/fang_knife) | 1 | 0.25% | Lv 1 | Binder, Rogue, Scout |
+| [![](https://wiki.bindertowngame.com/img/item/short_bow.png)ธนูสั้น](https://wiki.bindertowngame.com/item/short_bow) | 1 | 0.25% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/oak_staff.png)ไม้เท้าโอ๊ก](https://wiki.bindertowngame.com/item/oak_staff) | 1 | 0.25% | Lv 1 | Mage, Acolyte, Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/spirit_wand.png)ไม้กายสิทธิ์วิญญาณ](https://wiki.bindertowngame.com/item/spirit_wand) | 1 | 0.25% | Lv 1 | Mage, Summoner, Knight, Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/pilgrim_rod.png)ไม้เท้าแสวงบุญ](https://wiki.bindertowngame.com/item/pilgrim_rod) | 1 | 0.25% | Lv 1 | Acolyte, Knight |
+| [![](https://wiki.bindertowngame.com/img/item/bound_grimoire.png)ตำราผูกวิญญาณ](https://wiki.bindertowngame.com/item/bound_grimoire) | 1 | 0.25% | Lv 1 | Summoner, Mage, Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/spear_t1.png)หอกฝึกหัด](https://wiki.bindertowngame.com/item/spear_t1) | 1 | 0.19% | Lv 1 | Knight, Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/axe_t1.png)ขวานฝึกหัด](https://wiki.bindertowngame.com/item/axe_t1) | 1 | 0.19% | Lv 1 | Warrior, Knight |
+| [![](https://wiki.bindertowngame.com/img/item/kris_t1.png)กริชฝึกหัด](https://wiki.bindertowngame.com/item/kris_t1) | 1 | 0.19% | Lv 1 | Binder, Rogue, Scout |
+| [![](https://wiki.bindertowngame.com/img/item/crossbow_t1.png)หน้าไม้ฝึกหัด](https://wiki.bindertowngame.com/item/crossbow_t1) | 1 | 0.19% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/orb_t1.png)ลูกแก้วเวทฝึกหัด](https://wiki.bindertowngame.com/item/orb_t1) | 1 | 0.19% | Lv 1 | Mage, Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/chipped_blade.png)ดาบบิ่น](https://wiki.bindertowngame.com/item/chipped_blade) | 1 | 0.18% | Lv 1 | Binder, Knight, Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/chipped_blade_alt.png)ดาบฝึกหัด (เวท)](https://wiki.bindertowngame.com/item/chipped_blade_alt) | 1 | 0.075% | Lv 1 | Binder, Knight, Warrior |
+| อาวุธแบบอื่น (Grip ของแต่ละอาชีพ) · 15 ชิ้น |
+| [![](https://wiki.bindertowngame.com/img/item/hand_crossbow_t1.png)หน้าไม้มือฝึกหัด](https://wiki.bindertowngame.com/item/hand_crossbow_t1) | 1 | 0.092% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/javelin_t1.png)หลาวฝึกหัด](https://wiki.bindertowngame.com/item/javelin_t1) | 1 | 0.092% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/sling_t1.png)สลิงฝึกหัด](https://wiki.bindertowngame.com/item/sling_t1) | 1 | 0.092% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/pike_t1.png)ทวนฝึกหัด](https://wiki.bindertowngame.com/item/pike_t1) | 1 | 0.092% | Lv 1 | Knight, Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/lance_t1.png)หอกทหารม้าฝึกหัด](https://wiki.bindertowngame.com/item/lance_t1) | 1 | 0.092% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/knuckles_t1.png)สนับมือฝึกหัด](https://wiki.bindertowngame.com/item/knuckles_t1) | 1 | 0.092% | Lv 1 | Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/flail_t1.png)ลูกตุ้มโซ่ฝึกหัด](https://wiki.bindertowngame.com/item/flail_t1) | 1 | 0.092% | Lv 1 | Warrior, Knight |
+| [![](https://wiki.bindertowngame.com/img/item/rapier_t1.png)เรเปียร์ฝึกหัด](https://wiki.bindertowngame.com/item/rapier_t1) | 1 | 0.092% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/throwing_knives_t1.png)มีดบินฝึกหัด](https://wiki.bindertowngame.com/item/throwing_knives_t1) | 1 | 0.092% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/greatstaff_t1.png)ไม้เท้ายาวฝึกหัด](https://wiki.bindertowngame.com/item/greatstaff_t1) | 1 | 0.092% | Lv 1 | Mage, Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/spellstaff_t1.png)ไม้เท้าศึกฝึกหัด](https://wiki.bindertowngame.com/item/spellstaff_t1) | 1 | 0.092% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/maul_t1.png)ค้อนศักดิ์สิทธิ์ฝึกหัด](https://wiki.bindertowngame.com/item/maul_t1) | 1 | 0.092% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/lightstaff_t1.png)ไม้เท้าแสงฝึกหัด](https://wiki.bindertowngame.com/item/lightstaff_t1) | 1 | 0.092% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/scythe_t1.png)เคียวใหญ่ฝึกหัด](https://wiki.bindertowngame.com/item/scythe_t1) | 1 | 0.092% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/chain_sickle_t1.png)เคียวโซ่ฝึกหัด](https://wiki.bindertowngame.com/item/chain_sickle_t1) | 1 | 0.092% | Lv 1 | Summoner |
+| มือรอง · 50 ชิ้น |
+| [![](https://wiki.bindertowngame.com/img/item/buckler.png)โล่จิ๋ว](https://wiki.bindertowngame.com/item/buckler) | 1 | 0.36% | Lv 1 | Binder, Knight, Warrior, Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/ward_t1.png)โล่เวทฝึกหัด](https://wiki.bindertowngame.com/item/ward_t1) | 1 | 0.36% | Lv 1 | Mage, Acolyte, Summoner, Knight |
+| [![](https://wiki.bindertowngame.com/img/item/quiver_t1.png)ซองธนูฝึกหัด (Bodkin)](https://wiki.bindertowngame.com/item/quiver_t1) | 1 | 0.015% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/stone_pouch_t1.png)ถุงหินฝึกหัด (Round)](https://wiki.bindertowngame.com/item/stone_pouch_t1) | 1 | 0.015% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/tower_shield_t1.png)โล่หอคอยฝึกหัด (Bastion)](https://wiki.bindertowngame.com/item/tower_shield_t1) | 1 | 0.015% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/buckler_t1.png)โล่กลมเล็กฝึกหัด (Parry)](https://wiki.bindertowngame.com/item/buckler_t1) | 1 | 0.015% | Lv 1 | Knight, Scout |
+| [![](https://wiki.bindertowngame.com/img/item/kite_shield_t1.png)โล่ว่าวฝึกหัด (Charge)](https://wiki.bindertowngame.com/item/kite_shield_t1) | 1 | 0.015% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/war_banner_t1.png)ธงศึกฝึกหัด (Rally)](https://wiki.bindertowngame.com/item/war_banner_t1) | 1 | 0.015% | Lv 1 | Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/poison_vial_t1.png)ขวดพิษฝึกหัด (Toxin)](https://wiki.bindertowngame.com/item/poison_vial_t1) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/parrying_dagger_t1.png)มีดปัดฝึกหัด (Counter)](https://wiki.bindertowngame.com/item/parrying_dagger_t1) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/prism_t1.png)ปริซึมฝึกหัด (Split)](https://wiki.bindertowngame.com/item/prism_t1) | 1 | 0.015% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/familiar_t1.png)ภูตรับใช้ฝึกหัด (Ember)](https://wiki.bindertowngame.com/item/familiar_t1) | 1 | 0.015% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/censer_t1.png)กระถางกำยานฝึกหัด (Mending)](https://wiki.bindertowngame.com/item/censer_t1) | 1 | 0.015% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/bell_t1.png)ระฆังฝึกหัด (Clear)](https://wiki.bindertowngame.com/item/bell_t1) | 1 | 0.015% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/lantern_t1.png)ตะเกียงวิญญาณฝึกหัด (Vessel)](https://wiki.bindertowngame.com/item/lantern_t1) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/chain_t1.png)โซ่ฝึกหัด (Bind)](https://wiki.bindertowngame.com/item/chain_t1) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/skull_t1.png)กะโหลกฝึกหัด (Grinning)](https://wiki.bindertowngame.com/item/skull_t1) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/bandolier_t1.png)สายคาดมีดฝึกหัด (Barbed)](https://wiki.bindertowngame.com/item/bandolier_t1) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/quiver_t1_broadhead.png)ซองธนูฝึกหัด (Broadhead)](https://wiki.bindertowngame.com/item/quiver_t1_broadhead) | 1 | 0.015% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/quiver_t1_whistling.png)ซองธนูฝึกหัด (Whistling)](https://wiki.bindertowngame.com/item/quiver_t1_whistling) | 1 | 0.015% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/stone_pouch_t1_gravel.png)ถุงหินฝึกหัด (Gravel)](https://wiki.bindertowngame.com/item/stone_pouch_t1_gravel) | 1 | 0.015% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/stone_pouch_t1_fire.png)ถุงหินฝึกหัด (Fire)](https://wiki.bindertowngame.com/item/stone_pouch_t1_fire) | 1 | 0.015% | Lv 1 | Scout |
+| [![](https://wiki.bindertowngame.com/img/item/tower_shield_t1_rampart.png)โล่หอคอยฝึกหัด (Rampart)](https://wiki.bindertowngame.com/item/tower_shield_t1_rampart) | 1 | 0.015% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/tower_shield_t1_aegis.png)โล่หอคอยฝึกหัด (Aegis)](https://wiki.bindertowngame.com/item/tower_shield_t1_aegis) | 1 | 0.015% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/buckler_t1_deflect.png)โล่กลมเล็กฝึกหัด (Deflect)](https://wiki.bindertowngame.com/item/buckler_t1_deflect) | 1 | 0.015% | Lv 1 | Knight, Scout |
+| [![](https://wiki.bindertowngame.com/img/item/buckler_t1_bash.png)โล่กลมเล็กฝึกหัด (Bash)](https://wiki.bindertowngame.com/item/buckler_t1_bash) | 1 | 0.015% | Lv 1 | Knight, Scout |
+| [![](https://wiki.bindertowngame.com/img/item/kite_shield_t1_pennant.png)โล่ว่าวฝึกหัด (Pennant)](https://wiki.bindertowngame.com/item/kite_shield_t1_pennant) | 1 | 0.015% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/kite_shield_t1_oath.png)โล่ว่าวฝึกหัด (Oath)](https://wiki.bindertowngame.com/item/kite_shield_t1_oath) | 1 | 0.015% | Lv 1 | Knight |
+| [![](https://wiki.bindertowngame.com/img/item/war_banner_t1_taunt.png)ธงศึกฝึกหัด (Taunt)](https://wiki.bindertowngame.com/item/war_banner_t1_taunt) | 1 | 0.015% | Lv 1 | Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/war_banner_t1_march.png)ธงศึกฝึกหัด (March)](https://wiki.bindertowngame.com/item/war_banner_t1_march) | 1 | 0.015% | Lv 1 | Warrior |
+| [![](https://wiki.bindertowngame.com/img/item/poison_vial_t1_numbing.png)ขวดพิษฝึกหัด (Numbing)](https://wiki.bindertowngame.com/item/poison_vial_t1_numbing) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/poison_vial_t1_confusion.png)ขวดพิษฝึกหัด (Confusion)](https://wiki.bindertowngame.com/item/poison_vial_t1_confusion) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/parrying_dagger_t1_slip.png)มีดปัดฝึกหัด (Slip)](https://wiki.bindertowngame.com/item/parrying_dagger_t1_slip) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/parrying_dagger_t1_flourish.png)มีดปัดฝึกหัด (Flourish)](https://wiki.bindertowngame.com/item/parrying_dagger_t1_flourish) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/prism_t1_refract.png)ปริซึมฝึกหัด (Refract)](https://wiki.bindertowngame.com/item/prism_t1_refract) | 1 | 0.015% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/prism_t1_focus.png)ปริซึมฝึกหัด (Lens)](https://wiki.bindertowngame.com/item/prism_t1_focus) | 1 | 0.015% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/familiar_t1_frost.png)ภูตรับใช้ฝึกหัด (Frostling)](https://wiki.bindertowngame.com/item/familiar_t1_frost) | 1 | 0.015% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/familiar_t1_storm.png)ภูตรับใช้ฝึกหัด (Storm)](https://wiki.bindertowngame.com/item/familiar_t1_storm) | 1 | 0.015% | Lv 1 | Mage |
+| [![](https://wiki.bindertowngame.com/img/item/censer_t1_purifying.png)กระถางกำยานฝึกหัด (Purifying)](https://wiki.bindertowngame.com/item/censer_t1_purifying) | 1 | 0.015% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/censer_t1_burning.png)กระถางกำยานฝึกหัด (Burning)](https://wiki.bindertowngame.com/item/censer_t1_burning) | 1 | 0.015% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/bell_t1_warm.png)ระฆังฝึกหัด (Warm)](https://wiki.bindertowngame.com/item/bell_t1_warm) | 1 | 0.015% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/bell_t1_swift.png)ระฆังฝึกหัด (Swiftbell)](https://wiki.bindertowngame.com/item/bell_t1_swift) | 1 | 0.015% | Lv 1 | Acolyte |
+| [![](https://wiki.bindertowngame.com/img/item/lantern_t1_binding.png)ตะเกียงวิญญาณฝึกหัด (Binding)](https://wiki.bindertowngame.com/item/lantern_t1_binding) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/lantern_t1_champion.png)ตะเกียงวิญญาณฝึกหัด (Champion)](https://wiki.bindertowngame.com/item/lantern_t1_champion) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/chain_t1_drag.png)โซ่ฝึกหัด (Drag)](https://wiki.bindertowngame.com/item/chain_t1_drag) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/chain_t1_link.png)โซ่ฝึกหัด (Link)](https://wiki.bindertowngame.com/item/chain_t1_link) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/skull_t1_smoldering.png)กะโหลกฝึกหัด (Smoldering)](https://wiki.bindertowngame.com/item/skull_t1_smoldering) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/skull_t1_elder.png)กะโหลกฝึกหัด (Elder)](https://wiki.bindertowngame.com/item/skull_t1_elder) | 1 | 0.015% | Lv 1 | Summoner |
+| [![](https://wiki.bindertowngame.com/img/item/bandolier_t1_quickdraw.png)สายคาดมีดฝึกหัด (Quickdraw)](https://wiki.bindertowngame.com/item/bandolier_t1_quickdraw) | 1 | 0.015% | Lv 1 | Rogue |
+| [![](https://wiki.bindertowngame.com/img/item/bandolier_t1_weighted.png)สายคาดมีดฝึกหัด (Weighted)](https://wiki.bindertowngame.com/item/bandolier_t1_weighted) | 1 | 0.015% | Lv 1 | Rogue |
+| เข็มขัด · 6 ชิ้น |
+| [![](https://wiki.bindertowngame.com/img/item/belt_t1.png)เข็มขัดฝึกหัด](https://wiki.bindertowngame.com/item/belt_t1) | 1 | 0.06% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/belt_t1_agi.png)เข็มขัดฝึกหัด (AGI)](https://wiki.bindertowngame.com/item/belt_t1_agi) | 1 | 0.06% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/belt_t1_vit.png)เข็มขัดฝึกหัด (VIT)](https://wiki.bindertowngame.com/item/belt_t1_vit) | 1 | 0.06% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/belt_t1_int.png)เข็มขัดฝึกหัด (INT)](https://wiki.bindertowngame.com/item/belt_t1_int) | 1 | 0.06% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/belt_t1_dex.png)เข็มขัดฝึกหัด (DEX)](https://wiki.bindertowngame.com/item/belt_t1_dex) | 1 | 0.06% | Lv 1 | ทุกอาชีพ |
+| [![](https://wiki.bindertowngame.com/img/item/belt_t1_luk.png)เข็มขัดฝึกหัด (LUK)](https://wiki.bindertowngame.com/item/belt_t1_luk) | 1 | 0.06% | Lv 1 | ทุกอาชีพ |
+
+## การ์ดของมอนนี้
+
+![](https://wiki.bindertowngame.com/img/card/elder_sprout.svg)
+
+สี Growth · Spirit Load 2
+
+| ดาว | ผล |
+| --- | --- |
+| ★1 | เวลา Gathering / ตกปลา −4.5% · VIT +2 · Max HP +0.4% |
+| ★5 | เวลา Gathering / ตกปลา −15% · VIT +9 · Max HP +1.7% |
+
+แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)
+
+## ต่อไป
+
+[**แมพ Southvale Field** Lv 1–4](https://wiki.bindertowngame.com/map/southvale_field) [**วิญญาณเร่ร่อน**](https://wiki.bindertowngame.com/item/loose_spirit) [**แร่ทองแดง**](https://wiki.bindertowngame.com/item/copper_ore) [**บอส & ท่าพิเศษ**](https://wiki.bindertowngame.com/systems/bosses) [**การ์ด & วิญญาณ**](https://wiki.bindertowngame.com/cards)

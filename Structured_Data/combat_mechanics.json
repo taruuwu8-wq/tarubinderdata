@@ -1,0 +1,422 @@
+{
+ "_about": "Class resources (Rage/Combo/Mark...), class traits & dash, per-map monster threat traits.",
+ "count": 3,
+ "records": [
+  {
+   "name": "กลไกอาชีพ",
+   "slug": "class-resources",
+   "category": "system_page",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/systems/class-resources",
+   "source_title": "กลไกอาชีพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Combat_Mechanics/class-resources.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "tables": [
+    {
+     "section": "Knight · Bulwark",
+     "header": [
+      "สกิลที่สร้าง Bulwark",
+      "สกิลที่ใช้ Bulwark"
+     ],
+     "rows": [
+      [
+       "Shield Bash Evolution A · Concussion (สกิล Lv 5) / Bulwark Slam / Judgment Blade Evolution A · Condemn (สกิล Lv 5) / Guardian Charge Evolution B · Bastion Charge (สกิล Lv 5) / Spirit Echo Evolution A · Bastion Echo (สกิล Lv 5) / Spirit Echo Evolution B · Echo Taunt (สกิล Lv 5) / Echo Wave Evolution A · Bastion Wave (สกิล Lv 5)",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "Warrior · Rage",
+     "header": [
+      "สกิลที่สร้าง Rage",
+      "สกิลที่ใช้ Rage"
+     ],
+     "rows": [
+      [
+       "Cleave Evolution A · Blood Sweep (สกิล Lv 5) / Whirlwind Evolution A · Blood Spin (สกิล Lv 5)",
+       "Execution Evolution A · Wrath (สกิล Lv 5) / Leap Slam Evolution B · Berserker Leap (สกิล Lv 3)"
+      ]
+     ]
+    },
+    {
+     "section": "Scout · Hunter's Mark",
+     "header": [
+      "สกิลที่สร้าง Hunter's Mark",
+      "สกิลที่ใช้ Hunter's Mark"
+     ],
+     "rows": [
+      [
+       "Spirit Shot Evolution A · Hunter's Mark (สกิล Lv 5) / Anchor Arrow Evolution A · Pinning Shot (สกิล Lv 5)",
+       "Piercing Shot Evolution B · Kill Shot (สกิล Lv 5)"
+      ]
+     ]
+    },
+    {
+     "section": "Rogue · Combo",
+     "header": [
+      "สกิลที่สร้าง Combo",
+      "สกิลที่ใช้ Combo"
+     ],
+     "rows": [
+      [
+       "Flurry Evolution A · Venom Edge (สกิล Lv 5) / Assassinate Evolution B · Clean Cut (สกิล Lv 5) / Fan of Knives Evolution B · Poison Fan (สกิล Lv 5) / Soul Filch Evolution A · Quick Hands (สกิล Lv 5)",
+       "Shadow Strike Evolution A · Ambush (สกิล Lv 5) / Assassinate Evolution A · Deathblow (สกิล Lv 5)"
+      ]
+     ]
+    },
+    {
+     "section": "Mage · Chill · Shatter",
+     "header": [
+      "สกิลที่สร้าง Chill · Shatter",
+      "สกิลที่ใช้ Chill · Shatter"
+     ],
+     "rows": [
+      [
+       "Spirit Nova / Meteor Wave Evolution A · Frozen Comet (สกิล Lv 5) / Frostbind / Ice Lance / Mana Veil Evolution B · Frost Armor (สกิล Lv 3)",
+       "Spirit Nova Evolution B · Shatter Nova (สกิล Lv 5) / Ice Lance Evolution B · Shatter Lance (สกิล Lv 5)"
+      ]
+     ]
+    },
+    {
+     "section": "Acolyte · Atonement",
+     "header": [
+      "สกิลที่สร้าง Atonement",
+      "สกิลที่ใช้ Atonement"
+     ],
+     "rows": [
+      [
+       "Smite / Radiant Burst Evolution A · Radiant Atonement (สกิล Lv 3) / Holy Lance Evolution A · Atoning Lance (สกิล Lv 5) / Soul Tether Evolution B · Penance (สกิล Lv 5) / Divine Chain Evolution A · Binding Light (สกิล Lv 5)",
+       "—"
+      ]
+     ]
+    },
+    {
+     "section": "Summoner · Soul Lantern",
+     "header": [
+      "สกิลที่สร้าง Soul Lantern",
+      "สกิลที่ใช้ Soul Lantern"
+     ],
+     "rows": [
+      [
+       "Reap / Soul Bolt Evolution B · Reaping Bolt (สกิล Lv 5) / Soul Surge Evolution B · Soul Spark (สกิล Lv 5) / Requiem Evolution B · Lingering Lantern (สกิล Lv 5)",
+       "Raise Dead / Legion Call / Soul Bolt / Requiem"
+      ]
+     ]
+    }
+   ],
+   "summary_text": null
+  },
+  {
+   "name": "Class Trait & Dash",
+   "slug": "classes",
+   "category": "system_page",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/systems/classes",
+   "source_title": "Class Trait & Dash · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Combat_Mechanics/classes.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "tables": [],
+   "summary_text": "เลือกอาชีพแรกทุกคนเริ่มเป็น Binder · Job Lv 10 และสกิล Binder ครบ = เลือกอาชีพแรกฟรีที่ครูฝึก / ปุ่มเปลี่ยนอาชีพบน HUDเปลี่ยนอาชีพทีหลัง50,000 G · กลับไปอาชีพที่เคยเล่น 25,000 G · เลเวลอาชีพ / สกิลของอาชีพเดิมเก็บไว้ครบ · แต้มสเตตัสใช้ร่วมกัน · อุปกรณ์ถอดเข้ากระเป๋าBuild หลายชุดแต่ละอาชีพมีช่อง Build ฟรี 2 ช่อง (ซื้อเพิ่มอีก 1 ช่อง 10,000,000 G) — เก็บสกิล · Evolution · สเตตัส · อุปกรณ์ · การ์ด · สลับได้ฟรีในเมืองกลไกอาชีพRage · Combo · Mark · Chill ฯลฯ — [อ่าน](/systems/class-resources)\n\n[**Binder** กายภาพ · ประชิด](/job/novice) [**Knight** แทงก์ · กายภาพ · ประชิด](/job/knight) [**Warrior** นักรบตีหมู่ · กายภาพ · ประชิด](/job/warrior) [**Scout** ยิงไกล · กายภาพ · ระยะไกล](/job/scout) [**Rogue** แอสซาซิน · กายภาพ · ประชิด](/job/rogue) [**Mage** จอมเวท AoE · เวท · ระยะไกล](/job/mage) [**Acolyte** ฮีลเลอร์ / ซัพพอร์ต · เวท · ประชิด](/job/acolyte) [**Summoner** Soul Reaper · เวท · ระยะไกล](/job/summoner)\n\nแต่ละหน้าอาชีพมีการ์ดกติกา Class Trait, กลไกอาชีพ และ Dash ครบ"
+  },
+  {
+   "name": "ลักษณะมอนของแต่ละแมพ",
+   "slug": "threats",
+   "category": "system_page",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/systems/threats",
+   "source_title": "ลักษณะมอนของแต่ละแมพ · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Combat_Mechanics/threats.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "tables": [
+    {
+     "section": "",
+     "header": [
+      "แมพ",
+      "มอนที่นับ",
+      "ลักษณะมอน",
+      "ธาตุ"
+     ],
+     "rows": [
+      [
+       "Southvale Field Lv 1–4",
+       "70",
+       "ต้านเวท 39%",
+       "แพ้ Fire 47% · แพ้ Earth 36% · ต้าน Earth 47% · ต้าน Storm 36%"
+      ],
+      [
+       "Whispering Woods Lv 4–9",
+       "76",
+       "ต้านเวท 36% · ยิงไกล 36%",
+       "แพ้ Earth 41% · แพ้ Shadow 36% · ต้าน Storm 41% · ต้าน Holy 36%"
+      ],
+      [
+       "Bloomcrown Glade Lv 6–9",
+       "16",
+       "ต้านเวท 25% · ยิงไกล 25% · เข้ามาตีก่อน 25% · ซุ่มรอ 25%",
+       "แพ้ Earth 50% · แพ้ Fire 25% · แพ้ Shadow 25% · ต้าน Storm 50% · ต้าน Frost 25% · ต้าน Holy 25%"
+      ],
+      [
+       "Riverside Lv 6–12",
+       "81",
+       "ต้านเวท 41% · ยิงไกล 41% · เกราะหนา 33%",
+       "แพ้ Shadow 41% · แพ้ Storm 33% · แพ้ Earth 26% · ต้าน Holy 41% · ต้าน Frost 32% · ต้าน Storm 26%"
+      ],
+      [
+       "Old Quarry Lv 10–16",
+       "66",
+       "เกราะหนา 33%",
+       "แพ้ Earth 64% · แพ้ Frost 33% · ต้าน Storm 64% · ต้าน Fire 33%"
+      ],
+      [
+       "Ancient Ruins Lv 14–20",
+       "74",
+       "ต้านเวท 100% · ยิงไกล 96%",
+       "แพ้ Shadow 96% · ต้าน Holy 96%"
+      ],
+      [
+       "Honeyrill Lv 3–8",
+       "83",
+       "ต้านเวท 28% · ยิงไกล 28%",
+       "แพ้ Fire 37% · แพ้ Earth 34% · แพ้ Shadow 28% · ต้าน Earth 39% · ต้าน Storm 34% · ต้าน Holy 28%"
+      ],
+      [
+       "Bracken Sink Lv 9–15",
+       "88",
+       "เข้ามาตีก่อน 32% · ซุ่มรอ 31%",
+       "แพ้ Earth 55% · แพ้ Fire 31% · ต้าน Storm 55% · ต้าน Frost 44%"
+      ],
+      [
+       "Verdigris Rise Lv 14–20",
+       "76",
+       "เข้ามาตีก่อน 38% · ฝูง · เรียกพวก 37% · ต้านเวท 33% · ยิงไกล 33% · เกราะหนา 30%",
+       "แพ้ Fire 37% · แพ้ Shadow 33% · แพ้ Frost 29% · ต้าน Shadow 37% · ต้าน Holy 33% · ต้าน Fire 29%"
+      ],
+      [
+       "Sunfield Plains Lv 18–24",
+       "103",
+       "เข้ามาตีก่อน 36% · ฝูง · เรียกพวก 35%",
+       "แพ้ Fire 67% · แพ้ Earth 32% · ต้าน Shadow 35% · ต้าน Earth 33% · ต้าน Storm 32%"
+      ],
+      [
+       "Gloomroot Forest Lv 24–30",
+       "83",
+       "ร่ายท่า 45% · ฮีลกันเอง 37% · เข้ามาตีก่อน 34% · ซุ่มรอ 33% · ต้านเวท 29% · ยิงไกล 29%",
+       "แพ้ Fire 70% · แพ้ Shadow 29% · ต้าน Earth 39% · ต้าน Frost 33% · ต้าน Holy 29%"
+      ],
+      [
+       "Ember Hollow Lv 28–36",
+       "98",
+       "เข้ามาตีก่อน 51% · ฝูง · เรียกพวก 50% · ร่ายท่า 49% · ต้านเวท 27% · ยิงไกล 27%",
+       "แพ้ Fire 50% · แพ้ Shadow 27% · ต้าน Shadow 50% · ต้าน Holy 27%"
+      ],
+      [
+       "Cinder Eyrie Lv 32–36",
+       "20",
+       "ฝูง · เรียกพวก 60% · เข้ามาตีก่อน 60% · ร่ายท่า 40%",
+       "แพ้ Fire 60% · ต้าน Shadow 60%"
+      ],
+      [
+       "Mistmire Swamp Lv 34–40",
+       "57",
+       "ร่ายท่า 65% · ต้านเวท 40% · ยิงไกล 40% · เกราะหนา 33% · เข้ามาตีก่อน 26%",
+       "แพ้ Shadow 40% · แพ้ Storm 33% · แพ้ Frost 26% · ต้าน Holy 40% · ต้าน Frost 33% · ต้าน Earth 26%"
+      ],
+      [
+       "Lotus Hollow Lv 37–40",
+       "16",
+       "ร่ายท่า 75% · ต้านเวท 50% · ยิงไกล 50% · เกราะหนา 25% · เข้ามาตีก่อน 25% · ซุ่มรอ 25%",
+       "แพ้ Shadow 50% · แพ้ Frost 25% · แพ้ Storm 25% · ต้าน Holy 50% · ต้าน Frost 25% · ต้าน Earth 25%"
+      ],
+      [
+       "Duskgate Pass Lv 40–45",
+       "90",
+       "ร่ายท่า 99%",
+       "แพ้ Earth 99% · ต้าน Storm 99%"
+      ],
+      [
+       "Frostpeak Slopes Lv 45–52",
+       "103",
+       "ร่ายท่า 53% · เข้ามาตีก่อน 47% · ฝูง · เรียกพวก 46%",
+       "แพ้ Fire 46% · แพ้ Earth 30% · ต้าน Shadow 46% · ต้าน Storm 30%"
+      ],
+      [
+       "Frozen Mere Lv 52–58",
+       "99",
+       "เข้ามาตีก่อน 69% · ฝูง · เรียกพวก 42% · ต้านเวท 31% · ยิงไกล 31% · ร่ายท่า 31% · เกราะหนา 25%",
+       "แพ้ Fire 42% · แพ้ Shadow 31% · แพ้ Storm 25% · ต้าน Shadow 42% · ต้าน Holy 31% · ต้าน Frost 25%"
+      ],
+      [
+       "Aurora Hollow Lv 55–58",
+       "22",
+       "เข้ามาตีก่อน 82% · ฝูง · เรียกพวก 64%",
+       "แพ้ Fire 64% · ต้าน Shadow 64%"
+      ],
+      [
+       "Howling Steppes Lv 58–64",
+       "119",
+       "ฝูง · เรียกพวก 72% · เข้ามาตีก่อน 70% · ร่ายท่า 58% · ต้านเวท 28% · ยิงไกล 28%",
+       "แพ้ Fire 42% · แพ้ Earth 30% · แพ้ Shadow 28% · ต้าน Shadow 42% · ต้าน Storm 30% · ต้าน Holy 28%"
+      ],
+      [
+       "Cloudspire Ruins Lv 64–70",
+       "79",
+       "เข้ามาตีก่อน 100% · ต้านเวท 99% · ร่ายท่า 97% · ฝูง · เรียกพวก 97%",
+       "แพ้ Shadow 97% · ต้าน Holy 97%"
+      ],
+      [
+       "Tempest Aerie Lv 67–70",
+       "16",
+       "ต้านเวท 100% · ร่ายท่า 100% · ฝูง · เรียกพวก 100% · เข้ามาตีก่อน 100%",
+       "แพ้ Shadow 100% · ต้าน Holy 100%"
+      ],
+      [
+       "Shattered Vale Lv 70–80",
+       "83",
+       "เข้ามาตีก่อน 66% · ร่ายท่า 61% · ฮีลกันเอง 36% · ฝูง · เรียกพวก 36% · ต้านเวท 35% · ยิงไกล 34% · ซุ่มรอ 28%",
+       "แพ้ Fire 64% · แพ้ Shadow 34% · ต้าน Earth 37% · ต้าน Holy 34% · ต้าน Frost 28%"
+      ],
+      [
+       "Opalweb Grotto Lv 75–80",
+       "16",
+       "เข้ามาตีก่อน 75% · ร่ายท่า 50% · ฮีลกันเอง 50% · ฝูง · เรียกพวก 50% · ต้านเวท 25% · ยิงไกล 25% · ซุ่มรอ 25%",
+       "แพ้ Fire 75% · แพ้ Shadow 25% · ต้าน Earth 50% · ต้าน Frost 25% · ต้าน Holy 25%"
+      ],
+      [
+       "Umbral Depths Lv 80–90",
+       "110",
+       "เข้ามาตีก่อน 100% · ร่ายท่า 98% · ต้านเวท 47% · ยิงไกล 46% · ฝูง · เรียกพวก 46%",
+       "แพ้ Earth 52% · แพ้ Shadow 46% · ต้าน Storm 52% · ต้าน Holy 46%"
+      ],
+      [
+       "Throne of the Warden Lv 90–99",
+       "54",
+       "เข้ามาตีก่อน 100% · ร่ายท่า 98% · ฝูง · เรียกพวก 63% · ต้านเวท 37% · ยิงไกล 35%",
+       "แพ้ Earth 63% · แพ้ Shadow 35% · ต้าน Storm 63% · ต้าน Holy 35%"
+      ],
+      [
+       "Warden's Seat Lv 94–99",
+       "24",
+       "ร่ายท่า 100% · เข้ามาตีก่อน 100% · ต้านเวท 50% · ยิงไกล 50% · ฝูง · เรียกพวก 50%",
+       "แพ้ Shadow 50% · แพ้ Earth 50% · ต้าน Storm 50% · ต้าน Holy 50%"
+      ],
+      [
+       "Pitchwood Lv 24–30",
+       "77",
+       "ร่ายท่า 52% · ฮีลกันเอง 44% · เข้ามาตีก่อน 36% · ซุ่มรอ 35%",
+       "แพ้ Fire 79% · ต้าน Earth 45% · ต้าน Frost 35%"
+      ],
+      [
+       "Yellowlick Flats Lv 30–36",
+       "93",
+       "ร่ายท่า 42% · ต้านเวท 29% · ยิงไกล 29%",
+       "แพ้ Earth 57% · แพ้ Shadow 29% · ต้าน Storm 57% · ต้าน Holy 29%"
+      ],
+      [
+       "Peatcut Bog Lv 36–42",
+       "60",
+       "ร่ายท่า 62% · เข้ามาตีก่อน 38% · เกราะหนา 37% · ซุ่มรอ 37% · ต้านเวท 25% · ยิงไกล 25%",
+       "แพ้ Frost 38% · แพ้ Storm 37% · แพ้ Shadow 25% · ต้าน Earth 38% · ต้าน Frost 37% · ต้าน Holy 25%"
+      ],
+      [
+       "Sledrun Gully Lv 47–53",
+       "98",
+       "ร่ายท่า 61% · เข้ามาตีก่อน 39% · ฝูง · เรียกพวก 38%",
+       "แพ้ Earth 50% · แพ้ Fire 38% · ต้าน Storm 50% · ต้าน Shadow 38%"
+      ],
+      [
+       "Brinecrust Shoals Lv 54–60",
+       "69",
+       "เข้ามาตีก่อน 62% · ร่ายท่า 61% · ต้านเวท 41% · ยิงไกล 41% · เกราะหนา 38%",
+       "แพ้ Shadow 41% · แพ้ Storm 39% · ต้าน Holy 41% · ต้าน Frost 38%"
+      ],
+      [
+       "Kitewind Terraces Lv 64–70",
+       "106",
+       "ร่ายท่า 99% · เข้ามาตีก่อน 72% · ฝูง · เรียกพวก 45% · ต้านเวท 26% · ยิงไกล 25%",
+       "แพ้ Earth 74% · แพ้ Shadow 25% · ต้าน Storm 74% · ต้าน Holy 25%"
+      ],
+      [
+       "Glasswrack Lv 72–80",
+       "79",
+       "ร่ายท่า 52% · เข้ามาตีก่อน 48% · ฮีลกันเอง 33%",
+       "แพ้ Earth 52% · แพ้ Fire 33% · ต้าน Storm 52% · ต้าน Earth 34%"
+      ],
+      [
+       "Marrowdeep Lv 82–90",
+       "99",
+       "ร่ายท่า 99% · เข้ามาตีก่อน 43% · ฝูง · เรียกพวก 25% · ซุ่มรอ 25%",
+       "แพ้ Earth 57% · แพ้ Frost 25% · ต้าน Storm 57% · ต้าน Earth 25%"
+      ],
+      [
+       "Rustbell Barracks Lv 92–99",
+       "93",
+       "ฝูง · เรียกพวก 65% · ต้านเวท 51% · เข้ามาตีก่อน 51%",
+       "แพ้ Fire 49% · แพ้ Holy 35% · ต้าน Shadow 85%"
+      ],
+      [
+       "Wreckwake Coast Lv 99–102",
+       "110",
+       "ร่ายท่า 98% · เข้ามาตีก่อน 61% · ต้านเวท 40% · ยิงไกล 35% · ฝูง · เรียกพวก 35%",
+       "แพ้ Holy 40% · แพ้ Earth 35% · ต้าน Shadow 40% · ต้าน Storm 35%"
+      ],
+      [
+       "Lanternrice Delta Lv 101–104",
+       "138",
+       "ฝูง · เรียกพวก 99% · เข้ามาตีก่อน 46% · ร่ายท่า 45% · ยิงไกล 32%",
+       "แพ้ Earth 86% · ต้าน Storm 86%"
+      ],
+      [
+       "Coralstep Plateau Lv 103–106",
+       "85",
+       "เข้ามาตีก่อน 79% · ต้านเวท 64% · ร่ายท่า 55% · เกราะหนา 35% · ฝูง · เรียกพวก 34%",
+       "แพ้ Holy 42% · แพ้ Frost 35% · ต้าน Shadow 42% · ต้าน Fire 34%"
+      ],
+      [
+       "Drowned Forum Lv 105–108",
+       "101",
+       "ร่ายท่า 98% · ต้านเวท 59% · เข้ามาตีก่อน 54% · ฝูง · เรียกพวก 35%",
+       "แพ้ Holy 82% · ต้าน Shadow 82%"
+      ],
+      [
+       "Stormrail Causeway Lv 107–110",
+       "130",
+       "ร่ายท่า 98% · เข้ามาตีก่อน 87% · ฝูง · เรียกพวก 52% · ต้านเวท 48% · ยิงไกล 35%",
+       "แพ้ Earth 52% · แพ้ Shadow 35% · ต้าน Storm 52% · ต้าน Holy 35%"
+      ],
+      [
+       "Shellforge Basin Lv 110–113",
+       "124",
+       "ร่ายท่า 98% · เข้ามาตีก่อน 52% · เกราะหนา 44%",
+       "แพ้ Earth 34% · แพ้ Frost 29% · ต้าน Storm 34% · ต้าน Fire 29%"
+      ]
+     ]
+    }
+   ],
+   "summary_text": null
+  }
+ ]
+}

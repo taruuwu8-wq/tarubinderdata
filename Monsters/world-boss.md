@@ -1,0 +1,31 @@
+# World Boss
+
+> **Source:** https://wiki.bindertowngame.com/systems/world-boss  
+> **Source title:** World Boss · Binder Town Wiki  
+> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Raw original:** [systems__world-boss.md](../Raw/Original_Wiki_Pages/systems/systems__world-boss.md)
+
+
+
+
+<!-- PATCH-NOTICES:START -->
+> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+>
+> - #36: การ์ด World Boss ไม่ต้องเปิดซอง
+<!-- PATCH-NOTICES:END -->
+
+---
+
+## ตอบให้ก่อน
+
+มาเมื่อไรทุกวัน 12:30 และ 19:30 น. (เวลาไทย) · ประตูเปิดก่อนเวลา · อยู่ 20 นาที · ตายหรือหมดเวลา = รอรอบถัดไปเข้ายังไงปุ่ม World Boss ใต้นาฬิกาบน HUD (ตอนใกล้เวลา) → วาร์ปฟรีจากแมพไหนก็ได้ · ออกทางเดิม = กลับแมพที่มาต้องทำอะไรตีให้ได้ดาเมจถึงเกณฑ์ (12% ของคนที่ตีน้อยสุดที่ยังได้รางวัล) · Grave Lanterns: โคมวิญญาณ Grave Lanterns ลอยขึ้นรอบบอส — เดินไปเหยียบก่อนมันดับ คนเหยียบได้ฮีล 12% ของ HP สูงสุด · ปล่อยให้ดับ มันระเบิดใส่ทุกคนดวงละ 5%ตายได้ไหมตายแล้วลุกที่เดิมฟรีในห้องบอสรางวัลส่งทางจดหมายถึงทุกคนที่ถึงเกณฑ์ · EXP 250 ตัว · Gold 10 นาทีของการฟาร์ม · เพชร · [เหรียญวิญญาณ](../Cards/spirit_coin.md) · [ชุดซ่อม](../Items/Materials/repair_kit.md) · โอกาสได้ Unique 1% (Top 10 3%)
+
+## รางวัลตามอันดับ
+
+- Top 10: Gold ~20 นาที · เพชร 2 · Spirit Coin 7 · Repair Kit 2 · Hone Stone 3 · Unique 3% · Card 0.6%
+- Top 100: Gold ~15 นาที · เพชร 1.5 · Spirit Coin 6 · Repair Kit 1 · Hone Stone 2 · Unique 1.5% · Card 0.3%
+- ผู้ร่วมสู้: Gold ~10 นาที · เพชร 1 · Spirit Coin 5 · Repair Kit 1 · Hone Stone 1 · Unique 1% · Card 0.2%
+
+## ต่อไป
+
+[**Unique**](../Blacksmith/uniques.md) [**บอสทั้งหมด**](bosses.md) [**Rootfall Barrow**](../Maps/rootfall_barrow.md)

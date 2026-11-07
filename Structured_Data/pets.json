@@ -1,0 +1,1759 @@
+{
+ "_about": "All 31 pets from /systems/pets (rarity + bonus text). Legendary/Epic have detail-page data; Rare/Common are listing_table_only by user scope.",
+ "count": 31,
+ "records": [
+  {
+   "name": "Acorn",
+   "slug": "acorn_squirrel",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/acorn_squirrel",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Acorn Squirrel กระรอกลูกโอ๊ก · ATK +9",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Aurora Kitsune Kit",
+   "slug": "aurora_kitsune",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/mage",
+    "/job/summoner",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/aurora_kitsune",
+   "source_title": "Aurora Kitsune Kit · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/aurora_kitsune.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรMATK +8% · Max MP +105 — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Mage](/job/mage) [Summoner](/job/summoner) (แนะนำตามสเตตัสของอาชีพ) · สายเวท (MATK) · MP / ร่ายสกิลบ่อยได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Aurora Kitsune Kit ลูกจิ้งจอกออโรร่า · MATK +8% · Max MP +105",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Strawberry",
+   "slug": "berry_hamster",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/berry_hamster",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Strawberry Hamster แฮมสเตอร์สตรอว์เบอร์รี่ · Heal Power +60",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Berry",
+   "slug": "berry_hedgehog",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/berry_hedgehog",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Berry Hedgehog เม่นเบอร์รี่ · ATK +6 · MATK +6",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Biscuit",
+   "slug": "biscuit_pup",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/biscuit_pup",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Biscuit Pup ลูกหมาบิสกิต · Max HP +45",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Calico",
+   "slug": "calico_kitten",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/calico_kitten",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Calico Kitten ลูกแมวสามสี · HIT +3",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Celestial Qilin Cub",
+   "slug": "celestial_qilin",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/acolyte",
+    "/job/knight",
+    "/job/mage",
+    "/job/rogue",
+    "/job/scout",
+    "/job/summoner",
+    "/job/warrior",
+    "/pet/aurora_kitsune",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/celestial_qilin",
+   "source_title": "Celestial Qilin Cub · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/celestial_qilin.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรATK +6% · MATK +6% · Max HP +5% — เมื่อเลือกเป็นโบนัส · 3 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Knight](/job/knight) [Warrior](/job/warrior) [Scout](/job/scout) [Rogue](/job/rogue) [Mage](/job/mage) [Acolyte](/job/acolyte) [Summoner](/job/summoner) (แนะนำตามสเตตัสของอาชีพ) · สายกายภาพ (ATK) · สายเวท (MATK) · ถึก (HP / DEF)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Celestial Qilin Cub ลูกกิเลนสวรรค์ · ATK +6% · MATK +6% · Max HP +5%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Cinderhorn Drakeling",
+   "slug": "cinderhorn_drakeling",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/knight",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/cinderhorn_drakeling",
+   "source_title": "Cinderhorn Drakeling · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/cinderhorn_drakeling.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรเจาะเกราะ +10% · Max HP +5% — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Knight](/job/knight) (แนะนำตามสเตตัสของอาชีพ) · สายกายภาพ (ATK) · ถึก (HP / DEF)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Cinderhorn Drakeling ลูกมังกรเขาถ่าน · เจาะเกราะ +10% · Max HP +5%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Clover",
+   "slug": "clover_frog",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/clover_frog",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Clover Frog กบใบโคลเวอร์ · MATK +9",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Cotton",
+   "slug": "cotton_lamb",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/cotton_lamb",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Cotton Lamb ลูกแกะปุยฝ้าย · DEF +9",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Ember Phoenix Chick",
+   "slug": "ember_phoenix",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/knight",
+    "/job/rogue",
+    "/job/scout",
+    "/job/warrior",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/ember_phoenix",
+   "source_title": "Ember Phoenix Chick · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/ember_phoenix.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรATK +8% · Crit Damage +10% — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Knight](/job/knight) [Warrior](/job/warrior) [Scout](/job/scout) [Rogue](/job/rogue) (แนะนำตามสเตตัสของอาชีพ) · สายกายภาพ (ATK)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Ember Phoenix Chick ลูกนกฟีนิกซ์เปลวเพลิง · ATK +8% · Crit Damage +10%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Hallow Witch Cat",
+   "slug": "hallow_witch_cat",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/hallow_witch_cat",
+   "source_title": "Hallow Witch Cat · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/hallow_witch_cat.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรATK +5% · MATK +5% · HP regen/วิ +12 — เมื่อเลือกเป็นโบนัส · 3 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับสายกายภาพ (ATK) · สายเวท (MATK) · ถึก (HP / DEF)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"จำกัดเวลาสุ่ม / แลกได้ถึง 2026-11-13 — คนที่มีแล้วเก็บไว้ตลอด",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Hallow Witch Cat แมวแม่มดฮาโลวีน · ATK +5% · MATK +5% · HP regen/วิ +12",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Honey",
+   "slug": "honey_bear",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/honey_bear",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Honey Bear Cub ลูกหมีน้ำผึ้ง · DEF +18",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Hourglass Fennec",
+   "slug": "hourglass_fennec",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/hourglass_fennec",
+   "source_title": "Hourglass Fennec · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/hourglass_fennec.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรลด Cooldown +10% · Max MP +105 — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับMP / ร่ายสกิลบ่อยได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Hourglass Fennec เฟนเนกนาฬิกาทราย · ลด Cooldown +10% · Max MP +105",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Inkwell Owl",
+   "slug": "inkwell_owl",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/acolyte",
+    "/job/mage",
+    "/job/summoner",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/inkwell_owl",
+   "source_title": "Inkwell Owl · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/inkwell_owl.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรSpell Amp +5% · MATK +5% — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Mage](/job/mage) [Acolyte](/job/acolyte) [Summoner](/job/summoner) (แนะนำตามสเตตัสของอาชีพ) · สายเวท (MATK)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Inkwell Owl นกฮูกหมึกดาว · Spell Amp +5% · MATK +5%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Ironhorn Beetle",
+   "slug": "ironhorn_beetle",
+   "category": "pet",
+   "tier": "Epic",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/mossrune_golem",
+    "/pet/runeglass_moth",
+    "/pet/starlight_fawn",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/ironhorn_beetle",
+   "source_title": "Ironhorn Beetle · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/ironhorn_beetle.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรเจาะเกราะ +6% — เมื่อเลือกเป็นโบนัส · 1 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับสายกายภาพ (ATK)ได้มายังไง**ตู้เพชร** 2.125% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 60 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "2.125% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 47 ครั้ง (1,175 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 114 ครั้ง (4,560,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "60 เหรียญ",
+       "ตัวซ้ำระดับ Epic ให้ 10 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Starlight Fawn",
+       "ATK +4% · MATK +4%"
+      ],
+      [
+       "Mossrune Golemlet",
+       "Max HP +5%"
+      ],
+      [
+       "Runeglass Moth",
+       "Spell Amp +3%"
+      ],
+      [
+       "Ironhorn Beetle",
+       "เจาะเกราะ +6%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Ironhorn Beetle ด้วงเขาเหล็ก · เจาะเกราะ +6%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Knight",
+   "slug": "knight_corgi",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/knight_corgi",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Knight Corgi คอร์กี้อัศวิน · ATK +3%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Lantern",
+   "slug": "lantern_axolotl",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/lantern_axolotl",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Lantern Axolotl แอกโซลอเติลโคมไฟ · MATK +3%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Maple",
+   "slug": "maple_red_panda",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/maple_red_panda",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Maple Red Panda แพนด้าแดงเมเปิล · ATK +2% · MATK +2%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Mochi",
+   "slug": "mochi_bunny",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/mochi_bunny",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Mochi Bunny กระต่ายโมจิ · Heal Power +30",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Moonlit Unicorn Foal",
+   "slug": "moonlit_unicorn",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/stormkite_falcon",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/moonlit_unicorn",
+   "source_title": "Moonlit Unicorn Foal · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/moonlit_unicorn.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรHeal Power +120 · Max MP +105 — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับสายฮีล (Heal Power) · MP / ร่ายสกิลบ่อยได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Moonlit Unicorn Foal ลูกยูนิคอร์นแสงจันทร์ · Heal Power +120 · Max MP +105",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Mossrune Golemlet",
+   "slug": "mossrune_golem",
+   "category": "pet",
+   "tier": "Epic",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/ironhorn_beetle",
+    "/pet/runeglass_moth",
+    "/pet/starlight_fawn",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/mossrune_golem",
+   "source_title": "Mossrune Golemlet · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/mossrune_golem.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรMax HP +5% — เมื่อเลือกเป็นโบนัส · 1 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับถึก (HP / DEF)ได้มายังไง**ตู้เพชร** 2.125% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 60 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "2.125% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 47 ครั้ง (1,175 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 114 ครั้ง (4,560,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "60 เหรียญ",
+       "ตัวซ้ำระดับ Epic ให้ 10 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Starlight Fawn",
+       "ATK +4% · MATK +4%"
+      ],
+      [
+       "Mossrune Golemlet",
+       "Max HP +5%"
+      ],
+      [
+       "Runeglass Moth",
+       "Spell Amp +3%"
+      ],
+      [
+       "Ironhorn Beetle",
+       "เจาะเกราะ +6%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Mossrune Golemlet โกเลมจิ๋วมอสรูน · Max HP +5%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Puddle",
+   "slug": "puddle_duckling",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/puddle_duckling",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Puddle Duckling ลูกเป็ดน้อย · Max MP +24",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Runeglass Moth",
+   "slug": "runeglass_moth",
+   "category": "pet",
+   "tier": "Epic",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/ironhorn_beetle",
+    "/pet/mossrune_golem",
+    "/pet/starlight_fawn",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/runeglass_moth",
+   "source_title": "Runeglass Moth · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/runeglass_moth.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรSpell Amp +3% — เมื่อเลือกเป็นโบนัส · 1 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับสายเวท (MATK)ได้มายังไง**ตู้เพชร** 2.125% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 60 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "2.125% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 47 ครั้ง (1,175 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 114 ครั้ง (4,560,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "60 เหรียญ",
+       "ตัวซ้ำระดับ Epic ให้ 10 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Starlight Fawn",
+       "ATK +4% · MATK +4%"
+      ],
+      [
+       "Mossrune Golemlet",
+       "Max HP +5%"
+      ],
+      [
+       "Runeglass Moth",
+       "Spell Amp +3%"
+      ],
+      [
+       "Ironhorn Beetle",
+       "เจาะเกราะ +6%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Runeglass Moth มอธปีกแก้วรูน · Spell Amp +3%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Scarf",
+   "slug": "scarf_penguin",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/scarf_penguin",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Scarf Penguin เพนกวินผ้าพันคอ · Max MP +45",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Scholar",
+   "slug": "scholar_owlet",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/scholar_owlet",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Scholar Owlet นกฮูกนักปราชญ์ · HIT +6",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Starlight Fawn",
+   "slug": "starlight_fawn",
+   "category": "pet",
+   "tier": "Epic",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/pet/ironhorn_beetle",
+    "/pet/mossrune_golem",
+    "/pet/runeglass_moth",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/starlight_fawn",
+   "source_title": "Starlight Fawn · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/starlight_fawn.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรATK +4% · MATK +4% — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับสายกายภาพ (ATK) · สายเวท (MATK)ได้มายังไง**ตู้เพชร** 2.125% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 60 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "2.125% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 47 ครั้ง (1,175 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.875% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 114 ครั้ง (4,560,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "60 เหรียญ",
+       "ตัวซ้ำระดับ Epic ให้ 10 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Starlight Fawn",
+       "ATK +4% · MATK +4%"
+      ],
+      [
+       "Mossrune Golemlet",
+       "Max HP +5%"
+      ],
+      [
+       "Runeglass Moth",
+       "Spell Amp +3%"
+      ],
+      [
+       "Ironhorn Beetle",
+       "เจาะเกราะ +6%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Starlight Fawn ลูกกวางแสงดาว · ATK +4% · MATK +4%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Stormkite Falcon",
+   "slug": "stormkite_falcon",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/rogue",
+    "/job/scout",
+    "/job/warrior",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/tidepearl_turtle",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/stormkite_falcon",
+   "source_title": "Stormkite Falcon · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/stormkite_falcon.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรความเร็วโจมตี +10% · ATK +5% — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Warrior](/job/warrior) [Scout](/job/scout) [Rogue](/job/rogue) (แนะนำตามสเตตัสของอาชีพ) · สายกายภาพ (ATK)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Stormkite Falcon เหยี่ยวว่าวพายุ · ความเร็วโจมตี +10% · ATK +5%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Tidepearl Turtle",
+   "slug": "tidepearl_turtle",
+   "category": "pet",
+   "tier": "Legendary",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/job/acolyte",
+    "/pet/aurora_kitsune",
+    "/pet/celestial_qilin",
+    "/pet/cinderhorn_drakeling",
+    "/pet/ember_phoenix",
+    "/pet/hallow_witch_cat",
+    "/pet/hourglass_fennec",
+    "/pet/inkwell_owl",
+    "/pet/moonlit_unicorn",
+    "/pet/stormkite_falcon",
+    "/systems/pets"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/pet/tidepearl_turtle",
+   "source_title": "Tidepearl Turtle · Binder Town Wiki",
+   "last_crawled": "2026-11-07",
+   "kb_file": "Pets/tidepearl_turtle.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ให้อะไรMax HP +10% · DEF +42 — เมื่อเลือกเป็นโบนัส · 2 บรรทัด · ใช้ได้เฉพาะตอนสู้มอนเหมาะกับอาชีพ [Acolyte](/job/acolyte) (แนะนำตามสเตตัสของอาชีพ) · ถึก (HP / DEF)ได้มายังไง**ตู้เพชร** 0.1% ต่อครั้ง · 25 เพชร / ครั้ง\n\n**ตู้ Gold** 0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง\n\n**แลกด้วย Pet Token** 250 เหรียญอัปเลเวล / ดาวไม่มี — โบนัสคงที่ตามตารางตีมอน / เก็บของไม่ — เดินตามและให้โบนัสอย่างเดียวใช้ยังไงหน้าต่าง Pet (Lv 10+) → กดตัวนี้ → \"ใช้โบนัสตัวนี้\" / \"ให้เดินตาม\"",
+   "tables": [
+    {
+     "section": "โอกาสได้ & ใช้กี่ครั้ง (เฉลี่ย ไม่นับการันตี)",
+     "header": [
+      "ทาง",
+      "โอกาส / ราคา",
+      "เฉลี่ย"
+     ],
+     "rows": [
+      [
+       "ตู้เพชร",
+       "0.1% ต่อครั้ง · 25 เพชร / ครั้ง",
+       "ราว 1,000 ครั้ง (25,000 เพชร)"
+      ],
+      [
+       "ตู้ Gold",
+       "0.05% ต่อครั้ง · 40,000 G / ครั้ง · วันละ 10 ครั้ง",
+       "ราว 2,000 ครั้ง (80,000,000 G)"
+      ],
+      [
+       "แลกด้วย Pet Token",
+       "250 เหรียญ",
+       "ตัวซ้ำระดับ Legendary ให้ 50 เหรียญ"
+      ]
+     ]
+    },
+    {
+     "section": "เทียบกับตัวอื่นระดับเดียวกัน",
+     "header": [
+      "สัตว์",
+      "โบนัส"
+     ],
+     "rows": [
+      [
+       "Celestial Qilin Cub",
+       "ATK +6% · MATK +6% · Max HP +5%"
+      ],
+      [
+       "Hallow Witch Cat",
+       "ATK +5% · MATK +5% · HP regen/วิ +12"
+      ],
+      [
+       "Ember Phoenix Chick",
+       "ATK +8% · Crit Damage +10%"
+      ],
+      [
+       "Aurora Kitsune Kit",
+       "MATK +8% · Max MP +105"
+      ],
+      [
+       "Tidepearl Turtle",
+       "Max HP +10% · DEF +42"
+      ],
+      [
+       "Moonlit Unicorn Foal",
+       "Heal Power +120 · Max MP +105"
+      ],
+      [
+       "Inkwell Owl",
+       "Spell Amp +5% · MATK +5%"
+      ],
+      [
+       "Hourglass Fennec",
+       "ลด Cooldown +10% · Max MP +105"
+      ],
+      [
+       "Stormkite Falcon",
+       "ความเร็วโจมตี +10% · ATK +5%"
+      ],
+      [
+       "Cinderhorn Drakeling",
+       "เจาะเกราะ +10% · Max HP +5%"
+      ]
+     ]
+    }
+   ],
+   "listing_text": "Tidepearl Turtle ลูกเต่ามุกวารี · Max HP +10% · DEF +42",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Truffle",
+   "slug": "truffle_piglet",
+   "category": "pet",
+   "tier": "Common",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/truffle_piglet",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Truffle Piglet ลูกหมูทรัฟเฟิล · HP regen/วิ +3",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  },
+  {
+   "name": "Yuzu",
+   "slug": "yuzu_capybara",
+   "category": "pet",
+   "tier": "Rare",
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [],
+   "source_url": "https://wiki.bindertowngame.com/pet/yuzu_capybara",
+   "source_title": null,
+   "last_crawled": null,
+   "kb_file": null,
+   "verification_status": "WIKI",
+   "data_source": "listing_table_only",
+   "listing_text": "Yuzu Capybara คาปิบาร่ายูสุ · Max HP +3%",
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+  }
+ ]
+}

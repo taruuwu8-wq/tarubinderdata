@@ -1,0 +1,116 @@
+# เครื่องรางผู้คุมหุบเขา
+
+> **Source:** https://wiki.bindertowngame.com/item/charm_t10  
+> **Source title:** เครื่องรางผู้คุมหุบเขา · Binder Town Wiki  
+> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Raw original:** [item__charm_t10.md](../Raw/Original_Wiki_Pages/item/item__charm_t10.md)
+
+---
+
+## ตอบให้ก่อน
+
+หาที่ไหน[Vale Warden](../Monsters/vale_warden.md) · [Warden's Seat](../Maps/wardens_seat.md) 4.5%(ตีราว 22 ตัว)
+
+[Throne Guard](../Monsters/throne_guard.md) · [Throne of the Warden](../Maps/throne_of_warden.md) 0.27%(ตีราว 372 ตัว)
+
+[Umbral Horror](../Monsters/umbral_horror.md) · [Umbral Depths](../Maps/umbral_depths.md) 0.27%(ตีราว 372 ตัว)ขาย NPC ได้เท่าไรNormal51 G · Magic 128 G · Rare306 G · Epic816 G(ดัชนีเศรษฐกิจ ×1)ตีบวกถึง +5 ใช้เท่าไรเฉลี่ยราว 63,711 G \+ [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×6 \+ [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×6(รวมครั้งที่พลาด · ถึง +5 พลาดไม่ลดขั้น)ใครใส่ได้Lv 85\+ · ทุกอาชีพ
+
+## ค่าพลังของชิ้นนี้
+
+| ค่า | ตัวเลข |
+| --- | --- |
+| สเตตัส | +6 LUK |
+| โบนัส | +4% คริ |
+| ช่อง | เครื่องประดับ |
+| น้ำหนัก | 4 |
+
+ความหายากสุ่มตอนดรอป: Normal ไม่มี Affix · Magic 1–2 บรรทัด · Rare 3 · Epic 4
+
+## มอนที่ดรอปชิ้นนี้
+
+16 ชนิด เรียงจากโอกาสสูงสุด (กดดู)
+
+| มอน |  | อยู่ที่ | โอกาสต่อตัว | ตีกี่ตัวถึงได้ (ราว) |
+| --- | --- | --- | --- | --- |
+| [Vale Warden](../Monsters/vale_warden.md) | Field Boss | [Warden's Seat](../Maps/wardens_seat.md) | 4.5% | 22 ตัว |
+| [Throne Guard](../Monsters/throne_guard.md) | Elite | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.27% | 372 ตัว |
+| [Umbral Horror](../Monsters/umbral_horror.md) | Elite | [Umbral Depths](../Maps/umbral_depths.md) | 0.27% | 372 ตัว |
+| [Depth Brute](../Monsters/depth_brute.md) | Elite | [Umbral Depths](../Maps/umbral_depths.md) | 0.27% | 372 ตัว |
+| [Marrow Horror](../Monsters/marrow_horror.md) | Elite | [Marrowdeep](../Maps/marrowdeep.md) | 0.27% | 372 ตัว |
+| [Rust Captain](../Monsters/rust_captain.md) | Elite | [Rustbell Barracks](../Maps/rustbell_barracks.md) | 0.27% | 372 ตัว |
+| [Pit Lurker](../Monsters/pit_lurker.md) | ซุ่มโจมตี | [Marrowdeep](../Maps/marrowdeep.md) | 0.052% | 1,917 ตัว |
+| [Lantern Moth](../Monsters/lantern_moth.md) | ทั่วไป | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.031% | 3,194 ตัว |
+| [Gloom Skitter](../Monsters/gloom_skitter.md) | ทั่วไป | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.031% | 3,194 ตัว |
+| [Abyss Jelly](../Monsters/abyss_jelly.md) | ทั่วไป | [Umbral Depths](../Maps/umbral_depths.md) | 0.031% | 3,194 ตัว |
+| [Umbral Skitter](../Monsters/umbral_skitter.md) | ทั่วไป | [Umbral Depths](../Maps/umbral_depths.md) | 0.031% | 3,194 ตัว |
+| [Tallow Wisp](../Monsters/tallow_wisp.md) | ทั่วไป | [Marrowdeep](../Maps/marrowdeep.md) | 0.031% | 3,194 ตัว |
+| [Rust Remnant](../Monsters/rust_remnant.md) | ทั่วไป | [Rustbell Barracks](../Maps/rustbell_barracks.md) | 0.031% | 3,194 ตัว |
+| [Lamp Wisp](../Monsters/lamp_wisp.md) | ทั่วไป | [Rustbell Barracks](../Maps/rustbell_barracks.md) | 0.031% | 3,194 ตัว |
+| [Marrow Skitter](../Monsters/marrow_skitter.md) | ฝูง | [Marrowdeep](../Maps/marrowdeep.md) | 0.026% | 3,833 ตัว |
+| [Muster Hound](../Monsters/muster_hound.md) | ฝูง | [Rustbell Barracks](../Maps/rustbell_barracks.md) | 0.026% | 3,833 ตัว |
+
+## แหล่งอื่น
+
+- มอนเลเวล 85–115 ทุกชนิด
+
+## Affix ที่สุ่มได้บนชิ้นนี้
+
+อุปกรณ์ขั้น 10 (Lv 85) สุ่ม Affix ได้ถึง T7 · **Tier ของ Affix** (T1–T8) คนละเรื่องกับขั้นอุปกรณ์ · แต่ละบรรทัดสุ่ม Tier เอง: T8 3% · T7 46.4% · T6 24.5% · T5 12.9% · T4 6.8% · T3 3.6% · T2 1.9% · T1 1% · สูงสุด 2 Prefix \+ 3 Suffix
+
+### เหมาะกับผู้ใส่ชิ้นนี้ — ทุกสาย · 19 แบบ
+
+| Affix | Tier ของ Affix | ค่าที่สุ่มได้ | โชคดี +1 Tier |
+| --- | --- | --- | --- |
+| [Mythic Sovereign's](../Affixes/affix.md#bossbane) | T7 | **+28%–+34%** ดาเมจใส่ Boss (ไม่นับ Elite / Mini-boss) | T8 สูงสุด +37% |
+| [Mythic Slayer's](../Affixes/affix.md#atk) | T7 | **+66–+87** ATK | T8 สูงสุด +105 |
+| [Mythic Astral](../Affixes/affix.md#matk) | T7 | **+66–+87** MATK | T8 สูงสุด +105 |
+| [Mythic Ruinous](../Affixes/affix.md#critdmg) | T7 | **+19.5%–+25%** Crit DMG | T8 สูงสุด +27.5% |
+| [Mythic Overcharged](../Affixes/affix.md#spellamp) | T7 | **+6%–+8%** Spell Amp (ดาเมจสกิลเวท) | T8 สูงสุด +9% |
+| [Mythic Armorbane](../Affixes/affix.md#armorpen) | T7 | **+11%–+14%** เจาะเกราะ (ไม่สน DEF / MDEF มอน) | T8 สูงสุด +15% |
+| [Mythic Fated](../Affixes/affix.md#crit) | T7 | **+6%–+7%** CRIT | T8 สูงสุด +8% |
+| [Mythic Blurred](../Affixes/affix.md#aspd) | T7 | **+12%–+17%** สปีดตี | T8 สูงสุด +19% |
+| [Mythic Perfect](../Affixes/affix.md#hit) | T7 | **+24–+31** HIT | T8 สูงสุด +37 |
+| [Mythic Executioner's](../Affixes/affix.md#vsdebuff) | T7 | **+30%–+38%** ดาเมจใส่มอนที่ติดสตัน/ตรึง/สโลว์/มาร์ก | T8 สูงสุด +42% |
+| [Mythic Phantom](../Affixes/affix.md#opener) | T7 | **+43%–+55%** ดาเมจใส่มอนที่เลือดยังเกิน 90% | T8 สูงสุด +60% |
+| [Mythic Godly](../Affixes/affix.md#str) | T7 | **+10–+14** STR | T8 สูงสุด +17 |
+| [Mythic Prophetic](../Affixes/affix.md#int) | T7 | **+10–+14** INT | T8 สูงสุด +17 |
+| [Mythic Flawless](../Affixes/affix.md#dex) | T7 | **+10–+14** DEX | T8 สูงสุด +17 |
+| [of Mythic Time](../Affixes/affix.md#cdr) | T7 | **+7%–+8%** Skill CDR | T8 สูงสุด +9% |
+| [of Mythic Font](../Affixes/affix.md#manatide) | T7 | Mana Tide: MP ที่ใช้กับสกิลเวท **124%–162%** กลับเป็น HP (สูงสุด 7% ของ HP สูงสุด/วิ · ไม่มีผลตอนสู้ผู้เล่น) | T8 สูงสุด 178% |
+| [of Mythic Night Lord](../Affixes/affix.md#leech) | T7 | **+5%–+6%** ดูดเลือด (กายภาพ) | T8 สูงสุด +7% |
+| [of Mythic Undying](../Affixes/affix.md#desperate) | T7 | **+43%–+55%** ดาเมจตอนเลือดคุณต่ำกว่า 35% (รวมทุกชิ้นสูงสุด 75%) | T8 สูงสุด +60% |
+| [of Mythic Jackpot](../Affixes/affix.md#luk) | T7 | **+10–+14** LUK | T8 สูงสุด +17 |
+
+## ตีบวกชิ้นนี้
+
+ตีไปขั้น +1–+5, +11–+15 **พลาดไม่ลดขั้น** ตีไม่ติดก็อยู่ขั้นเดิม
+
+ตีไปขั้น +6–+10 **พลาดอาจลด 1 ขั้น** โอกาสลด **50%** · ใช้ Refine Ward กันได้
+
+ทุกครั้งที่พลาด **พลาดสะสม** ขั้นนั้นได้โอกาส **+4%** ครั้งถัดไป สูงสุด **×2** ของปกติ · ไม่สะสมขั้น **+11**– **+15**
+
+ตลอด **ไม่แตก** อุปกรณ์ไม่มีวันแตกจากการตีบวก · ค่า Gold ในตารางคิดที่ดัชนีเศรษฐกิจ **×1**
+
+ตาราง +1 – +15 (กดดู)
+
+| ตีไปขั้น | โอกาสติด | ตีเฉลี่ยกี่ครั้ง | พลาดแล้วลด | ATK% / MATK% | ค่าใช้ต่อการตี 1 ครั้ง |
+| --- | --- | --- | --- | --- | --- |
+| +1 | 100% | 1 ครั้ง | — | +1% | 1,800 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +2 | 100% | 1 ครั้ง | — | +2% | 5,091 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +3 | 100% | 1 ครั้ง | — | +2% | 9,353 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +4 | 80% | 1.2 ครั้ง | — | +3% | 14,400 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +5 | 65% | 1.5 ครั้ง | — | +4% | 20,125 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +6 | 50% | 1.9 ครั้ง | 50% | +5% | 26,454 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +7 | 42% | 2.2 ครั้ง | 50% | +6% | 33,336 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +8 | 34% | 2.5 ครั้ง | 50% | +6% | 40,729 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +9 | 28% | 2.9 ครั้ง | 50% | +7% | 48,600 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +10 | 22% | 3.4 ครั้ง | 50% | +8% | 56,921 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +11 | 4% | 25 ครั้ง | — | +9% | 78,803 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +12 | 3% | 33.3 ครั้ง | — | +11% | 104,754 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +13 | 2% | 50 ครั้ง | — | +12% | 134,992 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×3 |
+| +14 | 1.5% | 66.7 ครั้ง | — | +14% | 169,722 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×4 |
+| +15 | 1% | 100 ครั้ง | — | +15% | 209,141 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×4 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×5 |
+
+## ต่อไป
+
+[**แมพ Warden's Seat** Lv 94–99](../Maps/wardens_seat.md) [**แมพ Throne of the Warden** Lv 90–99](../Maps/throne_of_warden.md) [**แมพ Umbral Depths** Lv 80–90](../Maps/umbral_depths.md) [**ขั้นอื่นของ เครื่องราง**](../Items/_Listings/gear.md#charm) [**ตีบวก**](../Blacksmith/refine.md) [**Affix & Reroll**](../Affixes/affix.md) [**หมวด อุปกรณ์**](../Items/_Listings/gear.md)
