@@ -1,5 +1,7 @@
 # คลังการ์ดรวม 3 ไอดี (Binder Town Online)
 
+> **ข้อมูลหลักย้ายไปอยู่ที่หน้าเว็บ:** https://claude.ai/artifact/WATr8pLuf6PA81z5rzucAh (กดเพิ่ม/ย้ายการ์ดได้ · Claude อ่านข้อมูลจากหน้านี้ได้)
+>
 > ไฟล์นี้ใช้ติดตามการ์ดที่มีจริง · อัปเดตตามที่ผู้เล่นแจ้ง · ข้อมูลผลการ์ดดูจาก [Cards_and_Spirits.md](../Cards/Cards_and_Spirits.md) และหน้ามอนใน `Monsters/`
 
 ## ตัวละคร
@@ -36,7 +38,7 @@ Mire Elder · Shrine Firefly ×2 · Lamp Wisp ×2 · Mirror Merchant · Compass 
 
 ## ยืนยันจากในเกมแล้ว
 
-- Shrine Firefly, Lamp Wisp, Mirror Merchant เป็นการ์ดตามเวลา: กลางวัน ×0.85 · กลางคืน ×1.4 (wiki ระบุแค่ Wisp / Remnant / Horror / Lurker แต่ในเกม Mirror ก็โดนด้วย)
+- Shrine Firefly, Lamp Wisp, Mirror Merchant เป็นการ์ดตามเวลา: กลางวัน ×0.85 · กลางคืน ×1.4 (ตรงกับ wiki: Mirror Merchant เป็นสาย Horror จึงเป็นการ์ดกลางคืนด้วย)
 - Shrine + Lamp + Mirror ★5 = Gold 39.2% กลางวัน / 64.4% กลางคืน ✅
 - Shrine Firefly เป็นสาย Wisp → คู่กับ Lamp Wisp ติด Kin Will-o'-Chorus (MATK +5%) ✅
 
