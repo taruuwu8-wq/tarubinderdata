@@ -17,6 +17,7 @@ A file-based, source-traceable copy of the official **Binder Town Wiki** (https:
 | `Patch_Notes/` | The Wiki has no patch notes; official patches (e.g. Discord announcements) are added here as [PATCH], with notices in affected files |
 | [Structured_Data/](Structured_Data/) | JSON and CSV for lookups and filtering (see below) |
 | `Raw/Original_Wiki_Pages/` | Unmodified crawl output, one file per URL. Use it as the source of truth. |
+| `Raw/Snapshots/2026-11-08/` | Fresh fetch after the 2026-11-08 Wiki update (63 hubs + 119 new items). **Not merged yet**; the organized KB is still the 2026-11-07 crawl. |
 | [Sources/](Sources/) | URL manifest (2,284 URLs with crawl status), discovery report, cost estimate, failed URLs |
 | [CRAWL_REPORT.md](CRAWL_REPORT.md) · [DATA_COVERAGE.md](DATA_COVERAGE.md) | Crawl statistics; completeness audit and gaps |
 | `Tools/` `Progress/` | Scripts and crawl cache for resumable and incremental updates |
