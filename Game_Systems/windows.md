@@ -5,12 +5,13 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__windows.md](../Raw/Original_Wiki_Pages/systems/systems__windows.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
+> - #8: มินิแมพและ AUTO เห็นมอนครบทุกชนิด
+>
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #6: ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น
 > - #12: ซ่อนอุปกรณ์จากโปรไฟล์ได้ (แฟชั่นยังเห็น)
 <!-- PATCH-NOTICES:END -->

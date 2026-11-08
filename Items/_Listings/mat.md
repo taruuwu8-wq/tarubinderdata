@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [items__mat.md](../../Raw/Original_Wiki_Pages/items/items__mat.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md)**
 > - #8: ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน
 <!-- PATCH-NOTICES:END -->
 

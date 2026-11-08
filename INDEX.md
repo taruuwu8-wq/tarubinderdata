@@ -21,7 +21,7 @@ Categorized index of every organized file. Each file starts with its source URL.
 | [Blacksmith](#blacksmith) | 4 |
 | [Game_Systems](#game_systems) | 95 |
 | [Region_Sets](#region_sets) | 1 |
-| [Patch_Notes](#patch_notes) | 2 |
+| [Patch_Notes](#patch_notes) | 3 |
 
 ## Classes
 
@@ -143,7 +143,7 @@ Categorized index of every organized file. Each file starts with its source URL.
 
 ## Patch_Notes
 
-[Patch Notes](Patch_Notes/README.md) · [Patch notes — received 2026-11-07](Patch_Notes/patch_received_2026-11-07.md)
+[Patch Notes](Patch_Notes/README.md) · [Patch notes — 8 Nov 2026 (build 20261108-135133)](Patch_Notes/patch_2026-11-08_build-20261108-135133.md) · [Patch notes — received 2026-11-07](Patch_Notes/patch_received_2026-11-07.md)
 
 ## Structured data files
 
@@ -160,7 +160,7 @@ Categorized index of every organized file. Each file starts with its source URL.
 - [monster_equipment_drops.csv](Structured_Data/monster_equipment_drops.csv)
 - [monsters.json](Structured_Data/monsters.json) — 160 records. All 160 monsters (detail pages). matchups = bold label/value pairs from 'แพ้ทาง / ชนะทาง'. Drops/equipment-drop tables are under tables[].
 - [npcs.json](Structured_Data/npcs.json) — 71 records. All 71 NPCs.
-- [patch_notes.json](Structured_Data/patch_notes.json) — 36 records. Patch notes from the official Discord (admin post, copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison.
+- [patch_notes.json](Structured_Data/patch_notes.json) — 47 records. Patch notes from official game announcements (copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison. Later patches are newer than earlier ones.
 - [pets.json](Structured_Data/pets.json) — 31 records. All 31 pets from /systems/pets (rarity + bonus text). Legendary/Epic have detail-page data; Rare/Common are listing_table_only by user scope.
 - [region_sets.json](Structured_Data/region_sets.json) — 1 records. Region Set bonuses.
 - [skills.json](Structured_Data/skills.json) — 129 records. All 129 skills. classes = job pages that link the skill. per_level = 'ค่าตามเลเวลสกิล' table rows verbatim. Evolution/Breakpoint lines verbatim.

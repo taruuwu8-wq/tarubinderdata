@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [items__fashion.md](../../Raw/Original_Wiki_Pages/items/items__fashion.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md)**
 > - #7: แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28 — *CONFLICT-LIKELY: Wiki crawl (2026-11-07) lists 69 fashion items; the 106 new items are not in this knowledge base.*
 > - #9: พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว — *CONFLICT: Wiki states mount run speed '+15%'; patch states 50% (was 15%). Patch is newer.*
 <!-- PATCH-NOTICES:END -->

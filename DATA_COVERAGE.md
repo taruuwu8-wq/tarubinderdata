@@ -43,7 +43,7 @@
 | Consumables (`Items/Consumables/`) | 49 | 4 top-tier | ⚠️ Partial: all 49 effects are in the listing table; detail (sources, crafting) only for 4 |
 | Monster drops | 160 | 0 | ⚠️ Excluded by user (vendor items, empty effect column); drop chances are on each monster page |
 | Fashion (Cash) | 69 | 0 | ⚠️ Deferred; listing data only |
-| Patch notes (`Patch_Notes/`) | — | 1 user-provided patch (36 entries) | ⚠️ The Wiki has no patch-notes page. One patch was added from the official Discord admin announcement (copied by the user, 2026-11-07). 32 affected files carry a notice. |
+| Patch notes (`Patch_Notes/`) | — | 2 user-provided patches (47 entries) | ⚠️ The Wiki has no patch-notes page. 2 patches added (47 entries): official Discord admin announcement (received 2026-11-07) and update of 8 Nov 2026 (build 20261108-135133). 38 affected files carry a notice. |
 
 ## What "listing data only" contains
 
@@ -70,3 +70,4 @@ Missing for deferred items: drop sources and rates, crafting recipes, refine cos
 
 - **Wiki vs Wiki:** none. Listing and detail values agree for all compared fields.
 - **Wiki vs patch (received 2026-11-07):** mount speed (+15% on the Wiki vs 50% in the patch); Oathbound Band (patch adds MATK = ATK, INT = STR); fashion count (69 on the Wiki vs 106 new in the patch). Both versions are kept: Wiki text unchanged, patch in `Patch_Notes/`. See [Patch_Notes/patch_received_2026-11-07.md](Patch_Notes/patch_received_2026-11-07.md).
+- **Wiki vs patch (8 Nov 2026, build 20261108-135133):** PvP damage cap (Wiki: ≤40% max HP per hit and per second) removed; PvP armour cap (Wiki: ≤40%) replaced by PvE-style defence; base HP raised (new values [UNKNOWN]). **New content not in this KB:** Tidebound sea-themed gear and 24 new headgear/face/mouth items (Nacreon only). See [Patch_Notes/patch_2026-11-08_build-20261108-135133.md](Patch_Notes/patch_2026-11-08_build-20261108-135133.md).

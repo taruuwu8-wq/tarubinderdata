@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__uniques.md](../Raw/Original_Wiki_Pages/systems/systems__uniques.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #29: Oathbound Band: MATK เท่ากับ ATK และ INT เท่ากับ STR — *CONFLICT-LIKELY: Wiki shows Oathbound Band as 'ATK +10% · MATK +10% · Block +5%' with Twin Oath; the patch adds MATK = ATK and INT = STR.*
 <!-- PATCH-NOTICES:END -->
 

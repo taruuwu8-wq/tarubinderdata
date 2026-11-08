@@ -5,6 +5,13 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__auto.md](../Raw/Original_Wiki_Pages/systems/systems__auto.md)
 
+<!-- PATCH-NOTICES:START -->
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+>
+> **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
+> - #8: มินิแมพและ AUTO เห็นมอนครบทุกชนิด
+<!-- PATCH-NOTICES:END -->
+
 ---
 
 ## ตอบให้ก่อน

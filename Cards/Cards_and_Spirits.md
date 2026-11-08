@@ -5,12 +5,14 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [cards.md](../Raw/Original_Wiki_Pages/_hub/cards.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
+> - #5: ทวีป Nacreon: เพิ่มอุปกรณ์ธีมทะเล "Tidebound" และหมวก/หน้า/ปากใหม่ 24 ชิ้น ดรอปเฉพาะทวีปนี้ — *NEW CONTENT NOT IN KB: the Tidebound gear and the 24 new headgear/face/mouth items are not in the 2026-11-07 crawl. On the Wiki, 'Tidebound' is the name of the Nacreon card set (Cards_and_Spirits.md), and the Region Set page lists 12 sets for Regions A–D only. [TO_VERIFY] whether the new Tidebound gear is a Region Set.*
+> - #6: การ์ด: เพิ่มปุ่มเคลียร์การ์ดซ้ำ (แลกคืนได้ทุกเมื่อ) และใช้การ์ดซ้ำอัปความรู้ Codex ได้
+>
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #36: การ์ด World Boss ไม่ต้องเปิดซอง
 <!-- PATCH-NOTICES:END -->
 

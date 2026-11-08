@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__premium.md](../Raw/Original_Wiki_Pages/systems/systems__premium.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #6: ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น
 <!-- PATCH-NOTICES:END -->
 

@@ -5,12 +5,13 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__shop.md](../Raw/Original_Wiki_Pages/systems/systems__shop.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
+> - #11: อีเวนต์เติมเงินรับ Gems x2 วันที่ 9–15 พ.ย.
+>
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #6: ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น
 > - #7: แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28 — *CONFLICT-LIKELY: Wiki crawl (2026-11-07) lists 69 fashion items; the 106 new items are not in this knowledge base.*
 > - #9: พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว — *CONFLICT: Wiki states mount run speed '+15%'; patch states 50% (was 15%). Patch is newer.*

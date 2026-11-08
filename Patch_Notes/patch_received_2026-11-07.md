@@ -1,6 +1,7 @@
 # Patch notes — received 2026-11-07
 
-> **Status:** [PATCH] · **Provenance:** Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).  
+> **Status:** [PATCH] · **Received:** 2026-11-07  
+> **Provenance:** Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).  
 > **Verbatim source:** [_source/patch_received_2026-11-07.txt](_source/patch_received_2026-11-07.txt)  
 > **Precedence:** where this patch contradicts Wiki text crawled on 2026-11-07, the patch is newer. The Wiki text is kept unchanged; affected files carry a notice.
 

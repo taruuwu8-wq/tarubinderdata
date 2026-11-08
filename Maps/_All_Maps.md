@@ -5,12 +5,14 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [maps.md](../Raw/Original_Wiki_Pages/_hub/maps.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
+> - #4: Mini-boss ใช้ HP ร่วมกันทุก Channel
+> - #10: ปรับแผนที่และจุดเกิดมอนให้ทั่วถึง
+>
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #1: แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ
 > - #2: ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก
 > - #4: แมพเริ่มต้นมีมอนใกล้จุดเกิดเท่าเดิม

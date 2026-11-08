@@ -5,12 +5,14 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__pvp.md](../Raw/Original_Wiki_Pages/systems/systems__pvp.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
+> - #2: PvP: เอาเพดานดาเมจ (cap damage) ออก — *CONFLICT: Wiki says a single hit deals at most 40% of the target's max HP and at most 40% within 1 second. The patch removes the damage cap.*
+> - #3: เพิ่ม HP พื้นฐานของตัวละคร และปรับการคำนวณพลังป้องกันใน PvP ให้เหมือน PvE — *CONFLICT: Wiki says armour reduces player damage by at most 40% in PvP; the patch makes PvP defence work like PvE. New base HP values are not in the patch, so HP numbers on the Wiki may be outdated [UNKNOWN new values].*
+>
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #13: Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)
 > - #14: CH10 นับแต้มสงครามได้ทุกเวลา
 > - #32: ป้าย KILL ขึ้นทุกการฆ่าผู้เล่น

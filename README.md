@@ -46,7 +46,7 @@ Record fields include `name`, `slug`, `category`, `tier`, `level`, `properties`,
 | Label | Meaning |
 |---|---|
 | **[WIKI]** | Directly stated by the official Wiki. Applies to all crawled content in this knowledge base. |
-| [PATCH] | Stated in patch notes (`Patch_Notes/`, `Structured_Data/patch_notes.json`). Newer than the Wiki crawl where they conflict. Current patch: official Discord admin announcement (copied by the user, 2026-11-07). |
+| [PATCH] | Stated in patch notes (`Patch_Notes/`, `Structured_Data/patch_notes.json`). Newer than the Wiki crawl where they conflict. Patches so far: official Discord admin announcement (received 2026-11-07, 36 entries) and update of 8 Nov 2026, build 20261108-135133 (11 entries). Newer patches override older ones. |
 | [CALCULATED] | Derived from an explicit Wiki formula and documented inputs. The formula and inputs must be shown. |
 | [INFERENCE] | Interpretation, not confirmed by the Wiki. Never present it as fact. |
 | [UNKNOWN] | The Wiki does not say (e.g. card ★2–★4 values). |

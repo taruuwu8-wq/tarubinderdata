@@ -14,7 +14,7 @@
 | Failed pages | **0** ([Sources/FAILED_URLS.csv](Sources/FAILED_URLS.csv) is empty apart from its header) |
 | HTTP status of every saved page | 200 |
 | Deferred by user scope (not crawled, listing data only) | 1,558 |
-| Organized Markdown files | 723 (722 pages + `Patch_Notes/README.md`) |
+| Organized Markdown files | 722 pages + `Patch_Notes/` (README + 2 patch pages) |
 | Structured data files | 18 (16 JSON + 2 CSV) |
 
 Every one of the 2,284 URLs has a `crawl_status` in [Sources/URL_MANIFEST.csv](Sources/URL_MANIFEST.csv): `crawled`, `scraped_during_discovery`, or `deferred_by_user_scope`.

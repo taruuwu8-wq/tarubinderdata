@@ -6,12 +6,10 @@
 > **Raw original:** [jobs.md](../Raw/Original_Wiki_Pages/_hub/jobs.md)  
 > **Alias URLs (identical content):** https://wiki.bindertowngame.com/skills
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #31: เปลี่ยนอาชีพแล้วบัฟสกิลอาชีพเดิมหาย
 <!-- PATCH-NOTICES:END -->
 

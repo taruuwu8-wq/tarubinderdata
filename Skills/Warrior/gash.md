@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [skill__gash.md](../../Raw/Original_Wiki_Pages/skill/skill__gash.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md)**
 > - #15: PvP Warrior: Rend / Gash หลบไม่ได้
 > - #27: Rend, Gash, Assassinate ลดฮีลที่เป้าได้รับ 40% นาน 5 วิ
 <!-- PATCH-NOTICES:END -->

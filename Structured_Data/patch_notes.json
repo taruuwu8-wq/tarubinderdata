@@ -1,11 +1,30 @@
 {
- "_about": "Patch notes from the official Discord (admin post, copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison.",
- "patch_id": "patch_received_2026-11-07",
- "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).",
- "count": 36,
+ "_about": "Patch notes from official game announcements (copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison. Later patches are newer than earlier ones.",
+ "patches": [
+  {
+   "id": "patch_received_2026-11-07",
+   "title": "Patch notes — received 2026-11-07",
+   "received": "2026-11-07",
+   "posted": null,
+   "build": null,
+   "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).",
+   "count": 36
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133",
+   "title": "Patch notes — 8 Nov 2026 (build 20261108-135133)",
+   "received": "2026-11-08",
+   "posted": "8 พ.ย. 2569 20:53 (= 2026-11-08 20:53, time zone not stated)",
+   "build": "20261108-135133",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki.",
+   "count": 11
+  }
+ ],
+ "count": 47,
  "records": [
   {
    "id": "patch_received_2026-11-07#1",
+   "patch_id": "patch_received_2026-11-07",
    "index": 1,
    "text_verbatim": "แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ",
    "source_line": "•  แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ",
@@ -22,6 +41,7 @@
   },
   {
    "id": "patch_received_2026-11-07#2",
+   "patch_id": "patch_received_2026-11-07",
    "index": 2,
    "text_verbatim": "ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก",
    "source_line": "•  ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก",
@@ -38,6 +58,7 @@
   },
   {
    "id": "patch_received_2026-11-07#3",
+   "patch_id": "patch_received_2026-11-07",
    "index": 3,
    "text_verbatim": "มอนไล่ตามแล้วเดินอ้อมเสา ต้นไม้ และหินแทนการติด",
    "source_line": "•  มอนไล่ตามแล้วเดินอ้อมเสา ต้นไม้ และหินแทนการติด",
@@ -54,6 +75,7 @@
   },
   {
    "id": "patch_received_2026-11-07#4",
+   "patch_id": "patch_received_2026-11-07",
    "index": 4,
    "text_verbatim": "แมพเริ่มต้นมีมอนใกล้จุดเกิดเท่าเดิม",
    "source_line": "• แมพเริ่มต้นมีมอนใกล้จุดเกิดเท่าเดิม",
@@ -70,6 +92,7 @@
   },
   {
    "id": "patch_received_2026-11-07#5",
+   "patch_id": "patch_received_2026-11-07",
    "index": 5,
    "text_verbatim": "ลดอาการตัวละครเดินกระตุกตอนเซิร์ฟเวอร์ยุ่ง และลดการค้างของเซิร์ฟเวอร์",
    "source_line": "•  ลดอาการตัวละครเดินกระตุกตอนเซิร์ฟเวอร์ยุ่ง และลดการค้างของเซิร์ฟเวอร์",
@@ -84,6 +107,7 @@
   },
   {
    "id": "patch_received_2026-11-07#6",
+   "patch_id": "patch_received_2026-11-07",
    "index": 6,
    "text_verbatim": "ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น",
    "source_line": "• ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น",
@@ -104,6 +128,7 @@
   },
   {
    "id": "patch_received_2026-11-07#7",
+   "patch_id": "patch_received_2026-11-07",
    "index": 7,
    "text_verbatim": "แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28",
    "source_line": "•  แฟชั่นใหม่ 106 ชิ้นในร้านเพชร: ชุด 19, ปีก 15, ออร่า 18, สหาย 26, พาหนะและบอร์ด 28",
@@ -122,6 +147,7 @@
   },
   {
    "id": "patch_received_2026-11-07#8",
+   "patch_id": "patch_received_2026-11-07",
    "index": 8,
    "text_verbatim": "ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน",
    "source_line": "•  ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน",
@@ -139,6 +165,7 @@
   },
   {
    "id": "patch_received_2026-11-07#9",
+   "patch_id": "patch_received_2026-11-07",
    "index": 9,
    "text_verbatim": "พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว",
    "source_line": "•  พาหนะและบอร์ดจากร้านเพชรวิ่งเร็วขึ้น 50% (เดิม 15%) รวมของที่ซื้อไปแล้ว",
@@ -157,6 +184,7 @@
   },
   {
    "id": "patch_received_2026-11-07#10",
+   "patch_id": "patch_received_2026-11-07",
    "index": 10,
    "text_verbatim": "Bank ฝาก / ถอนหลายกองในครั้งเดียว และมีปุ่มรวมกองในคลัง",
    "source_line": "•  Bank ฝาก / ถอนหลายกองในครั้งเดียว และมีปุ่มรวมกองในคลัง",
@@ -173,6 +201,7 @@
   },
   {
    "id": "patch_received_2026-11-07#11",
+   "patch_id": "patch_received_2026-11-07",
    "index": 11,
    "text_verbatim": "ค้นหาเพื่อนจากชื่อหรือ UID ได้ คำขอเป็นเพื่อนรอคนออฟไลน์ 14 วัน",
    "source_line": "•  ค้นหาเพื่อนจากชื่อหรือ UID ได้ คำขอเป็นเพื่อนรอคนออฟไลน์ 14 วัน",
@@ -189,6 +218,7 @@
   },
   {
    "id": "patch_received_2026-11-07#12",
+   "patch_id": "patch_received_2026-11-07",
    "index": 12,
    "text_verbatim": "ซ่อนอุปกรณ์จากโปรไฟล์ได้ (แฟชั่นยังเห็น)",
    "source_line": "• ซ่อนอุปกรณ์จากโปรไฟล์ได้ (แฟชั่นยังเห็น)",
@@ -206,6 +236,7 @@
   },
   {
    "id": "patch_received_2026-11-07#13",
+   "patch_id": "patch_received_2026-11-07",
    "index": 13,
    "text_verbatim": "Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)",
    "source_line": "•  Guild War: Leader ยอมแพ้ได้หลังรบผ่าน 1 รอบ (นับแพ้เต็ม)",
@@ -223,6 +254,7 @@
   },
   {
    "id": "patch_received_2026-11-07#14",
+   "patch_id": "patch_received_2026-11-07",
    "index": 14,
    "text_verbatim": "CH10 นับแต้มสงครามได้ทุกเวลา",
    "source_line": "• CH10 นับแต้มสงครามได้ทุกเวลา",
@@ -239,6 +271,7 @@
   },
   {
    "id": "patch_received_2026-11-07#15",
+   "patch_id": "patch_received_2026-11-07",
    "index": 15,
    "text_verbatim": "PvP Warrior: Rend / Gash หลบไม่ได้",
    "source_line": "•  PvP Warrior: Rend / Gash หลบไม่ได้",
@@ -257,6 +290,7 @@
   },
   {
    "id": "patch_received_2026-11-07#16",
+   "patch_id": "patch_received_2026-11-07",
    "index": 16,
    "text_verbatim": "HP ต่ำกว่า 60% เริ่มดูดเลือดจากผู้เล่น สูงสุด 20%",
    "source_line": "• HP ต่ำกว่า 60% เริ่มดูดเลือดจากผู้เล่น สูงสุด 20%",
@@ -273,6 +307,7 @@
   },
   {
    "id": "patch_received_2026-11-07#17",
+   "patch_id": "patch_received_2026-11-07",
    "index": 17,
    "text_verbatim": "HP ต่ำกว่า 30% ได้โล่ 15% ของ HP นาน 6 วิ (ทุก 60 วิ)",
    "source_line": "• HP ต่ำกว่า 30% ได้โล่ 15% ของ HP นาน 6 วิ (ทุก 60 วิ)",
@@ -289,6 +324,7 @@
   },
   {
    "id": "patch_received_2026-11-07#18",
+   "patch_id": "patch_received_2026-11-07",
    "index": 18,
    "text_verbatim": "PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
    "source_line": "•  PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%",
@@ -306,6 +342,7 @@
   },
   {
    "id": "patch_received_2026-11-07#19",
+   "patch_id": "patch_received_2026-11-07",
    "index": 19,
    "text_verbatim": "ฮิตแรกหลัง Dash / Fade แรงขึ้น 35%",
    "source_line": "• ฮิตแรกหลัง Dash / Fade แรงขึ้น 35%",
@@ -323,6 +360,7 @@
   },
   {
    "id": "patch_received_2026-11-07#20",
+   "patch_id": "patch_received_2026-11-07",
    "index": 20,
    "text_verbatim": "ฆ่าผู้เล่นแล้วได้ Dash คืน",
    "source_line": "• ฆ่าผู้เล่นแล้วได้ Dash คืน",
@@ -339,6 +377,7 @@
   },
   {
    "id": "patch_received_2026-11-07#21",
+   "patch_id": "patch_received_2026-11-07",
    "index": 21,
    "text_verbatim": "PvP Mage: โดนตีประชิดแล้วปล่อย Frost Nova ผลัก 3 ช่องและตรึง 1.5 วิ (ทุก 12 วิ)",
    "source_line": "•  PvP Mage: โดนตีประชิดแล้วปล่อย Frost Nova ผลัก 3 ช่องและตรึง 1.5 วิ (ทุก 12 วิ)",
@@ -355,6 +394,7 @@
   },
   {
    "id": "patch_received_2026-11-07#22",
+   "patch_id": "patch_received_2026-11-07",
    "index": 22,
    "text_verbatim": "PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
    "source_line": "•  PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว",
@@ -371,6 +411,7 @@
   },
   {
    "id": "patch_received_2026-11-07#23",
+   "patch_id": "patch_received_2026-11-07",
    "index": 23,
    "text_verbatim": "ยิงจาก 5 ช่องขึ้นไปแรงขึ้น 20%",
    "source_line": "• ยิงจาก 5 ช่องขึ้นไปแรงขึ้น 20%",
@@ -387,6 +428,7 @@
   },
   {
    "id": "patch_received_2026-11-07#24",
+   "patch_id": "patch_received_2026-11-07",
    "index": 24,
    "text_verbatim": "โดนตีประชิดแล้วกระโดดหนี 4 ช่อง (ทุก 10 วิ)",
    "source_line": "• โดนตีประชิดแล้วกระโดดหนี 4 ช่อง (ทุก 10 วิ)",
@@ -403,6 +445,7 @@
   },
   {
    "id": "patch_received_2026-11-07#25",
+   "patch_id": "patch_received_2026-11-07",
    "index": 25,
    "text_verbatim": "DEX ออกบนเกราะ รองเท้า และหมวกได้",
    "source_line": "• DEX ออกบนเกราะ รองเท้า และหมวกได้",
@@ -420,6 +463,7 @@
   },
   {
    "id": "patch_received_2026-11-07#26",
+   "patch_id": "patch_received_2026-11-07",
    "index": 26,
    "text_verbatim": "PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง",
    "source_line": "•  PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง",
@@ -436,6 +480,7 @@
   },
   {
    "id": "patch_received_2026-11-07#27",
+   "patch_id": "patch_received_2026-11-07",
    "index": 27,
    "text_verbatim": "Rend, Gash, Assassinate ลดฮีลที่เป้าได้รับ 40% นาน 5 วิ",
    "source_line": "• Rend, Gash, Assassinate ลดฮีลที่เป้าได้รับ 40% นาน 5 วิ",
@@ -455,6 +500,7 @@
   },
   {
    "id": "patch_received_2026-11-07#28",
+   "patch_id": "patch_received_2026-11-07",
    "index": 28,
    "text_verbatim": "Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้",
    "source_line": "•  Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้",
@@ -472,6 +518,7 @@
   },
   {
    "id": "patch_received_2026-11-07#29",
+   "patch_id": "patch_received_2026-11-07",
    "index": 29,
    "text_verbatim": "Oathbound Band: MATK เท่ากับ ATK และ INT เท่ากับ STR",
    "source_line": "•  Oathbound Band: MATK เท่ากับ ATK และ INT เท่ากับ STR",
@@ -489,6 +536,7 @@
   },
   {
    "id": "patch_received_2026-11-07#30",
+   "patch_id": "patch_received_2026-11-07",
    "index": 30,
    "text_verbatim": "แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
    "source_line": "•  แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง",
@@ -505,6 +553,7 @@
   },
   {
    "id": "patch_received_2026-11-07#31",
+   "patch_id": "patch_received_2026-11-07",
    "index": 31,
    "text_verbatim": "เปลี่ยนอาชีพแล้วบัฟสกิลอาชีพเดิมหาย",
    "source_line": "• เปลี่ยนอาชีพแล้วบัฟสกิลอาชีพเดิมหาย",
@@ -521,6 +570,7 @@
   },
   {
    "id": "patch_received_2026-11-07#32",
+   "patch_id": "patch_received_2026-11-07",
    "index": 32,
    "text_verbatim": "ป้าย KILL ขึ้นทุกการฆ่าผู้เล่น",
    "source_line": "• ป้าย KILL ขึ้นทุกการฆ่าผู้เล่น",
@@ -537,6 +587,7 @@
   },
   {
    "id": "patch_received_2026-11-07#33",
+   "patch_id": "patch_received_2026-11-07",
    "index": 33,
    "text_verbatim": "สู้กับผู้เล่นยังไม่จบ ดูดเลือดจากมอนไม่ได้",
    "source_line": "• สู้กับผู้เล่นยังไม่จบ ดูดเลือดจากมอนไม่ได้",
@@ -553,6 +604,7 @@
   },
   {
    "id": "patch_received_2026-11-07#34",
+   "patch_id": "patch_received_2026-11-07",
    "index": 34,
    "text_verbatim": "Soulforge ชิ้นสุดท้ายข้ามแรงก์ 8 ได้",
    "source_line": "• Soulforge ชิ้นสุดท้ายข้ามแรงก์ 8 ได้",
@@ -567,6 +619,7 @@
   },
   {
    "id": "patch_received_2026-11-07#35",
+   "patch_id": "patch_received_2026-11-07",
    "index": 35,
    "text_verbatim": "Gate Brute กับ Golden Sentinel เกิดอีกครั้ง",
    "source_line": "• Gate Brute กับ Golden Sentinel เกิดอีกครั้ง",
@@ -584,6 +637,7 @@
   },
   {
    "id": "patch_received_2026-11-07#36",
+   "patch_id": "patch_received_2026-11-07",
    "index": 36,
    "text_verbatim": "การ์ด World Boss ไม่ต้องเปิดซอง",
    "source_line": "• การ์ด World Boss ไม่ต้องเปิดซอง",
@@ -598,6 +652,199 @@
    "wiki_comparison": "Card delivery change.",
    "verification_status": "PATCH",
    "provenance": "Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#1",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 1,
+   "text_verbatim": "ปรับปรุงประสิทธิภาพเซิร์ฟเวอร์ให้เสถียรขึ้น เพื่อรองรับคอนเทนต์ในอนาคตที่กำลังจะเข้ามา",
+   "source_line": " ปรับปรุงประสิทธิภาพเซิร์ฟเวอร์ให้เสถียรขึ้น เพื่อรองรับคอนเทนต์ในอนาคตที่กำลังจะเข้ามา",
+   "topic_line": "ปรับปรุงประสิทธิภาพเซิร์ฟเวอร์ให้เสถียรขึ้น เพื่อรองรับคอนเทนต์ในอนาคตที่กำลังจะเข้ามา",
+   "is_topic_line": true,
+   "system": "Server",
+   "affected_kb_files": [],
+   "missing_kb_files": [],
+   "wiki_comparison": "Not a game-data change.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#2",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 2,
+   "text_verbatim": "PvP: เอาเพดานดาเมจ (cap damage) ออก",
+   "source_line": "• PvP: เอาเพดานดาเมจ (cap damage) ออก",
+   "topic_line": "PvP: เอาเพดานดาเมจ (cap damage) ออก",
+   "is_topic_line": true,
+   "system": "PvP",
+   "affected_kb_files": [
+    "Game_Systems/pvp.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "CONFLICT: Wiki says a single hit deals at most 40% of the target's max HP and at most 40% within 1 second. The patch removes the damage cap.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#3",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 3,
+   "text_verbatim": "เพิ่ม HP พื้นฐานของตัวละคร และปรับการคำนวณพลังป้องกันใน PvP ให้เหมือน PvE",
+   "source_line": "• เพิ่ม HP พื้นฐานของตัวละคร และปรับการคำนวณพลังป้องกันใน PvP ให้เหมือน PvE",
+   "topic_line": "เพิ่ม HP พื้นฐานของตัวละคร และปรับการคำนวณพลังป้องกันใน PvP ให้เหมือน PvE",
+   "is_topic_line": true,
+   "system": "Stats / PvP",
+   "affected_kb_files": [
+    "Stats/stats.md",
+    "Game_Systems/pvp.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "CONFLICT: Wiki says armour reduces player damage by at most 40% in PvP; the patch makes PvP defence work like PvE. New base HP values are not in the patch, so HP numbers on the Wiki may be outdated [UNKNOWN new values].",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#4",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 4,
+   "text_verbatim": "Mini-boss ใช้ HP ร่วมกันทุก Channel",
+   "source_line": "• Mini-boss ใช้ HP ร่วมกันทุก Channel",
+   "topic_line": "Mini-boss ใช้ HP ร่วมกันทุก Channel",
+   "is_topic_line": true,
+   "system": "Monsters (Mini-boss)",
+   "affected_kb_files": [
+    "Monsters/_All_Monsters.md",
+    "Maps/_All_Maps.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "No Wiki statement found to compare.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#5",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 5,
+   "text_verbatim": "ทวีป Nacreon: เพิ่มอุปกรณ์ธีมทะเล \"Tidebound\" และหมวก/หน้า/ปากใหม่ 24 ชิ้น ดรอปเฉพาะทวีปนี้",
+   "source_line": "• ทวีป Nacreon: เพิ่มอุปกรณ์ธีมทะเล \"Tidebound\" และหมวก/หน้า/ปากใหม่ 24 ชิ้น ดรอปเฉพาะทวีปนี้",
+   "topic_line": "ทวีป Nacreon: เพิ่มอุปกรณ์ธีมทะเล \"Tidebound\" และหมวก/หน้า/ปากใหม่ 24 ชิ้น ดรอปเฉพาะทวีปนี้",
+   "is_topic_line": true,
+   "system": "Equipment / Nacreon",
+   "affected_kb_files": [
+    "Region_Sets/region-sets.md",
+    "Cards/Cards_and_Spirits.md",
+    "Items/_Listings/gear.md",
+    "Items/_Listings/look.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "NEW CONTENT NOT IN KB: the Tidebound gear and the 24 new headgear/face/mouth items are not in the 2026-11-07 crawl. On the Wiki, 'Tidebound' is the name of the Nacreon card set (Cards_and_Spirits.md), and the Region Set page lists 12 sets for Regions A–D only. [TO_VERIFY] whether the new Tidebound gear is a Region Set.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#6",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 6,
+   "text_verbatim": "การ์ด: เพิ่มปุ่มเคลียร์การ์ดซ้ำ (แลกคืนได้ทุกเมื่อ) และใช้การ์ดซ้ำอัปความรู้ Codex ได้",
+   "source_line": "• การ์ด: เพิ่มปุ่มเคลียร์การ์ดซ้ำ (แลกคืนได้ทุกเมื่อ) และใช้การ์ดซ้ำอัปความรู้ Codex ได้",
+   "topic_line": "การ์ด: เพิ่มปุ่มเคลียร์การ์ดซ้ำ (แลกคืนได้ทุกเมื่อ) และใช้การ์ดซ้ำอัปความรู้ Codex ได้",
+   "is_topic_line": true,
+   "system": "Cards / Codex",
+   "affected_kb_files": [
+    "Cards/Cards_and_Spirits.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "New feature. The Wiki describes duplicate cards only as upgrade material (merged at 100% value); clearing/refunding them and feeding them to the Codex is new.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#7",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 7,
+   "text_verbatim": "ย้อมสีและแสงได้ครบทุกชิ้นของชุดแฟชั่น",
+   "source_line": "• ย้อมสีและแสงได้ครบทุกชิ้นของชุดแฟชั่น",
+   "topic_line": "ย้อมสีและแสงได้ครบทุกชิ้นของชุดแฟชั่น",
+   "is_topic_line": true,
+   "system": "Fashion / Dye",
+   "affected_kb_files": [
+    "Game_Systems/fashion.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Extends patch_received_2026-11-07 #8 (hat/weapon dyeing) to every fashion piece, including glow.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#8",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 8,
+   "text_verbatim": "มินิแมพและ AUTO เห็นมอนครบทุกชนิด",
+   "source_line": "• มินิแมพและ AUTO เห็นมอนครบทุกชนิด",
+   "topic_line": "มินิแมพและ AUTO เห็นมอนครบทุกชนิด",
+   "is_topic_line": true,
+   "system": "Minimap / AUTO",
+   "affected_kb_files": [
+    "Game_Systems/auto.md",
+    "Game_Systems/windows.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Display change. [TO_VERIFY] may affect the Duskhunter Region Set 2-piece minimap bonus (Region_Sets/region-sets.md).",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#9",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 9,
+   "text_verbatim": "แก้เวลาเกิดใหม่บนหลุมศพบอส/Mini-boss แสดงผิด",
+   "source_line": "• แก้เวลาเกิดใหม่บนหลุมศพบอส/Mini-boss แสดงผิด",
+   "topic_line": "แก้เวลาเกิดใหม่บนหลุมศพบอส/Mini-boss แสดงผิด",
+   "is_topic_line": true,
+   "system": "Bug fix: boss respawn timer",
+   "affected_kb_files": [
+    "Monsters/_All_Monsters.md",
+    "Monsters/world-boss.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Bug fix (display only).",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#10",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 10,
+   "text_verbatim": "ปรับแผนที่และจุดเกิดมอนให้ทั่วถึง",
+   "source_line": "• ปรับแผนที่และจุดเกิดมอนให้ทั่วถึง",
+   "topic_line": "ปรับแผนที่และจุดเกิดมอนให้ทั่วถึง",
+   "is_topic_line": true,
+   "system": "Maps",
+   "affected_kb_files": [
+    "Maps/_All_Maps.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Spawn layouts on the Wiki may predate this change.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
+  },
+  {
+   "id": "patch_2026-11-08_build-20261108-135133#11",
+   "patch_id": "patch_2026-11-08_build-20261108-135133",
+   "index": 11,
+   "text_verbatim": "อีเวนต์เติมเงินรับ Gems x2 วันที่ 9–15 พ.ย.",
+   "source_line": "• อีเวนต์เติมเงินรับ Gems x2 วันที่ 9–15 พ.ย.",
+   "topic_line": "อีเวนต์เติมเงินรับ Gems x2 วันที่ 9–15 พ.ย.",
+   "is_topic_line": true,
+   "system": "Event: top-up",
+   "affected_kb_files": [
+    "Game_Systems/events.md",
+    "Game_Systems/shop.md"
+   ],
+   "missing_kb_files": [],
+   "wiki_comparison": "Time-limited event, 9–15 Nov 2026 (2569 BE). Separate from the shop's permanent first-purchase ×2 bonus on the Wiki.",
+   "verification_status": "PATCH",
+   "provenance": "Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."
   }
  ]
 }

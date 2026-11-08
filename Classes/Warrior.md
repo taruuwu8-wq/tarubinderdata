@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__warrior.md](../Raw/Original_Wiki_Pages/job/job__warrior.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #15: PvP Warrior: Rend / Gash หลบไม่ได้
 > - #16: HP ต่ำกว่า 60% เริ่มดูดเลือดจากผู้เล่น สูงสุด 20%
 > - #17: HP ต่ำกว่า 30% ได้โล่ 15% ของ HP นาน 6 วิ (ทุก 60 วิ)

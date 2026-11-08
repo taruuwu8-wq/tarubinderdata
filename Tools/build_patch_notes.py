@@ -1,15 +1,12 @@
-"""Build Patch_Notes pages + Structured_Data/patch_notes.json from user-provided patch text, and add patch notices
-to affected organized files. Wiki text is never edited: a notice block is inserted after each file's header.
-Run after organize.py. Idempotent."""
-import os, re, json, glob
+"""Build Patch_Notes pages + Structured_Data/patch_notes.json from user-provided patch texts, and add patch notices
+to affected organized files. Wiki text is never edited: one notice block (covering all patches) is inserted after each
+file's header. Run after organize.py. Idempotent. To add a patch: save its verbatim text in Patch_Notes/_source/, then
+append an entry to PATCHES below (id, received date, provenance, map of entry index -> (system, files, note))."""
+import os, re, json
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PATCH_ID = "patch_received_2026-11-07"
-SRC = f"{ROOT}/Patch_Notes/_source/{PATCH_ID}.txt"
-PROVENANCE = ("Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). "
-              "Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).")
 
 # entry index (1-based, in source order) -> (system, affected KB files, wiki comparison note)
-MAP = {
+MAP_0 = {
  1: ("Maps", ["Maps/_All_Maps.md"], "[TO_VERIFY] Which 28 maps form the 'first continent' is not named in the patch; map sizes and spawn layouts on the Wiki may predate this change."),
  2: ("Maps", ["Maps/_All_Maps.md"], "Channel counts / spawn spread: not compared."),
  3: ("Monsters (AI)", ["Monsters/_All_Monsters.md"], "No Wiki statement found to compare."),
@@ -48,61 +45,106 @@ MAP = {
  36: ("Cards / World Boss", ["Monsters/world-boss.md", "Cards/Cards_and_Spirits.md"], "Card delivery change."),
 }
 
-lines = [l.rstrip("\n") for l in open(SRC, encoding="utf-8") if l.strip()]
-header, raw_entries = lines[0], lines[1:]
-entries, group = [], None
-for i, l in enumerate(raw_entries, 1):
-    top = l.startswith("•  ")                      # double space after bullet = new topic in the source layout
-    text = re.sub(r"^•\s+", "", l)
-    if top or group is None: group = text
-    system, files, note = MAP[i]
-    entries.append({"id": f"{PATCH_ID}#{i}", "index": i, "text_verbatim": text, "source_line": l,
-                    "topic_line": group, "is_topic_line": top or i == 1, "system": system,
-                    "affected_kb_files": [f for f in files if os.path.exists(f"{ROOT}/{f}")],
-                    "missing_kb_files": [f for f in files if not os.path.exists(f"{ROOT}/{f}")],
-                    "wiki_comparison": note, "verification_status": "PATCH",
-                    "provenance": PROVENANCE})
-assert len(entries) == len(MAP), (len(entries), len(MAP))
+MAP_1 = {
+ 1: ("Server", [], "Not a game-data change."),
+ 2: ("PvP", ["Game_Systems/pvp.md"], "CONFLICT: Wiki says a single hit deals at most 40% of the target's max HP and at most 40% within 1 second. The patch removes the damage cap."),
+ 3: ("Stats / PvP", ["Stats/stats.md", "Game_Systems/pvp.md"], "CONFLICT: Wiki says armour reduces player damage by at most 40% in PvP; the patch makes PvP defence work like PvE. New base HP values are not in the patch, so HP numbers on the Wiki may be outdated [UNKNOWN new values]."),
+ 4: ("Monsters (Mini-boss)", ["Monsters/_All_Monsters.md", "Maps/_All_Maps.md"], "No Wiki statement found to compare."),
+ 5: ("Equipment / Nacreon", ["Region_Sets/region-sets.md", "Cards/Cards_and_Spirits.md", "Items/_Listings/gear.md", "Items/_Listings/look.md"], "NEW CONTENT NOT IN KB: the Tidebound gear and the 24 new headgear/face/mouth items are not in the 2026-11-07 crawl. On the Wiki, 'Tidebound' is the name of the Nacreon card set (Cards_and_Spirits.md), and the Region Set page lists 12 sets for Regions A–D only. [TO_VERIFY] whether the new Tidebound gear is a Region Set."),
+ 6: ("Cards / Codex", ["Cards/Cards_and_Spirits.md"], "New feature. The Wiki describes duplicate cards only as upgrade material (merged at 100% value); clearing/refunding them and feeding them to the Codex is new."),
+ 7: ("Fashion / Dye", ["Game_Systems/fashion.md"], "Extends patch_received_2026-11-07 #8 (hat/weapon dyeing) to every fashion piece, including glow."),
+ 8: ("Minimap / AUTO", ["Game_Systems/auto.md", "Game_Systems/windows.md"], "Display change. [TO_VERIFY] may affect the Duskhunter Region Set 2-piece minimap bonus (Region_Sets/region-sets.md)."),
+ 9: ("Bug fix: boss respawn timer", ["Monsters/_All_Monsters.md", "Monsters/world-boss.md"], "Bug fix (display only)."),
+ 10: ("Maps", ["Maps/_All_Maps.md"], "Spawn layouts on the Wiki may predate this change."),
+ 11: ("Event: top-up", ["Game_Systems/events.md", "Game_Systems/shop.md"], "Time-limited event, 9–15 Nov 2026 (2569 BE). Separate from the shop's permanent first-purchase ×2 bonus on the Wiki."),
+}
 
-os.makedirs(f"{ROOT}/Structured_Data", exist_ok=True)
-json.dump({"_about": "Patch notes from the official Discord (admin post, copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding "
-           "topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison.",
-           "patch_id": PATCH_ID, "provenance": PROVENANCE, "count": len(entries), "records": entries},
-          open(f"{ROOT}/Structured_Data/patch_notes.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+PATCHES = [
+ {"id": "patch_received_2026-11-07", "title": "Patch notes — received 2026-11-07", "received": "2026-11-07",
+  "posted": None, "build": None, "header_lines": 1, "bullet_grouping": True,
+  "provenance": ("Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). "
+                 "Exact post date/link not archived here. Not present on the Wiki (no patch-notes page)."),
+  "map": MAP_0},
+ {"id": "patch_2026-11-08_build-20261108-135133", "title": "Patch notes — 8 Nov 2026 (build 20261108-135133)", "received": "2026-11-08",
+  "posted": "8 พ.ย. 2569 20:53 (= 2026-11-08 20:53, time zone not stated)", "build": "20261108-135133", "header_lines": 0, "footer_lines": 1,
+  "bullet_grouping": False,
+  "provenance": ("Update announcement pasted by the user into chat on 2026-11-08 (same official source as the previous patch per the user's context; "
+                 "channel/link not archived) [TO_VERIFY]. Footer of the post: '8 พ.ย. 2569 20:53 · build 20261108-135133'. Not present on the Wiki."),
+  "map": MAP_1},
+]
 
 def esc(s): return s.replace("|", "\\|")
-md = [f"# Patch notes — received 2026-11-07", "",
-      f"> **Status:** [PATCH] · **Provenance:** {PROVENANCE}  ",
-      f"> **Verbatim source:** [_source/{PATCH_ID}.txt](_source/{PATCH_ID}.txt)  ",
-      "> **Precedence:** where this patch contradicts Wiki text crawled on 2026-11-07, the patch is newer. The Wiki text is kept unchanged; affected files carry a notice.", "",
-      "## Conflicts / items needing attention", ""]
-for e in entries:
-    if e["wiki_comparison"].startswith(("CONFLICT", "[UNKNOWN]", "[TO_VERIFY]")):
-        md.append(f"- **#{e['index']}** {e['text_verbatim']} — {e['wiki_comparison']}")
-md += ["", "## All changes", "", "| # | Change (verbatim) | Topic | System | Affected KB files | Wiki comparison |", "|---|---|---|---|---|---|"]
-for e in entries:
-    files = " · ".join(f"[{os.path.basename(f)}](../{f})" for f in e["affected_kb_files"]) or "—"
-    md.append(f"| {e['index']} | {esc(e['text_verbatim'])} | {'—' if e['is_topic_line'] else esc(e['topic_line'][:40])} | {e['system']} | {files} | {esc(e['wiki_comparison'])} |")
-open(f"{ROOT}/Patch_Notes/{PATCH_ID}.md", "w", encoding="utf-8").write("\n".join(md) + "\n")
+all_entries, by_file = [], {}
+for P in PATCHES:
+    pid, MAP = P["id"], P["map"]
+    lines = [l.rstrip("\n") for l in open(f"{ROOT}/Patch_Notes/_source/{pid}.txt", encoding="utf-8") if l.strip()]
+    raw_entries = lines[P.get("header_lines", 0): len(lines) - P.get("footer_lines", 0)]
+    entries, group = [], None
+    for i, l in enumerate(raw_entries, 1):
+        top = l.startswith("•  ") if P["bullet_grouping"] else True   # patch 1: double space after bullet = new topic
+        text = re.sub(r"^\s*•?\s*", "", l)
+        if top or group is None: group = text
+        system, files, note = MAP[i]
+        entries.append({"id": f"{pid}#{i}", "patch_id": pid, "index": i, "text_verbatim": text, "source_line": l,
+                        "topic_line": group, "is_topic_line": top or i == 1, "system": system,
+                        "affected_kb_files": [f for f in files if os.path.exists(f"{ROOT}/{f}")],
+                        "missing_kb_files": [f for f in files if not os.path.exists(f"{ROOT}/{f}")],
+                        "wiki_comparison": note, "verification_status": "PATCH", "provenance": P["provenance"]})
+    assert len(entries) == len(MAP), (pid, len(entries), len(MAP))
+    P["entries"] = entries; all_entries += entries
+    for e in entries:
+        for f in e["affected_kb_files"]: by_file.setdefault(f, []).append(e)
+    flag = ("CONFLICT", "NEW CONTENT", "[UNKNOWN]", "[TO_VERIFY]")
+    md = [f"# {P['title']}", "",
+          f"> **Status:** [PATCH] · **Received:** {P['received']}" + (f" · **Posted:** {P['posted']}" if P.get("posted") else "") +
+          (f" · **Build:** {P['build']}" if P.get("build") else "") + "  ",
+          f"> **Provenance:** {P['provenance']}  ",
+          f"> **Verbatim source:** [_source/{pid}.txt](_source/{pid}.txt)  ",
+          "> **Precedence:** where this patch contradicts Wiki text crawled on 2026-11-07, the patch is newer. The Wiki text is kept unchanged; affected files carry a notice.", "",
+          "## Conflicts / items needing attention", ""]
+    for e in entries:
+        if e["wiki_comparison"].startswith(flag) or "CONFLICT" in e["wiki_comparison"] or "[TO_VERIFY]" in e["wiki_comparison"]:
+            md.append(f"- **#{e['index']}** {e['text_verbatim']} — {e['wiki_comparison']}")
+    md += ["", "## All changes", "", "| # | Change (verbatim) | Topic | System | Affected KB files | Wiki comparison |", "|---|---|---|---|---|---|"]
+    for e in entries:
+        fl = " · ".join(f"[{os.path.basename(f)}](../{f})" for f in e["affected_kb_files"]) or "—"
+        md.append(f"| {e['index']} | {esc(e['text_verbatim'])} | {'—' if e['is_topic_line'] else esc(e['topic_line'][:40])} | {e['system']} | {fl} | {esc(e['wiki_comparison'])} |")
+    open(f"{ROOT}/Patch_Notes/{pid}.md", "w", encoding="utf-8").write("\n".join(md) + "\n")
+
+os.makedirs(f"{ROOT}/Structured_Data", exist_ok=True)
+json.dump({"_about": "Patch notes from official game announcements (copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding "
+           "topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison. "
+           "Later patches are newer than earlier ones.",
+           "patches": [{k: P.get(k) for k in ("id", "title", "received", "posted", "build", "provenance")} | {"count": len(P["entries"])} for P in PATCHES],
+           "count": len(all_entries), "records": all_entries},
+          open(f"{ROOT}/Structured_Data/patch_notes.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+rows = "".join(f"| [{P['id']}]({P['id']}.md) | {P['received']} | {P.get('posted') or 'not recorded'} | {P.get('build') or '—'} | {len(P['entries'])} |\n" for P in PATCHES)
 open(f"{ROOT}/Patch_Notes/README.md", "w", encoding="utf-8").write(
-    "# Patch Notes\n\nThe Wiki (https://wiki.bindertowngame.com/) has **no patch-notes page** (checked 2026-11-07). Patch notes here are added from other sources and labelled [PATCH] with their provenance.\n\n"
-    f"| Patch | Received | Entries | Provenance |\n|---|---|---|---|\n| [{PATCH_ID}]({PATCH_ID}.md) | 2026-11-07 | {len(entries)} | official Discord (admin post), copied by user; exact post date not recorded |\n\n"
+    "# Patch Notes\n\nThe Wiki (https://wiki.bindertowngame.com/) has **no patch-notes page** (checked 2026-11-07). Patch notes here are added from official announcements "
+    "copied by the user and labelled [PATCH] with their provenance. **Newer patches override older ones and the Wiki.**\n\n"
+    "| Patch | Received | Posted | Build | Entries |\n|---|---|---|---|---|\n" + rows + "\n"
     "Structured form: [../Structured_Data/patch_notes.json](../Structured_Data/patch_notes.json). "
     "Verbatim text: `_source/`. Affected organized files carry a `Patch notice` block linking back here; Wiki text itself is not edited.\n")
 
-# ---- notices in affected files ----
-by_file = {}
-for e in entries:
-    for f in e["affected_kb_files"]: by_file.setdefault(f, []).append(e)
+# ---- notices in affected files (one block per file, grouped by patch, newest first) ----
 START, END = "<!-- PATCH-NOTICES:START -->", "<!-- PATCH-NOTICES:END -->"
+title = {P["id"]: P for P in PATCHES}
 for f, es in by_file.items():
     path = f"{ROOT}/{f}"; t = open(path, encoding="utf-8").read()
     t = re.sub(rf"\n?{re.escape(START)}.*?{re.escape(END)}\n?", "\n", t, flags=re.S)
-    rel = os.path.relpath(f"{ROOT}/Patch_Notes/{PATCH_ID}.md", os.path.dirname(path))
-    block = [START, "> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. "
-             f"The Wiki text below may be outdated. See [{PATCH_ID}]({rel}).", ">"]
-    for e in es: block.append(f"> - #{e['index']}: {e['text_verbatim']}" + (f" — *{e['wiki_comparison']}*" if e["wiki_comparison"].startswith("CONFLICT") else ""))
-    block.append(END)
+    block = [START, "> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.", ">"]
+    for P in reversed(PATCHES):
+        pe = [e for e in es if e["patch_id"] == P["id"]]
+        if not pe: continue
+        rel = os.path.relpath(f"{ROOT}/Patch_Notes/{P['id']}.md", os.path.dirname(path))
+        block.append(f"> **[{P['title']}]({rel})**")
+        for e in pe:
+            c = e["wiki_comparison"]
+            block.append(f"> - #{e['index']}: {e['text_verbatim']}" + (f" — *{c}*" if c.startswith(("CONFLICT", "NEW CONTENT")) else ""))
+        block.append(">")
+    block[-1] = END
     t = t.replace("\n---\n", "\n" + "\n".join(block) + "\n\n---\n", 1)
+    t = re.sub(r"\n{3,}(?=<!-- PATCH-NOTICES:START)", "\n\n", t, count=1)   # keep reruns idempotent
     open(path, "w", encoding="utf-8").write(t)
-print(f"entries {len(entries)} | files with notices {len(by_file)} | missing files {sorted({m for e in entries for m in e['missing_kb_files']})}")
+print(f"patches {len(PATCHES)} | entries {len(all_entries)} | files with notices {len(by_file)} | missing files {sorted({m for e in all_entries for m in e['missing_kb_files']})}")

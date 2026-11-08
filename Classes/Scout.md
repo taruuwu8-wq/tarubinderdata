@@ -5,12 +5,10 @@
 > **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__scout.md](../Raw/Original_Wiki_Pages/job/job__scout.md)
 
-
-
-
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — a later patch (official Discord announcement, received 2026-11-07) changes this topic. The Wiki text below may be outdated. See [patch_received_2026-11-07](../Patch_Notes/patch_received_2026-11-07.md).
+> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
 >
+> **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #22: PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว
 > - #23: ยิงจาก 5 ช่องขึ้นไปแรงขึ้น 20%
 > - #24: โดนตีประชิดแล้วกระโดดหนี 4 ช่อง (ทุก 10 วิ)
