@@ -1,0 +1,608 @@
+{
+ "source": "https://claude.ai/artifact/WATr8pLuf6PA81z5rzucAh",
+ "exportedAt": "2026-11-08",
+ "chars": {
+  "karina": {
+   "cls": "Acolyte",
+   "codex": 0,
+   "level": 103,
+   "role": "ฟามไปเรื่อย · กำลังเลือกตัวต่อไป"
+  },
+  "steve": {
+   "cls": "Scout",
+   "codex": 3,
+   "level": 92,
+   "role": "ฟามเงิน + ดรอป + เก็บเวล · ตีจบไว"
+  },
+  "taru": {
+   "cls": "Rogue",
+   "codex": 75,
+   "level": 108,
+   "role": "ฟามรวม ๆ"
+  }
+ },
+ "cards": {
+  "abyss_jelly": {
+   "bank": 4,
+   "karina": 1,
+   "name": "Abyss Jelly",
+   "note": "",
+   "slug": "abyss_jelly",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:24.526Z"
+  },
+  "acorn_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Acorn Skitter",
+   "note": "",
+   "slug": "acorn_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:49:05.283Z"
+  },
+  "anchor_crab": {
+   "bank": 2,
+   "karina": 0,
+   "name": "Anchor Crab",
+   "note": "",
+   "slug": "anchor_crab",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:57.497Z"
+  },
+  "barnacle_remnant": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Barnacle Remnant",
+   "note": "",
+   "slug": "barnacle_remnant",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:40:19.577Z"
+  },
+  "bog_wisp": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Bog Wisp",
+   "note": "",
+   "slug": "bog_wisp",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:37:43.708Z"
+  },
+  "brass_mimic": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Brass Mimic",
+   "note": "",
+   "slug": "brass_mimic",
+   "stars": 5,
+   "steve": 0,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:42:45.167Z"
+  },
+  "compass_wisp": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Compass Wisp",
+   "note": "",
+   "slug": "compass_wisp",
+   "stars": 5,
+   "steve": 1,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:48:34.283Z"
+  },
+  "coral_pebblit": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Coral Pebblit",
+   "note": "",
+   "slug": "coral_pebblit",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:00.700Z"
+  },
+  "crucible_hound": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Crucible Hound",
+   "note": "",
+   "slug": "crucible_hound",
+   "stars": 5,
+   "steve": 0,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:42:23.829Z"
+  },
+  "drift_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Drift Skitter",
+   "note": "",
+   "slug": "drift_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:06.672Z"
+  },
+  "drowned_bosun": {
+   "bank": 0,
+   "karina": 1,
+   "name": "Drowned Bosun",
+   "note": "",
+   "slug": "drowned_bosun",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:39.195Z"
+  },
+  "dusk_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Dusk Skitter",
+   "note": "",
+   "slug": "dusk_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:37:27.144Z"
+  },
+  "frost_crab": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Frost Crab",
+   "note": "",
+   "slug": "frost_crab",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:37:47.681Z"
+  },
+  "gale_wisp": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Gale Wisp",
+   "note": "",
+   "slug": "gale_wisp",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:37:22.011Z"
+  },
+  "glass_sprout": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Glass Sprout",
+   "note": "",
+   "slug": "glass_sprout",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:51.273Z"
+  },
+  "gloom_skitter": {
+   "bank": 2,
+   "karina": 0,
+   "name": "Gloom Skitter",
+   "note": "",
+   "slug": "gloom_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:48:53.568Z"
+  },
+  "gull_harpy": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Gull Harpy",
+   "note": "",
+   "slug": "gull_harpy",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:40:29.994Z"
+  },
+  "hill_hound": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Hill Hound",
+   "note": "",
+   "slug": "hill_hound",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:32.385Z"
+  },
+  "hollow_caster": {
+   "bank": 2,
+   "karina": 0,
+   "name": "Hollow Caster",
+   "note": "",
+   "slug": "hollow_caster",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:40:05.060Z"
+  },
+  "lamp_wisp": {
+   "bank": 2,
+   "karina": 2,
+   "name": "Lamp Wisp",
+   "note": "",
+   "slug": "lamp_wisp",
+   "stars": 5,
+   "steve": 2,
+   "taru": 1,
+   "updatedAt": "2026-11-07T18:03:32.454Z"
+  },
+  "lantern_moth": {
+   "bank": 6,
+   "karina": 0,
+   "name": "Lantern Moth",
+   "note": "",
+   "slug": "lantern_moth",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:48:41.009Z"
+  },
+  "lantern_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Lantern Skitter",
+   "note": "",
+   "slug": "lantern_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:40:38.289Z"
+  },
+  "marrow_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Marrow Skitter",
+   "note": "",
+   "slug": "marrow_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:37.066Z"
+  },
+  "mere_lurker": {
+   "bank": 0,
+   "karina": 1,
+   "name": "Mere Lurker",
+   "note": "",
+   "slug": "mere_lurker",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:49.733Z"
+  },
+  "mire_elder": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Mire Elder",
+   "note": "",
+   "slug": "mire_elder",
+   "stars": 5,
+   "steve": 1,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:48:16.432Z"
+  },
+  "mirror_merchant": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Mirror Merchant",
+   "note": "",
+   "slug": "mirror_merchant",
+   "stars": 5,
+   "steve": 1,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:48:28.502Z"
+  },
+  "muster_hound": {
+   "bank": 2,
+   "karina": 0,
+   "name": "Muster Hound",
+   "note": "",
+   "slug": "muster_hound",
+   "stars": 5,
+   "steve": 1,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:48:31.059Z"
+  },
+  "plains_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Plains Skitter",
+   "note": "",
+   "slug": "plains_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:37:32.602Z"
+  },
+  "plate_turtle": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Plate Turtle",
+   "note": "",
+   "slug": "plate_turtle",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:40:15.083Z"
+  },
+  "reed_crane": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Reed Crane",
+   "note": "",
+   "slug": "reed_crane",
+   "stars": 5,
+   "steve": 0,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:42:36.484Z"
+  },
+  "reed_lurker": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Reed Lurker",
+   "note": "",
+   "slug": "reed_lurker",
+   "stars": 5,
+   "steve": 1,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:48:21.058Z"
+  },
+  "rock_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Rock Skitter",
+   "note": "",
+   "slug": "rock_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:27.495Z"
+  },
+  "rust_remnant": {
+   "bank": 1,
+   "karina": 1,
+   "name": "Rust Remnant",
+   "note": "",
+   "slug": "rust_remnant",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:28.201Z"
+  },
+  "shard_thornling": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Shard Thornling",
+   "note": "",
+   "slug": "shard_thornling",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:23.135Z"
+  },
+  "shrine_firefly": {
+   "bank": 3,
+   "karina": 0,
+   "name": "Shrine Firefly",
+   "note": "",
+   "slug": "shrine_firefly",
+   "stars": 5,
+   "steve": 2,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:49:12.034Z"
+  },
+  "skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Skitter",
+   "note": "",
+   "slug": "skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:17.272Z"
+  },
+  "sky_wisp": {
+   "bank": 5,
+   "karina": 1,
+   "name": "Sky Wisp",
+   "note": "",
+   "slug": "sky_wisp",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:43.886Z"
+  },
+  "slag_skitter": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Slag Skitter",
+   "note": "",
+   "slug": "slag_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:38:12.130Z"
+  },
+  "snipcrab": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Snipcrab",
+   "note": "",
+   "slug": "snipcrab",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:37:57.000Z"
+  },
+  "thornling": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Thornling",
+   "note": "",
+   "slug": "thornling",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:39:18.253Z"
+  },
+  "throne_guard": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Throne Guard",
+   "note": "",
+   "slug": "throne_guard",
+   "stars": 5,
+   "steve": 0,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:42:52.500Z"
+  },
+  "tide_brute": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Tide Brute",
+   "note": "",
+   "slug": "tide_brute",
+   "stars": 5,
+   "steve": 0,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:42:15.937Z"
+  },
+  "umbral_skitter": {
+   "bank": 1,
+   "karina": 1,
+   "name": "Umbral Skitter",
+   "note": "",
+   "slug": "umbral_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:20.327Z"
+  },
+  "vale_keeper": {
+   "bank": 0,
+   "karina": 0,
+   "name": "Vale Keeper",
+   "note": "",
+   "slug": "vale_keeper",
+   "stars": 5,
+   "steve": 0,
+   "taru": 1,
+   "updatedAt": "2026-11-07T17:42:48.226Z"
+  },
+  "vase_lurker": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Vase Lurker",
+   "note": "",
+   "slug": "vase_lurker",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:40:25.017Z"
+  },
+  "void_wisp": {
+   "bank": 1,
+   "karina": 0,
+   "name": "Void Wisp",
+   "note": "",
+   "slug": "void_wisp",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T17:36:58.675Z"
+  },
+  "wrack_skitter": {
+   "bank": 0,
+   "karina": 1,
+   "name": "Wrack Skitter",
+   "note": "",
+   "slug": "wrack_skitter",
+   "stars": 5,
+   "steve": 0,
+   "taru": 0,
+   "updatedAt": "2026-11-07T18:03:15.456Z"
+  }
+ },
+ "farm": {
+  "golden_sentinel": {
+   "daily": false,
+   "have": 0,
+   "slug": "golden_sentinel",
+   "target": 1,
+   "who": "taru"
+  }
+ },
+ "recs": {
+  "karina__fountain_serpent": {
+   "prio": 3,
+   "slug": "fountain_serpent",
+   "who": "karina",
+   "why": "ตัวสำรอง (Mini-boss หายาก): ดรอปวิญญาณ +16% · MATK +8% · Drowned Forum Lv110"
+  },
+  "karina__pearl_wisp": {
+   "prio": 2,
+   "slug": "pearl_wisp",
+   "who": "karina",
+   "why": "MATK +4.3% · Spell Amp 2.9% สำหรับ Acolyte · Coralstep Plateau Lv104–105 ระดับพอดีกับ Karina"
+  },
+  "karina__vale_remnant": {
+   "prio": 1,
+   "slug": "vale_remnant",
+   "who": "karina",
+   "why": "MATK +5.8% · ฮีลเมื่อฆ่า · การ์ด Sanctum ช่วยคง Riftsight II (วิญญาณ +15%) · Elite Lv81 วิญญาณ 35%/ตัว ฟามเร็วที่ Lv103"
+  },
+  "steve__golden_sentinel": {
+   "prio": 1,
+   "slug": "golden_sentinel",
+   "who": "steve",
+   "why": "ได้ทั้งเงินและดรอป ใส่แทน Shrine/Lamp ใบซ้ำ (ได้แค่ 7.5%) จะได้ Gold +8.5% และดรอป +8% เพิ่ม · ต้องแลกแยกจากใบของ Taru"
+  },
+  "steve__peat_elder": {
+   "prio": 2,
+   "slug": "peat_elder",
+   "who": "steve",
+   "why": "ดรอป +5% · การ์ด Growth ช่วยคงชุด Verdant · Elite Lv43 วิญญาณ 35%/ตัว ฟามง่ายมากที่ Lv92"
+  },
+  "steve__terrace_skitter": {
+   "prio": 3,
+   "slug": "terrace_skitter",
+   "who": "steve",
+   "why": "ช่วยตีจบไว: ตีแรกใส่มอนเลือดเต็ม +15% ซ้อนกับ Kin Lurker ที่มีอยู่ (+10%) · มอนทั่วไป Lv67 ฟามสบาย"
+  },
+  "taru__ammonite_crawler": {
+   "prio": 2,
+   "slug": "ammonite_crawler",
+   "who": "taru",
+   "why": "สายฟามรวม: เจาะเกราะ 4.4% · คริ +3% · ตีแรก +10% · สาย Lurker · Elite วิญญาณ 35%/ตัว ใกล้แมพ Tidehaven ที่ฟามอยู่"
+  },
+  "taru__golden_sentinel": {
+   "prio": 1,
+   "slug": "golden_sentinel",
+   "who": "taru",
+   "why": "กำลังฟามอยู่ · Gold +16% · ดรอป +8% · การ์ด Sanctum เพิ่มนับชุด Riftsight"
+  },
+  "taru__straw_thornling": {
+   "prio": 3,
+   "slug": "straw_thornling",
+   "who": "taru",
+   "why": "ตีแรกใส่มอนเลือดเต็ม +15% · Load 1 ใส่ง่าย · Lanternrice Delta Lv103–104"
+  }
+ }
+}
