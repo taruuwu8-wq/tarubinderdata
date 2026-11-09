@@ -1,3 +1,7 @@
+## Dashboard and Cloud continuation
+
+The complete portable Taru Build Lab is in [Dashboard/](Dashboard/). Start with [CLOUD_HANDOFF.md](CLOUD_HANDOFF.md) for setup, current state and continuation notes. Run `cd Dashboard && npm test`, then `npm run preview`. No npm dependencies or external credentials are required for the checked-in snapshot.
+
 <!-- LIVE-CAPTURE -->
 ## Fresh bounded capture — 2026-11-10
 

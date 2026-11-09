@@ -1,0 +1,15 @@
+{
+  "name": "taru-build-lab",
+  "version": "1.4.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node test.mjs && node picker-test.mjs && node ui-smoke.mjs && node media-test.mjs",
+    "preview": "node preview.mjs",
+    "sync:data": "node tools/sync-kb.mjs",
+    "export:html": "node tools/export-html.mjs"
+  }
+}

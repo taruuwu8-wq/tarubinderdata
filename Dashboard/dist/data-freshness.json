@@ -1,0 +1,63 @@
+{
+  "snapshotDate": "2026-11-08",
+  "latestCapture": "2026-11-10",
+  "freshPages": 206,
+  "olderDetails": 640,
+  "notFetched": 1671,
+  "conflicts": 5,
+  "liveCapturePages": 148,
+  "liveCredits": 148,
+  "missingByCategory": {
+    "Items": 1647,
+    "NPCs": 6,
+    "Pets": 17,
+    "tools": 1
+  },
+  "listingDetailConflicts": [
+    {
+      "slug": "greatsword_t10",
+      "field": "ATK",
+      "listing": "1,008",
+      "detail": "840",
+      "listing_date": "2026-11-10",
+      "detail_date": "2026-11-07",
+      "kb_file": "Weapons/greatsword_t10.md"
+    },
+    {
+      "slug": "pike_t10",
+      "field": "ATK",
+      "listing": "975",
+      "detail": "810",
+      "listing_date": "2026-11-10",
+      "detail_date": "2026-11-07",
+      "kb_file": "Weapons/pike_t10.md"
+    },
+    {
+      "slug": "flail_t10",
+      "field": "ATK",
+      "listing": "939",
+      "detail": "783",
+      "listing_date": "2026-11-10",
+      "detail_date": "2026-11-07",
+      "kb_file": "Weapons/flail_t10.md"
+    },
+    {
+      "slug": "spellstaff_t10",
+      "field": "MATK",
+      "listing": "840",
+      "detail": "756",
+      "listing_date": "2026-11-10",
+      "detail_date": "2026-11-07",
+      "kb_file": "Weapons/spellstaff_t10.md"
+    },
+    {
+      "slug": "wyrmsunder_r10",
+      "field": "ATK",
+      "listing": "1,008",
+      "detail": "840",
+      "listing_date": "2026-11-10",
+      "detail_date": "2026-11-07",
+      "kb_file": "Weapons/wyrmsunder_r10.md"
+    }
+  ]
+}
