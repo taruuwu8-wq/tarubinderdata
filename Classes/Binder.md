@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/novice  
 > **Source title:** Binder · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__novice.md](../Raw/Original_Wiki_Pages/job/job__novice.md)  
 > **Alias URLs (identical content):** https://wiki.bindertowngame.com/skills/novice
 

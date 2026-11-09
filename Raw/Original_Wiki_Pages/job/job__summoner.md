@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/job/summoner"
 source_title: "Summoner · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -94,7 +94,7 @@ Soul Reaper — เก็บวิญญาณมอนที่ฆ่า ปล
 | Harvest · Mastery 20 แต้ม: +10% MATK |
 | [![](https://wiki.bindertowngame.com/img/skill/bind_spirit.png)Raise Dead](https://wiki.bindertowngame.com/skill/bind_spirit) | อัญเชิญ | 1 | ปลุกวิญญาณในตะเกียงเป็น Thrall — ร่างวิญญาณของมอนที่คุณฆ่า (ตะเกียงว่าง = ได้วิญญาณหลงทางให้มีกองทัพอย่างน้อย 5 ตัว) | — | 4.8 วิ |
 | [![](https://wiki.bindertowngame.com/img/skill/spirit_flock.png)Reap](https://wiki.bindertowngame.com/skill/spirit_flock) | ยิง | 5 | ขว้างเคียววิญญาณทะลุแถวมอน 3 ตัว มอนที่ตายจาก Reap ดรอปวิญญาณเพิ่ม | 416% | 6 วิ |
-| [![](https://wiki.bindertowngame.com/img/skill/spirit_pact.png)Soul Lantern](https://wiki.bindertowngame.com/skill/spirit_pact) | Passive | 10 | +5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง (Field Boss ไม่ดรอป) | — | — |
+| [![](https://wiki.bindertowngame.com/img/skill/spirit_pact.png)Soul Lantern](https://wiki.bindertowngame.com/skill/spirit_pact) | Passive | 10 | +5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง · ตีบอส / Elite / หุ่นซ้อม (คุณหรือ Thrall) ได้วิญญาณ 1 ดวงทุก 3 วิ | — | — |
 | [![](https://wiki.bindertowngame.com/img/skill/pack_instinct.png)Grave Pact](https://wiki.bindertowngame.com/skill/pack_instinct) | Passive | 16 | +5 INT, +5 VIT, +5% Max HP, +5 ฟื้น HP, +10% สปีดตี · Thrall HP +30% · ดาเมจ +15% | — | — |
 | [![](https://wiki.bindertowngame.com/img/skill/pack_howl.png)Legion Call](https://wiki.bindertowngame.com/skill/pack_howl) | บัฟ | 23 | ปลุกวิญญาณทั้งหมดพร้อมกัน แล้วบัฟกองทัพและ Party | — | 28.8 วิ |
 | [![](https://wiki.bindertowngame.com/img/skill/alpha_bond.png)Night Legion](https://wiki.bindertowngame.com/skill/alpha_bond) | Passive | 30 | +3 INT, +4.5% MATK, +4.5% Max HP · กลางคืน: Thrall ดาเมจ +24% และมอนทุกตัวดรอปวิญญาณ 2 ดวง | — | — |

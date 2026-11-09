@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/items/mat  
 > **Source title:** วัตถุดิบ · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [items__mat.md](../../Raw/Original_Wiki_Pages/items/items__mat.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md)**
 > - #8: ย้อมสีหมวกและอาวุธได้ ใช้น้ำยา 1 ขวดต่อส่วนที่เปลี่ยน
@@ -47,7 +47,7 @@
 | [ดอกวิญญาณ](https://wiki.bindertowngame.com/item/spirit_bloom) |  | 54 G |
 | [Hone Stone](../Materials/hone_stone.md) |  | 20 G |
 | [ชุดซ่อม](../Materials/repair_kit.md) | ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว | 40 G |
-| [น้ำยาย้อมสี](https://wiki.bindertowngame.com/item/dye_kit) | เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม "เปลี่ยนสีผม/ชุด" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC | 500 G |
+| [น้ำยาย้อมสี](https://wiki.bindertowngame.com/item/dye_kit) | เปลี่ยนสีผม / ชุด / หมวก / อาวุธ 1 ส่วน — กดปุ่ม "เปลี่ยนสี" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC | 500 G |
 | [บัตรเปลี่ยนชื่อ](https://wiki.bindertowngame.com/item/rename_ticket) | เปลี่ยนชื่อตัวละคร 1 ครั้ง — กดไอเทมในกระเป๋า แล้วกด "เปลี่ยนชื่อ" · ชื่อต้องไม่ซ้ำ · ซื้อได้ที่ร้านเพชร | 1 G |
 | [ลูกกวาดฮาโลวีน](https://wiki.bindertowngame.com/item/halloween_candy) | ของกิจกรรมฮาโลวีน — แลกของที่ร้านแลกลูกกวาด (หน้า ผจญภัย) · ทุกเม็ดนับเข้ากองกลางของเซิร์ฟด้วย · เทรด / ขาย / ทิ้งไม่ได้ · ถูกลบเมื่อร้านปิด | — |
 | [ตั๋วเปลี่ยนเพศ](https://wiki.bindertowngame.com/item/gender_ticket) | เปลี่ยนเพศตัวละคร 1 ครั้ง — กดไอเทมในกระเป๋า แล้วกด "เปลี่ยนเพศ" · สี ชุด อุปกรณ์ แฟชั่น คงเดิม · ซื้อได้ที่ร้านเพชร | 1 G |

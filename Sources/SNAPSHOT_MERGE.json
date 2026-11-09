@@ -1,0 +1,1649 @@
+{
+  "snapshot_date": "2026-11-08",
+  "policy": "merge_available_only_no_network",
+  "source_snapshot_preserved": true,
+  "fresh_pages": 182,
+  "hubs": 63,
+  "new_item_details": 119,
+  "pages": [
+    {
+      "source_url": "https://wiki.bindertowngame.com",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/_root.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/_root.md",
+      "sha256": "c5b20adc4b425f736fe5acc8b4fdc0095582118507897f80f8660c8a59baddbd",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "หน้าแรก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/cards",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/cards.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/cards.md",
+      "sha256": "23aa3f662897aa87a5c814d27377d7a39b19706dd023ecc099a6395ad04b4230",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "การ์ด & วิญญาณ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/gem-exchange",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/gem-exchange.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/gem-exchange.md",
+      "sha256": "74be3728118cef79223a516ecfe395d6d7eded07739397835b3053cbd352a43b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Gem Exchange · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/glossary",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/glossary.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/glossary.md",
+      "sha256": "7be7e0c1d9e93985c2f93f1519363282d847f0628455fa001aad73d1368d624c",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "อภิธานศัพท์ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/guide.md",
+      "sha256": "c63db42f5eab465c53368fe968a2c0c9fda27d16d8f91e9da4f5ba9a5ad8f43a",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "คู่มือ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide/daily",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide__daily.json",
+      "raw_file": "Raw/Original_Wiki_Pages/guide/guide__daily.md",
+      "sha256": "256a4e973a10aff7de9501a5424ae39385c0dbeb753eae78552851bd94f4236d",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ทำอะไรทุกวัน · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide/faq",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide__faq.json",
+      "raw_file": "Raw/Original_Wiki_Pages/guide/guide__faq.md",
+      "sha256": "7e2b4d474c0155deb645f2b3610bde376415d115336940412d15b59dd0a8d356",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "คำถามที่พบบ่อย · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide/gold",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide__gold.json",
+      "raw_file": "Raw/Original_Wiki_Pages/guide/guide__gold.md",
+      "sha256": "eb7ba2aaca1c04b20b465fa54b754ffa34ad1c88a075839bac1fe214b54b0508",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "หาเงิน & ใช้เงิน · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide/leveling",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide__leveling.json",
+      "raw_file": "Raw/Original_Wiki_Pages/guide/guide__leveling.md",
+      "sha256": "4cc09ce00a8bd2937b518c0af9aab99ed2bf4905747d164ff4744f1735341f2f",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "เส้นทางเลเวล · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide/power",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide__power.json",
+      "raw_file": "Raw/Original_Wiki_Pages/guide/guide__power.md",
+      "sha256": "ff0d84d8a5fd3253a77fd46e13c46cc27fde5c23a2a899639a1131303e03f1c3",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "อัปพลัง · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/guide/start",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/guide__start.json",
+      "raw_file": "Raw/Original_Wiki_Pages/guide/guide__start.md",
+      "sha256": "e99018407c8ccb738a48207f31d04514711f29b881467d974b239d998baa7196",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "เริ่มเล่นวันแรก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/items.md",
+      "sha256": "17e0db52521fd55fefdb0e8093cc94060679b76500dac0768b3e3f5f1b5f05d9",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ไอเท็ม · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items/drop",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items__drop.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__drop.md",
+      "sha256": "6fbfe3660b98d3d7ac392613047e0d13236c21ace3407cc9bc5fbe471ad56e8f",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ของดรอปมอน · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items/fashion",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items__fashion.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__fashion.md",
+      "sha256": "e9b03319ec5f6dc2d49e1df82e0cd1501cad1f15c2bde8f64589e0bed8930260",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "แฟชั่น (Cash) · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items/gear",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items__gear.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__gear.md",
+      "sha256": "a881e4c2437572080edf2c1bc0042bfc432027b59c68d98e6beac397e623a0f0",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "อุปกรณ์ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items/look",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items__look.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__look.md",
+      "sha256": "e951607a2de33a83c5a58a026f08577dd0d2f87619278bed228847018633f6ce",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "หมวก · หน้า · ปาก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items/mat",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items__mat.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__mat.md",
+      "sha256": "5a223403b1f16473687414fa5347e82f1db556e243f228f75eec41cee451e22c",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "วัตถุดิบ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/items/use",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/items__use.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__use.md",
+      "sha256": "e320d38386ff3f123591ae4dd85e836ccfa51fd9e84e009f52c4b4960ed4a9af",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ยา & อาหาร · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/acolyte",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__acolyte.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__acolyte.md",
+      "sha256": "55e08ed581b15354925099d9c527766c9bc2bcf1734273ad32cb1a0211601bfd",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Acolyte · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/knight",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__knight.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__knight.md",
+      "sha256": "a161c2cbd83a1913de1a5d6a64a30accb0a4a09fb86f009875dc7e6e3d2189fc",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Knight · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/mage",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__mage.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__mage.md",
+      "sha256": "f869ba22133f623829b4fd62144f2802728fb65ef73805e67e87f4da495bc4d3",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Mage · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/novice",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__novice.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__novice.md",
+      "sha256": "c56b74d247a564bdd933b253029c985041de0b8ffc629d4af8386fc22192eeac",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Binder · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/rogue",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__rogue.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__rogue.md",
+      "sha256": "8f7925eb4008c91e875de331e8d55c8541ae22ce35e1f819190628ebe6d8d29b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Rogue · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/scout",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__scout.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__scout.md",
+      "sha256": "a6dd6f0b46b8fa6061b881b4d90878a5dc2b792e122d1f06940b953b557eb99d",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Scout · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/summoner",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__summoner.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__summoner.md",
+      "sha256": "10a7a0374a76845d9a6139c56712dca8159b448e01919e84d6689f5fe6b0cc3b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Summoner · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/job/warrior",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/job__warrior.json",
+      "raw_file": "Raw/Original_Wiki_Pages/job/job__warrior.md",
+      "sha256": "1f5db20a43055a336c98ed2b8a746e31cede51e51514b2ced54dc44906fb2034",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Warrior · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/jobs",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/jobs.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/jobs.md",
+      "sha256": "a1a886be8379737595c87df75f2f6b9dacd4b5130201753709b977bddcb4b68e",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "อาชีพ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/maps",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/maps.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/maps.md",
+      "sha256": "41733a607ac71b712eb8a4bf777098287a923fd9c4fdd9a83137f1c4eb9c9b5b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "แมพ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/mobs",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/mobs.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/mobs.md",
+      "sha256": "2be992fe3ae0f5926329be56ced4725b3d8a2d9e7019434654b087941f7f7db7",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "มอน · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/npcs",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/npcs.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/npcs.md",
+      "sha256": "145af3cf1de67012d6235dcd152beffc985ed5a196c570f47574aa59c776c302",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "NPC · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/refine",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/refine.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/refine.md",
+      "sha256": "374bb092c3ef157a321eedf4c2b7fa998db33d99b5064b71e4ac1601178a473f",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ตีบวก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/skills",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/skills.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/skills.md",
+      "sha256": "f4747b10f4f54e135d4ade908bebc572c2266091203e8436b5ce747808d4b92c",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "อาชีพ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/skills/novice",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/skills__novice.json",
+      "raw_file": "Raw/Original_Wiki_Pages/skills/skills__novice.md",
+      "sha256": "85d5e8df4ce5b326c910c1b8bb396208e0650669906c47f1edc17a25b32d3a97",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Binder · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/systems.md",
+      "sha256": "c4d6b5d95e7ca4db577280210ff46a6af23d962274a5cba1b075cf6ade5c16c3",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ระบบเกม · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/affix",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__affix.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__affix.md",
+      "sha256": "f178f03de04f937d965eae83713ec22da75927d279af84559481ca0c604bbdc7",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Affix & Reroll · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/auto",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__auto.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__auto.md",
+      "sha256": "9cebc4fdf18ced079ac79ee0a7a7f5ebab9909fa3a490624290740d532d2158b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "AUTO · ฟาร์มออฟไลน์ · Rested · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/bosses",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__bosses.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__bosses.md",
+      "sha256": "304d9a4257ff69db86db02476d57c5a05b97099bc2324aa19bc29b45cff136e3",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "บอส · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/class-resources",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__class-resources.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__class-resources.md",
+      "sha256": "fc71263b1843bbb85d670d4c3bf6761b9ead84db894f17bb144c0e4f8e08c3f6",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "กลไกอาชีพ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/classes",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__classes.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__classes.md",
+      "sha256": "98ebe39027c572ea3d70848fb448cefdb5547bc4d1fa1c0f6a735130772b5f55",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Class Trait & Dash · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/crafting",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__crafting.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__crafting.md",
+      "sha256": "dfd313c65253c0d8fbfa52583062c4ced1a150be4a7e9167f2dfb3e05aac96b1",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Craft · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/events",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__events.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__events.md",
+      "sha256": "0feca360c01f0041e0e507fe6e3dc0732238c3c2dfa23f188057ec4d5dbc544f",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Random Event & Omen · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/fashion",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__fashion.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__fashion.md",
+      "sha256": "4ed4b2a8f8ce9e470bdb18b8f8a39c1363b84c311b304ebb911e58a2038a73c3",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "แฟชั่น · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/gathering-50",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__gathering-50.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__gathering-50.md",
+      "sha256": "74314c74cd3cf4b286a12fa04d04358371a8aef18d48df67addd7baec3b68a9b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Gathering หลัง Lv 50 · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/gathering",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__gathering.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__gathering.md",
+      "sha256": "2b3c4c063c715447f9a3ec39f776b388c6272d814d4c5701029f9b79c4463027",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Gathering · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/gem-exchange",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__gem-exchange.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__gem-exchange.md",
+      "sha256": "fbfe0995b41a116dc7bc184305986aafb9434e45914c81da9978f84a8527ed7b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Gem Exchange · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/oils-foods",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__oils-foods.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__oils-foods.md",
+      "sha256": "2db4145fe4b5ca02cabf8001ca14eebcf82645258f84fcee953560d953d4045d",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Oil & อาหารกติกา · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/pass",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__pass.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__pass.md",
+      "sha256": "fdbf8db2457dbd101d273d82383ed7b0a8b60977f546bb28b8f8ed8d7ac160cb",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Season Pass & ล็อกอินรายวัน · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/pets",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__pets.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__pets.md",
+      "sha256": "16a66ad734cc0ca16493c827c5a44fc1c3dc344a62b70fa8c855f3706ff777a2",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Pet · สัตว์เลี้ยง · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/premium",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__premium.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__premium.md",
+      "sha256": "685bbd477694d2052b84596a26de19afa3363d0c334d45d9d437a3f9e21529f1",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Premium · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/pvp",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__pvp.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__pvp.md",
+      "sha256": "e38b76cdc8a42f9779a18cbebb2fe6a63bd0ffaafac2f4e03403e4d39738a71d",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "PvP · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/refine",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__refine.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__refine.md",
+      "sha256": "faf496a7f2205e0e384c5053dac8f700431b88bf6fd1a6fcdee6670621bc6bcb",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ตีบวก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/region-sets",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__region-sets.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__region-sets.md",
+      "sha256": "ea6139383cf99ac9fa650c9c1e80b7eaf4c9faaded7ed615c102e4bd6ffffde7",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Region Set · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/rules",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__rules.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__rules.md",
+      "sha256": "d7916bd434389fca9e936d8fcdee6913f998ca3e5da382b1fdcfa2eec426f710",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "กติกาโลก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/shop",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__shop.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__shop.md",
+      "sha256": "0f446d2314fce5e254fd739d43aca9b4de36f7713ff9f213c87abf85c48581cf",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ร้านค้า · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/smith",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__smith.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__smith.md",
+      "sha256": "6c020a446516929f5be3f1cc9dba585281f2086ddf8a359b0f2244c9370a062c",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ช่างตีเหล็ก · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/social",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__social.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__social.md",
+      "sha256": "220efa173dbbb7095b17c3de06024631609f576efc54a0b0258f3d3835dd95e5",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Party · Guild · ตลาด · เทรด · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/stats",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__stats.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__stats.md",
+      "sha256": "fbee11acb81b8f543701a03f5030864b30e288e97865199cecdb9de9e129b85b",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "สเตตัส & เลเวล · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/statuses",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__statuses.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__statuses.md",
+      "sha256": "29c00f57de652642b4f4c6dbe9867687a8c97484bd166c6b46e4322befba7504",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "สถานะ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/threats",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__threats.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__threats.md",
+      "sha256": "c4a17081ccc8374d1239f8804d5873e0328436627b50ee991f1ca87452dbea8e",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "ลักษณะมอนของแต่ละแมพ · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/uniques",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__uniques.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__uniques.md",
+      "sha256": "98144563b4986f9dab64bfa570897d771fe4c6794cb86e9c3f5f4b5fca05c20d",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Unique · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/weapon-rules",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__weapon-rules.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__weapon-rules.md",
+      "sha256": "5868ef645333989d3ece03242e3486447b580b01d7350eb1f876ccc3bdd5f88d",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "Property · Focused · Grip · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/windows",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__windows.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__windows.md",
+      "sha256": "fa99d3b8cadd10709a3592f8a342d69ff989cdce64a8695d7f1d463c7129f2bf",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "คู่มือหน้าต่างในเกม · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/systems/world-boss",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/hubs/systems__world-boss.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__world-boss.md",
+      "sha256": "ab3a135356896b494c8a89265a98a4afe25bfcd3a995a5ec8373aa3868d1734f",
+      "crawled_date": "2026-11-08",
+      "folder": "hubs",
+      "title": "World Boss · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/ammonite_monocle",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__ammonite_monocle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ammonite_monocle.md",
+      "sha256": "4adb9075ba8ad95e58a507549423730cf4b0837aa5b3b7156d7006bc2199ed88",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Ammonite Monocle · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/amulet_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__amulet_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__amulet_t10_tide.md",
+      "sha256": "d5d5a37af3c95bbbbee9f6e45b6d414ac4c4371956f28bc9b066fc12a0d1b727",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "จี้ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/axe_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__axe_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__axe_t10_tide.md",
+      "sha256": "537d6549f0aad336daa2ed692445c67a99687d1602b2911a0c2ba6fd6d123053",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ขวานผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bandolier_t10_quickdraw_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bandolier_t10_quickdraw_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bandolier_t10_quickdraw_tide.md",
+      "sha256": "7e078297ca31bbd69286003ade04b6386b101bfa723152e9a88cc5679c1c4951",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bandolier_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bandolier_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bandolier_t10_tide.md",
+      "sha256": "798f313d31457aa6edbcbe29b72b497de8178f6340c810decc3bb0546b8a21d1",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bandolier_t10_weighted_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bandolier_t10_weighted_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bandolier_t10_weighted_tide.md",
+      "sha256": "00afc982c6172a01a97383ad0e268f99c50bdab0af2d3ee6d43d8e5457ead92a",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/barnacle_cap",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__barnacle_cap.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__barnacle_cap.md",
+      "sha256": "827fb9595caeda4c507116b325574c605a656275578211a3b24b5810f3c8e7ba",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Barnacle Cap · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bell_t10_swift_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bell_t10_swift_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bell_t10_swift_tide.md",
+      "sha256": "8fe965e1920926cc1018fe6c881e9fbb668830a9f63772ca2da59a0f053df3ae",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bell_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bell_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bell_t10_tide.md",
+      "sha256": "c3cd171f51d1de475151b2876c3dbabf3e55a7c2cfadc104da13ba702e13e492",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ระฆังผู้คุมหุบเขา (Clear) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bell_t10_warm_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bell_t10_warm_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bell_t10_warm_tide.md",
+      "sha256": "347f9f433f32f46ad58c234bfe741589049873b54d4521b5ce1d5262e0d562d5",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ระฆังผู้คุมหุบเขา (Warm) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/belt_t10_agi_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__belt_t10_agi_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_agi_tide.md",
+      "sha256": "53416ac072084c284601c011432b9015fd317c76dfa5d470c14ba284427e8057",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/belt_t10_dex_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__belt_t10_dex_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_dex_tide.md",
+      "sha256": "282195ebb0107c9a0ec943e14368b2fbd76c902f8aefe1b37caf43d42b340fc5",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/belt_t10_int_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__belt_t10_int_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_int_tide.md",
+      "sha256": "e8b5e370fe73a0f6feebc3bc2260c5c5104a1ab6e153f9da38359203099e1475",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เข็มขัดผู้คุมหุบเขา (INT) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/belt_t10_luk_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__belt_t10_luk_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_luk_tide.md",
+      "sha256": "4034179d36286c6aeb397677ecc19e59d5f0aad774475857d1ba7ee7f33d3b69",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/belt_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__belt_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_tide.md",
+      "sha256": "37e2ac519851370a5ce541975cc9f901bafbf88ce0243f1e2d9faab9198b7054",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เข็มขัดผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/belt_t10_vit_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__belt_t10_vit_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_vit_tide.md",
+      "sha256": "c404beebe548cb20eff002772e2462733cf1f50ffb3c64c77c336938a64dce46",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/boots_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__boots_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__boots_t10_tide.md",
+      "sha256": "216914f2e2ef888dd481a6f412653f754b4f96b7cd1d8a0c853c7bafcb980d9e",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "รองเท้าผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bosun_bandana",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bosun_bandana.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bosun_bandana.md",
+      "sha256": "91a6a0c1f12126facc3b927126e4a0310a212dac53c3375990f466d7aa244fab",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Bosun Bandana · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/bow_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__bow_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bow_t10_tide.md",
+      "sha256": "6f627b69d223fe25d2ff96b0ea695851eca5eca66e6b98dc3d598380ffd98926",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ธนูผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/buckler_t10_bash_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__buckler_t10_bash_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__buckler_t10_bash_tide.md",
+      "sha256": "3481fa44ed873febc6ace697248a72443554e19877e6c3fd4f8d9c576697a726",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/buckler_t10_deflect_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__buckler_t10_deflect_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__buckler_t10_deflect_tide.md",
+      "sha256": "6a867dd2acc30b631b19a8ee50c2f6f32d9022a8c429f4d2fdca068d2b0b2aa2",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/buckler_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__buckler_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__buckler_t10_tide.md",
+      "sha256": "108325d3b94d00ea41c6de6fdf2ddf08f2020714d10f3662d4e07ec21c059d40",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/censer_t10_burning_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__censer_t10_burning_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__censer_t10_burning_tide.md",
+      "sha256": "e5eeabb1b66121d275d49d7551d63b66a9e270e760655e1a2db2d1bf5c97cb46",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/censer_t10_purifying_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__censer_t10_purifying_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__censer_t10_purifying_tide.md",
+      "sha256": "266ddb0a57bcd6918aa3c5982d4fb4836cd459c66c798e0fc481c4fa5704eca9",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/censer_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__censer_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__censer_t10_tide.md",
+      "sha256": "d1441ba267feb021522c8440497ddbe1ca049f039c19025adbd4dd3dd39832b2",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/chain_sickle_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__chain_sickle_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_sickle_t10_tide.md",
+      "sha256": "ac06bf5e91996e81d8256345730e81665241bfad642e3ea879b01ac67bcaf76a",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เคียวโซ่ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/chain_t10_drag_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__chain_t10_drag_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_t10_drag_tide.md",
+      "sha256": "d362bfa05a8ea5b2216fd31dfb8be704618cd5d711f579a9477f2433279e5080",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โซ่ผู้คุมหุบเขา (Drag) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/chain_t10_link_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__chain_t10_link_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_t10_link_tide.md",
+      "sha256": "06396a00677a6417593129d1b888d8060b11981aa2d92f9af357b53c1dcd651a",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โซ่ผู้คุมหุบเขา (Link) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/chain_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__chain_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_t10_tide.md",
+      "sha256": "02174d4af2632c07a8578b2dc10c5b5c6417ae2e9bd1b6dcf2d1567ea768f628",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โซ่ผู้คุมหุบเขา (Bind) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/charm_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__charm_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__charm_t10_tide.md",
+      "sha256": "fab0e7b0fae2c48ac1f4039f0575fdccd9d5a5a16b98b8006cc1ce824d5988a9",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เครื่องรางผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/compass_eyeglass",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__compass_eyeglass.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__compass_eyeglass.md",
+      "sha256": "ce6b36be1951e75a57c5e33bdd7f0cf7df7779e22bd54ae96e9364fdbea5439e",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Sea Compass Eyeglass · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/coral_crest",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__coral_crest.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__coral_crest.md",
+      "sha256": "a22992802314c5b9ae10ca3ed77dabed90e14b83f9eedb07dd54a6a69c2c716d",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Coral Crest · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/crossbow_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__crossbow_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__crossbow_t10_tide.md",
+      "sha256": "74cae35ecec4c68734aced1ef054245d26a4937ed94be41bd1efc399c5705473",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "หน้าไม้ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/dagger_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__dagger_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__dagger_t10_tide.md",
+      "sha256": "64f819246c81b1a25bfdf6c353441ca8f2d19e7bd9716ba49b4db2d5dca761fb",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "มีดสั้นผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/drake_goggles",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__drake_goggles.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__drake_goggles.md",
+      "sha256": "731720e1aef5546b63a6e3b8a6df3f9176e096d43f5fd471fee787b8a85ee6ed",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Kite Drake Goggles · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/eel_whiskers",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__eel_whiskers.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__eel_whiskers.md",
+      "sha256": "6967b69ab8e592711c76ba7fcfd5fce27ab1d3a6b204a34606a2bd9ba821495d",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Eel Whiskers · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/familiar_t10_frost_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__familiar_t10_frost_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__familiar_t10_frost_tide.md",
+      "sha256": "f63b6816508e7687ef8c39574673d463eb7a070f9c5336643c2ccc07f15dddc8",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/familiar_t10_storm_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__familiar_t10_storm_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__familiar_t10_storm_tide.md",
+      "sha256": "4633eb7550e5a9bc08aa6df1b68b0b1aec3dcf902ed805d752e4af2378ecc41f",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/familiar_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__familiar_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__familiar_t10_tide.md",
+      "sha256": "7d3ad165e16586993764a55d853dbcb9a1967427da6f29b5de517e518a76bfb1",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/flail_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__flail_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__flail_t10_tide.md",
+      "sha256": "267ddc2b0bad70706aafffe64f76a88c8b4a16e5cc3469e0480960f80c31de3b",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/furnace_mask",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__furnace_mask.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__furnace_mask.md",
+      "sha256": "a478787e931f4f1d963f6ae6c815547fb01d4f343c3fcd3634b99e6fc7d1b380",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Shellforge Mask · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/greatstaff_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__greatstaff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greatstaff_t10_tide.md",
+      "sha256": "361fa3ce44f5e02820535660b5c059acda8a76d01b081717b16336a3a2beaeb0",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ไม้เท้ายาวผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/greatsword_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__greatsword_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greatsword_t10_tide.md",
+      "sha256": "0354fc375e9628c48e788abd441159acf09ecf12a6261f9a94c7604e2081d333",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ดาบสองมือผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/greaves_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__greaves_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greaves_t10_tide.md",
+      "sha256": "e020533f126b5f022adad732cd8cf1c44adeb21fa4d802c18e2634013f75a6eb",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สนับแข้งผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/gull_feather",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__gull_feather.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__gull_feather.md",
+      "sha256": "3a6ceaf733129398468cc6530018da4542e29e7f0b98258181e11cfa76e4e833",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Gull Feather · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/hand_crossbow_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__hand_crossbow_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__hand_crossbow_t10_tide.md",
+      "sha256": "504c4f3aa6baa67a389fb5bf337668a89e2f32e8e46c716e79440368b6332046",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "หน้าไม้มือผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/hermit_pipe",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__hermit_pipe.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__hermit_pipe.md",
+      "sha256": "0c6145088a1877cbfa2633a829cf79fa62be1fb03bf02a2856d819d04187bd54",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Forge Hermit Pipe · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/hound_muzzle",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__hound_muzzle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__hound_muzzle.md",
+      "sha256": "d34523dfbec53c8eb841996faaccf74c6530e154a42012ee37c0c1d7658b8b67",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Coral Muzzle · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/javelin_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__javelin_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__javelin_t10_tide.md",
+      "sha256": "520bcc15867f5e53a7b826dbec2d8c1f21d42e108311a22435bc23440304c48c",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "หลาวผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/kite_shield_t10_oath_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__kite_shield_t10_oath_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kite_shield_t10_oath_tide.md",
+      "sha256": "9aea608e551d500397546c9d446061108a4131b35e183139bb4185b29336473b",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/kite_shield_t10_pennant_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__kite_shield_t10_pennant_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kite_shield_t10_pennant_tide.md",
+      "sha256": "2e5c45c8d0b334a96e6e0e44cadaadba36218e62487d5b60d0af1b5e317830a5",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/kite_shield_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__kite_shield_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kite_shield_t10_tide.md",
+      "sha256": "62a7394722c4d5c76f0087c4c5296f344530186882d8098724be792dba959f75",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/knuckles_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__knuckles_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__knuckles_t10_tide.md",
+      "sha256": "f4520a6291477105400aaefa33f58b2bb4406f3d90bf0a85c65dc30339fe59d2",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สนับมือผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/kraken_tricorn",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__kraken_tricorn.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kraken_tricorn.md",
+      "sha256": "6e8c7e206e4a2778c2b8b90c5c399396e4d96edff0bcdce7bbabc768959c299b",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Kraken Tricorn · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/kris_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__kris_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kris_t10_tide.md",
+      "sha256": "fc1ff1c0591ae9b85905e93402ab232c8d761afa0b6858cd62b28f18e0897fee",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กริชผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/lance_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__lance_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lance_t10_tide.md",
+      "sha256": "514d505195e46d7f9fe4cbfe71d5d34a5878fe97e5f51c9df90cf8af4c8aa3ff",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "หอกทหารม้าผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/lantern_hat",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__lantern_hat.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_hat.md",
+      "sha256": "a321634f0577c1b095bf24f26f64d020964641cb03ab67fa7dd95735ae96ad2a",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Anglerlight Hat · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/lantern_t10_binding_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__lantern_t10_binding_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_t10_binding_tide.md",
+      "sha256": "e4ec3f2d3db976b5e8e870a3836e6fbfd42ef84e28ce9a66249c36218608e838",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/lantern_t10_champion_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__lantern_t10_champion_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_t10_champion_tide.md",
+      "sha256": "806c6e7427158e9d1c9e43d90c4369d08f2a8c5cb1098f18c8836b4d9c233c87",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/lantern_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__lantern_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_t10_tide.md",
+      "sha256": "a03b39d267727a7b74b0fad24e47a4b298760435947a735183457a34b7f09a63",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/leather_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__leather_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__leather_t10_tide.md",
+      "sha256": "ac37c0914dd992239da4b4672b5496d4bcb5909143220b1f004c6f09ee60d019",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ชุดหนังผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/lightstaff_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__lightstaff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lightstaff_t10_tide.md",
+      "sha256": "88b6ab377370b14d58006bf85582cba92fab105a922352c04ce82114b83e7645",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ไม้เท้าแสงผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/mace_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__mace_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__mace_t10_tide.md",
+      "sha256": "c972ce8b154b8d46a7731e9f29294246409d808fd3fdd4562c2577d97718465a",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ค้อนผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/maul_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__maul_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__maul_t10_tide.md",
+      "sha256": "be153692d14f714be28a158e9770f2d8affc384c4a63a81448e2dcd73d6cb8a3",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/mimic_grin",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__mimic_grin.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__mimic_grin.md",
+      "sha256": "d4f6d02d0c149dc672c26005abc7be0144d199281528ddffa8fc9a994b463ca8",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Mimic Grin · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/necklace_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__necklace_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__necklace_t10_tide.md",
+      "sha256": "61fc0afe4896e4a5e34e1af00836cca295391ed34efad6978e481464c44a3471",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สร้อยคอผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/orb_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__orb_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__orb_t10_tide.md",
+      "sha256": "c0a01a213ffaa508a0aff06daf47d62622aff9fe7bb0572b838184a66a0b897b",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ลูกแก้วเวทผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/ox_ring",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__ox_ring.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ox_ring.md",
+      "sha256": "d0a3b55e1370df44166942a0beb1f94a40f40f85ca70abec0df951da0d7b5996",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Pearl Nose Ring · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/paddy_hat",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__paddy_hat.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__paddy_hat.md",
+      "sha256": "4b942462426b47d47b50e48054d4c3997d3480664b70adb1d46aa6446ec08b56",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Tidewater Straw Hat · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/parrying_dagger_t10_flourish_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__parrying_dagger_t10_flourish_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_flourish_tide.md",
+      "sha256": "6d19244cc4c8f9a4c4f4cb1962dd97133bdeb0c51048c4f625930aa72ee2bc22",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/parrying_dagger_t10_slip_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__parrying_dagger_t10_slip_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_slip_tide.md",
+      "sha256": "87b269b7a8a1947b7ba9a1b275a45c11516fcd8954f4a212048554b6938d4578",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "มีดปัดผู้คุมหุบเขา (Slip) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/parrying_dagger_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__parrying_dagger_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_tide.md",
+      "sha256": "884e057d962af8444648e0c48f7511b5eb7004bbc5b99db846e9ce01c0428f6e",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "มีดปัดผู้คุมหุบเขา (Counter) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/pike_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__pike_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__pike_t10_tide.md",
+      "sha256": "bc90d2dd2d116cb5ac20cfdc93cef774bd0cd4458ed72292ccf8069f86a89848",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ทวนผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/plate_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__plate_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__plate_t10_tide.md",
+      "sha256": "7f2499eed9d3fb944eadd27ec3b9f7c418b1eb87a2f9801de1170a40b1eeadc3",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เกราะผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/poison_vial_t10_confusion_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__poison_vial_t10_confusion_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__poison_vial_t10_confusion_tide.md",
+      "sha256": "cc093066287ec39b31aa955a3fa1fc41ec63409e697001628a443c5153933212",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/poison_vial_t10_numbing_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__poison_vial_t10_numbing_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__poison_vial_t10_numbing_tide.md",
+      "sha256": "394cf91d2cd0184746b7f7ffea5b11ebc03ccced7cd88a68e70d7836b3edd28f",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/poison_vial_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__poison_vial_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__poison_vial_t10_tide.md",
+      "sha256": "01a32b34ed582f575432f4b197357bbdfa13011bea1fd8a49f281c68832e1377",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/prism_t10_focus_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__prism_t10_focus_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__prism_t10_focus_tide.md",
+      "sha256": "35a2d7838f99b9e4c4b6222e90230280c71c17ee0ae3d22c35227fe9bd58a11b",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ปริซึมผู้คุมหุบเขา (Lens) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/prism_t10_refract_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__prism_t10_refract_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__prism_t10_refract_tide.md",
+      "sha256": "fce03d962a72b6b8cc2162509df5e97b0483c3cd57e28edccd82c5680fc9e8a9",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ปริซึมผู้คุมหุบเขา (Refract) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/prism_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__prism_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__prism_t10_tide.md",
+      "sha256": "26f7c37e8de17cb346913b3fd396e39e5b43b10b41721aca53aef519cd679a27",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ปริซึมผู้คุมหุบเขา (Split) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/quiver_t10_broadhead_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__quiver_t10_broadhead_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__quiver_t10_broadhead_tide.md",
+      "sha256": "a47bb447eb44bae02ffcb18e8f27ceecb343bd5e5625e3cbe58abe1fbfb07083",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/quiver_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__quiver_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__quiver_t10_tide.md",
+      "sha256": "aa545d7d69f4575bd1bd2f86fd7725929234122c55663e74c5790caea024d2c1",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/quiver_t10_whistling_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__quiver_t10_whistling_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__quiver_t10_whistling_tide.md",
+      "sha256": "2de99f426a62c57f7cc8ab4e67f4350fb5a5c45d385cc684f4d778bc89bfc90f",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/rail_goggles",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__rail_goggles.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rail_goggles.md",
+      "sha256": "0bdbaf5575958327a312a8a4b24ae07bf994697b362de534f54c9b9d27d404da",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Tiderail Goggles · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/rapier_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__rapier_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rapier_t10_tide.md",
+      "sha256": "c7cb45757cadab89baef1991e8946222abf97ec1ad470b58d1bfad26b5019dda",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เรเปียร์ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/reed_whistle",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__reed_whistle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__reed_whistle.md",
+      "sha256": "aaf8d6a505a81105cfb07a5fc85736e48ee8e8cea78ca657fe60e44197d79586",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Reed Whistle · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/ring_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__ring_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ring_t10_tide.md",
+      "sha256": "f8691d6676f5bd8f503123c68b48f5a6571a86430546b2e94b8629258fbe4211",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "แหวนผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/robe_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__robe_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__robe_t10_tide.md",
+      "sha256": "da1100811f0ec33ecb2fab4cca92b2ca5a2225ddc534944cc6a4d27d2324f453",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เสื้อคลุมผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/rod_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__rod_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rod_t10_tide.md",
+      "sha256": "e949fea2ef42076f17ffe5f383624e7329f1ec7b4c3b29833c66e543826811f1",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "คทาแสงผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/scythe_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__scythe_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__scythe_t10_tide.md",
+      "sha256": "154331a63439559f2ed458ea6e683cab90391ec0be05683b1f0ca30b7fbd8803",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "เคียวใหญ่ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/senator_laurel",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__senator_laurel.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__senator_laurel.md",
+      "sha256": "cf3e60be49cd157b20f0dd0b730e85f3251ca999a6863236ea85c2c057d5cc53",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Kelp Laurel · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/sentinel_visor",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__sentinel_visor.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sentinel_visor.md",
+      "sha256": "5070aa1f81fec858388de95135081402b1415f26df35f70a6de0e823aa87a4e9",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Drowned Visor · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/serpent_veil",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__serpent_veil.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__serpent_veil.md",
+      "sha256": "63c9555359d00f00cbf41646bc2fc2d6020428ba3281ee9ae99ade449637187f",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Fountain Veil · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/shield_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__shield_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__shield_t10_tide.md",
+      "sha256": "ac4073c03e05de229112f94951475888fa699e6f763f3abe7d0945423db9b28f",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่ผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/skull_t10_elder_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__skull_t10_elder_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__skull_t10_elder_tide.md",
+      "sha256": "45e69a4f3fec046341b9329e3821c146ab972fe72729a3f4f0b849aec53c3457",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กะโหลกผู้คุมหุบเขา (Elder) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/skull_t10_smoldering_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__skull_t10_smoldering_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__skull_t10_smoldering_tide.md",
+      "sha256": "98a722b6c9413c706f8d8220c6a2f09be0f8ee1d19bac521b1c5da12b7ce87ce",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/skull_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__skull_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__skull_t10_tide.md",
+      "sha256": "e198718eb5b6f1c5798f0b47fb6ac9eb6d7751225c82efe6d0d03436aaaec9fe",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/sling_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__sling_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sling_t10_tide.md",
+      "sha256": "eac12fb9f7b012a745a9233385d59022d21f4fb3a2d27ffce2f21e4e11d474a1",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "สลิงผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/spear_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__spear_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__spear_t10_tide.md",
+      "sha256": "4124d53db86cf2ffcfcb251638f311f56128405438353587d1a5beb2bb0460b0",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "หอกผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/spellstaff_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__spellstaff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__spellstaff_t10_tide.md",
+      "sha256": "57ef9be6cbae734a628de8822b3693e2140fde3e8b6b531b80e9166d92100ff6",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ไม้เท้าศึกผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/staff_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__staff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__staff_t10_tide.md",
+      "sha256": "4f0710b4aaf3329354904b75a32bab686f6f444be0d5d7eac8865d4e58cf4504",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ไม้เท้าผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/station_cap",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__station_cap.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__station_cap.md",
+      "sha256": "a065056a37ea622e12f6a663bd7e85ce3dd8ad51174e91f34b164aeb2d508fdc",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Harbourmaster Cap · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/stone_pouch_t10_fire_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__stone_pouch_t10_fire_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_fire_tide.md",
+      "sha256": "1f5b628fb69bb4aedc91ef76d138f5c1f0981d791d76862ff56cfb3204c82a81",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ถุงหินผู้คุมหุบเขา (Fire) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/stone_pouch_t10_gravel_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__stone_pouch_t10_gravel_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_gravel_tide.md",
+      "sha256": "aa2c95f661e2f557120df4dae0f81f15809efaa7dcb64fe0f77b9fcb998fb2eb",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/stone_pouch_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__stone_pouch_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_tide.md",
+      "sha256": "3656997c573b77aa02b0157bbe96798a39cefe34913840a2fd374cab822924b8",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ถุงหินผู้คุมหุบเขา (Round) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/storm_plume",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__storm_plume.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__storm_plume.md",
+      "sha256": "96fecdead2eeedcdc4aea32f6bbd6b953a3908397e679f204e885b326c127e7b",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Storm Plume · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/sword_t10_alt_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__sword_t10_alt_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sword_t10_alt_tide.md",
+      "sha256": "4aadec800e9c194f39b5fe19de176cecd0c2bd3ebdd40b2352e848a7e97b1355",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ดาบผู้คุมหุบเขา (เวท) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/sword_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__sword_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sword_t10_tide.md",
+      "sha256": "5fc8741971c9162a8c887c5ca5aa307aa1161343177dc1746dc56874a6c8e177",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ดาบผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/throwing_knives_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__throwing_knives_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__throwing_knives_t10_tide.md",
+      "sha256": "b5e8dafddee55ed7ceb26dd8c9822706e1131eb70b5c5d7340ec2123cdbae8dc",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "มีดบินผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/tome_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__tome_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tome_t10_tide.md",
+      "sha256": "95dd6559bc9bc13dbaa03a8a44d8feb4d18ed422964d7ffef149b3d3ba379956",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ตำราผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/tortoise_helm",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__tortoise_helm.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tortoise_helm.md",
+      "sha256": "9e4f684c9935940d6dd87f17b477a2283e99aeb59d1bfd66248a25c6c2b70578",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "Coralback Helm · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/tower_shield_t10_aegis_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__tower_shield_t10_aegis_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tower_shield_t10_aegis_tide.md",
+      "sha256": "a3230842b468cef1be64be70e8541c088968d09333b95a6189f70eb926c3e6b5",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/tower_shield_t10_rampart_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__tower_shield_t10_rampart_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tower_shield_t10_rampart_tide.md",
+      "sha256": "036a63c39c868be70082b49a52c95934a1dc4e4d1c4707f0e823156fe7dc321a",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/tower_shield_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__tower_shield_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tower_shield_t10_tide.md",
+      "sha256": "2648ebbc862a78f5d7e31795f5cf13226e5ecf5d23b8b3c970f1edbfaf1f717d",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/wand_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__wand_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__wand_t10_tide.md",
+      "sha256": "44f22ac7a714c27deca83822d62fe52d89fa13fdf32b67f04eefdfa2b54e561c",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "คทาผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/war_banner_t10_march_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__war_banner_t10_march_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__war_banner_t10_march_tide.md",
+      "sha256": "555409749f6a553548b3d957931a9c81164d0ae1c1532ace46539fa9c1527556",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ธงศึกผู้คุมหุบเขา (March) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/war_banner_t10_taunt_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__war_banner_t10_taunt_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__war_banner_t10_taunt_tide.md",
+      "sha256": "dccb87cfac1689da735fc6f4fcf0303d01862913f9fe20915dcf4741a6269e18",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/war_banner_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__war_banner_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__war_banner_t10_tide.md",
+      "sha256": "4711c06f49fa1270305e9001d471fd456a5322b663c48a3851adf23366db1a15",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "ธงศึกผู้คุมหุบเขา (Rally) · Tidebound · Binder Town Wiki"
+    },
+    {
+      "source_url": "https://wiki.bindertowngame.com/item/ward_t10_tide",
+      "snapshot_file": "Raw/Snapshots/2026-11-08/new_items/item__ward_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ward_t10_tide.md",
+      "sha256": "70df25d6298bb85c8b39b636550773aa118f3c0d9f629135f9c8c8c96f5b1e73",
+      "crawled_date": "2026-11-08",
+      "folder": "new_items",
+      "title": "โล่เวทผู้คุมหุบเขา · Tidebound · Binder Town Wiki"
+    }
+  ],
+  "manifest_urls": 2517
+}

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/world-boss"
 source_title: "World Boss · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -13,9 +13,9 @@ verification_status: "WIKI"
 
 ## รางวัลตามอันดับ
 
-- Top 10: Gold ~20 นาที · เพชร 2 · Spirit Coin 7 · Repair Kit 2 · Hone Stone 3 · Unique 3% · Card 0.6%
-- Top 100: Gold ~15 นาที · เพชร 1.5 · Spirit Coin 6 · Repair Kit 1 · Hone Stone 2 · Unique 1.5% · Card 0.3%
-- ผู้ร่วมสู้: Gold ~10 นาที · เพชร 1 · Spirit Coin 5 · Repair Kit 1 · Hone Stone 1 · Unique 1% · Card 0.2%
+- Top 10: Gold ~20 นาที · เพชร 2 · Spirit Coin 7 · Repair Kit 2 · Hone Stone 3 · Unique 3% · การ์ด 0.6%
+- Top 100: Gold ~15 นาที · เพชร 1.5 · Spirit Coin 6 · Repair Kit 1 · Hone Stone 2 · Unique 1.5% · การ์ด 0.3%
+- ผู้ร่วมสู้: Gold ~10 นาที · เพชร 1 · Spirit Coin 5 · Repair Kit 1 · Hone Stone 1 · Unique 1% · การ์ด 0.2%
 
 ## ต่อไป
 

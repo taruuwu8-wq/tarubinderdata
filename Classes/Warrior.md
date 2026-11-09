@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/warrior  
 > **Source title:** Warrior · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__warrior.md](../Raw/Original_Wiki_Pages/job/job__warrior.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #15: PvP Warrior: Rend / Gash หลบไม่ได้
@@ -59,6 +59,12 @@
 เมื่อใช้สกิล **Sunder** สกิล Warrior ที่โดนเป้า ลด DEF / MDEF ของเป้า **4%** ต่อสแตก สูงสุด **5** สแตก ( **6** วิ) — ทุกคนที่ตีเป้านั้นแรงขึ้น
 
 ตอนสู้ผู้เล่น **Relentless PvP** ผู้เล่นหลบสกิลของ Warrior ได้แค่ **70%** ของปกติ (ตีธรรมดาหลบได้ตามเดิม)
+
+ตอนสู้ผู้เล่น **Rage Blood PvP** Rend / Gash ใส่ผู้เล่นหลบไม่ได้ · ยิ่ง HP ต่ำยิ่งดูดเลือดจากผู้เล่น (สูงสุด **20%** ของดาเมจ เริ่มที่ HP **60%**)
+
+ตอนสู้ผู้เล่น **Last Stand PvP** ผู้เล่นตีจน HP ต่ำกว่า **30%** ได้โล่ **15%** ของ HP สูงสุด **6** วิ (ทุก **60** วิ)
+
+ตอนสู้ผู้เล่น **Grievous Wound PvP** Rend / Gash ใส่ผู้เล่น ทำให้ฮีลที่เป้าได้รับลดลง **40%** เป็นเวลา **5** วิ
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+25%** / บอส **+55%** / PvP **+15%**)
 

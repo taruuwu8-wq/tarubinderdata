@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/scout  
 > **Source title:** Scout · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__scout.md](../Raw/Original_Wiki_Pages/job/job__scout.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #22: PvP Scout: เป้าที่ติด Mark หลบได้ครึ่งเดียว
@@ -56,6 +56,10 @@
 เมื่อฆ่ามอน **Field Dressing** ฆ่ามอนที่คุณตีดาเมจมากสุด ฮีล **10%** ของ HP สูงสุด
 
 เมื่อโดนมอนรุม **Survival Instinct** โดนมอนรุม **2** ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน **35%**
+
+ตอนสู้ผู้เล่น **Marksman PvP** ผู้เล่นที่ติด Mark ของคุณหลบได้แค่ **50%** ของปกติ · ยิงจากระยะ **5** ช่องขึ้นไปแรง **×1.2**
+
+ตอนสู้ผู้เล่น **Disengage PvP** โดนผู้เล่นตีในระยะ **2.5** ช่อง กระโดดถอย **4** ช่อง (ทุก **10** วิ)
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+15%** / บอส **+40%** / PvP **+15%**)
 

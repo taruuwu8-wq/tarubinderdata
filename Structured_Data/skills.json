@@ -101,7 +101,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Night Legion",
@@ -168,7 +169,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Anchor Arrow",
@@ -318,7 +320,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Arcane Attunement",
@@ -401,7 +404,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Archmage",
@@ -468,7 +472,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Arrow Rain",
@@ -619,7 +624,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Assassinate",
@@ -770,7 +776,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Backstep",
@@ -871,7 +878,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Shield Bash",
@@ -1021,7 +1029,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Battle Hardened",
@@ -1104,7 +1113,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Berserk Instinct",
@@ -1187,7 +1197,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Raise Dead",
@@ -1337,7 +1348,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Blade Discipline",
@@ -1420,7 +1432,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Blast Arrow",
@@ -1571,7 +1584,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bless",
@@ -1672,7 +1686,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Blessed Soul",
@@ -1755,7 +1770,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bloodlust",
@@ -1838,7 +1854,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Bolt",
@@ -1988,7 +2005,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bombardier",
@@ -2071,7 +2089,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bulwark Training",
@@ -2154,7 +2173,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Grave Toll",
@@ -2305,7 +2325,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Surge",
@@ -2456,7 +2477,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Cleave",
@@ -2607,7 +2629,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Crusader",
@@ -2674,7 +2697,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Phylactery",
@@ -2741,7 +2765,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Deadeye",
@@ -2808,7 +2833,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Death Mark",
@@ -2875,7 +2901,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Pale Shroud",
@@ -2942,7 +2969,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Devotion",
@@ -3025,7 +3053,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Dirty Tricks",
@@ -3108,7 +3137,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Divine Chain",
@@ -3259,7 +3289,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Eagle Eye",
@@ -3342,7 +3373,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Echo Attunement",
@@ -3425,7 +3457,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Echo Wave",
@@ -3576,7 +3609,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Enlightened",
@@ -3643,7 +3677,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Essence Hunger",
@@ -3726,7 +3761,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Elusion",
@@ -3809,7 +3845,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Execution",
@@ -3960,7 +3997,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Fade",
@@ -4060,7 +4098,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Faith",
@@ -4143,7 +4182,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Fan of Knives",
@@ -4293,7 +4333,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Flurry",
@@ -4443,7 +4484,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Focus",
@@ -4543,7 +4585,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Focus Mind",
@@ -4644,7 +4687,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Frostbind",
@@ -4795,7 +4839,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gale Volley",
@@ -4946,7 +4991,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gash",
@@ -5097,7 +5143,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gentle Hands",
@@ -5180,7 +5227,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Glyph Study",
@@ -5263,7 +5311,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Guardian Charge",
@@ -5414,7 +5463,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Hemorrhage",
@@ -5481,7 +5531,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Holy Lance",
@@ -5632,7 +5683,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Holy Wrath",
@@ -5715,7 +5767,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Ice Lance",
@@ -5866,7 +5919,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Inner Fire",
@@ -5949,7 +6003,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Iron Guard",
@@ -6099,7 +6154,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Iron Hide",
@@ -6182,7 +6238,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Judgment Blade",
@@ -6333,7 +6390,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Keen Edge",
@@ -6406,7 +6464,8 @@
     "summoner",
     "novice"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Killing Edge",
@@ -6489,7 +6548,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Last Stand",
@@ -6556,7 +6616,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Leap Slam",
@@ -6656,7 +6717,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Lethality",
@@ -6739,7 +6801,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Light Step",
@@ -6812,7 +6875,8 @@
     "summoner",
     "novice"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Requiem",
@@ -6963,7 +7027,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Mana Veil",
@@ -7063,7 +7128,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Martyr",
@@ -7130,7 +7196,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Meditation",
@@ -7213,7 +7280,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Mend",
@@ -7363,7 +7431,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Meteor Wave",
@@ -7514,7 +7583,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Mind Blast",
@@ -7665,7 +7735,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Night Veil",
@@ -7732,7 +7803,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Nova",
@@ -7883,7 +7955,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Oathkeeper",
@@ -7950,7 +8023,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Open Veins",
@@ -8033,7 +8107,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Legion Call",
@@ -8184,7 +8259,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Grave Pact",
@@ -8267,7 +8343,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Phantom Step",
@@ -8350,7 +8427,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Piercing Shot",
@@ -8501,7 +8579,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Powder Kit",
@@ -8584,7 +8663,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Radiant Burst",
@@ -8685,7 +8765,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Rampage",
@@ -8752,7 +8833,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Rend",
@@ -8902,7 +8984,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Renewal",
@@ -9053,7 +9136,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Resonance",
@@ -9136,7 +9220,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Reverb Field",
@@ -9287,7 +9372,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Rune Lore",
@@ -9370,7 +9456,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Rune Sovereign",
@@ -9437,7 +9524,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Saint",
@@ -9504,7 +9592,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sanctuary",
@@ -9655,7 +9744,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Second Wind",
@@ -9806,7 +9896,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Shadow Dance",
@@ -9957,7 +10048,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Shadow Strike",
@@ -10108,7 +10200,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Grave Guardian",
@@ -10259,7 +10352,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Warden's Oath",
@@ -10342,7 +10436,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Ward",
@@ -10492,7 +10587,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Shield Wall",
@@ -10575,7 +10671,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Siege Master",
@@ -10642,7 +10739,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bulwark Slam",
@@ -10793,7 +10891,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Heavy Slash",
@@ -10943,7 +11042,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Smite",
@@ -11093,7 +11193,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Smoke Bomb",
@@ -11244,7 +11345,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Grave Chill",
@@ -11327,7 +11429,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Filch",
@@ -11478,7 +11581,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Endless Requiem",
@@ -11545,7 +11649,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Bolt",
@@ -11695,7 +11800,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Siphon",
@@ -11778,7 +11884,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Tether",
@@ -11928,7 +12035,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spell Mastery",
@@ -12011,7 +12119,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Echo",
@@ -12161,7 +12270,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Reap",
@@ -12312,7 +12422,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Soul Lantern",
@@ -12395,7 +12506,8 @@
    "classes": [
     "summoner"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Rune",
@@ -12545,7 +12657,8 @@
    "classes": [
     "mage"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Shot",
@@ -12695,7 +12808,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Steady Aim",
@@ -12778,7 +12892,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sword Mastery",
@@ -12861,7 +12976,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Tailwind",
@@ -12944,7 +13060,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Tough Skin",
@@ -13017,7 +13134,8 @@
     "summoner",
     "novice"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Twin Strafe",
@@ -13168,7 +13286,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Unbreakable",
@@ -13235,7 +13354,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Valor",
@@ -13302,7 +13422,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Venom Craft",
@@ -13369,7 +13490,8 @@
    "classes": [
     "rogue"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "War Horn",
@@ -13450,7 +13572,8 @@
    "classes": [
     "knight"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Warcry",
@@ -13531,7 +13654,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Whirlwind",
@@ -13682,7 +13806,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "active"
+   "skill_type": "active",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Windwalker",
@@ -13765,7 +13890,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Wound Mastery",
@@ -13848,7 +13974,8 @@
    "classes": [
     "warrior"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Zeal",
@@ -13931,7 +14058,8 @@
    "classes": [
     "acolyte"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Zephyr Soul",
@@ -13998,7 +14126,8 @@
    "classes": [
     "scout"
    ],
-   "skill_type": "passive"
+   "skill_type": "passive",
+   "freshness_status": "not_refreshed_after_2026-11-07"
   }
  ]
 }

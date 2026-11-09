@@ -6,7 +6,7 @@
 > **Raw original:** [skill__fade.md](../../Raw/Original_Wiki_Pages/skill/skill__fade.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-07. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md)**
 > - #19: ฮิตแรกหลัง Dash / Fade แรงขึ้น 35%

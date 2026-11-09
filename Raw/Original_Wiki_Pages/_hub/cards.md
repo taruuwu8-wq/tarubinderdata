@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/cards"
 source_title: "การ์ด & วิญญาณ · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -136,6 +136,12 @@ Lv 100 ขึ้นไปใช้ราคาเดียวกับ Lv 81–9
 | 50 | ATK +2% · MATK +2% |
 | 60 | ลดดาเมจที่ได้รับ 3% |
 | 75 | โอกาสคริ +2% · STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2 |
+| 100 | Max HP +3% |
+| 150 | ATK +2% · MATK +2% |
+| 200 | STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2 |
+| 275 | ลดดาเมจที่ได้รับ 2% |
+| 350 | ATK +2% · MATK +2% |
+| 425 | STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2 |
 
 ## ไอเท็มที่เกี่ยวกับการ์ด
 

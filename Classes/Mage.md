@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/mage  
 > **Source title:** Mage · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__mage.md](../Raw/Original_Wiki_Pages/job/job__mage.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #21: PvP Mage: โดนตีประชิดแล้วปล่อย Frost Nova ผลัก 3 ช่องและตรึง 1.5 วิ (ทุก 12 วิ)
@@ -53,6 +53,8 @@
 เมื่อ HP ต่ำกว่า 40% **Arcane Ward** HP ต่ำกว่า **40%** ได้โล่ **35%** ของ HP สูงสุด **6** วิ (ติดได้ทุก **30** วิ)
 
 เมื่อโดนมอนรุม **Arcane Bulwark** โดนมอนรุม **3** ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน **30%**
+
+ตอนสู้ผู้เล่น **Frost Nova PvP** โดนผู้เล่นตีในระยะ **2.5** ช่อง ผลักศัตรูผู้เล่นรอบตัว **3** ช่องออกไป **3** ช่องแล้วแช่แข็ง **1.5** วิ (ทุก **12** วิ)
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+5%** / บอส **+12%** / PvP **+15%**)
 

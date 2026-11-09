@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/shop  
 > **Source title:** ร้านค้า · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__shop.md](../Raw/Original_Wiki_Pages/systems/systems__shop.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #11: อีเวนต์เติมเงินรับ Gems x2 วันที่ 9–15 พ.ย.
@@ -115,6 +115,112 @@
 | **Galaxy** | 620 | แฟชั่น · aura |
 | **Ghost Vortex** | 620 | แฟชั่น · aura |
 | **Jet Hoverboard** | 590 | แฟชั่น · mount |
+| **Magic Carpet** | 590 | แฟชั่น · mount |
+| **Puff Cloud** | 590 | แฟชั่น · mount |
+| **Ember Wing** | 590 | แฟชั่น · mount |
+| **Starfall Surf** | 590 | แฟชั่น · mount |
+| **Frost Shard** | 590 | แฟชั่น · mount |
+| **Thunder Disc** | 590 | แฟชั่น · mount |
+| **Sakura Petal** | 590 | แฟชั่น · mount |
+| **Eclipse Moon** | 590 | แฟชั่น · mount |
+| **Sky Saucer** | 590 | แฟชั่น · mount |
+| **Neon Glide** | 590 | แฟชั่น · mount |
+| **Clockwork Gear** | 590 | แฟชั่น · mount |
+| **Bubble Float** | 590 | แฟชั่น · mount |
+| **Tide Surf** | 590 | แฟชั่น · mount |
+| **Royal Shield** | 590 | แฟชั่น · mount |
+| **Boo Sheet** | 590 | แฟชั่น · mount |
+| **Mushroom Hop** | 590 | แฟชั่น · mount |
+| **Paper Plane** | 590 | แฟชั่น · mount |
+| **Pixel Block** | 590 | แฟชั่น · mount |
+| **Jellyfish Drift** | 590 | แฟชั่น · mount |
+| **Titan Thruster** | 590 | แฟชั่น · mount |
+| **Golden Scarab** | 590 | แฟชั่น · mount |
+| **Ducky Float** | 590 | แฟชั่น · mount |
+| **Amethyst Geode** | 590 | แฟชั่น · mount |
+| **Retro Sunset** | 590 | แฟชั่น · mount |
+| **Holo Pad** | 590 | แฟชั่น · mount |
+| **Bass Drop** | 590 | แฟชั่น · mount |
+| **Glow Longboard** | 590 | แฟชั่น · mount |
+| **Plasma Plate** | 590 | แฟชั่น · mount |
+| **Patissier Bunny** | 850 | แฟชั่น · costume |
+| **Sakura Shrine** | 850 | แฟชั่น · costume |
+| **Frost Empress** | 850 | แฟชั่น · costume |
+| **Dragon Warlord** | 850 | แฟชั่น · costume |
+| **Candy Witch** | 850 | แฟชั่น · costume |
+| **Star Idol** | 850 | แฟชั่น · costume |
+| **Mecha Pilot** | 850 | แฟชั่น · costume |
+| **Radiant Paladin** | 850 | แฟชั่น · costume |
+| **Tide Siren** | 850 | แฟชั่น · costume |
+| **Sand Sultan** | 850 | แฟชั่น · costume |
+| **Moss Druid** | 850 | แฟชั่น · costume |
+| **Clockwork Inventor** | 850 | แฟชั่น · costume |
+| **Phoenix Regalia** | 850 | แฟชั่น · costume |
+| **Phantom Thief** | 850 | แฟชั่น · costume |
+| **Bamboo Panda** | 850 | แฟชั่น · costume |
+| **Galaxy Sorceress** | 850 | แฟชั่น · costume |
+| **Thunder Shogun** | 850 | แฟชั่น · costume |
+| **Cozy Snowfall** | 850 | แฟชั่น · costume |
+| **Gothic Rose** | 850 | แฟชั่น · costume |
+| **Star Whale** | 570 | แฟชั่น · spirit |
+| **Storm Qilin** | 570 | แฟชั่น · spirit |
+| **Clockwork Owl** | 570 | แฟชั่น · spirit |
+| **Pebble Golem** | 570 | แฟชั่น · spirit |
+| **Bubble Axolotl** | 570 | แฟชั่น · spirit |
+| **Solar Sprite** | 570 | แฟชั่น · spirit |
+| **Moon Rabbit** | 570 | แฟชั่น · spirit |
+| **Guardian Drone** | 570 | แฟชั่น · spirit |
+| **Bloom Fairy** | 570 | แฟชั่น · spirit |
+| **Tiny Kraken** | 570 | แฟชั่น · spirit |
+| **Will-o'-Lantern** | 570 | แฟชั่น · spirit |
+| **Frost Griffin** | 570 | แฟชั่น · spirit |
+| **Halo Seraph** | 570 | แฟชั่น · spirit |
+| **Void Watcher** | 570 | แฟชั่น · spirit |
+| **Bee Knight** | 570 | แฟชั่น · spirit |
+| **Dream Tapir** | 570 | แฟชั่น · spirit |
+| **Candy Feather Wings** | 1,000 | แฟชั่น · back |
+| **Neon Circuit Wings** | 1,000 | แฟชั่น · back |
+| **Soap Bubble Wings** | 1,000 | แฟชั่น · back |
+| **Sakura Petal Wings** | 1,000 | แฟชั่น · back |
+| **Aurora Feather Wings** | 1,000 | แฟชั่น · back |
+| **Ink Quill Wings** | 1,000 | แฟชั่น · back |
+| **Leaf Sprite Wings** | 1,000 | แฟชั่น · back |
+| **Honeycomb Wings** | 1,000 | แฟชั่น · back |
+| **Plush Owl Wings** | 1,000 | แฟชั่น · back |
+| **8-Bit Pixel Wings** | 1,000 | แฟชั่น · back |
+| **Thorn Rose Wings** | 1,000 | แฟชั่น · back |
+| **Lumina Moth Wings** | 1,000 | แฟชั่น · back |
+| **Peacock Jewel Wings** | 1,000 | แฟชั่น · back |
+| **Dragonfly Prism Wings** | 1,000 | แฟชั่น · back |
+| **Lacquer Gold Wings** | 1,000 | แฟชั่น · back |
+| **Bubble Pop** | 620 | แฟชั่น · aura |
+| **Candy Sprinkle** | 620 | แฟชั่น · aura |
+| **Yi Peng Lanterns** | 620 | แฟชั่น · aura |
+| **Music Beat** | 620 | แฟชั่น · aura |
+| **Data Stream** | 620 | แฟชั่น · aura |
+| **Firefly Meadow** | 620 | แฟชั่น · aura |
+| **Rainbow Prism** | 620 | แฟชั่น · aura |
+| **Desert Wind** | 620 | แฟชั่น · aura |
+| **Little Raincloud** | 620 | แฟชั่น · aura |
+| **Crystal Orbit** | 620 | แฟชั่น · aura |
+| **Autumn Leaves** | 620 | แฟชั่น · aura |
+| **Ink Wash** | 620 | แฟชั่น · aura |
+| **Lucky Coins** | 620 | แฟชั่น · aura |
+| **Time Clock** | 620 | แฟชั่น · aura |
+| **Heart Bloom** | 620 | แฟชั่น · aura |
+| **Zen Stones** | 620 | แฟชั่น · aura |
+| **Neon Ring** | 620 | แฟชั่น · aura |
+| **Constellation** | 620 | แฟชั่น · aura |
+| **Cloud Lamb** | 570 | แฟชั่น · spirit |
+| **Jelly Balloon** | 570 | แฟชั่น · spirit |
+| **Star Chick** | 570 | แฟชั่น · spirit |
+| **Cotton Candy Bat** | 570 | แฟชั่น · spirit |
+| **Paper Crane** | 570 | แฟชั่น · spirit |
+| **Dandelion Sprite** | 570 | แฟชั่น · spirit |
+| **Teacup Dragon** | 570 | แฟชั่น · spirit |
+| **Lantern Kitty** | 570 | แฟชั่น · spirit |
+| **Puffer Balloon** | 570 | แฟชั่น · spirit |
+| **Bunny Copter** | 570 | แฟชั่น · spirit |
 | **Sakura Ink** | 590 | เลขพู่กันครีมชมพู รอยหมึกแดง กลีบซากุระปลิว |
 | **Slime Jelly** | 590 | เลขเยลลี่มิ้นต์ เด้งดึ๋ง มีสไลม์จิ๋วกับหยดเยลลี่ |
 | **Pearl Tide** | 590 | เลขมุกขาวไล่ฟ้าน้ำทะเล คลื่น ปะการัง และเม็ดมุก |

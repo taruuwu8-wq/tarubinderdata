@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/world-boss  
 > **Source title:** World Boss · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__world-boss.md](../Raw/Original_Wiki_Pages/systems/systems__world-boss.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #9: แก้เวลาเกิดใหม่บนหลุมศพบอส/Mini-boss แสดงผิด
@@ -23,9 +23,9 @@
 
 ## รางวัลตามอันดับ
 
-- Top 10: Gold ~20 นาที · เพชร 2 · Spirit Coin 7 · Repair Kit 2 · Hone Stone 3 · Unique 3% · Card 0.6%
-- Top 100: Gold ~15 นาที · เพชร 1.5 · Spirit Coin 6 · Repair Kit 1 · Hone Stone 2 · Unique 1.5% · Card 0.3%
-- ผู้ร่วมสู้: Gold ~10 นาที · เพชร 1 · Spirit Coin 5 · Repair Kit 1 · Hone Stone 1 · Unique 1% · Card 0.2%
+- Top 10: Gold ~20 นาที · เพชร 2 · Spirit Coin 7 · Repair Kit 2 · Hone Stone 3 · Unique 3% · การ์ด 0.6%
+- Top 100: Gold ~15 นาที · เพชร 1.5 · Spirit Coin 6 · Repair Kit 1 · Hone Stone 2 · Unique 1.5% · การ์ด 0.3%
+- ผู้ร่วมสู้: Gold ~10 นาที · เพชร 1 · Spirit Coin 5 · Repair Kit 1 · Hone Stone 1 · Unique 1% · การ์ด 0.2%
 
 ## ต่อไป
 

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/items/look"
 source_title: "หมวก · หน้า · ปาก · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -13,11 +13,11 @@ verification_status: "WIKI"
 
 อาชีพทั้งหมดKnightWarriorScoutRogueMageAcolyteSummoner
 
-เลเวลทั้งหมดLv 1-20Lv 21-45Lv 46-70Lv 71-99
+เลเวลทั้งหมดLv 1-20Lv 21-45Lv 46-70Lv 71-99Lv 100+
 
 ความหายากทั้งหมดNormalEpic
 
-แสดง 331 จาก 331
+แสดง 355 จาก 355
 
 | ไอเท็ม | ช่อง | Lv | ขั้น | ATK | MATK | DEF | ขาย NPC (Normal) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -345,6 +345,30 @@ verification_status: "WIKI"
 | [![](https://wiki.bindertowngame.com/img/item/halo_glass_r10.png)Glass Halo · T10](https://wiki.bindertowngame.com/item/halo_glass_r10) | หมวก | 85 | ขั้น 10 | — | — | 69 | 91 G |
 | [![](https://wiki.bindertowngame.com/img/item/mushroom_cap_void.png)Void Mushroom Cap](https://wiki.bindertowngame.com/item/mushroom_cap_void) | หมวก | 77 | ขั้น 9 | — | — | 63 | 87 G |
 | [![](https://wiki.bindertowngame.com/img/item/mushroom_cap_void_r10.png)Void Mushroom Cap · T10](https://wiki.bindertowngame.com/item/mushroom_cap_void_r10) | หมวก | 85 | ขั้น 10 | — | — | 69 | 91 G |
+| [![](https://wiki.bindertowngame.com/img/item/kraken_tricorn.png)Kraken Tricorn](https://wiki.bindertowngame.com/item/kraken_tricorn) | หมวก | 101 | ขั้น 10 | — | — | 90 | 117 G |
+| [![](https://wiki.bindertowngame.com/img/item/drake_goggles.png)Kite Drake Goggles](https://wiki.bindertowngame.com/item/drake_goggles) | หน้า | 104 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/tortoise_helm.png)Coralback Helm](https://wiki.bindertowngame.com/item/tortoise_helm) | หมวก | 105 | ขั้น 10 | — | — | 93 | 119 G |
+| [![](https://wiki.bindertowngame.com/img/item/serpent_veil.png)Fountain Veil](https://wiki.bindertowngame.com/item/serpent_veil) | หน้า | 108 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/station_cap.png)Harbourmaster Cap](https://wiki.bindertowngame.com/item/station_cap) | หมวก | 111 | ขั้น 10 | — | — | 99 | 129 G |
+| [![](https://wiki.bindertowngame.com/img/item/hermit_pipe.png)Forge Hermit Pipe](https://wiki.bindertowngame.com/item/hermit_pipe) | ปาก | 113 | ขั้น 10 | — | — | — | 45 G |
+| [![](https://wiki.bindertowngame.com/img/item/bosun_bandana.png)Bosun Bandana](https://wiki.bindertowngame.com/item/bosun_bandana) | หมวก | 99 | ขั้น 10 | — | — | 81 | 105 G |
+| [![](https://wiki.bindertowngame.com/img/item/mimic_grin.png)Mimic Grin](https://wiki.bindertowngame.com/item/mimic_grin) | ปาก | 100 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/paddy_hat.png)Tidewater Straw Hat](https://wiki.bindertowngame.com/item/paddy_hat) | หมวก | 102 | ขั้น 10 | — | — | 84 | 107 G |
+| [![](https://wiki.bindertowngame.com/img/item/ox_ring.png)Pearl Nose Ring](https://wiki.bindertowngame.com/item/ox_ring) | ปาก | 103 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/coral_crest.png)Coral Crest](https://wiki.bindertowngame.com/item/coral_crest) | หมวก | 104 | ขั้น 10 | — | — | 84 | 107 G |
+| [![](https://wiki.bindertowngame.com/img/item/ammonite_monocle.png)Ammonite Monocle](https://wiki.bindertowngame.com/item/ammonite_monocle) | หน้า | 105 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/sentinel_visor.png)Drowned Visor](https://wiki.bindertowngame.com/item/sentinel_visor) | หน้า | 107 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/senator_laurel.png)Kelp Laurel](https://wiki.bindertowngame.com/item/senator_laurel) | หมวก | 108 | ขั้น 10 | — | — | 87 | 109 G |
+| [![](https://wiki.bindertowngame.com/img/item/rail_goggles.png)Tiderail Goggles](https://wiki.bindertowngame.com/item/rail_goggles) | หน้า | 109 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/eel_whiskers.png)Eel Whiskers](https://wiki.bindertowngame.com/item/eel_whiskers) | ปาก | 110 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/furnace_mask.png)Shellforge Mask](https://wiki.bindertowngame.com/item/furnace_mask) | หน้า | 111 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/hound_muzzle.png)Coral Muzzle](https://wiki.bindertowngame.com/item/hound_muzzle) | ปาก | 112 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/barnacle_cap.png)Barnacle Cap](https://wiki.bindertowngame.com/item/barnacle_cap) | หมวก | 97 | ขั้น 10 | — | — | 81 | 105 G |
+| [![](https://wiki.bindertowngame.com/img/item/gull_feather.png)Gull Feather](https://wiki.bindertowngame.com/item/gull_feather) | หมวก | 98 | ขั้น 10 | — | — | 81 | 105 G |
+| [![](https://wiki.bindertowngame.com/img/item/lantern_hat.png)Anglerlight Hat](https://wiki.bindertowngame.com/item/lantern_hat) | หมวก | 100 | ขั้น 10 | — | — | 81 | 105 G |
+| [![](https://wiki.bindertowngame.com/img/item/reed_whistle.png)Reed Whistle](https://wiki.bindertowngame.com/item/reed_whistle) | ปาก | 101 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/compass_eyeglass.png)Sea Compass Eyeglass](https://wiki.bindertowngame.com/item/compass_eyeglass) | หน้า | 106 | ขั้น 10 | — | — | — | 39 G |
+| [![](https://wiki.bindertowngame.com/img/item/storm_plume.png)Storm Plume](https://wiki.bindertowngame.com/item/storm_plume) | หมวก | 107 | ขั้น 10 | — | — | 87 | 109 G |
 | [![](https://wiki.bindertowngame.com/img/item/bp_cap.png)หมวก Binder](https://wiki.bindertowngame.com/item/bp_cap) | หมวก | 1 | ขั้น 1 | — | — | 30 | — |
 | [![](https://wiki.bindertowngame.com/img/item/heartwood_crown.png)Heartwood Crown](https://wiki.bindertowngame.com/item/heartwood_crown) | หมวก | 30 | ขั้น 5 | — | — | 30 | 53 G |
 | [![](https://wiki.bindertowngame.com/img/item/heartwood_crown_r6.png)Heartwood Crown · T6](https://wiki.bindertowngame.com/item/heartwood_crown_r6) | หมวก | 40 | ขั้น 6 | — | — | 39 | 59 G |

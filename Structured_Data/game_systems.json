@@ -15,7 +15,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/auto",
    "source_title": "AUTO · ฟาร์มออฟไลน์ · Rested · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/auto.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -132,7 +132,8 @@
      ]
     }
    ],
-   "summary_text": "AUTO ทำอะไรบ้างฟาร์มแมพที่ยืนอยู่ (ไม่เดินข้ามแมพ) · ตีมอน เก็บของ กินยาจากช่อง Q / E / R · ใช้เฉพาะสกิลในแถบ 1–6 · ในเมืองใช้ไม่ได้หยุดยังไงเดินเอง (คลิกพื้น / WASD / จอยมือถือ) = หยุดชั่วคราวแล้วกลับมาฟาร์มต่อ · ใช้สกิลเองไม่หยุด · กดปุ่ม AUTO = ปิดยาหมดทำไงAUTO สู้ต่อ ไม่เดินหนี — ตั้งยาให้พอก่อนไปแมพยากฟาร์มออฟไลน์เริ่มเมื่อไรปิดเกมตอน AUTO เปิดอยู่ในแมพภาคสนาม หลังจาก AUTO สู้ในแมพนั้นมาแล้ว 1 นาที และปิดเกมนานกว่า 1 นาทีได้อะไรตอนออฟไลน์EXP / Job EXP 50% · Gold 30% ของที่ AUTO ทำได้จริงในแมพนั้น · ไม่ได้ไอเทม · สูงสุด 8 ชม. (Premium 12 ชม.)ทำไมได้น้อยตอนแรกจนกว่า AUTO จะวัดผลครบ 20 นาที อัตราออฟไลน์ถูกคุมไว้ที่ค่ามาตรฐาน (ราว 10 ตัว/นาที) — ฟาร์มนานขึ้นก่อนปิดเกม = ได้ตามจริงRested EXP คืออะไรอยู่ในเมือง = สะสมโบนัส 100 ตัว/ชม. (ใกล้กองไฟกลางเมือง ×2) · ปิดเกมในเมือง 40 ตัว/ชม. · สะสมสูงสุด 400 ตัว · ฆ่ามอนได้ EXP + Job EXP ×2 จนหมด"
+   "summary_text": "AUTO ทำอะไรบ้างฟาร์มแมพที่ยืนอยู่ (ไม่เดินข้ามแมพ) · ตีมอน เก็บของ กินยาจากช่อง Q / E / R · ใช้เฉพาะสกิลในแถบ 1–6 · ในเมืองใช้ไม่ได้หยุดยังไงเดินเอง (คลิกพื้น / WASD / จอยมือถือ) = หยุดชั่วคราวแล้วกลับมาฟาร์มต่อ · ใช้สกิลเองไม่หยุด · กดปุ่ม AUTO = ปิดยาหมดทำไงAUTO สู้ต่อ ไม่เดินหนี — ตั้งยาให้พอก่อนไปแมพยากฟาร์มออฟไลน์เริ่มเมื่อไรปิดเกมตอน AUTO เปิดอยู่ในแมพภาคสนาม หลังจาก AUTO สู้ในแมพนั้นมาแล้ว 1 นาที และปิดเกมนานกว่า 1 นาทีได้อะไรตอนออฟไลน์EXP / Job EXP 50% · Gold 30% ของที่ AUTO ทำได้จริงในแมพนั้น · ไม่ได้ไอเทม · สูงสุด 8 ชม. (Premium 12 ชม.)ทำไมได้น้อยตอนแรกจนกว่า AUTO จะวัดผลครบ 20 นาที อัตราออฟไลน์ถูกคุมไว้ที่ค่ามาตรฐาน (ราว 10 ตัว/นาที) — ฟาร์มนานขึ้นก่อนปิดเกม = ได้ตามจริงRested EXP คืออะไรอยู่ในเมือง = สะสมโบนัส 100 ตัว/ชม. (ใกล้กองไฟกลางเมือง ×2) · ปิดเกมในเมือง 40 ตัว/ชม. · สะสมสูงสุด 400 ตัว · ฆ่ามอนได้ EXP + Job EXP ×2 จนหมด",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Random Event & Omen",
@@ -147,12 +148,13 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/events",
    "source_title": "Random Event & Omen · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/events.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "tables": [],
-   "summary_text": "Random Eventทุก 2 ชม. โอกาส 60% · นาน 25 นาทีOmenแมพประจำวันแต่ละแมพมี Omen เป็นโบนัส (เปลี่ยนทุกเที่ยงคืน)"
+   "summary_text": "Random Eventทุก 2 ชม. โอกาส 60% · นาน 25 นาทีOmenแมพประจำวันแต่ละแมพมี Omen เป็นโบนัส (เปลี่ยนทุกเที่ยงคืน)",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "แฟชั่น",
@@ -167,12 +169,13 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/fashion",
    "source_title": "แฟชั่น · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/fashion.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "tables": [],
-   "summary_text": "ใส่แล้วได้อะไร\n\n- **ชุดแฟชั่น** — แบกน้ำหนักได้ +500\n- **หลัง** — Rested EXP สะสมเร็วขึ้น +10%\n- **ออร่า** — Gold จากมอน +5%\n- **สหาย** — เวลา Gathering −5%\n- **พาหนะ** — ความเร็ววิ่ง +15% (ตอนขี่ · โดนตี / ตี / ร่ายสกิล = ลงจากพาหนะ 5 วิ)\n- **สกินดาเมจ** — เปลี่ยนหน้าตาตัวเลขดาเมจที่คุณตี (คนอื่นเห็นด้วย) · ไม่เพิ่มพลัง\n\nซ่อนได้ไหมได้ ปุ่มรูปตาในช่องแฟชั่น · ซ่อนแล้วโบนัสยังอยู่ขาย / เทรดได้ไหมไม่ได้ · ได้จากร้านเพชร / Season Pass / กิจกรรม"
+   "summary_text": "ใส่แล้วได้อะไร\n\n- **ชุดแฟชั่น** — แบกน้ำหนักได้ +500\n- **หลัง** — Rested EXP สะสมเร็วขึ้น +10%\n- **ออร่า** — Gold จากมอน +5%\n- **สหาย** — เวลา Gathering −5%\n- **พาหนะ** — ความเร็ววิ่ง +15% (ตอนขี่ · โดนตี / ตี / ร่ายสกิล = ลงจากพาหนะ 5 วิ)\n- **สกินดาเมจ** — เปลี่ยนหน้าตาตัวเลขดาเมจที่คุณตี (คนอื่นเห็นด้วย) · ไม่เพิ่มพลัง\n\nซ่อนได้ไหมได้ ปุ่มรูปตาในช่องแฟชั่น · ซ่อนแล้วโบนัสยังอยู่ขาย / เทรดได้ไหมไม่ได้ · ได้จากร้านเพชร / Season Pass / กิจกรรม",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Gathering",
@@ -187,7 +190,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/gathering",
    "source_title": "Gathering · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/gathering.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -916,7 +919,8 @@
      ]
     }
    ],
-   "summary_text": "เริ่มเมื่อไรหลังเลือกอาชีพแรก (Binder เก็บไม่ได้)โหนด TierT1 Lv 1 · T2 Lv 8 · T3 Lv 18 · T4 Lv 30 · T5 Lv 42โหนดทองคำ8% · ของ ×3Fishingไม่ใช้โหนด — โยนเบ็ดลงน้ำ · ช้ากว่าสายอื่น ×2.5"
+   "summary_text": "เริ่มเมื่อไรหลังเลือกอาชีพแรก (Binder เก็บไม่ได้)โหนด TierT1 Lv 1 · T2 Lv 8 · T3 Lv 18 · T4 Lv 30 · T5 Lv 42โหนดทองคำ8% · ของ ×3Fishingไม่ใช้โหนด — โยนเบ็ดลงน้ำ · ช้ากว่าสายอื่น ×2.5",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Gathering หลัง Lv 50",
@@ -931,7 +935,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/gathering-50",
    "source_title": "Gathering หลัง Lv 50 · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/gathering-50.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1173,7 +1177,8 @@
      ]
     }
    ],
-   "summary_text": null
+   "summary_text": null,
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Gem Exchange",
@@ -1188,7 +1193,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/gem-exchange",
    "source_title": "Gem Exchange · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/gem-exchange.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1240,7 +1245,8 @@
      ]
     }
    ],
-   "summary_text": "ซื้อเพชรด้วย Goldวันละ 1,000 เม็ดค่าธรรมเนียมฝั่งละ 7.5%ขายเพชรได้เท่าไร15% ของราคากลางราคากลางมาจากไหนGold ที่ผู้เล่นหาได้ต่อชั่วโมงเล่น ÷ 5.6 · อยู่ในช่วง 32,000 G–250,000 Gเปิดที่ไหนปุ่ม Gem Exchange ใต้นาฬิกาบน HUD — ใช้ได้ทุกที่ ไม่ต้องหา NPCขายเพชรได้วันละเท่าไรไม่จำกัดเพชรที่เพิ่งเติมขายเข้า Gem Exchange ได้หลัง 24 ชม."
+   "summary_text": "ซื้อเพชรด้วย Goldวันละ 1,000 เม็ดค่าธรรมเนียมฝั่งละ 7.5%ขายเพชรได้เท่าไร15% ของราคากลางราคากลางมาจากไหนGold ที่ผู้เล่นหาได้ต่อชั่วโมงเล่น ÷ 5.6 · อยู่ในช่วง 32,000 G–250,000 Gเปิดที่ไหนปุ่ม Gem Exchange ใต้นาฬิกาบน HUD — ใช้ได้ทุกที่ ไม่ต้องหา NPCขายเพชรได้วันละเท่าไรไม่จำกัดเพชรที่เพิ่งเติมขายเข้า Gem Exchange ได้หลัง 24 ชม.",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Season Pass & ล็อกอินรายวัน",
@@ -1255,7 +1261,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/pass",
    "source_title": "Season Pass & ล็อกอินรายวัน · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/pass.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1612,7 +1618,8 @@
      ]
     }
    ],
-   "summary_text": "ได้ Pass XP จากไหนฆ่ามอน +1 · Gathering +1 · Craft +3 ต่อครั้ง (จากกิจกรรมได้วันละไม่เกิน 600 XP) + ภารกิจรายวัน / รายสัปดาห์ / ประจำซีซัน (ไม่นับเพดานรายวัน)Hero Pass คืออะไรลู่รางวัลที่ 2 (Hero Pass) 1,090 เพชร · ซื้อแล้วรับย้อนหลังได้ทุก Tier · คนละอย่างกับสมาชิก Premiumข้าม Tier ได้ไหมได้ Tier ละ 200 เพชร (10 Tier 1,900 เพชร) ถึง Tier 50ซีซันจบแล้วได้ XP / ซื้อ Hero Pass ไม่ได้แล้ว · รางวัลที่ถึงแล้วยังกดรับได้ล็อกอินรายวันปฏิทินตามวันจริง: เข้าเกมวันไหนได้ของขวัญวันนั้น (ส่งเข้าจดหมาย) · เสาร์-อาทิตย์ของดีกว่า · วันสุดท้ายของเดือนของใหญ่สุด · วันที่ไม่เข้าก็แค่พลาดวันนั้น · ตัดรอบเที่ยงคืนเวลาไทย · ของเท่ากันทุกคน"
+   "summary_text": "ได้ Pass XP จากไหนฆ่ามอน +1 · Gathering +1 · Craft +3 ต่อครั้ง (จากกิจกรรมได้วันละไม่เกิน 600 XP) + ภารกิจรายวัน / รายสัปดาห์ / ประจำซีซัน (ไม่นับเพดานรายวัน)Hero Pass คืออะไรลู่รางวัลที่ 2 (Hero Pass) 1,090 เพชร · ซื้อแล้วรับย้อนหลังได้ทุก Tier · คนละอย่างกับสมาชิก Premiumข้าม Tier ได้ไหมได้ Tier ละ 200 เพชร (10 Tier 1,900 เพชร) ถึง Tier 50ซีซันจบแล้วได้ XP / ซื้อ Hero Pass ไม่ได้แล้ว · รางวัลที่ถึงแล้วยังกดรับได้ล็อกอินรายวันปฏิทินตามวันจริง: เข้าเกมวันไหนได้ของขวัญวันนั้น (ส่งเข้าจดหมาย) · เสาร์-อาทิตย์ของดีกว่า · วันสุดท้ายของเดือนของใหญ่สุด · วันที่ไม่เข้าก็แค่พลาดวันนั้น · ตัดรอบเที่ยงคืนเวลาไทย · ของเท่ากันทุกคน",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Premium",
@@ -1627,7 +1634,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/premium",
    "source_title": "Premium · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/premium.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1671,9 +1678,9 @@
        "+2,000"
       ],
       [
-       "ภาษีตลาด (5M แรกที่ขายในวัน · ส่วนเกินขั้นบันได)",
+       "ภาษีตลาด (ไม่ใช่ Premium: 5M แรกที่ขายในวัน · ส่วนเกินขั้นบันได)",
        "5%",
-       "1%"
+       "1% ทุกยอด"
       ],
       [
        "ช่องลงขายตลาด",
@@ -1713,7 +1720,8 @@
      ]
     }
    ],
-   "summary_text": "ซื้อที่ไหนร้านเพชร หมวด Premium · ซื้อซ้ำ = ต่อวันหมดแล้วเป็นยังไงสิทธิ์หายทันที · ของที่ได้ไปแล้วยังอยู่"
+   "summary_text": "ซื้อที่ไหนร้านเพชร หมวด Premium · ซื้อซ้ำ = ต่อวันหมดแล้วเป็นยังไงสิทธิ์หายทันที · ของที่ได้ไปแล้วยังอยู่",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "PvP",
@@ -1728,12 +1736,13 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/pvp",
    "source_title": "PvP · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/pvp.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "tables": [],
-   "summary_text": "ตายแล้วเสียอะไรไม่เสีย Gold / EXP · อุปกรณ์ที่ใส่อาจพัง 1 ชิ้น (30%) · ชื่อแดง 50%เกิดที่ไหนเมืองของ Region บน Channel เดิม · รอ 5 วิฮีลตอนสู้ผู้เล่นฮีลเหลือ 20% ระหว่างสู้กับผู้เล่นเมืองในเมืองตีกันไม่ได้"
+   "summary_text": "ตายแล้วเสียอะไรไม่เสีย Gold / EXP · อุปกรณ์ที่ใส่อาจพัง 1 ชิ้น (30%) · ชื่อแดง 50%เกิดที่ไหนเมืองของ Region บน Channel เดิม · รอ 5 วิฮีลตอนสู้ผู้เล่นฮีลเหลือ 20% ระหว่างสู้กับผู้เล่นเมืองในเมืองตีกันไม่ได้",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "กติกาโลก",
@@ -1748,7 +1757,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/rules",
    "source_title": "กติกาโลก · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/rules.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1832,7 +1841,8 @@
      ]
     }
    ],
-   "summary_text": "ตายแล้วเสียอะไรตายจากมอนไม่เสียอะไร · AUTO เกิดใหม่เองใน 3 วิ · เล่นมือมีการ์ดแจ้งการตาย รอได้สูงสุด 30 วิ · ใน Channel PvP อุปกรณ์อาจพัง 1 ชิ้น (30%)เกิดที่เดิมได้ไหมได้ จ่าย 5,000 G (เฉพาะ Channel ปกติ) · หรือเกิดที่เมืองฟรีกลางคืนต่างยังไงมอนตีแรง ×1.35 รับดาเมจ ×0.78 · แต่ EXP ×1.25 · Gold ×1.4 · ดรอป ×1.4 · กลางวัน 16 นาที กลางคืน 8 นาที (เวลาจริง)Channel คืออะไรแต่ละแมพมีหลาย Channel (สำเนาของแมพ) · Channel 10 คือ PvP · เปลี่ยน Channel ไม่ได้ภายใน 8 วิ หลังสู้กระเป๋าเต็ม / หนักเกินกระเป๋า 300 ช่อง · กองละ 999 · แบกได้ 5,000 + STR×30 (Premium +2,000) · หนักเต็มแล้วเก็บของตกไม่ได้Bankฝากของได้ 100 ช่องต่อคลัง (สูงสุด 10 คลัง) · ต้องเดินไปหา NPC Bank หรือเช่ากระเป๋าคลังระยะไกล · วัตถุดิบใน Bank นับให้ตอน Craft / ตีบวกจดหมายของขวัญรายวัน / ของจากตลาด / รางวัลบอส / ของจากร้านเพชร ส่งเข้าจดหมาย · จดหมายทั่วไปอยู่ 30 วัน (ของจากตลาด 365 วัน) · รับได้แม้กระเป๋าเต็มของตกเป็นของใครคนที่ทำดาเมจมากที่สุด · ของรอบนพื้น 60 วิ · EXP / Gold แบ่งตามดาเมจทุกคนที่ตีกองไฟใช้ชุดกองไฟ = ฮีล HP 1.5% + MP 3% ต่อวิ ในรัศมี 3.5 ช่อง นาน 5 นาที — ทุกคนรอบกองไฟได้"
+   "summary_text": "ตายแล้วเสียอะไรตายจากมอนไม่เสียอะไร · AUTO เกิดใหม่เองใน 3 วิ · เล่นมือมีการ์ดแจ้งการตาย รอได้สูงสุด 30 วิ · ใน Channel PvP อุปกรณ์อาจพัง 1 ชิ้น (30%)เกิดที่เดิมได้ไหมได้ จ่าย 5,000 G (เฉพาะ Channel ปกติ) · หรือเกิดที่เมืองฟรีกลางคืนต่างยังไงมอนตีแรง ×1.35 รับดาเมจ ×0.78 · แต่ EXP ×1.25 · Gold ×1.4 · ดรอป ×1.4 · กลางวัน 16 นาที กลางคืน 8 นาที (เวลาจริง)Channel คืออะไรแต่ละแมพมีหลาย Channel (สำเนาของแมพ) · Channel 10 คือ PvP · เปลี่ยน Channel ไม่ได้ภายใน 8 วิ หลังสู้กระเป๋าเต็ม / หนักเกินกระเป๋า 300 ช่อง · กองละ 999 · แบกได้ 5,000 + STR×30 (Premium +2,000) · หนักเต็มแล้วเก็บของตกไม่ได้Bankฝากของได้ 100 ช่องต่อคลัง (สูงสุด 10 คลัง) · ต้องเดินไปหา NPC Bank หรือเช่ากระเป๋าคลังระยะไกล · วัตถุดิบใน Bank นับให้ตอน Craft / ตีบวกจดหมายของขวัญรายวัน / ของจากตลาด / รางวัลบอส / ของจากร้านเพชร ส่งเข้าจดหมาย · จดหมายทั่วไปอยู่ 30 วัน (ของจากตลาด 365 วัน) · รับได้แม้กระเป๋าเต็มของตกเป็นของใครคนที่ทำดาเมจมากที่สุด · ของรอบนพื้น 60 วิ · EXP / Gold แบ่งตามดาเมจทุกคนที่ตีกองไฟใช้ชุดกองไฟ = ฮีล HP 1.5% + MP 3% ต่อวิ ในรัศมี 3.5 ช่อง นาน 5 นาที — ทุกคนรอบกองไฟได้",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "ร้านค้า",
@@ -1847,7 +1857,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/shop",
    "source_title": "ร้านค้า · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/shop.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2306,6 +2316,536 @@
        "แฟชั่น · mount"
       ],
       [
+       "Magic Carpet",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Puff Cloud",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Ember Wing",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Starfall Surf",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Frost Shard",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Thunder Disc",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Sakura Petal",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Eclipse Moon",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Sky Saucer",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Neon Glide",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Clockwork Gear",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Bubble Float",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Tide Surf",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Royal Shield",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Boo Sheet",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Mushroom Hop",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Paper Plane",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Pixel Block",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Jellyfish Drift",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Titan Thruster",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Golden Scarab",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Ducky Float",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Amethyst Geode",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Retro Sunset",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Holo Pad",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Bass Drop",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Glow Longboard",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Plasma Plate",
+       "590",
+       "แฟชั่น · mount"
+      ],
+      [
+       "Patissier Bunny",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Sakura Shrine",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Frost Empress",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Dragon Warlord",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Candy Witch",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Star Idol",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Mecha Pilot",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Radiant Paladin",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Tide Siren",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Sand Sultan",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Moss Druid",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Clockwork Inventor",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Phoenix Regalia",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Phantom Thief",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Bamboo Panda",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Galaxy Sorceress",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Thunder Shogun",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Cozy Snowfall",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Gothic Rose",
+       "850",
+       "แฟชั่น · costume"
+      ],
+      [
+       "Star Whale",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Storm Qilin",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Clockwork Owl",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Pebble Golem",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Bubble Axolotl",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Solar Sprite",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Moon Rabbit",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Guardian Drone",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Bloom Fairy",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Tiny Kraken",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Will-o'-Lantern",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Frost Griffin",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Halo Seraph",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Void Watcher",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Bee Knight",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Dream Tapir",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Candy Feather Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Neon Circuit Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Soap Bubble Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Sakura Petal Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Aurora Feather Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Ink Quill Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Leaf Sprite Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Honeycomb Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Plush Owl Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "8-Bit Pixel Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Thorn Rose Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Lumina Moth Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Peacock Jewel Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Dragonfly Prism Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Lacquer Gold Wings",
+       "1,000",
+       "แฟชั่น · back"
+      ],
+      [
+       "Bubble Pop",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Candy Sprinkle",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Yi Peng Lanterns",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Music Beat",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Data Stream",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Firefly Meadow",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Rainbow Prism",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Desert Wind",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Little Raincloud",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Crystal Orbit",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Autumn Leaves",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Ink Wash",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Lucky Coins",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Time Clock",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Heart Bloom",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Zen Stones",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Neon Ring",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Constellation",
+       "620",
+       "แฟชั่น · aura"
+      ],
+      [
+       "Cloud Lamb",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Jelly Balloon",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Star Chick",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Cotton Candy Bat",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Paper Crane",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Dandelion Sprite",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Teacup Dragon",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Lantern Kitty",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Puffer Balloon",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
+       "Bunny Copter",
+       "570",
+       "แฟชั่น · spirit"
+      ],
+      [
        "Sakura Ink",
        "590",
        "เลขพู่กันครีมชมพู รอยหมึกแดง กลีบซากุระปลิว"
@@ -2448,7 +2988,8 @@
      ]
     }
    ],
-   "summary_text": null
+   "summary_text": null,
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Party · Guild · ตลาด · เทรด",
@@ -2463,7 +3004,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/social",
    "source_title": "Party · Guild · ตลาด · เทรด · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/social.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2583,7 +3124,8 @@
      ]
     }
    ],
-   "summary_text": "Party กี่คนสูงสุด 10 คน · หาร EXP เมื่ออยู่แมพ + Channel เดียวกัน และเลเวลห่างกันไม่เกิน 15โบนัส PartyEXP +5% ต่อคนที่หารเพิ่ม (สูงสุด +25%) · บัฟสาย support บางท่าลงทั้งปาร์ตี้แบ่งของใน Partyหัวหน้าเลือก: เก็บอิสระ หรือสุ่มให้สมาชิกในระยะ 12 ช่อง (ของจองไว้ 60 วิ)Guildสูงสุด 30 คน · Guild Lv สูงสุด 10 · อัปด้วย Gold ที่สมาชิกบริจาค · ทุก 2 เลเวลได้สเตตัส +1 ทุกตัวให้ทุกคนตรากิลLeader ของ Guild สร้างเองในหน้าต่าง Guild · ครั้งแรกฟรี เปลี่ยนครั้งต่อไป 10,000,000 G · ขึ้นข้างชื่อเหนือหัวสมาชิกทุกคนตลาดโลกเปิด Lv 8 · ต้องผูกบัญชี (Google / Discord) · ลงขายได้ 20 ชิ้น (Premium 40) · ขึ้นตลาดหลัง 5 นาที · ประกาศอยู่ 3 วัน แล้วของกลับทางจดหมาย · ของที่ซื้อ / เงินที่ขายได้ส่งทางจดหมายเทรดกับผู้เล่นต้องเป็น Premium ทั้งคู่ · แมพ + Channel เดียวกัน · ล็อก → ยืนยันทั้งสองฝ่าย"
+   "summary_text": "Party กี่คนสูงสุด 10 คน · หาร EXP เมื่ออยู่แมพ + Channel เดียวกัน และเลเวลห่างกันไม่เกิน 15โบนัส PartyEXP +5% ต่อคนที่หารเพิ่ม (สูงสุด +25%) · บัฟสาย support บางท่าลงทั้งปาร์ตี้แบ่งของใน Partyหัวหน้าเลือก: เก็บอิสระ หรือสุ่มให้สมาชิกในระยะ 12 ช่อง (ของจองไว้ 60 วิ)Guildสูงสุด 30 คน · Guild Lv สูงสุด 10 · อัปด้วย Gold ที่สมาชิกบริจาค · ทุก 2 เลเวลได้สเตตัส +1 ทุกตัวให้ทุกคนตรากิลLeader ของ Guild สร้างเองในหน้าต่าง Guild · ครั้งแรกฟรี เปลี่ยนครั้งต่อไป 10,000,000 G · ขึ้นข้างชื่อเหนือหัวสมาชิกทุกคนตลาดโลกเปิด Lv 8 · ต้องผูกบัญชี (Google / Discord) · ลงขายได้ 20 ชิ้น (Premium 40) · ขึ้นตลาดหลัง 5 นาที · ประกาศอยู่ 3 วัน แล้วของกลับทางจดหมาย · ของที่ซื้อ / เงินที่ขายได้ส่งทางจดหมายเทรดกับผู้เล่นต้องเป็น Premium ทั้งคู่ · แมพ + Channel เดียวกัน · ล็อก → ยืนยันทั้งสองฝ่าย",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "คู่มือหน้าต่างในเกม",
@@ -2598,12 +3140,13 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/windows",
    "source_title": "คู่มือหน้าต่างในเกม · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/windows.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "tables": [],
-   "summary_text": null
+   "summary_text": null,
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "การ์ด & วิญญาณ",
@@ -2618,7 +3161,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/cards",
    "source_title": "การ์ด & วิญญาณ · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Cards/Cards_and_Spirits.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2988,11 +3531,36 @@
       [
        "75",
        "โอกาสคริ +2% · STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2"
+      ],
+      [
+       "100",
+       "Max HP +3%"
+      ],
+      [
+       "150",
+       "ATK +2% · MATK +2%"
+      ],
+      [
+       "200",
+       "STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2"
+      ],
+      [
+       "275",
+       "ลดดาเมจที่ได้รับ 2%"
+      ],
+      [
+       "350",
+       "ATK +2% · MATK +2%"
+      ],
+      [
+       "425",
+       "STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2"
       ]
      ]
     }
    ],
-   "summary_text": "การ์ดทำอะไรการ์ดแต่ละใบมีเอฟเฟกต์ของมอนตัวนั้น (โจมตี / ป้องกัน / เติบโต / วิญญาณ) · ใส่ในสมุดการ์ดแล้วได้ผลทันทีทุกแมพ · ยิ่งดาวสูงยิ่งแรงได้การ์ดจากไหนฆ่ามอนได้ [วิญญาณเร่ร่อน](/item/loose_spirit) ของมอนตัวนั้น → สะสมครบแล้วแลกเป็น [การ์ดวิญญาณ](/item/spirit_card) ★1 · การ์ดดรอปตรงๆ 0.005% ต่อตัว (ทุกระดับมอน)วิญญาณกี่ดวงต่อการ์ดมอนทั่วไป 3,000–5,400 ดวง (ตามเลเวลมอน) · Elite 900–1,620 · Mini-boss 180–324 · Field Boss 60–80ใส่ได้กี่ใบ9 ช่อง เปิดที่ Lv 12 / 18 / 25 / 32 / 40 / 50 / 60 / 70 / 85 · ภาระวิญญาณรวม (Spirit Load) ไม่เกิน 4 ที่ Lv 12 → 18 ที่ Lv 99ใส่ใบซ้ำได้ไหมได้ แต่มอนตัวเดิมใบที่ 2 ได้ผล 50% · ใบที่ 3 25% · ใบที่ 4 ขึ้นไปไม่ได้อะไร และไม่นับเป็นชุดใส่ / ถอดใส่ฟรี · ถอดออก 1,000 G ต่อช่อง · เปลี่ยนการ์ดได้ทุกที่ ไม่ต้องหา NPCกลางวัน / กลางคืนการ์ดบางใบแรงขึ้นตามเวลาของมัน ×1.4 อีกช่วง ×0.85 — มอนกลางคืน (Wisp, Remnant, Horror, Lurker) เป็นการ์ดกลางคืนการ์ด ★5 แล้ววิญญาณของมอนตัวนั้นแลกเป็น [เหรียญวิญญาณ](/item/spirit_coin) ได้: การ์ด 1 ใบเท่ากับ 3 เหรียญ"
+   "summary_text": "การ์ดทำอะไรการ์ดแต่ละใบมีเอฟเฟกต์ของมอนตัวนั้น (โจมตี / ป้องกัน / เติบโต / วิญญาณ) · ใส่ในสมุดการ์ดแล้วได้ผลทันทีทุกแมพ · ยิ่งดาวสูงยิ่งแรงได้การ์ดจากไหนฆ่ามอนได้ [วิญญาณเร่ร่อน](/item/loose_spirit) ของมอนตัวนั้น → สะสมครบแล้วแลกเป็น [การ์ดวิญญาณ](/item/spirit_card) ★1 · การ์ดดรอปตรงๆ 0.005% ต่อตัว (ทุกระดับมอน)วิญญาณกี่ดวงต่อการ์ดมอนทั่วไป 3,000–5,400 ดวง (ตามเลเวลมอน) · Elite 900–1,620 · Mini-boss 180–324 · Field Boss 60–80ใส่ได้กี่ใบ9 ช่อง เปิดที่ Lv 12 / 18 / 25 / 32 / 40 / 50 / 60 / 70 / 85 · ภาระวิญญาณรวม (Spirit Load) ไม่เกิน 4 ที่ Lv 12 → 18 ที่ Lv 99ใส่ใบซ้ำได้ไหมได้ แต่มอนตัวเดิมใบที่ 2 ได้ผล 50% · ใบที่ 3 25% · ใบที่ 4 ขึ้นไปไม่ได้อะไร และไม่นับเป็นชุดใส่ / ถอดใส่ฟรี · ถอดออก 1,000 G ต่อช่อง · เปลี่ยนการ์ดได้ทุกที่ ไม่ต้องหา NPCกลางวัน / กลางคืนการ์ดบางใบแรงขึ้นตามเวลาของมัน ×1.4 อีกช่วง ×0.85 — มอนกลางคืน (Wisp, Remnant, Horror, Lurker) เป็นการ์ดกลางคืนการ์ด ★5 แล้ววิญญาณของมอนตัวนั้นแลกเป็น [เหรียญวิญญาณ](/item/spirit_coin) ได้: การ์ด 1 ใบเท่ากับ 3 เหรียญ",
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "อภิธานศัพท์",
@@ -3007,12 +3575,13 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/glossary",
    "source_title": "อภิธานศัพท์ · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Game_Systems/Glossary.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "tables": [],
-   "summary_text": null
+   "summary_text": null,
+   "freshness_status": "snapshot_2026-11-08"
   }
  ]
 }

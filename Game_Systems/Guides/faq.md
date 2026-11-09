@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/guide/faq  
 > **Source title:** คำถามที่พบบ่อย · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [guide__faq.md](../../Raw/Original_Wiki_Pages/guide/guide__faq.md)
 
 ---

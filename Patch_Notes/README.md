@@ -1,6 +1,6 @@
 # Patch Notes
 
-The Wiki (https://wiki.bindertowngame.com/) has **no patch-notes page** (checked 2026-11-07). Patch notes here are added from official announcements copied by the user and labelled [PATCH] with their provenance. **Newer patches override older ones and the Wiki.**
+The Wiki (https://wiki.bindertowngame.com/) has **no patch-notes page** (checked 2026-11-07). Patch notes here are added from official announcements copied by the user and labelled [PATCH] with their provenance. **Use dated sources: historical comparisons refer to the 2026-11-07 crawl; refreshed Wiki pages may incorporate these changes.**
 
 | Patch | Received | Posted | Build | Entries |
 |---|---|---|---|---|

@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/statuses  
 > **Source title:** สถานะ · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__statuses.md](../Raw/Original_Wiki_Pages/systems/systems__statuses.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #30: แก้บั๊ก: สถานะกลัวทำให้มอนวิ่งหนีจริง
@@ -42,7 +42,7 @@
 | **Drop Boost** | Buff | เรทดรอปไอเทมจากมอนเพิ่ม |
 | **Shield** | Buff | โล่กันดาเมจ — โล่แตกก่อนเลือดลด |
 | **Reflect** | Buff | สะท้อนดาเมจที่ได้รับกลับใส่คนตี |
-| **Arcane Surge** | Buff | ร่ายสกิลครบทุก 4 ครั้ง ครั้งนั้นไม่เสีย MP · Arcane Ward: HP ต่ำกว่า 40% ได้โล่ 35% ของ HP สูงสุด 6 วิ (ติดได้ทุก 30 วิ) · Arcane Bulwark: โดนมอนรุม 3 ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน 30% · Weapon Mastery: ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ +15: มอน +5% / บอส +12% / PvP +15%) |
+| **Arcane Surge** | Buff | ร่ายสกิลครบทุก 4 ครั้ง ครั้งนั้นไม่เสีย MP · Arcane Ward: HP ต่ำกว่า 40% ได้โล่ 35% ของ HP สูงสุด 6 วิ (ติดได้ทุก 30 วิ) · Arcane Bulwark: โดนมอนรุม 3 ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน 30% · Frost Nova (PvP): โดนผู้เล่นตีในระยะ 2.5 ช่อง ผลักศัตรูผู้เล่นรอบตัว 3 ช่องออกไป 3 ช่องแล้วแช่แข็ง 1.5 วิ (ทุก 12 วิ) · Weapon Mastery: ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ +15: มอน +5% / บอส +12% / PvP +15%) |
 | **Offline Ready** | Buff | ปิดเกมตอนนี้ได้ — ระบบฟาร์มออฟไลน์ให้ตามกติกา |
 | **Free Cast** | Buff | สกิลถัดไปไม่เสีย MP (Constellation / Free Reload) |
 | **Lifesteal** | Buff | ดูดเลือดจากดาเมจที่ทำ · ตี Mini-boss / Field Boss / World Boss ดูดได้ 1.7% ต่อฮิต และ 5% ต่อวินาที · ดูดได้ไม่เกิน 5% Max HP ต่อฮิต และ 15% ต่อวิ (รวมทุกแหล่ง) |
@@ -61,6 +61,8 @@
 | **Frost Armor** | Buff | มอนที่ตีคุณติด Chill |
 | **Spirit Echo** | Buff | บล็อกทุกดาเมจ (Field Boss / Mini-boss โดนแค่ครึ่ง) — หมดการ์ดแล้วสวนกลับ ยิ่งบล็อกเยอะยิ่งแรง |
 | **Pet Bonus ปิดชั่วคราว** | Debuff | โบนัสสัตว์เลี้ยงใช้ได้ใน PvE เท่านั้น — ตอนสู้กับผู้เล่นไม่มีผล (สกินยังแสดงตามปกติ) |
+| **Grievous Wound** | Debuff | ฮีลที่ได้รับลดลง −40% — โดน Rend / Gash (Warrior) หรือ Assassinate (Rogue) จากผู้เล่น |
+| **ดูดเลือดติดคูลดาวน์** | Debuff | กำลังสู้กับผู้เล่น — ดูดเลือดจากมอนใช้ไม่ได้จนกว่าจะพ้นการต่อสู้ 8 วิ |
 | **Protection** | Buff | เพิ่งวาร์ปมา — อมตะทั้งจากมอนและผู้เล่น · หายทันทีที่คุณตีอะไรก็ตาม |
 | **Sure Crit** | Buff | ฮิตสกิลถัดไปคริชัวร์ |
 | **Empowered** | Buff | สกิลโจมตีถัดไปแรงขึ้น (ใช้แล้วหมด) |

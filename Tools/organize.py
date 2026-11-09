@@ -5,9 +5,22 @@ import os, re, json, glob, csv, shutil, collections, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from kbcommon import ROOT, RAW, BASE, load_raw, clean, tables, plain, name_from_title
 
+def relative_path(*args):
+    return os.path.relpath(*args).replace(os.sep, "/")
+
 SD = f"{ROOT}/Structured_Data"
 CATS = ["Classes", "Skills", "Stats", "Combat_Mechanics", "Weapons", "Equipment", "Affixes", "Cards", "Pets",
         "Monsters", "Maps", "Items", "Blacksmith", "Game_Systems", "Region_Sets", "Patch_Notes"]
+# Refuse regeneration outside an explicitly selected checkout or through symlinks.
+from pathlib import Path
+_root = Path(ROOT).resolve()
+_expected = os.environ.get("KB_WORKSPACE_ROOT")
+if not _expected or Path(_expected).resolve() != _root or not (_root / ".git").exists():
+    raise SystemExit("Set KB_WORKSPACE_ROOT to the selected repository checkout before regeneration")
+for _category in CATS + ["Structured_Data"]:
+    _target = (_root / _category).resolve()
+    if _target == _root or not _target.is_relative_to(_root):
+        raise SystemExit("Refusing regeneration outside the selected checkout")
 for c in CATS + ["Structured_Data"]:
     if c == "Patch_Notes": os.makedirs(f"{ROOT}/{c}", exist_ok=True); continue  # user-provided patch notes are kept
     shutil.rmtree(f"{ROOT}/{c}", ignore_errors=True); os.makedirs(f"{ROOT}/{c}", exist_ok=True)
@@ -17,7 +30,7 @@ pages = {}  # wiki path -> dict(meta, body, md)
 for f in glob.glob(f"{RAW}/*/*.md"):
     meta, body = load_raw(f)
     path = "/" + meta["source_url"].replace(BASE, "").strip("/")
-    pages[path if path != "/" else "/"] = {"meta": meta, "body": body, "md": clean(body), "raw_file": os.path.relpath(f, ROOT)}
+    pages[path if path != "/" else "/"] = {"meta": meta, "body": body, "md": clean(body), "raw_file": relative_path(f, ROOT)}
 ALIASES = {"/skills": "/jobs", "/refine": "/systems/refine", "/skills/novice": "/job/novice", "/gem-exchange": "/systems/gem-exchange"}
 manifest = {r["path"]: r for r in csv.DictReader(open(f"{ROOT}/Sources/URL_MANIFEST.csv", encoding="utf-8"))}
 
@@ -84,7 +97,7 @@ def relink(md, here):
     def rep(m):
         txt, p, frag = m.group(1), m.group(2), m.group(3) or ""
         t = target(p.rstrip("/") or "/")
-        if t: return f"[{txt}]({os.path.relpath(f'{ROOT}/{t}', os.path.dirname(f'{ROOT}/{here}'))}{frag})"
+        if t: return f"[{txt}]({relative_path(f'{ROOT}/{t}', os.path.dirname(f'{ROOT}/{here}'))}{frag})"
         return f"[{txt}]({BASE}{p}{frag})"
     return re.sub(r"\[([^\]]*)\]\((/[^)\s#]*)(#[^)\s]*)?\)", rep, md)
 
@@ -94,7 +107,7 @@ for p, pg in sorted(pages.items()):
     if p in ALIASES: continue
     t = target(p); written[p] = t
     m = pg["meta"]; os.makedirs(os.path.dirname(f"{ROOT}/{t}"), exist_ok=True)
-    rel_raw = os.path.relpath(f"{ROOT}/{pg['raw_file']}", os.path.dirname(f"{ROOT}/{t}"))
+    rel_raw = relative_path(f"{ROOT}/{pg['raw_file']}", os.path.dirname(f"{ROOT}/{t}"))
     alias = [a for a, c in ALIASES.items() if c == p]
     head = (f"# {name_from_title(m['source_title'])}\n\n"
             f"> **Source:** {m['source_url']}  \n> **Source title:** {m['source_title']}  \n"

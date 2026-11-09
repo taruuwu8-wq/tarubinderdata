@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/shop"
 source_title: "ร้านค้า · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -68,12 +68,12 @@ verification_status: "WIKI"
 | ![](https://wiki.bindertowngame.com/img/item/angel_wings.png)**Angel Wings** | 650 | แฟชั่น · back |
 | ![](https://wiki.bindertowngame.com/img/item/demon_wings.png)**Demon Wings** | 650 | แฟชั่น · back |
 | ![](https://wiki.bindertowngame.com/img/item/fairy_wings.png)**Fairy Wings** | 650 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/aura_flame.png)**Flame Aura** | 410 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_frost.png)**Frost Aura** | 410 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_holy.png)**Holy Aura** | 410 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_shadow.png)**Shadow Aura** | 410 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_thunder.png)**Thunder Aura** | 410 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_sakura.png)**Sakura Aura** | 410 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_flame.png)**Flame Aura** | 410 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_frost.png)**Frost Aura** | 410 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_holy.png)**Holy Aura** | 410 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_shadow.png)**Shadow Aura** | 410 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_thunder.png)**Thunder Aura** | 410 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_sakura.png)**Sakura Aura** | 410 | แฟชั่น · aura |
 | ![](https://wiki.bindertowngame.com/img/item/spirit_wraith.png)**Wraith Knight** | 570 | แฟชั่น · spirit |
 | ![](https://wiki.bindertowngame.com/img/item/spirit_kitsune.png)**Spirit Fox** | 570 | แฟชั่น · spirit |
 | ![](https://wiki.bindertowngame.com/img/item/mount_mushroom.png)**Mushroom Buddy** | 590 | แฟชั่น · mount |
@@ -88,21 +88,127 @@ verification_status: "WIKI"
 | ![](https://wiki.bindertowngame.com/img/item/starbloom_princess.png)**Starbloom Princess** | 850 | แฟชั่น · costume |
 | ![](https://wiki.bindertowngame.com/img/item/nova_vanguard.png)**Nova Vanguard** | 850 | แฟชั่น · costume |
 | ![](https://wiki.bindertowngame.com/img/item/grand_archmage.png)**Grand Archmage** | 850 | แฟชั่น · costume |
-| ![](https://wiki.bindertowngame.com/img/item/abyss_demon_wings.png)**Abyss Demon Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/seraph_light_wings.png)**Seraph Light Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/elder_dragon_wings.png)**Elder Dragon Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/gundam_beam_wings.png)**Mecha Beam Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/frost_crystal_wings.png)**Frost Crystal Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/phoenix_flame_wings.png)**Phoenix Flame Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/cosmic_butterfly_wings.png)**Cosmic Butterfly Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/storm_lightning_wings.png)**Storm Lightning Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/spectral_bone_wings.png)**Spectral Bone Wings** | 1,000 | แฟชั่น · back |
-| ![](https://wiki.bindertowngame.com/img/item/aura_chains.png)**Abyss Chains** | 620 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_hologram.png)**Hologram** | 620 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_divine.png)**Divine Halo** | 620 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_galaxy.png)**Galaxy** | 620 | แฟชั่น · aura |
-| ![](https://wiki.bindertowngame.com/img/item/aura_ghosts.png)**Ghost Vortex** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_abyss_demon_wings.png)**Abyss Demon Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_seraph_light_wings.png)**Seraph Light Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_elder_dragon_wings.png)**Elder Dragon Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_gundam_beam_wings.png)**Mecha Beam Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_frost_crystal_wings.png)**Frost Crystal Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_phoenix_flame_wings.png)**Phoenix Flame Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_cosmic_butterfly_wings.png)**Cosmic Butterfly Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_storm_lightning_wings.png)**Storm Lightning Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_spectral_bone_wings.png)**Spectral Bone Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_chains.png)**Abyss Chains** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_hologram.png)**Hologram** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_divine.png)**Divine Halo** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_galaxy.png)**Galaxy** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_ghosts.png)**Ghost Vortex** | 620 | แฟชั่น · aura |
 | ![](https://wiki.bindertowngame.com/img/item/mount_jet_hoverboard.png)**Jet Hoverboard** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_magic_carpet.png)**Magic Carpet** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_puff_cloud.png)**Puff Cloud** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_ember_wing.png)**Ember Wing** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_star_surfboard.png)**Starfall Surf** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_frost_shard.png)**Frost Shard** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_thunder_disc.png)**Thunder Disc** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_sakura_petal.png)**Sakura Petal** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_eclipse_moon.png)**Eclipse Moon** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_sky_saucer.png)**Sky Saucer** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_neon_glide.png)**Neon Glide** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_clockwork_gear.png)**Clockwork Gear** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_bubble_float.png)**Bubble Float** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_tide_surf.png)**Tide Surf** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_royal_shield.png)**Royal Shield** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_ghost_sheet.png)**Boo Sheet** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_mushroom_cap.png)**Mushroom Hop** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_paper_plane.png)**Paper Plane** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_pixel_block.png)**Pixel Block** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_jellyfish_drift.png)**Jellyfish Drift** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_titan_thruster.png)**Titan Thruster** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_golden_scarab.png)**Golden Scarab** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_rubber_duck.png)**Ducky Float** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_amethyst_geode.png)**Amethyst Geode** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_retro_sunset.png)**Retro Sunset** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_holo_pad.png)**Holo Pad** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_bass_drop.png)**Bass Drop** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_glow_longboard.png)**Glow Longboard** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/mount_plasma_plate.png)**Plasma Plate** | 590 | แฟชั่น · mount |
+| ![](https://wiki.bindertowngame.com/img/item/patissier_bunny.png)**Patissier Bunny** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/sakura_shrine.png)**Sakura Shrine** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/frost_empress.png)**Frost Empress** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/dragon_warlord.png)**Dragon Warlord** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/candy_witch.png)**Candy Witch** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/star_idol.png)**Star Idol** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/mecha_pilot.png)**Mecha Pilot** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/radiant_paladin.png)**Radiant Paladin** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/tide_siren.png)**Tide Siren** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/sand_sultan.png)**Sand Sultan** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/moss_druid.png)**Moss Druid** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/clockwork_inventor.png)**Clockwork Inventor** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/phoenix_regalia.png)**Phoenix Regalia** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/phantom_thief.png)**Phantom Thief** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/bamboo_panda.png)**Bamboo Panda** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/galaxy_sorceress.png)**Galaxy Sorceress** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/thunder_shogun.png)**Thunder Shogun** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/cozy_snowfall.png)**Cozy Snowfall** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/gothic_rose.png)**Gothic Rose** | 850 | แฟชั่น · costume |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_star_whale.png)**Star Whale** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_storm_qilin.png)**Storm Qilin** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_clockwork_owl.png)**Clockwork Owl** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_pebble_golem.png)**Pebble Golem** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_bubble_axolotl.png)**Bubble Axolotl** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_solar_sprite.png)**Solar Sprite** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_moon_rabbit.png)**Moon Rabbit** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_guardian_drone.png)**Guardian Drone** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_bloom_fairy.png)**Bloom Fairy** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_tiny_kraken.png)**Tiny Kraken** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_will_lantern.png)**Will-o'-Lantern** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_frost_griffin.png)**Frost Griffin** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_halo_seraph.png)**Halo Seraph** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_void_watcher.png)**Void Watcher** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_bee_knight.png)**Bee Knight** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_dream_tapir.png)**Dream Tapir** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_candy_feather_wings.png)**Candy Feather Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_neon_circuit_wings.png)**Neon Circuit Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_soap_bubble_wings.png)**Soap Bubble Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_sakura_petal_wings.png)**Sakura Petal Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aurora_feather_wings.png)**Aurora Feather Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_ink_quill_wings.png)**Ink Quill Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_leaf_sprite_wings.png)**Leaf Sprite Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_honeycomb_wings.png)**Honeycomb Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_plush_owl_wings.png)**Plush Owl Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_pixel_8bit_wings.png)**8-Bit Pixel Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_thorn_rose_wings.png)**Thorn Rose Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_lumina_moth_wings.png)**Lumina Moth Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_peacock_jewel_wings.png)**Peacock Jewel Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_dragonfly_prism_wings.png)**Dragonfly Prism Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_lacquer_gold_wings.png)**Lacquer Gold Wings** | 1,000 | แฟชั่น · back |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_bubble_pop.png)**Bubble Pop** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_candy_sprinkle.png)**Candy Sprinkle** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_yipeng_lantern.png)**Yi Peng Lanterns** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_music_beat.png)**Music Beat** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_data_stream.png)**Data Stream** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_firefly_meadow.png)**Firefly Meadow** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_rainbow_prism.png)**Rainbow Prism** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_desert_wind.png)**Desert Wind** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_little_raincloud.png)**Little Raincloud** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_crystal_orbit.png)**Crystal Orbit** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_autumn_leaves.png)**Autumn Leaves** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_ink_wash.png)**Ink Wash** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_lucky_coins.png)**Lucky Coins** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_time_clock.png)**Time Clock** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_heart_bloom.png)**Heart Bloom** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_zen_stones.png)**Zen Stones** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_neon_ring.png)**Neon Ring** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/shop/cos_aura_constellation.png)**Constellation** | 620 | แฟชั่น · aura |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_cloud_lamb.png)**Cloud Lamb** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_jelly_balloon.png)**Jelly Balloon** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_star_chick.png)**Star Chick** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_cotton_bat.png)**Cotton Candy Bat** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_paper_crane.png)**Paper Crane** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_dandelion_sprite.png)**Dandelion Sprite** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_teacup_dragon.png)**Teacup Dragon** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_lantern_kitty.png)**Lantern Kitty** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_puffer_balloon.png)**Puffer Balloon** | 570 | แฟชั่น · spirit |
+| ![](https://wiki.bindertowngame.com/img/item/spirit_bunny_copter.png)**Bunny Copter** | 570 | แฟชั่น · spirit |
 | ![](https://wiki.bindertowngame.com/img/item/dmgskin_sakura_ink.png)**Sakura Ink** | 590 | เลขพู่กันครีมชมพู รอยหมึกแดง กลีบซากุระปลิว |
 | ![](https://wiki.bindertowngame.com/img/item/dmgskin_slime_jelly.png)**Slime Jelly** | 590 | เลขเยลลี่มิ้นต์ เด้งดึ๋ง มีสไลม์จิ๋วกับหยดเยลลี่ |
 | ![](https://wiki.bindertowngame.com/img/item/dmgskin_pearl_tide.png)**Pearl Tide** | 590 | เลขมุกขาวไล่ฟ้าน้ำทะเล คลื่น ปะการัง และเม็ดมุก |

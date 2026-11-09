@@ -2,12 +2,12 @@
 
 > **Source:** https://wiki.bindertowngame.com/items  
 > **Source title:** ไอเท็ม · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [items.md](../../Raw/Original_Wiki_Pages/_hub/items.md)
 
 ---
 
-[**อุปกรณ์** 1,002 รายการ](gear.md) [**หมวก · หน้า · ปาก** 331 รายการ](look.md) [**ยา & อาหาร** 49 รายการ](use.md) [**วัตถุดิบ** 157 รายการ](mat.md) [**ของดรอปมอน** 160 รายการ](drop.md) [**การ์ด & วิญญาณ** 3 รายการ](../../Cards/Cards_and_Spirits.md) [**แฟชั่น (Cash)** 69 รายการ](fashion.md)
+[**อุปกรณ์** 1,097 รายการ](gear.md) [**หมวก · หน้า · ปาก** 355 รายการ](look.md) [**ยา & อาหาร** 49 รายการ](use.md) [**วัตถุดิบ** 157 รายการ](mat.md) [**ของดรอปมอน** 160 รายการ](drop.md) [**การ์ด & วิญญาณ** 3 รายการ](../../Cards/Cards_and_Spirits.md) [**แฟชั่น (Cash)** 175 รายการ](fashion.md)
 
 ## ต่อไป
 

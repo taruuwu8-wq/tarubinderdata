@@ -20,7 +20,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Acorn Squirrel กระรอกลูกโอ๊ก · ATK +9",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Aurora Kitsune Kit",
@@ -130,7 +132,9 @@
     }
    ],
    "listing_text": "Aurora Kitsune Kit ลูกจิ้งจอกออโรร่า · MATK +8% · Max MP +105",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Strawberry",
@@ -150,7 +154,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Strawberry Hamster แฮมสเตอร์สตรอว์เบอร์รี่ · Heal Power +60",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Berry",
@@ -170,7 +176,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Berry Hedgehog เม่นเบอร์รี่ · ATK +6 · MATK +6",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Biscuit",
@@ -190,7 +198,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Biscuit Pup ลูกหมาบิสกิต · Max HP +45",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Calico",
@@ -210,7 +220,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Calico Kitten ลูกแมวสามสี · HIT +3",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Celestial Qilin Cub",
@@ -325,7 +337,9 @@
     }
    ],
    "listing_text": "Celestial Qilin Cub ลูกกิเลนสวรรค์ · ATK +6% · MATK +6% · Max HP +5%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Cinderhorn Drakeling",
@@ -434,7 +448,9 @@
     }
    ],
    "listing_text": "Cinderhorn Drakeling ลูกมังกรเขาถ่าน · เจาะเกราะ +10% · Max HP +5%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Clover",
@@ -454,7 +470,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Clover Frog กบใบโคลเวอร์ · MATK +9",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Cotton",
@@ -474,7 +492,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Cotton Lamb ลูกแกะปุยฝ้าย · DEF +9",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Ember Phoenix Chick",
@@ -586,7 +606,9 @@
     }
    ],
    "listing_text": "Ember Phoenix Chick ลูกนกฟีนิกซ์เปลวเพลิง · ATK +8% · Crit Damage +10%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Hallow Witch Cat",
@@ -694,7 +716,9 @@
     }
    ],
    "listing_text": "Hallow Witch Cat แมวแม่มดฮาโลวีน · ATK +5% · MATK +5% · HP regen/วิ +12",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Honey",
@@ -714,7 +738,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Honey Bear Cub ลูกหมีน้ำผึ้ง · DEF +18",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Hourglass Fennec",
@@ -822,7 +848,9 @@
     }
    ],
    "listing_text": "Hourglass Fennec เฟนเนกนาฬิกาทราย · ลด Cooldown +10% · Max MP +105",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Inkwell Owl",
@@ -933,7 +961,9 @@
     }
    ],
    "listing_text": "Inkwell Owl นกฮูกหมึกดาว · Spell Amp +5% · MATK +5%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Ironhorn Beetle",
@@ -1011,7 +1041,9 @@
     }
    ],
    "listing_text": "Ironhorn Beetle ด้วงเขาเหล็ก · เจาะเกราะ +6%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Knight",
@@ -1031,7 +1063,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Knight Corgi คอร์กี้อัศวิน · ATK +3%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Lantern",
@@ -1051,7 +1085,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Lantern Axolotl แอกโซลอเติลโคมไฟ · MATK +3%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Maple",
@@ -1071,7 +1107,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Maple Red Panda แพนด้าแดงเมเปิล · ATK +2% · MATK +2%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Mochi",
@@ -1091,7 +1129,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Mochi Bunny กระต่ายโมจิ · Heal Power +30",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Moonlit Unicorn Foal",
@@ -1199,7 +1239,9 @@
     }
    ],
    "listing_text": "Moonlit Unicorn Foal ลูกยูนิคอร์นแสงจันทร์ · Heal Power +120 · Max MP +105",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Mossrune Golemlet",
@@ -1277,7 +1319,9 @@
     }
    ],
    "listing_text": "Mossrune Golemlet โกเลมจิ๋วมอสรูน · Max HP +5%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Puddle",
@@ -1297,7 +1341,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Puddle Duckling ลูกเป็ดน้อย · Max MP +24",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Runeglass Moth",
@@ -1375,7 +1421,9 @@
     }
    ],
    "listing_text": "Runeglass Moth มอธปีกแก้วรูน · Spell Amp +3%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Scarf",
@@ -1395,7 +1443,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Scarf Penguin เพนกวินผ้าพันคอ · Max MP +45",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Scholar",
@@ -1415,7 +1465,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Scholar Owlet นกฮูกนักปราชญ์ · HIT +6",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Starlight Fawn",
@@ -1493,7 +1545,9 @@
     }
    ],
    "listing_text": "Starlight Fawn ลูกกวางแสงดาว · ATK +4% · MATK +4%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Stormkite Falcon",
@@ -1604,7 +1658,9 @@
     }
    ],
    "listing_text": "Stormkite Falcon เหยี่ยวว่าวพายุ · ความเร็วโจมตี +10% · ATK +5%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Tidepearl Turtle",
@@ -1713,7 +1769,9 @@
     }
    ],
    "listing_text": "Tidepearl Turtle ลูกเต่ามุกวารี · Max HP +10% · DEF +42",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "not_refreshed_after_2026-11-07",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Truffle",
@@ -1733,7 +1791,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Truffle Piglet ลูกหมูทรัฟเฟิล · HP regen/วิ +3",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   },
   {
    "name": "Yuzu",
@@ -1753,7 +1813,9 @@
    "verification_status": "WIKI",
    "data_source": "listing_table_only",
    "listing_text": "Yuzu Capybara คาปิบาร่ายูสุ · Max HP +3%",
-   "listing_source": "https://wiki.bindertowngame.com/systems/pets"
+   "listing_source": "https://wiki.bindertowngame.com/systems/pets",
+   "freshness_status": "listing_only_2026-11-08_detail_not_fetched",
+   "listing_last_crawled": "2026-11-08"
   }
  ]
 }

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/job/warrior"
 source_title: "Warrior · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -50,6 +50,12 @@ verification_status: "WIKI"
 เมื่อใช้สกิล **Sunder** สกิล Warrior ที่โดนเป้า ลด DEF / MDEF ของเป้า **4%** ต่อสแตก สูงสุด **5** สแตก ( **6** วิ) — ทุกคนที่ตีเป้านั้นแรงขึ้น
 
 ตอนสู้ผู้เล่น **Relentless PvP** ผู้เล่นหลบสกิลของ Warrior ได้แค่ **70%** ของปกติ (ตีธรรมดาหลบได้ตามเดิม)
+
+ตอนสู้ผู้เล่น **Rage Blood PvP** Rend / Gash ใส่ผู้เล่นหลบไม่ได้ · ยิ่ง HP ต่ำยิ่งดูดเลือดจากผู้เล่น (สูงสุด **20%** ของดาเมจ เริ่มที่ HP **60%**)
+
+ตอนสู้ผู้เล่น **Last Stand PvP** ผู้เล่นตีจน HP ต่ำกว่า **30%** ได้โล่ **15%** ของ HP สูงสุด **6** วิ (ทุก **60** วิ)
+
+ตอนสู้ผู้เล่น **Grievous Wound PvP** Rend / Gash ใส่ผู้เล่น ทำให้ฮีลที่เป้าได้รับลดลง **40%** เป็นเวลา **5** วิ
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+25%** / บอส **+55%** / PvP **+15%**)
 

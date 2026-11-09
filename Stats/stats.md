@@ -2,17 +2,19 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/stats  
 > **Source title:** สเตตัส & เลเวล · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__stats.md](../Raw/Original_Wiki_Pages/systems/systems__stats.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #3: เพิ่ม HP พื้นฐานของตัวละคร และปรับการคำนวณพลังป้องกันใน PvP ให้เหมือน PvE — *CONFLICT: Wiki says armour reduces player damage by at most 40% in PvP; the patch makes PvP defence work like PvE. New base HP values are not in the patch, so HP numbers on the Wiki may be outdated [UNKNOWN new values].*
 <!-- PATCH-NOTICES:END -->
 
 ---
+
+[🧮 เช็คสเตตัสตันไหม](https://wiki.bindertowngame.com/tools/stats)
 
 ## ตอบให้ก่อน
 

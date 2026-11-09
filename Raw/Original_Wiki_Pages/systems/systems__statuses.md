@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/statuses"
 source_title: "สถานะ · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -35,7 +35,7 @@ verification_status: "WIKI"
 | ![](https://wiki.bindertowngame.com/img/status/dropup.png)**Drop Boost** | Buff | เรทดรอปไอเทมจากมอนเพิ่ม |
 | ![](https://wiki.bindertowngame.com/img/status/guard.png)**Shield** | Buff | โล่กันดาเมจ — โล่แตกก่อนเลือดลด |
 | ![](https://wiki.bindertowngame.com/img/status/power.png)**Reflect** | Buff | สะท้อนดาเมจที่ได้รับกลับใส่คนตี |
-| ![](https://wiki.bindertowngame.com/img/status/power.png)**Arcane Surge** | Buff | ร่ายสกิลครบทุก 4 ครั้ง ครั้งนั้นไม่เสีย MP · Arcane Ward: HP ต่ำกว่า 40% ได้โล่ 35% ของ HP สูงสุด 6 วิ (ติดได้ทุก 30 วิ) · Arcane Bulwark: โดนมอนรุม 3 ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน 30% · Weapon Mastery: ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ +15: มอน +5% / บอส +12% / PvP +15%) |
+| ![](https://wiki.bindertowngame.com/img/status/power.png)**Arcane Surge** | Buff | ร่ายสกิลครบทุก 4 ครั้ง ครั้งนั้นไม่เสีย MP · Arcane Ward: HP ต่ำกว่า 40% ได้โล่ 35% ของ HP สูงสุด 6 วิ (ติดได้ทุก 30 วิ) · Arcane Bulwark: โดนมอนรุม 3 ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน 30% · Frost Nova (PvP): โดนผู้เล่นตีในระยะ 2.5 ช่อง ผลักศัตรูผู้เล่นรอบตัว 3 ช่องออกไป 3 ช่องแล้วแช่แข็ง 1.5 วิ (ทุก 12 วิ) · Weapon Mastery: ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ +15: มอน +5% / บอส +12% / PvP +15%) |
 | ![](https://wiki.bindertowngame.com/img/status/power.png)**Offline Ready** | Buff | ปิดเกมตอนนี้ได้ — ระบบฟาร์มออฟไลน์ให้ตามกติกา |
 | ![](https://wiki.bindertowngame.com/img/status/power.png)**Free Cast** | Buff | สกิลถัดไปไม่เสีย MP (Constellation / Free Reload) |
 | ![](https://wiki.bindertowngame.com/img/status/regen.png)**Lifesteal** | Buff | ดูดเลือดจากดาเมจที่ทำ · ตี Mini-boss / Field Boss / World Boss ดูดได้ 1.7% ต่อฮิต และ 5% ต่อวินาที · ดูดได้ไม่เกิน 5% Max HP ต่อฮิต และ 15% ต่อวิ (รวมทุกแหล่ง) |
@@ -54,6 +54,8 @@ verification_status: "WIKI"
 | ![](https://wiki.bindertowngame.com/img/status/guard.png)**Frost Armor** | Buff | มอนที่ตีคุณติด Chill |
 | ![](https://wiki.bindertowngame.com/img/status/guard.png)**Spirit Echo** | Buff | บล็อกทุกดาเมจ (Field Boss / Mini-boss โดนแค่ครึ่ง) — หมดการ์ดแล้วสวนกลับ ยิ่งบล็อกเยอะยิ่งแรง |
 | ![](https://wiki.bindertowngame.com/img/status/weak.png)**Pet Bonus ปิดชั่วคราว** | Debuff | โบนัสสัตว์เลี้ยงใช้ได้ใน PvE เท่านั้น — ตอนสู้กับผู้เล่นไม่มีผล (สกินยังแสดงตามปกติ) |
+| ![](https://wiki.bindertowngame.com/img/status/weak.png)**Grievous Wound** | Debuff | ฮีลที่ได้รับลดลง −40% — โดน Rend / Gash (Warrior) หรือ Assassinate (Rogue) จากผู้เล่น |
+| ![](https://wiki.bindertowngame.com/img/status/weak.png)**ดูดเลือดติดคูลดาวน์** | Debuff | กำลังสู้กับผู้เล่น — ดูดเลือดจากมอนใช้ไม่ได้จนกว่าจะพ้นการต่อสู้ 8 วิ |
 | ![](https://wiki.bindertowngame.com/img/status/guard.png)**Protection** | Buff | เพิ่งวาร์ปมา — อมตะทั้งจากมอนและผู้เล่น · หายทันทีที่คุณตีอะไรก็ตาม |
 | ![](https://wiki.bindertowngame.com/img/status/crit.png)**Sure Crit** | Buff | ฮิตสกิลถัดไปคริชัวร์ |
 | ![](https://wiki.bindertowngame.com/img/status/power.png)**Empowered** | Buff | สกิลโจมตีถัดไปแรงขึ้น (ใช้แล้วหมด) |

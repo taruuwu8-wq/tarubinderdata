@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/guide"
 source_title: "คู่มือ · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -13,7 +13,7 @@ verification_status: "WIKI"
 
 เลเวลของคุณ
 
-[![](https://wiki.bindertowngame.com/img/gen/map/old_quarry.png)**Old Quarry** Lv 10–16 · Region A · Valebrook · EXP เต็มถึง Lv 19![Rock Skitter](https://wiki.bindertowngame.com/img/mob/rock_skitter.png)![Pebblit](https://wiki.bindertowngame.com/img/mob/pebblit.png)](https://wiki.bindertowngame.com/map/old_quarry) [![](https://wiki.bindertowngame.com/img/gen/map/bracken_sink.png)**Bracken Sink** Lv 9–15 · Region A · Valebrook · EXP เต็มถึง Lv 18![Fern Thornling](https://wiki.bindertowngame.com/img/gen/mob/fern_thornling.png)![Burrow Skitter](https://wiki.bindertowngame.com/img/gen/mob/burrow_skitter.png)![Moss Crab](https://wiki.bindertowngame.com/img/gen/mob/moss_crab.png)](https://wiki.bindertowngame.com/map/bracken_sink) [![](https://wiki.bindertowngame.com/img/gen/map/riverside.png)**Riverside** Lv 6–12 · Region A · Valebrook · EXP เต็มถึง Lv 15![Snipcrab](https://wiki.bindertowngame.com/img/mob/snipcrab.png)![River Wisp](https://wiki.bindertowngame.com/img/mob/river_wisp.png)![Reed Skipper](https://wiki.bindertowngame.com/img/mob/reed_skipper.png)](https://wiki.bindertowngame.com/map/riverside) [![](https://wiki.bindertowngame.com/img/gen/map/whispering_woods.png)**Whispering Woods** Lv 4–9 · Region A · Valebrook · EXP เต็มถึง Lv 12![Acorn Skitter](https://wiki.bindertowngame.com/img/mob/acorn_skitter.png)![Thornling](https://wiki.bindertowngame.com/img/mob/thornling.png)![Gloom Wisp](https://wiki.bindertowngame.com/img/mob/gloom_wisp.png)](https://wiki.bindertowngame.com/map/whispering_woods)
+[**Copperbell Arena** Lv 1–115 · Region A · Valebrook · EXP เต็มถึง Lv 118](https://wiki.bindertowngame.com/map/copperbell_arena) [![](https://wiki.bindertowngame.com/img/gen/map/old_quarry.png)**Old Quarry** Lv 10–16 · Region A · Valebrook · EXP เต็มถึง Lv 19![Pebblit](https://wiki.bindertowngame.com/img/mob/pebblit.png)![Rock Skitter](https://wiki.bindertowngame.com/img/mob/rock_skitter.png)](https://wiki.bindertowngame.com/map/old_quarry) [![](https://wiki.bindertowngame.com/img/gen/map/bracken_sink.png)**Bracken Sink** Lv 9–15 · Region A · Valebrook · EXP เต็มถึง Lv 18![Burrow Skitter](https://wiki.bindertowngame.com/img/gen/mob/burrow_skitter.png)![Fern Thornling](https://wiki.bindertowngame.com/img/gen/mob/fern_thornling.png)![Moss Crab](https://wiki.bindertowngame.com/img/gen/mob/moss_crab.png)](https://wiki.bindertowngame.com/map/bracken_sink) [![](https://wiki.bindertowngame.com/img/gen/map/riverside.png)**Riverside** Lv 6–12 · Region A · Valebrook · EXP เต็มถึง Lv 15![Snipcrab](https://wiki.bindertowngame.com/img/mob/snipcrab.png)![River Wisp](https://wiki.bindertowngame.com/img/mob/river_wisp.png)![Reed Skipper](https://wiki.bindertowngame.com/img/mob/reed_skipper.png)](https://wiki.bindertowngame.com/map/riverside)
 
 ได้ EXP เต็มเมื่อเลเวลไม่เกินเลเวลสูงสุดของแมพ +3 · เลเวลสูงสุดของเกม Lv 115
 

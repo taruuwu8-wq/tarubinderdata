@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/job/acolyte"
 source_title: "Acolyte · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -43,7 +43,7 @@ verification_status: "WIKI"
 
 เมื่อฮีล **Divine Grace** ฮีลจากสกิลแรงขึ้น **25%** · ฮีลให้ผู้เล่นคนอื่นแรงขึ้นอีก **50%**
 
-ตอนสู้ผู้เล่น **Sanctified PvP** ตอนสู้กับผู้เล่น ฮีลจากสกิล Acolyte ที่ให้ผู้เล่นคนอื่นยังแรง **50%** (ฮีลตัวเองและฮีลทั่วไปเหลือ **20%**)
+ตอนสู้ผู้เล่น **Sanctified PvP** ตอนสู้กับผู้เล่น ฮีลจากสกิล Acolyte ที่ให้ผู้เล่นคนอื่นยังแรง **50%** (ฮีลตัวเองและฮีลทั่วไปเหลือ **20%**) · ฮีลซ้อน (PvP): ผู้เล่นคนเดียวได้ฮีลจาก Acolyte คนอื่นเกิน **12%** ของ HP ใน **4** วิ ฮีลถัดไปเหลือ **60%** · เกิน **25%** เหลือ **35%**
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+10%** / บอส **+20%** / PvP **+15%**)
 

@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/social  
 > **Source title:** Party · Guild · ตลาด · เทรด · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__social.md](../Raw/Original_Wiki_Pages/systems/systems__social.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #6: ร้านเพชร, Premium, Daily, Party, Guild ไม่ค้างหน้าโหลดแล้ว หน้าต่างอื่นเปิดเร็วขึ้น
@@ -23,10 +23,10 @@ Party กี่คนสูงสุด 10 คน · หาร EXP เมื่�
 
 ## ภาษีตลาด
 
-- ภาษีตลาดคิดจากยอดที่คุณขายได้สะสมในวันนั้น: 5M แรก 5% (Premium 1%) · ส่วน 5M–50M 8% (Premium 4%) · ส่วนเกิน 50M 12% (Premium 8%)
+- ภาษีตลาด (ไม่ใช่ Premium) คิดจากยอดที่คุณขายได้สะสมในวันนั้น: 5M แรก 5% · ส่วน 5M–50M 8% · ส่วนเกิน 50M 12% · Premium จ่าย 1% ทุกยอด ไม่มีขั้นบันได
 - นับราคาขายก่อนหักภาษี ทั้งของที่ขายในตลาดและของที่ส่งให้งานสั่งทำ · แบ่งขายหลายประกาศก็นับรวมกัน · เริ่มนับใหม่ทุกเที่ยงคืน (เวลาไทย)
-- ภาษีพื้นฐาน (Premium หรือไม่) ล็อกตอนลงประกาศ ขั้นของวันคิดตอนขายได้ · จดหมายเงินขายบอกภาษีแต่ละขั้น
-- ของที่ซ้อนได้ (ยา อาหาร วัตถุดิบ ชิ้นส่วนมอน ฯลฯ) ตั้งราคาต่อชิ้นได้ไม่เกิน 50 เท่าของราคาที่ซื้อขายจริงช่วง 7 วัน (เพดานไม่ต่ำกว่า 50,000 Gold) · ของที่ขายไม่ถึง 20 ครั้งใน 7 วัน และอุปกรณ์ / การ์ด ไม่มีเพดาน
+- Premium หรือไม่ ล็อกตอนลงประกาศ ขั้นของวันคิดตอนขายได้ · จดหมายเงินขายบอกภาษีแต่ละขั้น
+- ของที่ซ้อนได้ (ยา อาหาร วัตถุดิบ ชิ้นส่วนมอน ฯลฯ) ตั้งราคาต่อชิ้นได้แพงกว่าราคาที่ซื้อขายจริงช่วง 7 วันไม่เกิน 400% (เพดานไม่ต่ำกว่า 50,000 Gold) · ของที่ขายไม่ถึง 20 ครั้งใน 7 วัน และอุปกรณ์ / การ์ด ไม่มีเพดาน
 
 | ยอดขายของคุณในวันนั้น (เวลาไทย) | ภาษีเพิ่มจากปกติ |
 | --- | --- |

@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/acolyte  
 > **Source title:** Acolyte · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__acolyte.md](../Raw/Original_Wiki_Pages/job/job__acolyte.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #26: PvP Acolyte: ฮีลจาก Acolyte หลายคนซ้อนกันใน 4 วิจะเบาลง
@@ -51,7 +51,7 @@
 
 เมื่อฮีล **Divine Grace** ฮีลจากสกิลแรงขึ้น **25%** · ฮีลให้ผู้เล่นคนอื่นแรงขึ้นอีก **50%**
 
-ตอนสู้ผู้เล่น **Sanctified PvP** ตอนสู้กับผู้เล่น ฮีลจากสกิล Acolyte ที่ให้ผู้เล่นคนอื่นยังแรง **50%** (ฮีลตัวเองและฮีลทั่วไปเหลือ **20%**)
+ตอนสู้ผู้เล่น **Sanctified PvP** ตอนสู้กับผู้เล่น ฮีลจากสกิล Acolyte ที่ให้ผู้เล่นคนอื่นยังแรง **50%** (ฮีลตัวเองและฮีลทั่วไปเหลือ **20%**) · ฮีลซ้อน (PvP): ผู้เล่นคนเดียวได้ฮีลจาก Acolyte คนอื่นเกิน **12%** ของ HP ใน **4** วิ ฮีลถัดไปเหลือ **60%** · เกิน **25%** เหลือ **35%**
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+10%** / บอส **+20%** / PvP **+15%**)
 

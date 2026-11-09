@@ -1,5 +1,5 @@
 {
- "_about": "All 55 maps. summary_text holds level range / EXP cap / exits / matchup notes verbatim.",
+ "_about": "55 map detail pages captured 2026-11-07; fresh listing has 56 maps. Copperbell Arena detail not fetched.",
  "count": 55,
  "records": [
   {
@@ -71,7 +71,8 @@
     "/mob/remnant",
     "/mob/shrine_firefly",
     "/mob/vale_keeper"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Ashford",
@@ -151,7 +152,8 @@
      ]
     }
    ],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Aurora Hollow",
@@ -184,7 +186,8 @@
     "/mob/frost_crab",
     "/mob/ice_otter",
     "/mob/ice_wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bloomcrown Glade",
@@ -218,7 +221,8 @@
     "/mob/bloom_crowned_stag",
     "/mob/gloom_wisp",
     "/mob/thornling"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bracken Sink",
@@ -300,7 +304,8 @@
     "/mob/fern_thornling",
     "/mob/moss_brute",
     "/mob/moss_crab"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Brinecrust Shoals",
@@ -379,7 +384,8 @@
     "/mob/crust_lurker",
     "/mob/floe_brute",
     "/mob/floe_wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Cinder Eyrie",
@@ -413,7 +419,8 @@
     "/mob/ember_hound",
     "/mob/ember_wisp",
     "/mob/magma_pebblit"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Cloudspire Ruins",
@@ -481,7 +488,8 @@
     "/mob/sky_sentinel",
     "/mob/sky_wisp",
     "/mob/storm_remnant"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Coralstep Plateau",
@@ -558,7 +566,8 @@
     "/mob/coralback_tortoise",
     "/mob/pearl_wisp",
     "/mob/shell_remnant"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Drowned Forum",
@@ -636,7 +645,8 @@
     "/mob/fountain_serpent",
     "/mob/mirror_merchant",
     "/mob/vase_lurker"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Duskgate Pass",
@@ -700,7 +710,8 @@
     "/mob/dusk_herald",
     "/mob/dusk_remnant",
     "/mob/dusk_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Ember Hollow",
@@ -766,7 +777,8 @@
     "/mob/ember_hound",
     "/mob/ember_wisp",
     "/mob/magma_pebblit"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Frostpeak Slopes",
@@ -839,7 +851,8 @@
     "/mob/frost_skitter",
     "/mob/frost_wisp",
     "/mob/rime_brute"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Frozen Mere",
@@ -912,7 +925,8 @@
     "/mob/ice_otter",
     "/mob/ice_wisp",
     "/mob/mere_lurker"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Glasswrack",
@@ -976,7 +990,8 @@
     "/mob/glass_sprout",
     "/mob/wrack_brute",
     "/mob/wrack_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gloomroot Forest",
@@ -1050,7 +1065,8 @@
     "/mob/corrupt_treant",
     "/mob/gloom_sprout",
     "/mob/spore_lantern"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Honeyrill",
@@ -1131,7 +1147,8 @@
     "/mob/hive_skitter",
     "/mob/pollen_wisp",
     "/mob/willow_brute"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Howling Steppes",
@@ -1202,7 +1219,8 @@
     "/mob/gale_wisp",
     "/mob/steppe_hound",
     "/mob/storm_harpy"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Kitewind Terraces",
@@ -1274,7 +1292,8 @@
     "/mob/kite_harpy",
     "/mob/terrace_sentinel",
     "/mob/terrace_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Lanternrice Delta",
@@ -1352,7 +1371,8 @@
     "/mob/paddy_ox",
     "/mob/reed_crane",
     "/mob/straw_thornling"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gauntlet · Valebrook Gate",
@@ -1375,7 +1395,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gauntlet · Ashford Gate",
@@ -1398,7 +1419,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gauntlet · Stormwall Gate",
@@ -1421,7 +1443,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gauntlet · Sanctum Gate",
@@ -1444,7 +1467,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Gauntlet · The Last Gate",
@@ -1467,7 +1491,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องด่านของ Binder Gauntlet — ฝ่าด่านคนเดียวกติกา\n\n- ฝ่า 50 ด่านคนเดียว (Lv 70+) · มอนเลเวลตามด่าน เท่ากันทุกคน — ด่าน 1 Lv 70 → ด่าน 50 Lv 99\n- ด่าน 5, 15… Elite / Mini-boss · ด่าน 10, 20… Field Boss · ด่าน 50 บอสสุดท้าย 2 ตัว\n- เข้าห้องแล้วนับถอยหลัง 10 วิ ก่อนมอนเกิด — เปิด AUTO / จัดสกิลได้\n- ผ่านด่านแล้วเลือก Boon 1 ใน 3 — กฎพิเศษใช้ได้จนจบรอบ (สูงสุด 8 อัน)\n- ตายหรือครบ 60 นาทีจบรอบ ไม่เสียอะไร · ตายแล้วกลับเมืองเองใน 8 วิ (เกิดที่เดิมไม่ได้)\n- ล้มบอสด่าน 10–50 ครั้งแรกของสัปดาห์ได้ Bindmark (ครบทุกด่าน 60) + เลือกของ 1 ชิ้น · ผ่านด่านสุดท้ายได้เกียร์มี Inscription\n- Bindmark ต่อบอส (ครั้งแรกของสัปดาห์): ด่าน 10 = 5 · ด่าน 20 = 8 · ด่าน 30 = 12 · ด่าน 40 = 15 · ด่าน 50 = 20\n- รางวัล Ranking รายสัปดาห์ (ทางจดหมาย): Top 10 = Bindmark 60 + Unique Shard ×1 · Top 50 = Bindmark 40 + Essence ×1 · Top 100 = Bindmark 25 · ที่เหลือ = Bindmark 10\n- ด่านบอสใช้ท่าและกลไกของ Field Boss ตัวนั้น (วิธีปราบอยู่ในการ์ดบอส) — วงแดงเดิน / Dash ออกก่อนวงเต็ม · โดน Silk Cocoon ห่อ = ตีรังไหมที่ห่อตัวเองให้แตกก่อนครบเวลา (AUTO ตีให้เอง) · ร่าง / ฝักที่บอสเรียกออกมา ตีให้แตกก่อนตามวิธีปราบ\n- มอนในด่านให้ EXP และ Job EXP 30% ของปกติ — รางวัลหลักของ Gauntlet คือ Bindmark กับ Ranking\n- Elite / Mini-boss / บอสในด่าน ไม่ดรอป Spirit / การ์ด และไม่เพิ่ม Bond ของการ์ด — มอนธรรมดาดรอปตามปกติ\n- Ranking รายสัปดาห์ บอร์ดเดียวทั้งเซิร์ฟ: ด่านลึกสุดก่อน เท่ากันดูเวลา · ปิดบอร์ดวันอาทิตย์ 23:59 รางวัลเข้าจดหมาย",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Lotus Hollow",
@@ -1522,7 +1547,8 @@
     "/mob/bog_wisp",
     "/mob/lotus_maw_matriarch",
     "/mob/mire_lurker"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Marrowdeep",
@@ -1586,7 +1612,8 @@
     "/mob/marrow_skitter",
     "/mob/pit_lurker",
     "/mob/tallow_wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Mistmire Swamp",
@@ -1660,7 +1687,8 @@
     "/mob/bog_wisp",
     "/mob/mire_elder",
     "/mob/mire_lurker"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Old Quarry",
@@ -1725,7 +1753,8 @@
     "/mob/pebblit",
     "/mob/quarry_brute",
     "/mob/rock_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Opalweb Grotto",
@@ -1759,7 +1788,8 @@
     "/mob/shard_thornling",
     "/mob/vale_sprout",
     "/mob/void_wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Peatcut Bog",
@@ -1831,7 +1861,8 @@
     "/mob/peat_elder",
     "/mob/peat_wisp",
     "/mob/reed_lurker"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Pitchwood",
@@ -1911,7 +1942,8 @@
     "/mob/resin_sprout",
     "/mob/sap_wisp",
     "/mob/tar_thornling"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Riverside",
@@ -1993,7 +2025,8 @@
     "/mob/river_wisp",
     "/mob/snipcrab",
     "/mob/tide_brute"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Rootfall Barrow",
@@ -2017,7 +2050,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้อง World Boss Wraithroot Colossus · มาทุกวัน 12:30 และ 19:30 น. · อยู่ 20 นาที · HP ก้อนเดียวทุก Channelเข้ายังไงปุ่ม World Boss ใต้นาฬิกาบน HUD ตอนใกล้เวลา → วาร์ปฟรีจากแมพไหนก็ได้ · ออก = กลับแมพที่มาอ่านเพิ่ม[World Boss](/systems/world-boss)",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Rustbell Barracks",
@@ -2082,7 +2116,8 @@
     "/mob/muster_hound",
     "/mob/rust_captain",
     "/mob/rust_remnant"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sanctum",
@@ -2160,7 +2195,8 @@
      ]
     }
    ],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Shattered Vale",
@@ -2228,7 +2264,8 @@
     "/mob/vale_remnant",
     "/mob/vale_sprout",
     "/mob/void_wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Shellforge Basin",
@@ -2305,7 +2342,8 @@
     "/mob/plate_turtle",
     "/mob/rivet_golem",
     "/mob/slag_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sledrun Gully",
@@ -2377,7 +2415,8 @@
     "/mob/gully_brute",
     "/mob/scree_pebblit",
     "/mob/tusk_fang"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Southvale Field",
@@ -2460,7 +2499,8 @@
     "/mob/skitter",
     "/mob/sprout",
     "/mob/wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sparring Hall",
@@ -2483,7 +2523,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องซ้อม PvP ของ Guild — คนต่าง Guild ตีกันได้ ตายไม่เสียอะไร ลุกที่เดิม · ไม่นับ Honor / ประวัติ PvPเข้ายังไงหน้าต่าง Guild → ห้องซ้อม PvP (จากในเมือง สมาชิก Guild เท่านั้น)",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Stormrail Causeway",
@@ -2560,7 +2601,8 @@
     "/mob/stationmaster_automaton",
     "/mob/thunder_harpy",
     "/mob/tram_remnant"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Stormwall City",
@@ -2640,7 +2682,8 @@
      ]
     }
    ],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sunfield Plains",
@@ -2714,7 +2757,8 @@
     "/mob/field_brute",
     "/mob/field_sprout",
     "/mob/plains_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Tempest Aerie",
@@ -2744,7 +2788,8 @@
    "monsters": [
     "/mob/sky_wisp",
     "/mob/tempest_kite_empress"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Throne of the Warden",
@@ -2801,7 +2846,8 @@
     "/mob/gloom_skitter",
     "/mob/lantern_moth",
     "/mob/throne_guard"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Tidehaven",
@@ -2881,7 +2927,8 @@
      ]
     }
    ],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Training Grounds",
@@ -2904,7 +2951,8 @@
    "data_source": "detail_page",
    "summary_text": "นี่คืออะไรห้องฝึก — หุ่นฟางไม่มีวันตาย ไว้ลองสกิลและวัดดาเมจ (มีหน้าต่างวัด DPS) · มีหุ่นของ Field Boss แต่ละตัว (เกราะ / ต้านเวทเท่าบอสจริง) · ไม่มีของดรอป ไม่ได้ EXPเข้ายังไงPortal ห้องฝึกในเมือง (ฟรี) · ออกทาง Portal กลับเมืองAUTOเปิดได้ — ใช้วัดดาเมจของ AUTO",
    "tables": [],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Umbral Depths",
@@ -2969,7 +3017,8 @@
     "/mob/depth_brute",
     "/mob/umbral_horror",
     "/mob/umbral_skitter"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Valebrook",
@@ -3050,7 +3099,8 @@
      ]
     }
    ],
-   "monsters": []
+   "monsters": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Verdigris Rise",
@@ -3121,7 +3171,8 @@
     "/mob/copper_pebblit",
     "/mob/dust_wisp",
     "/mob/hill_hound"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Warden's Seat",
@@ -3153,7 +3204,8 @@
     "/mob/gloom_skitter",
     "/mob/lantern_moth",
     "/mob/vale_warden"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Whispering Woods",
@@ -3228,7 +3280,8 @@
     "/mob/gloom_wisp",
     "/mob/thicket_stag",
     "/mob/thornling"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Wreckwake Coast",
@@ -3314,7 +3367,8 @@
     "/mob/drowned_bosun",
     "/mob/gull_harpy",
     "/mob/hullbreaker_kraken"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Yellowlick Flats",
@@ -3386,7 +3440,8 @@
     "/mob/salt_pebblit",
     "/mob/sulfur_skitter",
     "/mob/vent_wisp"
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   }
  ]
 }

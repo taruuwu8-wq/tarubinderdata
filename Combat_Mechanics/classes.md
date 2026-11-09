@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/classes  
 > **Source title:** Class Trait & Dash · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__classes.md](../Raw/Original_Wiki_Pages/systems/systems__classes.md)
 
 ---

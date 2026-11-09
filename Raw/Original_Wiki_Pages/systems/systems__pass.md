@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/pass"
 source_title: "Season Pass & ล็อกอินรายวัน · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -48,85 +48,7 @@ verification_status: "WIKI"
 
 ## ปฏิทินของขวัญล็อกอิน
 
-### เดือนนี้ (2026-10)
-
-จ
-
-อ
-
-พ
-
-พฤ
-
-ศ
-
-ส
-
-อา
-
-**1** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×8
-
-**2** 1,000 G \+ 1 เพชร
-
-**3** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×10
-
-**4** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×10
-
-**5** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×5 \+ [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×5
-
-**6** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
-
-**7** 1,500 G \+ 1 เพชร
-
-**8** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×10
-
-**9** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×8
-
-**10** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×2
-
-**11** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×2
-
-**12** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×1
-
-**13** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×5 \+ [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×5
-
-**14** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
-
-**15** 1,500 G \+ 1 เพชร
-
-**16** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×10
-
-**17** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_feast.png)มื้อวิญญาณ](https://wiki.bindertowngame.com/item/spirit_feast) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×2
-
-**18** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_feast.png)มื้อวิญญาณ](https://wiki.bindertowngame.com/item/spirit_feast) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×2
-
-**19** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×8
-
-**20** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×1
-
-**21** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×5 \+ [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×5
-
-**22** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
-
-**23** 1,500 G \+ 1 เพชร
-
-**24** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1
-
-**25** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1
-
-**26** 1,000 G \+ 1 เพชร
-
-**27** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×8
-
-**28** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×1
-
-**29** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×5 \+ [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×5
-
-**30** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
-
-**31** 5,000 G \+ 15 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×2 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×2 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×3 \+ [![](https://wiki.bindertowngame.com/img/item/refine_ward.png)ยันต์กันลดขั้น](https://wiki.bindertowngame.com/item/refine_ward) ×1
-
-เดือนหน้า (2026-11)
+### เดือนนี้ (2026-11)
 
 จ
 
@@ -201,6 +123,84 @@ verification_status: "WIKI"
 **29** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×10
 
 **30** 5,000 G \+ 15 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×2 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×2 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×3 \+ [![](https://wiki.bindertowngame.com/img/item/refine_ward.png)ยันต์กันลดขั้น](https://wiki.bindertowngame.com/item/refine_ward) ×1
+
+เดือนหน้า (2026-12)
+
+จ
+
+อ
+
+พ
+
+พฤ
+
+ศ
+
+ส
+
+อา
+
+**1** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×8
+
+**2** 1,000 G \+ 1 เพชร
+
+**3** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×8
+
+**4** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×1
+
+**5** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×10
+
+**6** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×10
+
+**7** 1,500 G \+ 1 เพชร
+
+**8** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×10
+
+**9** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×8
+
+**10** 1,000 G \+ 1 เพชร
+
+**11** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×8
+
+**12** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×2
+
+**13** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×2
+
+**14** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
+
+**15** 1,500 G \+ 1 เพชร
+
+**16** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×10
+
+**17** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×8
+
+**18** 1,000 G \+ 1 เพชร
+
+**19** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_feast.png)มื้อวิญญาณ](https://wiki.bindertowngame.com/item/spirit_feast) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×2
+
+**20** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_feast.png)มื้อวิญญาณ](https://wiki.bindertowngame.com/item/spirit_feast) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×2
+
+**21** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×5 \+ [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×5
+
+**22** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
+
+**23** 1,500 G \+ 1 เพชร
+
+**24** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×10
+
+**25** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×8
+
+**26** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1
+
+**27** 4 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×1 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×1
+
+**28** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) ×1
+
+**29** 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/hi_potion.png)ไฮโพชั่น](https://wiki.bindertowngame.com/item/hi_potion) ×5 \+ [![](https://wiki.bindertowngame.com/img/item/mana_draught.png)น้ำยามานา](https://wiki.bindertowngame.com/item/mana_draught) ×5
+
+**30** 500 G \+ 1 เพชร + [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×1
+
+**31** 5,000 G \+ 15 เพชร + [![](https://wiki.bindertowngame.com/img/item/exp_scroll.png)ใบคูณ EXP](https://wiki.bindertowngame.com/item/exp_scroll) ×2 \+ [![](https://wiki.bindertowngame.com/img/item/drop_scroll.png)ใบคูณดรอป](https://wiki.bindertowngame.com/item/drop_scroll) ×2 \+ [![](https://wiki.bindertowngame.com/img/item/spirit_coin.png)เหรียญวิญญาณ](https://wiki.bindertowngame.com/item/spirit_coin) ×3 \+ [![](https://wiki.bindertowngame.com/img/item/refine_ward.png)ยันต์กันลดขั้น](https://wiki.bindertowngame.com/item/refine_ward) ×1
 
 วันธรรมดาวนชุดของขวัญ · เสาร์-อาทิตย์ของดีเสมอ · วันสุดท้ายของเดือนของใหญ่ที่สุด
 

@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/items/look  
 > **Source title:** หมวก · หน้า · ปาก · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [items__look.md](../../Raw/Original_Wiki_Pages/items/items__look.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #5: ทวีป Nacreon: เพิ่มอุปกรณ์ธีมทะเล "Tidebound" และหมวก/หน้า/ปากใหม่ 24 ชิ้น ดรอปเฉพาะทวีปนี้ — *NEW CONTENT NOT IN KB: the Tidebound gear and the 24 new headgear/face/mouth items are not in the 2026-11-07 crawl. On the Wiki, 'Tidebound' is the name of the Nacreon card set (Cards_and_Spirits.md), and the Region Set page lists 12 sets for Regions A–D only. [TO_VERIFY] whether the new Tidebound gear is a Region Set.*
@@ -20,11 +20,11 @@
 
 อาชีพทั้งหมดKnightWarriorScoutRogueMageAcolyteSummoner
 
-เลเวลทั้งหมดLv 1-20Lv 21-45Lv 46-70Lv 71-99
+เลเวลทั้งหมดLv 1-20Lv 21-45Lv 46-70Lv 71-99Lv 100+
 
 ความหายากทั้งหมดNormalEpic
 
-แสดง 331 จาก 331
+แสดง 355 จาก 355
 
 | ไอเท็ม | ช่อง | Lv | ขั้น | ATK | MATK | DEF | ขาย NPC (Normal) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -352,6 +352,30 @@
 | [Glass Halo · T10](../../Equipment/Headgear/halo_glass_r10.md) | หมวก | 85 | ขั้น 10 | — | — | 69 | 91 G |
 | [Void Mushroom Cap](https://wiki.bindertowngame.com/item/mushroom_cap_void) | หมวก | 77 | ขั้น 9 | — | — | 63 | 87 G |
 | [Void Mushroom Cap · T10](../../Equipment/Headgear/mushroom_cap_void_r10.md) | หมวก | 85 | ขั้น 10 | — | — | 69 | 91 G |
+| [Kraken Tricorn](../../Equipment/Headgear/kraken_tricorn.md) | หมวก | 101 | ขั้น 10 | — | — | 90 | 117 G |
+| [Kite Drake Goggles](../../Equipment/Headgear/drake_goggles.md) | หน้า | 104 | ขั้น 10 | — | — | — | 39 G |
+| [Coralback Helm](../../Equipment/Headgear/tortoise_helm.md) | หมวก | 105 | ขั้น 10 | — | — | 93 | 119 G |
+| [Fountain Veil](../../Equipment/Headgear/serpent_veil.md) | หน้า | 108 | ขั้น 10 | — | — | — | 39 G |
+| [Harbourmaster Cap](../../Equipment/Headgear/station_cap.md) | หมวก | 111 | ขั้น 10 | — | — | 99 | 129 G |
+| [Forge Hermit Pipe](../../Equipment/Headgear/hermit_pipe.md) | ปาก | 113 | ขั้น 10 | — | — | — | 45 G |
+| [Bosun Bandana](../../Equipment/Headgear/bosun_bandana.md) | หมวก | 99 | ขั้น 10 | — | — | 81 | 105 G |
+| [Mimic Grin](../../Equipment/Headgear/mimic_grin.md) | ปาก | 100 | ขั้น 10 | — | — | — | 39 G |
+| [Tidewater Straw Hat](../../Equipment/Headgear/paddy_hat.md) | หมวก | 102 | ขั้น 10 | — | — | 84 | 107 G |
+| [Pearl Nose Ring](../../Equipment/Headgear/ox_ring.md) | ปาก | 103 | ขั้น 10 | — | — | — | 39 G |
+| [Coral Crest](../../Equipment/Headgear/coral_crest.md) | หมวก | 104 | ขั้น 10 | — | — | 84 | 107 G |
+| [Ammonite Monocle](../../Equipment/Headgear/ammonite_monocle.md) | หน้า | 105 | ขั้น 10 | — | — | — | 39 G |
+| [Drowned Visor](../../Equipment/Headgear/sentinel_visor.md) | หน้า | 107 | ขั้น 10 | — | — | — | 39 G |
+| [Kelp Laurel](../../Equipment/Headgear/senator_laurel.md) | หมวก | 108 | ขั้น 10 | — | — | 87 | 109 G |
+| [Tiderail Goggles](../../Equipment/Headgear/rail_goggles.md) | หน้า | 109 | ขั้น 10 | — | — | — | 39 G |
+| [Eel Whiskers](../../Equipment/Headgear/eel_whiskers.md) | ปาก | 110 | ขั้น 10 | — | — | — | 39 G |
+| [Shellforge Mask](../../Equipment/Headgear/furnace_mask.md) | หน้า | 111 | ขั้น 10 | — | — | — | 39 G |
+| [Coral Muzzle](../../Equipment/Headgear/hound_muzzle.md) | ปาก | 112 | ขั้น 10 | — | — | — | 39 G |
+| [Barnacle Cap](../../Equipment/Headgear/barnacle_cap.md) | หมวก | 97 | ขั้น 10 | — | — | 81 | 105 G |
+| [Gull Feather](../../Equipment/Headgear/gull_feather.md) | หมวก | 98 | ขั้น 10 | — | — | 81 | 105 G |
+| [Anglerlight Hat](../../Equipment/Headgear/lantern_hat.md) | หมวก | 100 | ขั้น 10 | — | — | 81 | 105 G |
+| [Reed Whistle](../../Equipment/Headgear/reed_whistle.md) | ปาก | 101 | ขั้น 10 | — | — | — | 39 G |
+| [Sea Compass Eyeglass](../../Equipment/Headgear/compass_eyeglass.md) | หน้า | 106 | ขั้น 10 | — | — | — | 39 G |
+| [Storm Plume](../../Equipment/Headgear/storm_plume.md) | หมวก | 107 | ขั้น 10 | — | — | 87 | 109 G |
 | [หมวก Binder](https://wiki.bindertowngame.com/item/bp_cap) | หมวก | 1 | ขั้น 1 | — | — | 30 | — |
 | [Heartwood Crown](https://wiki.bindertowngame.com/item/heartwood_crown) | หมวก | 30 | ขั้น 5 | — | — | 30 | 53 G |
 | [Heartwood Crown · T6](https://wiki.bindertowngame.com/item/heartwood_crown_r6) | หมวก | 40 | ขั้น 6 | — | — | 39 | 59 G |

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/events"
 source_title: "Random Event & Omen · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---

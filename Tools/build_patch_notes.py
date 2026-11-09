@@ -100,12 +100,12 @@ for P in PATCHES:
           (f" · **Build:** {P['build']}" if P.get("build") else "") + "  ",
           f"> **Provenance:** {P['provenance']}  ",
           f"> **Verbatim source:** [_source/{pid}.txt](_source/{pid}.txt)  ",
-          "> **Precedence:** where this patch contradicts Wiki text crawled on 2026-11-07, the patch is newer. The Wiki text is kept unchanged; affected files carry a notice.", "",
+          "> **Comparison basis:** wiki_comparison is a historical audit against the 2026-11-07 crawl, not a claim that every conflict remains after the 2026-11-08 snapshot merge. Check Sources/DATA_FRESHNESS.json for current page dates.", "",
           "## Conflicts / items needing attention", ""]
     for e in entries:
         if e["wiki_comparison"].startswith(flag) or "CONFLICT" in e["wiki_comparison"] or "[TO_VERIFY]" in e["wiki_comparison"]:
             md.append(f"- **#{e['index']}** {e['text_verbatim']} — {e['wiki_comparison']}")
-    md += ["", "## All changes", "", "| # | Change (verbatim) | Topic | System | Affected KB files | Wiki comparison |", "|---|---|---|---|---|---|"]
+    md += ["", "## All changes", "", "| # | Change (verbatim) | Topic | System | Affected KB files | Historical comparison (2026-11-07) |", "|---|---|---|---|---|---|"]
     for e in entries:
         fl = " · ".join(f"[{os.path.basename(f)}](../{f})" for f in e["affected_kb_files"]) or "—"
         md.append(f"| {e['index']} | {esc(e['text_verbatim'])} | {'—' if e['is_topic_line'] else esc(e['topic_line'][:40])} | {e['system']} | {fl} | {esc(e['wiki_comparison'])} |")
@@ -113,7 +113,7 @@ for P in PATCHES:
 
 os.makedirs(f"{ROOT}/Structured_Data", exist_ok=True)
 json.dump({"_about": "Patch notes from official game announcements (copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding "
-           "topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison. "
+           "topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; wiki_comparison is the historical 2026-11-07 audit. Refreshed pages may already resolve entries; inspect page dates. "
            "Later patches are newer than earlier ones.",
            "patches": [{k: P.get(k) for k in ("id", "title", "received", "posted", "build", "provenance")} | {"count": len(P["entries"])} for P in PATCHES],
            "count": len(all_entries), "records": all_entries},
@@ -122,7 +122,7 @@ json.dump({"_about": "Patch notes from official game announcements (copied by th
 rows = "".join(f"| [{P['id']}]({P['id']}.md) | {P['received']} | {P.get('posted') or 'not recorded'} | {P.get('build') or '—'} | {len(P['entries'])} |\n" for P in PATCHES)
 open(f"{ROOT}/Patch_Notes/README.md", "w", encoding="utf-8").write(
     "# Patch Notes\n\nThe Wiki (https://wiki.bindertowngame.com/) has **no patch-notes page** (checked 2026-11-07). Patch notes here are added from official announcements "
-    "copied by the user and labelled [PATCH] with their provenance. **Newer patches override older ones and the Wiki.**\n\n"
+    "copied by the user and labelled [PATCH] with their provenance. **Use dated sources: historical comparisons refer to the 2026-11-07 crawl; refreshed Wiki pages may incorporate these changes.**\n\n"
     "| Patch | Received | Posted | Build | Entries |\n|---|---|---|---|---|\n" + rows + "\n"
     "Structured form: [../Structured_Data/patch_notes.json](../Structured_Data/patch_notes.json). "
     "Verbatim text: `_source/`. Affected organized files carry a `Patch notice` block linking back here; Wiki text itself is not edited.\n")
@@ -133,11 +133,13 @@ title = {P["id"]: P for P in PATCHES}
 for f, es in by_file.items():
     path = f"{ROOT}/{f}"; t = open(path, encoding="utf-8").read()
     t = re.sub(rf"\n?{re.escape(START)}.*?{re.escape(END)}\n?", "\n", t, flags=re.S)
-    block = [START, "> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.", ">"]
+    page_date = re.search(r"Last crawled:\*\* ([0-9-]+)", t)
+    page_date = page_date.group(1) if page_date else "unknown"
+    block = [START, f"> **Patch reference [PATCH]** — Wiki page captured {page_date}. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.", ">"]
     for P in reversed(PATCHES):
         pe = [e for e in es if e["patch_id"] == P["id"]]
         if not pe: continue
-        rel = os.path.relpath(f"{ROOT}/Patch_Notes/{P['id']}.md", os.path.dirname(path))
+        rel = os.path.relpath(f"{ROOT}/Patch_Notes/{P['id']}.md", os.path.dirname(path)).replace(os.sep, "/")
         block.append(f"> **[{P['title']}]({rel})**")
         for e in pe:
             c = e["wiki_comparison"]

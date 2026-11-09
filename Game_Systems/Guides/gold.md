@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/guide/gold  
 > **Source title:** หาเงิน & ใช้เงิน · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [guide__gold.md](../../Raw/Original_Wiki_Pages/guide/guide__gold.md)
 
 ---

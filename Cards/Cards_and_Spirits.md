@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/cards  
 > **Source title:** การ์ด & วิญญาณ · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [cards.md](../Raw/Original_Wiki_Pages/_hub/cards.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #5: ทวีป Nacreon: เพิ่มอุปกรณ์ธีมทะเล "Tidebound" และหมวก/หน้า/ปากใหม่ 24 ชิ้น ดรอปเฉพาะทวีปนี้ — *NEW CONTENT NOT IN KB: the Tidebound gear and the 24 new headgear/face/mouth items are not in the 2026-11-07 crawl. On the Wiki, 'Tidebound' is the name of the Nacreon card set (Cards_and_Spirits.md), and the Region Set page lists 12 sets for Regions A–D only. [TO_VERIFY] whether the new Tidebound gear is a Region Set.*
@@ -147,6 +147,12 @@ Lv 100 ขึ้นไปใช้ราคาเดียวกับ Lv 81–9
 | 50 | ATK +2% · MATK +2% |
 | 60 | ลดดาเมจที่ได้รับ 3% |
 | 75 | โอกาสคริ +2% · STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2 |
+| 100 | Max HP +3% |
+| 150 | ATK +2% · MATK +2% |
+| 200 | STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2 |
+| 275 | ลดดาเมจที่ได้รับ 2% |
+| 350 | ATK +2% · MATK +2% |
+| 425 | STR +2 · AGI +2 · VIT +2 · INT +2 · DEX +2 · LUK +2 |
 
 ## ไอเท็มที่เกี่ยวกับการ์ด
 

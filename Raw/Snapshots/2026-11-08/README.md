@@ -1,9 +1,8 @@
-# Snapshot 2026-11-08 — fresh Wiki fetch, NOT yet merged into the knowledge base
+# Snapshot 2026-11-08 — merged on 2026-11-09
 
 - **Fetched:** 2026-11-08, Firecrawl `--max-age 0` (fresh from the live Wiki, no cache; every file has `cacheState` ≠ `hit`).
-- **Why it is separate:** the Wiki was updated on 2026-11-08 (patch build 20261108-135133) and is still changing. The organized KB
-  (all category folders, `Structured_Data/`) is still the **2026-11-07** crawl. This snapshot is stored so the 182 credits are not lost.
-- **Status:** [WIKI] raw data, not organized, not cross-checked.
+- **Current status:** 63 hubs and 119 new item pages are merged into the organized KB. Original JSON is unchanged. Existing 663 detail pages remain dated 2026-11-07; see the root MISSING_DATA.md.
+- **Status:** [WIKI] captured source, locally organized and audited; not independently verified against the game.
 
 | Folder | Files | Contents |
 |---|---|---|

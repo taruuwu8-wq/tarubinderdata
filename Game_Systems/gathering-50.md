@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/gathering-50  
 > **Source title:** Gathering หลัง Lv 50 · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__gathering-50.md](../Raw/Original_Wiki_Pages/systems/systems__gathering-50.md)
 
 ---

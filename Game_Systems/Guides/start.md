@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/guide/start  
 > **Source title:** เริ่มเล่นวันแรก · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [guide__start.md](../../Raw/Original_Wiki_Pages/guide/guide__start.md)
 
 ---

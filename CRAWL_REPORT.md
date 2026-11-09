@@ -1,3 +1,9 @@
+# Snapshot merge status — 2026-11-09
+
+Merged the existing 2026-11-08 snapshot (63 hubs + 119 new item details) without another crawl. Current totals: 845 raw pages, 841 organized pages; 663 older details and 1,672 not-fetched URLs remain. Numeric preservation audit: 841 pages, zero missing numeric tokens. Five listing/detail stat conflicts are explicitly flagged. See [MISSING_DATA.md](MISSING_DATA.md) and [Sources/DATA_FRESHNESS.json](Sources/DATA_FRESHNESS.json).
+
+The following original report describes the earlier 2026-11-07 crawl and is retained as historical context.
+
 # CRAWL_REPORT — Binder Town Wiki
 
 - **Source:** https://wiki.bindertowngame.com/ (official Wiki, Thai language)

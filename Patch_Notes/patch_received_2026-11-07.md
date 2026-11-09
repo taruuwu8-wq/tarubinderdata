@@ -3,7 +3,7 @@
 > **Status:** [PATCH] · **Received:** 2026-11-07  
 > **Provenance:** Official Binder Town Discord announcement posted by a game admin (per the user, who copied it into chat on 2026-11-07). Exact post date/link not archived here. Not present on the Wiki (no patch-notes page).  
 > **Verbatim source:** [_source/patch_received_2026-11-07.txt](_source/patch_received_2026-11-07.txt)  
-> **Precedence:** where this patch contradicts Wiki text crawled on 2026-11-07, the patch is newer. The Wiki text is kept unchanged; affected files carry a notice.
+> **Comparison basis:** wiki_comparison is a historical audit against the 2026-11-07 crawl, not a claim that every conflict remains after the 2026-11-08 snapshot merge. Check Sources/DATA_FRESHNESS.json for current page dates.
 
 ## Conflicts / items needing attention
 
@@ -16,7 +16,7 @@
 
 ## All changes
 
-| # | Change (verbatim) | Topic | System | Affected KB files | Wiki comparison |
+| # | Change (verbatim) | Topic | System | Affected KB files | Historical comparison (2026-11-07) |
 |---|---|---|---|---|---|
 | 1 | แมพทวีปแรก 28 แมพใหญ่ขึ้นประมาณ 3 เท่า จัดจุดมอนและจุด Gathering ใหม่ ไม่มีมอนเกิดใกล้จุด Gathering หรือขอบแมพ | — | Maps | [_All_Maps.md](../Maps/_All_Maps.md) | [TO_VERIFY] Which 28 maps form the 'first continent' is not named in the patch; map sizes and spawn layouts on the Wiki may predate this change. |
 | 2 | ปรับแมพให้ใหญ่ขึ้น มอนกระจายตัวมากขึ้น ลดจำนวนแชแนลที่ไม่จำเป็นออก | — | Maps | [_All_Maps.md](../Maps/_All_Maps.md) | Channel counts / spawn spread: not compared. |

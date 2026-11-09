@@ -1,5 +1,5 @@
 {
- "_about": "Patch notes from official game announcements (copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; conflicts are listed in wiki_comparison. Later patches are newer than earlier ones.",
+ "_about": "Patch notes from official game announcements (copied by the user). Each entry is verbatim. topic_line groups continuation bullets under the preceding topic per the source's bullet indentation [INFERENCE for grouping only]. Wiki data is NOT modified; wiki_comparison is the historical 2026-11-07 audit. Refreshed pages may already resolve entries; inspect page dates. Later patches are newer than earlier ones.",
  "patches": [
   {
    "id": "patch_received_2026-11-07",

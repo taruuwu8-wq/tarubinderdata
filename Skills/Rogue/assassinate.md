@@ -6,7 +6,7 @@
 > **Raw original:** [skill__assassinate.md](../../Raw/Original_Wiki_Pages/skill/skill__assassinate.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-07. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../../Patch_Notes/patch_received_2026-11-07.md)**
 > - #18: PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%

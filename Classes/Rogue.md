@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/rogue  
 > **Source title:** Rogue · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__rogue.md](../Raw/Original_Wiki_Pages/job/job__rogue.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #18: PvP Rogue: Assassinate ใส่เป้า HP ต่ำกว่า 30% แรงขึ้น 60%
@@ -52,11 +52,15 @@
 
 เมื่อโดนโจมตี **Shadow Reflex** หลบการตีธรรมดาของมอนได้เพิ่มอีก **30%** (เพดานหลบ Elite / Mini-boss ของ Rogue สูงกว่าอาชีพอื่น **20%** · Field Boss เท่าเดิม) · ลดดาเมจจากสกิลของ Elite / Mini-boss **25%**
 
-เมื่อโจมตี **Killer Instinct PvP** ตีเป้าที่ HP ต่ำกว่า **35%** แรงขึ้น **30%** (บอส **15%** · ผู้เล่น **15%**) · หลบการตีกายภาพตรงตัวของผู้เล่นได้เพิ่มอีก **45%**
+เมื่อโจมตี **Killer Instinct PvP** ตีเป้าที่ HP ต่ำกว่า **35%** แรงขึ้น **30%** (บอส **15%** · ผู้เล่น **15%**) · หลบการตีกายภาพตรงตัวของผู้เล่นได้เพิ่มอีก **45%** (HIT ของผู้ตีที่เกินโอกาสโดน **100%** ทุก **2** หน่วยลดส่วนนี้ **1%**)
 
 ตอนสู้ผู้เล่น **Shadow Cloak PvP** ดาเมจเวทจากผู้เล่น / สัตว์อัญเชิญของผู้เล่นลดลง **25%**
 
 เมื่อใช้สกิล **Coup de Grâce PvP** สกิลโดนผู้เล่นได้ Combo **+1** · Combo เต็ม **5** → สกิลถัดไปที่โดนผู้เล่นใช้ Combo ทั้งหมด แรงขึ้น **×2.5**
+
+ตอนสู้ผู้เล่น **Assassin PvP** Assassinate ใส่ผู้เล่น HP ต่ำกว่า **30%** แรง **×1.6** · ตีผู้เล่นครั้งแรกภายใน **2.5** วิหลัง Dash / Fade แรง **×1.35** · ฆ่าผู้เล่นได้ Dash คืนทันที
+
+ตอนสู้ผู้เล่น **Grievous Wound PvP** Assassinate ใส่ผู้เล่น ทำให้ฮีลที่เป้าได้รับลดลง **40%** เป็นเวลา **5** วิ
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+10%** / บอส **+10%** / PvP **+15%**)
 

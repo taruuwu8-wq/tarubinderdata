@@ -2,12 +2,12 @@
 
 > **Source:** https://wiki.bindertowngame.com/jobs  
 > **Source title:** อาชีพ · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [jobs.md](../Raw/Original_Wiki_Pages/_hub/jobs.md)  
 > **Alias URLs (identical content):** https://wiki.bindertowngame.com/skills
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #31: เปลี่ยนอาชีพแล้วบัฟสกิลอาชีพเดิมหาย

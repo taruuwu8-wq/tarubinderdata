@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/job/summoner  
 > **Source title:** Summoner · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [job__summoner.md](../Raw/Original_Wiki_Pages/job/job__summoner.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #28: Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้
@@ -101,7 +101,7 @@ Soul Reaper — เก็บวิญญาณมอนที่ฆ่า ปล
 | Harvest · Mastery 20 แต้ม: +10% MATK |
 | [Raise Dead](../Skills/Summoner/bind_spirit.md) | อัญเชิญ | 1 | ปลุกวิญญาณในตะเกียงเป็น Thrall — ร่างวิญญาณของมอนที่คุณฆ่า (ตะเกียงว่าง = ได้วิญญาณหลงทางให้มีกองทัพอย่างน้อย 5 ตัว) | — | 4.8 วิ |
 | [Reap](../Skills/Summoner/spirit_flock.md) | ยิง | 5 | ขว้างเคียววิญญาณทะลุแถวมอน 3 ตัว มอนที่ตายจาก Reap ดรอปวิญญาณเพิ่ม | 416% | 6 วิ |
-| [Soul Lantern](../Skills/Summoner/spirit_pact.md) | Passive | 10 | +5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง (Field Boss ไม่ดรอป) | — | — |
+| [Soul Lantern](../Skills/Summoner/spirit_pact.md) | Passive | 10 | +5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง · ตีบอส / Elite / หุ่นซ้อม (คุณหรือ Thrall) ได้วิญญาณ 1 ดวงทุก 3 วิ | — | — |
 | [Grave Pact](../Skills/Summoner/pack_instinct.md) | Passive | 16 | +5 INT, +5 VIT, +5% Max HP, +5 ฟื้น HP, +10% สปีดตี · Thrall HP +30% · ดาเมจ +15% | — | — |
 | [Legion Call](../Skills/Summoner/pack_howl.md) | บัฟ | 23 | ปลุกวิญญาณทั้งหมดพร้อมกัน แล้วบัฟกองทัพและ Party | — | 28.8 วิ |
 | [Night Legion](../Skills/Summoner/alpha_bond.md) | Passive | 30 | +3 INT, +4.5% MATK, +4.5% Max HP · กลางคืน: Thrall ดาเมจ +24% และมอนทุกตัวดรอปวิญญาณ 2 ดวง | — | — |

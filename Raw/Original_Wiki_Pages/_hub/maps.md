@@ -2,18 +2,18 @@
 source_url: "https://wiki.bindertowngame.com/maps"
 source_title: "แมพ · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
 
 ค้นหา
 
-แสดง 55 จาก 55
+แสดง 56 จาก 56
 
-## Region A · Valebrook Lv 1–20
+## Region A · Valebrook Lv 1–115
 
-[![](https://wiki.bindertowngame.com/img/gen/map/valebrook.png)**Valebrook** เมือง](https://wiki.bindertowngame.com/map/valebrook) [![](https://wiki.bindertowngame.com/img/gen/map/southvale_field.png)**Southvale Field** Lv 1–4](https://wiki.bindertowngame.com/map/southvale_field) [![](https://wiki.bindertowngame.com/img/gen/map/honeyrill.png)**Honeyrill** Lv 3–8](https://wiki.bindertowngame.com/map/honeyrill) [![](https://wiki.bindertowngame.com/img/gen/map/whispering_woods.png)**Whispering Woods** Lv 4–9](https://wiki.bindertowngame.com/map/whispering_woods) [![](https://wiki.bindertowngame.com/img/mob/bloom_crowned_stag.png)**Bloomcrown Glade** ถ้ำ Field Boss](https://wiki.bindertowngame.com/map/bloomcrown_glade) [![](https://wiki.bindertowngame.com/img/gen/map/riverside.png)**Riverside** Lv 6–12](https://wiki.bindertowngame.com/map/riverside) [![](https://wiki.bindertowngame.com/img/gen/map/bracken_sink.png)**Bracken Sink** Lv 9–15](https://wiki.bindertowngame.com/map/bracken_sink) [![](https://wiki.bindertowngame.com/img/gen/map/old_quarry.png)**Old Quarry** Lv 10–16](https://wiki.bindertowngame.com/map/old_quarry) [![](https://wiki.bindertowngame.com/img/gen/map/ancient_ruins.png)**Ancient Ruins** Lv 14–20](https://wiki.bindertowngame.com/map/ancient_ruins) [![](https://wiki.bindertowngame.com/img/gen/map/verdigris_rise.png)**Verdigris Rise** Lv 14–20](https://wiki.bindertowngame.com/map/verdigris_rise)
+[![](https://wiki.bindertowngame.com/img/gen/map/valebrook.png)**Valebrook** เมือง](https://wiki.bindertowngame.com/map/valebrook) [![](https://wiki.bindertowngame.com/img/gen/map/southvale_field.png)**Southvale Field** Lv 1–4](https://wiki.bindertowngame.com/map/southvale_field) [⛰**Copperbell Arena** Lv 1–115](https://wiki.bindertowngame.com/map/copperbell_arena) [![](https://wiki.bindertowngame.com/img/gen/map/honeyrill.png)**Honeyrill** Lv 3–8](https://wiki.bindertowngame.com/map/honeyrill) [![](https://wiki.bindertowngame.com/img/gen/map/whispering_woods.png)**Whispering Woods** Lv 4–9](https://wiki.bindertowngame.com/map/whispering_woods) [![](https://wiki.bindertowngame.com/img/mob/bloom_crowned_stag.png)**Bloomcrown Glade** ถ้ำ Field Boss](https://wiki.bindertowngame.com/map/bloomcrown_glade) [![](https://wiki.bindertowngame.com/img/gen/map/riverside.png)**Riverside** Lv 6–12](https://wiki.bindertowngame.com/map/riverside) [![](https://wiki.bindertowngame.com/img/gen/map/bracken_sink.png)**Bracken Sink** Lv 9–15](https://wiki.bindertowngame.com/map/bracken_sink) [![](https://wiki.bindertowngame.com/img/gen/map/old_quarry.png)**Old Quarry** Lv 10–16](https://wiki.bindertowngame.com/map/old_quarry) [![](https://wiki.bindertowngame.com/img/gen/map/ancient_ruins.png)**Ancient Ruins** Lv 14–20](https://wiki.bindertowngame.com/map/ancient_ruins) [![](https://wiki.bindertowngame.com/img/gen/map/verdigris_rise.png)**Verdigris Rise** Lv 14–20](https://wiki.bindertowngame.com/map/verdigris_rise)
 
 ## Region B · Ashford Lv 18–45
 

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/oils-foods"
 source_title: "Oil & อาหารกติกา · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---

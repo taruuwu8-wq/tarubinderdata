@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/items/drop  
 > **Source title:** ของดรอปมอน · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [items__drop.md](../../Raw/Original_Wiki_Pages/items/items__drop.md)
 
 ---

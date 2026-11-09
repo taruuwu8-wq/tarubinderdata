@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/items/mat"
 source_title: "วัตถุดิบ · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -40,7 +40,7 @@ verification_status: "WIKI"
 | [![](https://wiki.bindertowngame.com/img/item/spirit_bloom.png)ดอกวิญญาณ](https://wiki.bindertowngame.com/item/spirit_bloom) |  | 54 G |
 | [![](https://wiki.bindertowngame.com/img/item/hone_stone.png)Hone Stone](https://wiki.bindertowngame.com/item/hone_stone) |  | 20 G |
 | [![](https://wiki.bindertowngame.com/img/item/repair_kit.png)ชุดซ่อม](https://wiki.bindertowngame.com/item/repair_kit) | ใช้ซ่อมของพังที่ช่างตีเหล็ก (Smith) · คราฟเองได้หลายสูตรที่ Craft → ของใช้ · ร้านค้า NPC · แยกชิ้นอุปกรณ์ · Elite / Mini-boss / Field Boss · รางวัลค่าหัว | 40 G |
-| [![](https://wiki.bindertowngame.com/img/item/dye_kit.png)น้ำยาย้อมสี](https://wiki.bindertowngame.com/item/dye_kit) | เปลี่ยนสีผม / สีชุดของตัวละคร 1 ครั้ง — กดปุ่ม "เปลี่ยนสีผม/ชุด" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC | 500 G |
+| [![](https://wiki.bindertowngame.com/img/item/dye_kit.png)น้ำยาย้อมสี](https://wiki.bindertowngame.com/item/dye_kit) | เปลี่ยนสีผม / ชุด / หมวก / อาวุธ 1 ส่วน — กดปุ่ม "เปลี่ยนสี" ที่ตัวละครในหน้ากระเป๋า · ซื้อได้ที่ร้านค้า NPC | 500 G |
 | [![](https://wiki.bindertowngame.com/img/item/rename_ticket.png)บัตรเปลี่ยนชื่อ](https://wiki.bindertowngame.com/item/rename_ticket) | เปลี่ยนชื่อตัวละคร 1 ครั้ง — กดไอเทมในกระเป๋า แล้วกด "เปลี่ยนชื่อ" · ชื่อต้องไม่ซ้ำ · ซื้อได้ที่ร้านเพชร | 1 G |
 | [![](https://wiki.bindertowngame.com/img/item/halloween_candy.png)ลูกกวาดฮาโลวีน](https://wiki.bindertowngame.com/item/halloween_candy) | ของกิจกรรมฮาโลวีน — แลกของที่ร้านแลกลูกกวาด (หน้า ผจญภัย) · ทุกเม็ดนับเข้ากองกลางของเซิร์ฟด้วย · เทรด / ขาย / ทิ้งไม่ได้ · ถูกลบเมื่อร้านปิด | — |
 | [![](https://wiki.bindertowngame.com/img/item/gender_ticket.png)ตั๋วเปลี่ยนเพศ](https://wiki.bindertowngame.com/item/gender_ticket) | เปลี่ยนเพศตัวละคร 1 ครั้ง — กดไอเทมในกระเป๋า แล้วกด "เปลี่ยนเพศ" · สี ชุด อุปกรณ์ แฟชั่น คงเดิม · ซื้อได้ที่ร้านเพชร | 1 G |

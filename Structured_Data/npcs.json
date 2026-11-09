@@ -1,5 +1,5 @@
 {
- "_about": "All 71 NPCs.",
+ "_about": "71 NPC detail pages captured 2026-11-07; fresh listing has 77 NPCs. Six arena NPC details not fetched.",
  "count": 71,
  "records": [
   {
@@ -23,7 +23,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "นักจดหมายเหตุไอแซค",
@@ -45,7 +46,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "เปลี่ยนอาชีพ",
@@ -67,7 +69,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตีบวก / ซ่อม / Reroll",
@@ -90,7 +93,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตีบวก / ซ่อม / Reroll",
@@ -113,7 +117,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตีบวก / ซ่อม / Reroll",
@@ -136,7 +141,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ทำอาหาร",
@@ -159,7 +165,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Album · การ์ด",
@@ -181,7 +188,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Album · การ์ด",
@@ -203,7 +211,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Album · การ์ด",
@@ -225,7 +234,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Album · การ์ด",
@@ -247,7 +257,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ทำอาหาร",
@@ -270,7 +281,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ผู้ใหญ่บ้านโอเว่น",
@@ -292,7 +304,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "หัวหน้าเหมืองกาเร็ธ",
@@ -314,7 +327,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "คนแจวเรือแอนเซล์ม",
@@ -336,7 +350,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ลิลลี่สาวตกปลา",
@@ -358,7 +373,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ยามประตูทอม",
@@ -380,7 +396,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "หัวหน้ากิลด์อัลเดน",
@@ -402,7 +419,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ปรุงยา",
@@ -425,7 +443,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ทำอาหาร",
@@ -448,7 +467,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "เปลี่ยนอาชีพ",
@@ -470,7 +490,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Southvale Field](/map/southvale_field) Lv 1–4ทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "เปลี่ยนอาชีพ",
@@ -492,7 +513,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "เปลี่ยนอาชีพ",
@@ -514,7 +536,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "เปลี่ยนอาชีพ",
@@ -536,7 +559,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ผู้เฝ้าประภาคารอิโซลเด",
@@ -558,7 +582,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ออกจาก Gauntlet",
@@ -580,7 +605,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Gauntlet · Valebrook Gate](/map/ll_ch1) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ออกจาก Gauntlet",
@@ -602,7 +628,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Gauntlet · Ashford Gate](/map/ll_ch2) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ออกจาก Gauntlet",
@@ -624,7 +651,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Gauntlet · Stormwall Gate](/map/ll_ch3) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ออกจาก Gauntlet",
@@ -646,7 +674,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Gauntlet · Sanctum Gate](/map/ll_ch4) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ออกจาก Gauntlet",
@@ -668,7 +697,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Gauntlet · The Last Gate](/map/ll_ch5) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตลาดโลก",
@@ -691,7 +721,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตลาดโลก",
@@ -714,7 +745,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตลาดโลก",
@@ -737,7 +769,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตลาดโลก",
@@ -760,7 +793,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ร้านค้า · ซื้อ/ขาย",
@@ -1178,7 +1212,8 @@
       ]
      ]
     }
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ร้านค้า · ซื้อ/ขาย",
@@ -1596,7 +1631,8 @@
       ]
      ]
     }
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "แม่ค้าเครื่องเทศซาร่า",
@@ -1618,7 +1654,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ร้านค้า · ซื้อ/ขาย",
@@ -2036,7 +2073,8 @@
       ]
      ]
     }
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ร้านค้า · ซื้อ/ขาย",
@@ -2454,7 +2492,8 @@
       ]
      ]
     }
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตีบวก / ซ่อม / Reroll",
@@ -2477,7 +2516,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ปรุงยา",
@@ -2500,7 +2540,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ทำอาหาร",
@@ -2523,7 +2564,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "นักสำรวจป่าเรน",
@@ -2545,7 +2587,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Southvale Field](/map/southvale_field) Lv 1–4ทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal กลับเมือง",
@@ -2567,7 +2610,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[⛰Sparring Hall](/map/sparring_hall) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bank · ฝากของ",
@@ -2590,7 +2634,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bank · ฝากของ",
@@ -2613,7 +2658,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bank · ฝากของ",
@@ -2636,7 +2682,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bank · ฝากของ",
@@ -2659,7 +2706,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Bank · ฝากของ",
@@ -2682,7 +2730,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรฝาก / ถอนของและ Goldอ่านเพิ่ม[Bank](/systems/rules)ไม่อยากเดินมาเช่ากระเป๋าคลังระยะไกลจากร้านเพชร = เปิด Bank ได้ทุกที่",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ปรุงยา",
@@ -2705,7 +2754,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Spirit Album · การ์ด",
@@ -2727,7 +2777,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรใส่ / ถอด / แลก / อัปดาวการ์ดอ่านเพิ่ม[การ์ด](/cards)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ทำอาหาร",
@@ -2750,7 +2801,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรทำอาหาร (Craft → Cook)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ชาวประมงเกาะคอร์มอรันต์",
@@ -2772,7 +2824,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตลาดโลก",
@@ -2795,7 +2848,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรซื้อขายกับผู้เล่นทั้งเซิร์ฟอ่านเพิ่ม[ตลาดโลก](/systems/social#market)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "เปลี่ยนอาชีพ",
@@ -2817,7 +2871,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ร้านค้า · ซื้อ/ขาย",
@@ -3235,7 +3290,8 @@
       ]
      ]
     }
-   ]
+   ],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ตีบวก / ซ่อม / Reroll",
@@ -3258,7 +3314,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรตีบวก · ซ่อม · Reroll · Hone · แยกชิ้น · Infusion · Inscription · Reforge · Pactอ่านเพิ่ม[ช่างตีเหล็ก](/systems/smith)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ปรุงยา",
@@ -3281,7 +3338,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรปรุงยา (Craft → Brew)อ่านเพิ่ม[Craft](/systems/crafting)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal กลับเมือง",
@@ -3303,7 +3361,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Training Grounds](/map/training_grounds) แมพพิเศษทำอะไรกลับเมืองที่มา",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ห้องฝึก",
@@ -3326,7 +3385,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ห้องฝึก",
@@ -3349,7 +3409,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ห้องฝึก",
@@ -3372,7 +3433,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ห้องฝึก",
@@ -3395,7 +3457,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal ห้องฝึก",
@@ -3418,7 +3481,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรเข้าห้องฝึก (หุ่นวัดดาเมจ)อ่านเพิ่ม[ห้องฝึก](/map/training_grounds)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "ผู้พิทักษ์ประตูเฮลกา",
@@ -3440,7 +3504,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Valebrook Warp Statue",
@@ -3463,7 +3528,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Valebrook](/map/valebrook) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Ashford Warp Statue",
@@ -3486,7 +3552,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Ashford](/map/ashford) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Stormwall Warp Statue",
@@ -3509,7 +3576,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Stormwall City](/map/stormwall_city) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Sanctum Warp Statue",
@@ -3532,7 +3600,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Sanctum](/map/sanctum) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Tidehaven Warp Statue",
@@ -3555,7 +3624,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Tidehaven](/map/tidehaven) เมืองทำอะไรวาร์ปไปเมืองที่เคยไป <span class=\"num\">500 G</span> (Premium ฟรี)อ่านเพิ่ม[วาร์ป](/systems/rules)",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
    "name": "Portal กลับ",
@@ -3577,7 +3647,8 @@
    "verification_status": "WIKI",
    "data_source": "detail_page",
    "summary_text": "อยู่ที่ไหน[Rootfall Barrow](/map/rootfall_barrow) แมพพิเศษทำอะไร—",
-   "tables": []
+   "tables": [],
+   "freshness_status": "not_refreshed_after_2026-11-07"
   }
  ]
 }

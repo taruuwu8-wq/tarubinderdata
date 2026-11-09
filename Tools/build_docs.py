@@ -1,6 +1,9 @@
 """Phase 8-9: generate INDEX.md, ALL_DATA.md, DATA_COVERAGE.md, CRAWL_REPORT.md from local files (no network)."""
 import os, re, json, glob, csv, collections
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+def relative_path(*args):
+    return os.path.relpath(*args).replace(os.sep, "/")
+
 J = lambda n: json.load(open(f"{ROOT}/Structured_Data/{n}", encoding="utf-8"))["records"]
 CATS = ["Classes", "Skills", "Stats", "Combat_Mechanics", "Weapons", "Equipment", "Affixes", "Cards", "Pets",
         "Monsters", "Maps", "Items", "Blacksmith", "Game_Systems", "Region_Sets", "Patch_Notes"]
@@ -23,7 +26,7 @@ for c in CATS:
     out.append(f"## {c}\n")
     groups = collections.defaultdict(list)
     for f in md_files(c):
-        rel = os.path.relpath(f, ROOT); sub = os.path.dirname(rel)
+        rel = relative_path(f, ROOT); sub = os.path.dirname(rel)
         groups[sub].append(f"[{title(f)}]({rel})")
     for sub in sorted(groups):
         if sub != c: out.append(f"**{sub.split('/', 1)[1]}**\n")

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/weapon-rules"
 source_title: "Property · Focused · Grip · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -16,8 +16,8 @@ Focusedของที่มี Affix 1 บรรทัด ค่า ×1.8 · 2 
 - Axe · มือหลัก: Warrior, Knight · มือรอง: Warrior, Knight
 - Knuckles · มือหลัก: Warrior · มือรอง: Warrior
 - Scout ถือ Dagger ได้เฉพาะมือรอง (Grip Skirmisher: หน้าไม้มือ + Dagger) — มือหลักของอาชีพนี้เป็นอาวุธยิง
-- อาวุธสองมือ (Greatsword / Crossbow / Bow / Pike / Flail / Greatstaff / Spellstaff / Maul / Light Staff / Scythe): ช่องมือรองต้องว่าง — ยกเว้น Quiver ข้าง Bow / Crossbow · ใส่ของมือรองตอนถืออาวุธสองมือ = อาวุธสองมือกลับเข้ากระเป๋า
-- แลกกับพลังฐานที่สูงกว่า (Tier เดียวกัน เทียบอาวุธมือเดียวที่แรงสุดของอาชีพเดียวกัน): Greatsword +30% · Crossbow +12% · Bow +1% · Pike +26% · Flail +21% · Greatstaff +26% · Spellstaff +13% · Maul +34% · Light Staff +29% · Scythe +21% · เสียช่องโล่ (Block / DEF / HP จากโล่)
+- อาวุธสองมือ (Greatsword / Pike / Flail / Greatstaff / Spellstaff / Maul / Light Staff / Scythe): ช่องมือรองต้องว่าง · Bow / Crossbow ถือมือเดียวแต่มือรองใส่ได้เฉพาะ Quiver · ใส่ของมือรองตอนถืออาวุธสองมือ = อาวุธสองมือกลับเข้ากระเป๋า
+- แลกกับพลังฐานที่สูงกว่า (Tier เดียวกัน เทียบอาวุธมือเดียวที่แรงสุดของอาชีพเดียวกัน): Greatsword +56% · Pike +51% · Flail +45% · Greatstaff +26% · Spellstaff +26% · Maul +34% · Light Staff +29% · Scythe +21% · เสียช่องโล่ (Block / DEF / HP จากโล่)
 - อาวุธมือเดียว: มือรองใส่โล่ / ของมือรองของอาชีพ / อาวุธถือคู่ (Dagger / Axe / Knuckles) ได้ — อาวุธที่มือรองนับ ATK และ Affix 50%
 - ช่องมือรองที่จางตอนถืออาวุธสองมือ = ถูกอาวุธสองมือใช้อยู่
 
@@ -51,7 +51,7 @@ Focusedของที่มี Affix 1 บรรทัด ค่า ×1.8 · 2 
 
 - ทุกอาชีพถือได้ 5 แบบ (Grip) — อาวุธมือหลัก + ของมือรอง เปลี่ยนวิธีเล่น ไม่ใช่แค่ตัวเลข · ดู Grip ของคุณที่การ์ดอาวุธ / ของมือรอง
 - ของมือรองแบบใหม่ดรอปมา 3 แบบ (เช่น ซองธนู Bodkin / Broadhead / Whistling) — ค่าสเตตเท่ากัน แต่ละแบบมีกติกาของตัวเอง · ใส่อยู่และไม่พังถึงทำงาน
-- อาวุธสองมือใส่ของมือรองไม่ได้ — ยกเว้นซองธนูข้างธนู / หน้าไม้
+- อาวุธสองมือใส่ของมือรองไม่ได้ · ธนู / หน้าไม้ถือมือเดียว แต่มือรองใส่ได้เฉพาะซองธนู
 - Warrior ถือขวาน / สนับมือคู่ได้ · Scout ถือมีดที่มือรองได้ (Skirmisher) · อาวุธที่มือรองนับ ATK และ Affix 50%
 - ไม้เท้าศึก (Mage) · เคียวใหญ่ / เคียวโซ่ (Soul Reaper) = ตีธรรมดาแบบประชิด · มีดบิน (Rogue) = ขว้างตีธรรมดาไกล 6 ช่อง
 - เอฟเฟกต์ตอนตีธรรมดาโดน ใช้กับมอนเท่านั้น · บล็อก / หลบ / วงรอบตัวของมือรองใช้ใน PvP ด้วย
@@ -61,8 +61,8 @@ Focusedของที่มี Affix 1 บรรทัด ค่า ×1.8 · 2 
 
 | Grip | มือหลัก | มือรอง | หมายเหตุ |
 | --- | --- | --- | --- |
-| **Sniper** | ธนู | ซองธนู | ธนูสองมือ \+ ซองธนู |
-| **Siege** | หน้าไม้ | ซองธนู | หน้าไม้สองมือ (Loading) + ซองธนู |
+| **Sniper** | ธนู | ซองธนู | ธนู \+ ซองธนู |
+| **Siege** | หน้าไม้ | ซองธนู | หน้าไม้ (Loading) + ซองธนู |
 | **Skirmisher** | หน้าไม้มือ | มีดสั้น / กริช | หน้าไม้มือ \+ มีดมือรอง |
 | **Javelineer** | หลาว | โล่กลมเล็ก | หลาว (Thrown) + โล่กลมเล็ก |
 | **Slinger** | สลิง | ถุงหิน | สลิง \+ ถุงหิน |

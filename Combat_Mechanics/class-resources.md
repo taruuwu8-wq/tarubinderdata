@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/class-resources  
 > **Source title:** กลไกอาชีพ · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__class-resources.md](../Raw/Original_Wiki_Pages/systems/systems__class-resources.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #28: Summoner: ตีเป้าใหญ่ได้วิญญาณทุก 3 วิ และ Soul Surge ซ้อนบนเป้าใหญ่ได้

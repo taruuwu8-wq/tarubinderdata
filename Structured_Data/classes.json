@@ -42,7 +42,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/acolyte",
    "source_title": "Acolyte · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Acolyte.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -271,7 +271,8 @@
     "/skill/smite",
     "/skill/soul_tether",
     "/skill/zeal"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Knight",
@@ -313,7 +314,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/knight",
    "source_title": "Knight · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Knight.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -542,7 +543,8 @@
     "/skill/unbreakable",
     "/skill/valor",
     "/skill/war_horn"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Mage",
@@ -584,7 +586,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/mage",
    "source_title": "Mage · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Mage.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -813,7 +815,8 @@
     "/skill/rune_sovereign",
     "/skill/spell_mastery",
     "/skill/spirit_rune"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Binder",
@@ -833,7 +836,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/novice",
    "source_title": "Binder · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Binder.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -884,7 +887,8 @@
     "/skill/keen_edge",
     "/skill/light_step",
     "/skill/tough_skin"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Rogue",
@@ -926,7 +930,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/rogue",
    "source_title": "Rogue · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Rogue.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1155,7 +1159,8 @@
     "/skill/smoke_bomb",
     "/skill/soul_filch",
     "/skill/venom_craft"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Scout",
@@ -1197,7 +1202,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/scout",
    "source_title": "Scout · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Scout.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1426,7 +1431,8 @@
     "/skill/twin_strafe",
     "/skill/windwalker",
     "/skill/zephyr_soul"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Summoner",
@@ -1468,7 +1474,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/summoner",
    "source_title": "Summoner · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Summoner.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1521,7 +1527,7 @@
        "Soul Lantern",
        "Passive",
        "10",
-       "+5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง (Field Boss ไม่ดรอป)",
+       "+5 INT, +5 VIT · ตะเกียงเก็บวิญญาณได้ 15 ดวง (+1 ต่อเลเวล) · มอนที่คุณมีส่วนฆ่าในระยะ 14 ช่องดรอปวิญญาณ 1 ดวง · ตีบอส / Elite / หุ่นซ้อม (คุณหรือ Thrall) ได้วิญญาณ 1 ดวงทุก 3 วิ",
        "—",
        "—"
       ],
@@ -1697,7 +1703,8 @@
     "/skill/soul_siphon",
     "/skill/spirit_flock",
     "/skill/spirit_pact"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   },
   {
    "name": "Warrior",
@@ -1739,7 +1746,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/job/warrior",
    "source_title": "Warrior · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-08",
    "kb_file": "Classes/Warrior.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1968,7 +1975,8 @@
     "/skill/warcry",
     "/skill/whirlwind",
     "/skill/wound_mastery"
-   ]
+   ],
+   "freshness_status": "snapshot_2026-11-08"
   }
  ]
 }

@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/systems/premium"
 source_title: "Premium · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -21,7 +21,7 @@ verification_status: "WIKI"
 | ฟาร์มออฟไลน์ (ปิดเกมตอน AUTO เปิดในแมพฟิลด์) | สูงสุด 8 ชม. | **สูงสุด 12 ชม.** |
 | ผลเก็บเกี่ยว | — | **+1 ต่อครั้ง** |
 | น้ำหนักที่แบก | พื้นฐาน | **+2,000** |
-| ภาษีตลาด (5M แรกที่ขายในวัน · ส่วนเกินขั้นบันได) | 5% | **1%** |
+| ภาษีตลาด (ไม่ใช่ Premium: 5M แรกที่ขายในวัน · ส่วนเกินขั้นบันได) | 5% | **1% ทุกยอด** |
 | ช่องลงขายตลาด | 20 | **40** |
 | เทรดของ / Gold กับผู้เล่น (ทั้งสองฝ่ายต้องเป็น Premium) | — | **✓** |
 | ร้านค้า NPC (ซื้อ/ขาย) จาก HUD ทุกที่ | เดินไปร้านในเมือง | **✓** |

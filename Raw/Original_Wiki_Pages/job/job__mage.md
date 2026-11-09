@@ -2,7 +2,7 @@
 source_url: "https://wiki.bindertowngame.com/job/mage"
 source_title: "Mage · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
+crawled_date: "2026-11-08"
 crawler: "Firecrawl scrape (markdown)"
 verification_status: "WIKI"
 ---
@@ -46,6 +46,8 @@ verification_status: "WIKI"
 เมื่อ HP ต่ำกว่า 40% **Arcane Ward** HP ต่ำกว่า **40%** ได้โล่ **35%** ของ HP สูงสุด **6** วิ (ติดได้ทุก **30** วิ)
 
 เมื่อโดนมอนรุม **Arcane Bulwark** โดนมอนรุม **3** ตัวขึ้นไป ลดดาเมจที่ได้รับจากมอน **30%**
+
+ตอนสู้ผู้เล่น **Frost Nova PvP** โดนผู้เล่นตีในระยะ **2.5** ช่อง ผลักศัตรูผู้เล่นรอบตัว **3** ช่องออกไป **3** ช่องแล้วแช่แข็ง **1.5** วิ (ทุก **12** วิ)
 
 เมื่อโจมตี **Weapon Mastery** ตีบวกอาวุธยิ่งสูง ดาเมจยิ่งเพิ่ม (ที่ **+15**: มอน **+5%** / บอส **+12%** / PvP **+15%**)
 

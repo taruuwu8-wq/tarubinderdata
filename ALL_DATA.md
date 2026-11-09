@@ -587,107 +587,184 @@ All tiers 1–10 (listing values only) are in [Structured_Data/equipment_all_tie
 | [Brute Tusks · T10](Equipment/Headgear/brute_tusks_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 STR · โบนัส +2% ดาเมจคริ | Lv 85+ · ทุกอาชีพ |
 | [Bubble Gum · T10](Equipment/Headgear/bubble_gum_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 LUK · โบนัส +4 FLEE | Lv 85+ · ทุกอาชีพ |
 | [Cigarette · T10](Equipment/Headgear/cigarette_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 DEX · โบนัส +5 HIT | Lv 85+ · ทุกอาชีพ |
+| [Eel Whiskers](Equipment/Headgear/eel_whiskers.md) | ปาก | 110 | — | — | — | สเตตัส +4 AGI · โบนัส +2% สปีดตี | Lv 110+ · ทุกอาชีพ |
 | [Bandit Cloth · T10](Equipment/Headgear/facecloth_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 AGI · โบนัส +4 FLEE | Lv 85+ · ทุกอาชีพ |
 | [Fang Grill · T10](Equipment/Headgear/fang_grill_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 STR · โบนัส +2% ดาเมจคริ | Lv 85+ · ทุกอาชีพ |
 | [Frost Scarf · T10](Equipment/Headgear/frost_scarf_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 VIT · โบนัส +162 Max HP | Lv 85+ · ทุกอาชีพ |
 | [Gold Grin](Equipment/Headgear/gold_grin.md) | ปาก | 97 | — | — | — | สเตตัส +4 LUK · โบนัส +2% คริ | Lv 97+ · ทุกอาชีพ |
 | [Harpy Feather · T10](Equipment/Headgear/harpy_feather_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 AGI · โบนัส +2% สปีดตี | Lv 85+ · ทุกอาชีพ |
+| [Forge Hermit Pipe](Equipment/Headgear/hermit_pipe.md) | ปาก | 113 | — | — | — | สเตตัส +5 STR · โบนัส +3 ลดดาเมจจากบอส | Lv 113+ · ทุกอาชีพ |
+| [Coral Muzzle](Equipment/Headgear/hound_muzzle.md) | ปาก | 112 | — | — | — | สเตตัส +4 STR · โบนัส +3% ดาเมจคริ | Lv 112+ · ทุกอาชีพ |
 | [Lollipop · T10](Equipment/Headgear/lollipop_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 VIT · โบนัส +5 ฟื้น HP/วิ | Lv 85+ · ทุกอาชีพ |
+| [Mimic Grin](Equipment/Headgear/mimic_grin.md) | ปาก | 100 | — | — | — | สเตตัส +4 LUK · โบนัส +2% คริ | Lv 100+ · ทุกอาชีพ |
 | [Opal Veil · T10](Equipment/Headgear/opal_veil_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 INT · โบนัส +3 ลดดาเมจจากบอส | Lv 85+ · ทุกอาชีพ |
+| [Pearl Nose Ring](Equipment/Headgear/ox_ring.md) | ปาก | 103 | — | — | — | สเตตัส +4 STR · โบนัส +27 DEF | Lv 103+ · ทุกอาชีพ |
 | [Old Pipe · T10](Equipment/Headgear/pipe_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 INT · โบนัส +3 โอกาสบล็อก | Lv 85+ · ทุกอาชีพ |
+| [Reed Whistle](Equipment/Headgear/reed_whistle.md) | ปาก | 101 | — | — | — | สเตตัส +4 DEX · โบนัส +6 HIT | Lv 101+ · ทุกอาชีพ |
 | [Rose · T10](Equipment/Headgear/rose_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 LUK · โบนัส +162 Max HP | Lv 85+ · ทุกอาชีพ |
 | [Spore Pipe · T10](Equipment/Headgear/spore_pipe_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 VIT · โบนัส +5 ฟื้น HP/วิ | Lv 85+ · ทุกอาชีพ |
 | [Thorn Muzzle · T10](Equipment/Headgear/thorn_muzzle_r10.md) | ปาก | 85 | — | — | — | สเตตัส +3 VIT · โบนัส +162 Max HP | Lv 85+ · ทุกอาชีพ |
 | [สายคาดมีดผู้คุมหุบเขา (Barbed)](Equipment/bandolier_t10.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +3% คริ | Lv 85+ · Rogue |
 | [สายคาดมีดผู้คุมหุบเขา (Quickdraw)](Equipment/bandolier_t10_quickdraw.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +3% คริ | Lv 85+ · Rogue |
+| [สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound](Equipment/bandolier_t10_quickdraw_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +3% คริ | Lv 85+ · Rogue |
+| [สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound](Equipment/bandolier_t10_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +3% คริ | Lv 85+ · Rogue |
 | [สายคาดมีดผู้คุมหุบเขา (Weighted)](Equipment/bandolier_t10_weighted.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +3% คริ | Lv 85+ · Rogue |
+| [สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound](Equipment/bandolier_t10_weighted_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +3% คริ | Lv 85+ · Rogue |
 | [ระฆังผู้คุมหุบเขา (Clear)](Equipment/bell_t10.md) | มือรอง | 85 | — | — | 54 | สเตตัส +5 INT · โบนัส +219 Max MP | Lv 85+ · Acolyte |
 | [ระฆังผู้คุมหุบเขา (Swiftbell)](Equipment/bell_t10_swift.md) | มือรอง | 85 | — | — | 54 | สเตตัส +5 INT · โบนัส +219 Max MP | Lv 85+ · Acolyte |
+| [ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound](Equipment/bell_t10_swift_tide.md) | มือรอง | 85 | — | — | 60 | สเตตัส +6 INT · โบนัส +240 Max MP | Lv 85+ · Acolyte |
+| [ระฆังผู้คุมหุบเขา (Clear) · Tidebound](Equipment/bell_t10_tide.md) | มือรอง | 85 | — | — | 60 | สเตตัส +6 INT · โบนัส +240 Max MP | Lv 85+ · Acolyte |
 | [ระฆังผู้คุมหุบเขา (Warm)](Equipment/bell_t10_warm.md) | มือรอง | 85 | — | — | 54 | สเตตัส +5 INT · โบนัส +219 Max MP | Lv 85+ · Acolyte |
+| [ระฆังผู้คุมหุบเขา (Warm) · Tidebound](Equipment/bell_t10_warm_tide.md) | มือรอง | 85 | — | — | 60 | สเตตัส +6 INT · โบนัส +240 Max MP | Lv 85+ · Acolyte |
 | [โล่กลมเล็กผู้คุมหุบเขา (Parry)](Equipment/buckler_t10.md) | มือรอง | 85 | — | — | 84 | สเตตัส +5 AGI · โบนัส +12 โอกาสบล็อก | Lv 85+ · Knight, Scout |
 | [โล่กลมเล็กผู้คุมหุบเขา (Bash)](Equipment/buckler_t10_bash.md) | มือรอง | 85 | — | — | 84 | สเตตัส +5 AGI · โบนัส +12 โอกาสบล็อก | Lv 85+ · Knight, Scout |
+| [โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound](Equipment/buckler_t10_bash_tide.md) | มือรอง | 85 | — | — | 93 | สเตตัส +6 AGI · โบนัส +13 โอกาสบล็อก | Lv 85+ · Knight, Scout |
 | [โล่กลมเล็กผู้คุมหุบเขา (Deflect)](Equipment/buckler_t10_deflect.md) | มือรอง | 85 | — | — | 84 | สเตตัส +5 AGI · โบนัส +12 โอกาสบล็อก | Lv 85+ · Knight, Scout |
+| [โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound](Equipment/buckler_t10_deflect_tide.md) | มือรอง | 85 | — | — | 93 | สเตตัส +6 AGI · โบนัส +13 โอกาสบล็อก | Lv 85+ · Knight, Scout |
+| [โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound](Equipment/buckler_t10_tide.md) | มือรอง | 85 | — | — | 93 | สเตตัส +6 AGI · โบนัส +13 โอกาสบล็อก | Lv 85+ · Knight, Scout |
 | [Bulwark of Dawn · T10](Equipment/bulwark_of_dawn_r10.md) | มือรอง | 85 | — | — | 150 | สเตตัส +5 VIT · โบนัส +8% สปีดวิ่ง | Lv 85+ · Binder, Knight, Warrior, Acolyteกติกาพิเศษ (Unique)Dawn Guard: ทุก 8 วิ การโจมตีธรรมดาครั้งถัดไปของมอนถูกกันทิ้งทั้งหมด (ไม่กันสกิลบอส) · บรรทัดคงที่: HP สูงสุด +14% · ลดคูลดาวน์ +5% · สปีดวิ่ง +8% — ดู Unique |
 | [กระถางกำยานผู้คุมหุบเขา (Mending)](Equipment/censer_t10.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT | Lv 85+ · Acolyte |
 | [กระถางกำยานผู้คุมหุบเขา (Burning)](Equipment/censer_t10_burning.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT | Lv 85+ · Acolyte |
+| [กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound](Equipment/censer_t10_burning_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT | Lv 85+ · Acolyte |
 | [กระถางกำยานผู้คุมหุบเขา (Purifying)](Equipment/censer_t10_purifying.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT | Lv 85+ · Acolyte |
+| [กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound](Equipment/censer_t10_purifying_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT | Lv 85+ · Acolyte |
+| [กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound](Equipment/censer_t10_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT | Lv 85+ · Acolyte |
 | [โซ่ผู้คุมหุบเขา (Bind)](Equipment/chain_t10.md) | มือรอง | 85 | — | 96 | — | สเตตัส +5 DEX | Lv 85+ · Summoner |
 | [โซ่ผู้คุมหุบเขา (Drag)](Equipment/chain_t10_drag.md) | มือรอง | 85 | — | 96 | — | สเตตัส +5 DEX | Lv 85+ · Summoner |
+| [โซ่ผู้คุมหุบเขา (Drag) · Tidebound](Equipment/chain_t10_drag_tide.md) | มือรอง | 85 | — | 105 | — | สเตตัส +6 DEX | Lv 85+ · Summoner |
 | [โซ่ผู้คุมหุบเขา (Link)](Equipment/chain_t10_link.md) | มือรอง | 85 | — | 96 | — | สเตตัส +5 DEX | Lv 85+ · Summoner |
+| [โซ่ผู้คุมหุบเขา (Link) · Tidebound](Equipment/chain_t10_link_tide.md) | มือรอง | 85 | — | 105 | — | สเตตัส +6 DEX | Lv 85+ · Summoner |
+| [โซ่ผู้คุมหุบเขา (Bind) · Tidebound](Equipment/chain_t10_tide.md) | มือรอง | 85 | — | 105 | — | สเตตัส +6 DEX | Lv 85+ · Summoner |
 | [ภูตรับใช้ผู้คุมหุบเขา (Ember)](Equipment/familiar_t10.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT · โบนัส +165 Max MP | Lv 85+ · Mage |
 | [ภูตรับใช้ผู้คุมหุบเขา (Frostling)](Equipment/familiar_t10_frost.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT · โบนัส +165 Max MP | Lv 85+ · Mage |
+| [ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound](Equipment/familiar_t10_frost_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT · โบนัส +183 Max MP | Lv 85+ · Mage |
 | [ภูตรับใช้ผู้คุมหุบเขา (Storm)](Equipment/familiar_t10_storm.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT · โบนัส +165 Max MP | Lv 85+ · Mage |
+| [ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound](Equipment/familiar_t10_storm_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT · โบนัส +183 Max MP | Lv 85+ · Mage |
+| [ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound](Equipment/familiar_t10_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT · โบนัส +183 Max MP | Lv 85+ · Mage |
 | [โล่ว่าวผู้คุมหุบเขา (Charge)](Equipment/kite_shield_t10.md) | มือรอง | 85 | — | — | 138 | สเตตัส +5 VIT · โบนัส +18 โอกาสบล็อก | Lv 85+ · Knight |
 | [โล่ว่าวผู้คุมหุบเขา (Oath)](Equipment/kite_shield_t10_oath.md) | มือรอง | 85 | — | — | 138 | สเตตัส +5 VIT · โบนัส +18 โอกาสบล็อก | Lv 85+ · Knight |
+| [โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound](Equipment/kite_shield_t10_oath_tide.md) | มือรอง | 85 | — | — | 153 | สเตตัส +6 VIT · โบนัส +20 โอกาสบล็อก | Lv 85+ · Knight |
 | [โล่ว่าวผู้คุมหุบเขา (Pennant)](Equipment/kite_shield_t10_pennant.md) | มือรอง | 85 | — | — | 138 | สเตตัส +5 VIT · โบนัส +18 โอกาสบล็อก | Lv 85+ · Knight |
+| [โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound](Equipment/kite_shield_t10_pennant_tide.md) | มือรอง | 85 | — | — | 153 | สเตตัส +6 VIT · โบนัส +20 โอกาสบล็อก | Lv 85+ · Knight |
+| [โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound](Equipment/kite_shield_t10_tide.md) | มือรอง | 85 | — | — | 153 | สเตตัส +6 VIT · โบนัส +20 โอกาสบล็อก | Lv 85+ · Knight |
 | [ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel)](Equipment/lantern_t10.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT | Lv 85+ · Summoner |
 | [ตะเกียงวิญญาณผู้คุมหุบเขา (Binding)](Equipment/lantern_t10_binding.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT | Lv 85+ · Summoner |
+| [ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound](Equipment/lantern_t10_binding_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT | Lv 85+ · Summoner |
 | [ตะเกียงวิญญาณผู้คุมหุบเขา (Champion)](Equipment/lantern_t10_champion.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT | Lv 85+ · Summoner |
+| [ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound](Equipment/lantern_t10_champion_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT | Lv 85+ · Summoner |
+| [ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound](Equipment/lantern_t10_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT | Lv 85+ · Summoner |
 | [มีดปัดผู้คุมหุบเขา (Counter)](Equipment/parrying_dagger_t10.md) | มือรอง | 85 | 96 | — | — | สเตตัส +5 AGI · โบนัส +11 FLEE | Lv 85+ · Rogue |
 | [มีดปัดผู้คุมหุบเขา (Flourish)](Equipment/parrying_dagger_t10_flourish.md) | มือรอง | 85 | 96 | — | — | สเตตัส +5 AGI · โบนัส +11 FLEE | Lv 85+ · Rogue |
+| [มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound](Equipment/parrying_dagger_t10_flourish_tide.md) | มือรอง | 85 | 105 | — | — | สเตตัส +6 AGI · โบนัส +12 FLEE | Lv 85+ · Rogue |
 | [มีดปัดผู้คุมหุบเขา (Slip)](Equipment/parrying_dagger_t10_slip.md) | มือรอง | 85 | 96 | — | — | สเตตัส +5 AGI · โบนัส +11 FLEE | Lv 85+ · Rogue |
+| [มีดปัดผู้คุมหุบเขา (Slip) · Tidebound](Equipment/parrying_dagger_t10_slip_tide.md) | มือรอง | 85 | 105 | — | — | สเตตัส +6 AGI · โบนัส +12 FLEE | Lv 85+ · Rogue |
+| [มีดปัดผู้คุมหุบเขา (Counter) · Tidebound](Equipment/parrying_dagger_t10_tide.md) | มือรอง | 85 | 105 | — | — | สเตตัส +6 AGI · โบนัส +12 FLEE | Lv 85+ · Rogue |
 | [ขวดพิษผู้คุมหุบเขา (Toxin)](Equipment/poison_vial_t10.md) | มือรอง | 85 | — | — | — | สเตตัส +5 AGI · โบนัส +4% คริ | Lv 85+ · Rogue |
 | [ขวดพิษผู้คุมหุบเขา (Confusion)](Equipment/poison_vial_t10_confusion.md) | มือรอง | 85 | — | — | — | สเตตัส +5 AGI · โบนัส +4% คริ | Lv 85+ · Rogue |
+| [ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound](Equipment/poison_vial_t10_confusion_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 AGI · โบนัส +4% คริ | Lv 85+ · Rogue |
 | [ขวดพิษผู้คุมหุบเขา (Numbing)](Equipment/poison_vial_t10_numbing.md) | มือรอง | 85 | — | — | — | สเตตัส +5 AGI · โบนัส +4% คริ | Lv 85+ · Rogue |
+| [ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound](Equipment/poison_vial_t10_numbing_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 AGI · โบนัส +4% คริ | Lv 85+ · Rogue |
+| [ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound](Equipment/poison_vial_t10_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 AGI · โบนัส +4% คริ | Lv 85+ · Rogue |
 | [ปริซึมผู้คุมหุบเขา (Split)](Equipment/prism_t10.md) | มือรอง | 85 | — | 120 | — | สเตตัส +5 INT | Lv 85+ · Mage |
 | [ปริซึมผู้คุมหุบเขา (Lens)](Equipment/prism_t10_focus.md) | มือรอง | 85 | — | 120 | — | สเตตัส +5 INT | Lv 85+ · Mage |
+| [ปริซึมผู้คุมหุบเขา (Lens) · Tidebound](Equipment/prism_t10_focus_tide.md) | มือรอง | 85 | — | 132 | — | สเตตัส +6 INT | Lv 85+ · Mage |
 | [ปริซึมผู้คุมหุบเขา (Refract)](Equipment/prism_t10_refract.md) | มือรอง | 85 | — | 120 | — | สเตตัส +5 INT | Lv 85+ · Mage |
+| [ปริซึมผู้คุมหุบเขา (Refract) · Tidebound](Equipment/prism_t10_refract_tide.md) | มือรอง | 85 | — | 132 | — | สเตตัส +6 INT | Lv 85+ · Mage |
+| [ปริซึมผู้คุมหุบเขา (Split) · Tidebound](Equipment/prism_t10_tide.md) | มือรอง | 85 | — | 132 | — | สเตตัส +6 INT | Lv 85+ · Mage |
 | [ซองธนูผู้คุมหุบเขา (Bodkin)](Equipment/quiver_t10.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +11 HIT | Lv 85+ · Scout |
 | [ซองธนูผู้คุมหุบเขา (Broadhead)](Equipment/quiver_t10_broadhead.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +11 HIT | Lv 85+ · Scout |
+| [ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound](Equipment/quiver_t10_broadhead_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +12 HIT | Lv 85+ · Scout |
+| [ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound](Equipment/quiver_t10_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +12 HIT | Lv 85+ · Scout |
 | [ซองธนูผู้คุมหุบเขา (Whistling)](Equipment/quiver_t10_whistling.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +11 HIT | Lv 85+ · Scout |
+| [ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound](Equipment/quiver_t10_whistling_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +12 HIT | Lv 85+ · Scout |
 | [โล่ผู้คุมหุบเขา](Equipment/shield_t10.md) | มือรอง | 85 | — | — | 150 | สเตตัส +5 VIT · โบนัส +25 โอกาสบล็อก | Lv 85+ · Binder, Knight, Warrior, Acolyte |
+| [โล่ผู้คุมหุบเขา · Tidebound](Equipment/shield_t10_tide.md) | มือรอง | 85 | — | — | 165 | สเตตัส +6 VIT · โบนัส +28 โอกาสบล็อก | Lv 85+ · Binder, Knight, Warrior, Acolyte |
 | [กะโหลกผู้คุมหุบเขา (Grinning)](Equipment/skull_t10.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT · โบนัส +165 Max MP | Lv 85+ · Summoner |
 | [กะโหลกผู้คุมหุบเขา (Elder)](Equipment/skull_t10_elder.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT · โบนัส +165 Max MP | Lv 85+ · Summoner |
+| [กะโหลกผู้คุมหุบเขา (Elder) · Tidebound](Equipment/skull_t10_elder_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT · โบนัส +183 Max MP | Lv 85+ · Summoner |
 | [กะโหลกผู้คุมหุบเขา (Smoldering)](Equipment/skull_t10_smoldering.md) | มือรอง | 85 | — | 108 | — | สเตตัส +5 INT · โบนัส +165 Max MP | Lv 85+ · Summoner |
+| [กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound](Equipment/skull_t10_smoldering_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT · โบนัส +183 Max MP | Lv 85+ · Summoner |
+| [กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound](Equipment/skull_t10_tide.md) | มือรอง | 85 | — | 120 | — | สเตตัส +6 INT · โบนัส +183 Max MP | Lv 85+ · Summoner |
 | [ถุงหินผู้คุมหุบเขา (Round)](Equipment/stone_pouch_t10.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +3% คริ | Lv 85+ · Scout |
 | [ถุงหินผู้คุมหุบเขา (Fire)](Equipment/stone_pouch_t10_fire.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +3% คริ | Lv 85+ · Scout |
+| [ถุงหินผู้คุมหุบเขา (Fire) · Tidebound](Equipment/stone_pouch_t10_fire_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +3% คริ | Lv 85+ · Scout |
 | [ถุงหินผู้คุมหุบเขา (Gravel)](Equipment/stone_pouch_t10_gravel.md) | มือรอง | 85 | — | — | — | สเตตัส +5 DEX · โบนัส +3% คริ | Lv 85+ · Scout |
+| [ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound](Equipment/stone_pouch_t10_gravel_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +3% คริ | Lv 85+ · Scout |
+| [ถุงหินผู้คุมหุบเขา (Round) · Tidebound](Equipment/stone_pouch_t10_tide.md) | มือรอง | 85 | — | — | — | สเตตัส +6 DEX · โบนัส +3% คริ | Lv 85+ · Scout |
 | [โล่หอคอยผู้คุมหุบเขา (Bastion)](Equipment/tower_shield_t10.md) | มือรอง | 85 | — | — | 189 | สเตตัส +5 VIT · โบนัส +18 โอกาสบล็อก | Lv 85+ · Knight |
 | [โล่หอคอยผู้คุมหุบเขา (Aegis)](Equipment/tower_shield_t10_aegis.md) | มือรอง | 85 | — | — | 189 | สเตตัส +5 VIT · โบนัส +18 โอกาสบล็อก | Lv 85+ · Knight |
+| [โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound](Equipment/tower_shield_t10_aegis_tide.md) | มือรอง | 85 | — | — | 207 | สเตตัส +6 VIT · โบนัส +20 โอกาสบล็อก | Lv 85+ · Knight |
 | [โล่หอคอยผู้คุมหุบเขา (Rampart)](Equipment/tower_shield_t10_rampart.md) | มือรอง | 85 | — | — | 189 | สเตตัส +5 VIT · โบนัส +18 โอกาสบล็อก | Lv 85+ · Knight |
+| [โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound](Equipment/tower_shield_t10_rampart_tide.md) | มือรอง | 85 | — | — | 207 | สเตตัส +6 VIT · โบนัส +20 โอกาสบล็อก | Lv 85+ · Knight |
+| [โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound](Equipment/tower_shield_t10_tide.md) | มือรอง | 85 | — | — | 207 | สเตตัส +6 VIT · โบนัส +20 โอกาสบล็อก | Lv 85+ · Knight |
 | [ธงศึกผู้คุมหุบเขา (Rally)](Equipment/war_banner_t10.md) | มือรอง | 85 | — | — | 42 | สเตตัส +5 STR · โบนัส +384 Max HP | Lv 85+ · Warrior |
 | [ธงศึกผู้คุมหุบเขา (March)](Equipment/war_banner_t10_march.md) | มือรอง | 85 | — | — | 42 | สเตตัส +5 STR · โบนัส +384 Max HP | Lv 85+ · Warrior |
+| [ธงศึกผู้คุมหุบเขา (March) · Tidebound](Equipment/war_banner_t10_march_tide.md) | มือรอง | 85 | — | — | 45 | สเตตัส +6 STR · โบนัส +423 Max HP | Lv 85+ · Warrior |
 | [ธงศึกผู้คุมหุบเขา (Taunt)](Equipment/war_banner_t10_taunt.md) | มือรอง | 85 | — | — | 42 | สเตตัส +5 STR · โบนัส +384 Max HP | Lv 85+ · Warrior |
+| [ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound](Equipment/war_banner_t10_taunt_tide.md) | มือรอง | 85 | — | — | 45 | สเตตัส +6 STR · โบนัส +423 Max HP | Lv 85+ · Warrior |
+| [ธงศึกผู้คุมหุบเขา (Rally) · Tidebound](Equipment/war_banner_t10_tide.md) | มือรอง | 85 | — | — | 45 | สเตตัส +6 STR · โบนัส +423 Max HP | Lv 85+ · Warrior |
 | [โล่เวทผู้คุมหุบเขา](Equipment/ward_t10.md) | มือรอง | 85 | — | 162 | 96 | สเตตัส +5 INT | Lv 85+ · Mage, Acolyte, Summoner, Knight |
+| [โล่เวทผู้คุมหุบเขา · Tidebound](Equipment/ward_t10_tide.md) | มือรอง | 85 | — | 177 | 105 | สเตตัส +6 INT | Lv 85+ · Mage, Acolyte, Summoner, Knight |
 | [รองเท้าผู้คุมหุบเขา](Equipment/boots_t10.md) | รองเท้า | 85 | — | — | 60 | สเตตัส +5 AGI · โบนัส +4% สปีดวิ่ง | Lv 85+ · ทุกอาชีพ |
+| [รองเท้าผู้คุมหุบเขา · Tidebound](Equipment/boots_t10_tide.md) | รองเท้า | 85 | — | — | 66 | สเตตัส +6 AGI · โบนัส +4% สปีดวิ่ง | Lv 85+ · ทุกอาชีพ |
 | [สนับแข้งผู้คุมหุบเขา](Equipment/greaves_t10.md) | รองเท้า | 85 | — | — | 84 | สเตตัส +5 VIT · โบนัส +384 Max HP | Lv 85+ · ทุกอาชีพ |
+| [สนับแข้งผู้คุมหุบเขา · Tidebound](Equipment/greaves_t10_tide.md) | รองเท้า | 85 | — | — | 93 | สเตตัส +6 VIT · โบนัส +423 Max HP | Lv 85+ · ทุกอาชีพ |
 | [สร้อยคอผู้คุมหุบเขา](Equipment/necklace_t10.md) | สร้อยคอ | 85 | — | — | — | สเตตัส +5 VIT · โบนัส +162 Max MP | Lv 85+ · ทุกอาชีพ |
+| [สร้อยคอผู้คุมหุบเขา · Tidebound](Equipment/necklace_t10_tide.md) | สร้อยคอ | 85 | — | — | — | สเตตัส +6 VIT · โบนัส +177 Max MP | Lv 85+ · ทุกอาชีพ |
 | [Tearstone Pendant · T10](Equipment/tearstone_pendant_r10.md) | สร้อยคอ | 85 | — | — | — | สเตตัส +5 VIT · โบนัส +10% Max HP | Lv 85+ · ทุกอาชีพกติกาพิเศษ (Unique)Tearstone Veil: ดื่มยา HP → ได้เกราะ 10% ของ HP 6 วิ ด้วย · บรรทัดคงที่: Mana Tide +90% · ร่ายเร็วขึ้น +8% · HP สูงสุด +10% — ดู Unique |
+| [Ammonite Monocle](Equipment/Headgear/ammonite_monocle.md) | หน้า | 105 | — | — | — | สเตตัส +4 INT · โบนัส +132 Max MP | Lv 105+ · ทุกอาชีพ |
 | [Bone Mask · T10](Equipment/Headgear/bone_mask_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 STR · โบนัส +2% ATK | Lv 85+ · ทุกอาชีพ |
+| [Sea Compass Eyeglass](Equipment/Headgear/compass_eyeglass.md) | หน้า | 106 | — | — | — | สเตตัส +4 DEX · โบนัส +6 HIT | Lv 106+ · ทุกอาชีพ |
+| [Kite Drake Goggles](Equipment/Headgear/drake_goggles.md) | หน้า | 104 | — | — | — | สเตตัส +4 AGI · โบนัส +3 ลดดาเมจจากบอส | Lv 104+ · ทุกอาชีพ |
 | [Masquerade · T10](Equipment/Headgear/eyemask_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 AGI · โบนัส +4 FLEE | Lv 85+ · ทุกอาชีพ |
 | [Eyepatch · T10](Equipment/Headgear/eyepatch_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 DEX · โบนัส +5 HIT | Lv 85+ · ทุกอาชีพ |
 | [Frost Visor · T10](Equipment/Headgear/frost_visor_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 DEX · โบนัส +5 HIT | Lv 85+ · ทุกอาชีพ |
+| [Shellforge Mask](Equipment/Headgear/furnace_mask.md) | หน้า | 111 | — | — | — | สเตตัส +4 VIT · โบนัส +210 Max HP | Lv 111+ · ทุกอาชีพ |
 | [Round Glasses · T10](Equipment/Headgear/glasses_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 INT · โบนัส +108 Max MP | Lv 85+ · ทุกอาชีพ |
 | [Harpy Goggles · T10](Equipment/Headgear/harpy_goggles_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 DEX · โบนัส +5 HIT | Lv 85+ · ทุกอาชีพ |
 | [Horror Eye](Equipment/Headgear/horror_eye.md) | หน้า | 89 | — | — | — | สเตตัส +3 LUK · โบนัส +2% คริ | Lv 89+ · ทุกอาชีพ |
 | [Moth Mask](Equipment/Headgear/moth_mask.md) | หน้า | 92 | — | — | — | สเตตัส +4 AGI · โบนัส +4 FLEE | Lv 92+ · ทุกอาชีพ |
 | [Plague Beak · T10](Equipment/Headgear/plague_beak_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 INT · โบนัส +3 ลดดาเมจจากบอส | Lv 85+ · ทุกอาชีพ |
+| [Tiderail Goggles](Equipment/Headgear/rail_goggles.md) | หน้า | 109 | — | — | — | สเตตัส +4 DEX · โบนัส +2% คริ | Lv 109+ · ทุกอาชีพ |
+| [Drowned Visor](Equipment/Headgear/sentinel_visor.md) | หน้า | 107 | — | — | — | สเตตัส +4 VIT · โบนัส +27 DEF | Lv 107+ · ทุกอาชีพ |
+| [Fountain Veil](Equipment/Headgear/serpent_veil.md) | หน้า | 108 | — | — | — | สเตตัส +4 INT · โบนัส +3 ลดดาเมจจากบอส | Lv 108+ · ทุกอาชีพ |
 | [Cool Shades · T10](Equipment/Headgear/shades_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 LUK · โบนัส +3 โอกาสบล็อก | Lv 85+ · ทุกอาชีพ |
 | [Wisp Monocle · T10](Equipment/Headgear/wisp_monocle_r10.md) | หน้า | 85 | — | — | — | สเตตัส +3 INT · โบนัส +108 Max MP | Lv 85+ · ทุกอาชีพ |
 | [Aurora Antlers · T10](Equipment/Headgear/aurora_antlers_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 INT · โบนัส +234 Max MP | Lv 85+ · ทุกอาชีพ |
+| [Barnacle Cap](Equipment/Headgear/barnacle_cap.md) | หมวก | 97 | — | — | 81 | สเตตัส +6 VIT · โบนัส +10 ฟื้น HP/วิ | Lv 97+ · ทุกอาชีพ |
 | [Pom Beanie · T10](Equipment/Headgear/beanie_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 VIT · โบนัส +321 Max HP | Lv 85+ · ทุกอาชีพ |
 | [Bloom Antlers · T10](Equipment/Headgear/bloom_antlers_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 VIT · โบนัส +351 Max HP | Lv 85+ · ทุกอาชีพ |
+| [Bosun Bandana](Equipment/Headgear/bosun_bandana.md) | หมวก | 99 | — | — | 81 | สเตตัส +6 AGI · โบนัส +9 FLEE | Lv 99+ · ทุกอาชีพ |
 | [Gale Cat Ears · T10](Equipment/Headgear/cat_ears_gale_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 AGI · โบนัส +4% สปีดตี | Lv 85+ · ทุกอาชีพ |
 | [Cat Ears · T10](Equipment/Headgear/cat_ears_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 AGI · โบนัส +8 FLEE | Lv 85+ · ทุกอาชีพ |
 | [Cinder Plume · T10](Equipment/Headgear/cinder_plume_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 STR · โบนัส +5% ATK | Lv 85+ · ทุกอาชีพ |
+| [Coral Crest](Equipment/Headgear/coral_crest.md) | หมวก | 104 | — | — | 84 | สเตตัส +6 STR · โบนัส +5% ATK | Lv 104+ · ทุกอาชีพ |
 | [Little Crown · T10](Equipment/Headgear/crown_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 LUK · โบนัส +4% คริ | Lv 85+ · ทุกอาชีพ |
 | [Devil Horns · T10](Equipment/Headgear/devil_horns_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 STR · โบนัส +5% ดาเมจคริ | Lv 85+ · ทุกอาชีพ |
 | [Skybolt Horns · T10](Equipment/Headgear/devil_horns_sky_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 STR · โบนัส +5% ATK | Lv 85+ · ทุกอาชีพ |
 | [Flower Crown · T10](Equipment/Headgear/flower_crown_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 DEX · โบนัส +10 HIT | Lv 85+ · ทุกอาชีพ |
+| [Gull Feather](Equipment/Headgear/gull_feather.md) | หมวก | 98 | — | — | 81 | สเตตัส +6 AGI · โบนัส +9 FLEE | Lv 98+ · ทุกอาชีพ |
 | [Glass Halo · T10](Equipment/Headgear/halo_glass_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 LUK · โบนัส +4% คริ | Lv 85+ · ทุกอาชีพ |
 | [Holy Halo · T10](Equipment/Headgear/halo_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 INT · โบนัส +87 พลังรักษา | Lv 85+ · ทุกอาชีพ |
 | [Heartwood Crown · T10](Equipment/Headgear/heartwood_crown_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 VIT · โบนัส +8% Max HP | Lv 85+ · ทุกอาชีพกติกาพิเศษ (Unique)Second Bloom: ดาเมจที่ถึงตาย → ไม่ตาย เหลือ HP 30% แทน (ทุก 180 วิ) · บรรทัดคงที่: ดูดเลือด +3% · Boss Resist +6% · HP สูงสุด +8% — ดู Unique |
 | [Jelly Cap · T10](Equipment/Headgear/jelly_cap_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 INT · โบนัส +213 Max MP | Lv 85+ · ทุกอาชีพ |
+| [Kraken Tricorn](Equipment/Headgear/kraken_tricorn.md) | หมวก | 101 | — | — | 90 | สเตตัส +7 STR · โบนัส +6% ดาเมจคริ | Lv 101+ · ทุกอาชีพ |
+| [Anglerlight Hat](Equipment/Headgear/lantern_hat.md) | หมวก | 100 | — | — | 81 | สเตตัส +6 LUK · โบนัส +4% คริ | Lv 100+ · ทุกอาชีพ |
 | [Lotus Bloom · T10](Equipment/Headgear/lotus_bloom_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 INT · โบนัส +5% MATK | Lv 85+ · ทุกอาชีพ |
 | [Moth Antennae](Equipment/Headgear/moth_antennae.md) | หมวก | 92 | — | — | 75 | สเตตัส +6 AGI · โบนัส +9 FLEE | Lv 92+ · ทุกอาชีพ |
 | [Mushroom Cap · T10](Equipment/Headgear/mushroom_cap_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 VIT · โบนัส +321 Max HP | Lv 85+ · ทุกอาชีพ |
 | [Void Mushroom Cap · T10](Equipment/Headgear/mushroom_cap_void_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 VIT · โบนัส +42 DEF | Lv 85+ · ทุกอาชีพ |
+| [Tidewater Straw Hat](Equipment/Headgear/paddy_hat.md) | หมวก | 102 | — | — | 84 | สเตตัส +6 VIT · โบนัส +387 Max HP | Lv 102+ · ทุกอาชีพ |
 | [Prism Shell · T10](Equipment/Headgear/prism_shell_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 VIT · โบนัส +48 DEF | Lv 85+ · ทุกอาชีพ |
+| [Kelp Laurel](Equipment/Headgear/senator_laurel.md) | หมวก | 108 | — | — | 87 | สเตตัส +6 INT · โบนัส +108 พลังรักษา | Lv 108+ · ทุกอาชีพ |
 | [Sentinel Wings · T10](Equipment/Headgear/sentinel_wings_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 DEX · โบนัส +11 HIT | Lv 85+ · ทุกอาชีพ |
 | [Sprout Leaf · T10](Equipment/Headgear/sprout_leaf_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 VIT · โบนัส +9 ฟื้น HP/วิ | Lv 85+ · ทุกอาชีพ |
+| [Harbourmaster Cap](Equipment/Headgear/station_cap.md) | หมวก | 111 | — | — | 99 | สเตตัส +8 DEX · โบนัส +14 HIT | Lv 111+ · ทุกอาชีพ |
+| [Storm Plume](Equipment/Headgear/storm_plume.md) | หมวก | 107 | — | — | 87 | สเตตัส +6 AGI · โบนัส +4% สปีดตี | Lv 107+ · ทุกอาชีพ |
 | [Tempest Crest · T10](Equipment/Headgear/tempest_crest_r10.md) | หมวก | 85 | — | — | 78 | สเตตัส +6 AGI · โบนัส +4% สปีดตี | Lv 85+ · ทุกอาชีพ |
 | [Icebound Top Hat · T10](Equipment/Headgear/top_hat_ice_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 DEX · โบนัส +10 HIT | Lv 85+ · ทุกอาชีพ |
 | [Top Hat · T10](Equipment/Headgear/top_hat_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 LUK · โบนัส +5% ดาเมจคริ | Lv 85+ · ทุกอาชีพ |
+| [Coralback Helm](Equipment/Headgear/tortoise_helm.md) | หมวก | 105 | — | — | 93 | สเตตัส +7 VIT · โบนัส +435 Max HP | Lv 105+ · ทุกอาชีพ |
 | [Frost Viking Helm · T10](Equipment/Headgear/viking_frost_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 VIT · โบนัส +321 Max HP | Lv 85+ · ทุกอาชีพ |
 | [Horned Helm · T10](Equipment/Headgear/viking_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 STR · โบนัส +5% ATK | Lv 85+ · ทุกอาชีพ |
 | [Warden's Crown](Equipment/Headgear/warden_crown.md) | หมวก | 97 | — | — | 87 | สเตตัส +7 LUK · โบนัส +6% ดาเมจคริ | Lv 97+ · ทุกอาชีพ |
@@ -695,56 +772,98 @@ All tiers 1–10 (listing values only) are in [Structured_Data/equipment_all_tie
 | [Witch Hat · T10](Equipment/Headgear/witch_hat_r10.md) | หมวก | 85 | — | — | 69 | สเตตัส +5 INT · โบนัส +213 Max MP | Lv 85+ · ทุกอาชีพ |
 | [Ashen Oath · T10](Weapons/ashen_oath_r10.md) | อาวุธ | 85 | 561 | — | — | สเตตัส +10 STR · โบนัส +5% ลดคูลดาวน์ | Lv 85+ · Binder, Knight, Warriorกติกาพิเศษ (Unique)Oathfire: สกิลที่ร่ายทุกครั้งที่ 4 รีคูลดาวน์ของตัวมันเองทันที · บรรทัดคงที่: Block +6% · ร่ายเร็วขึ้น +8% · ลดคูลดาวน์ +5% — ดู Unique |
 | [ขวานผู้คุมหุบเขา](Weapons/axe_t10.md) | อาวุธ | 85 | 642 | — | — | สเตตัส +10 STR · โบนัส +4% คริ | Lv 85+ · Warrior, Knight |
+| [ขวานผู้คุมหุบเขา · Tidebound](Weapons/axe_t10_tide.md) | อาวุธ | 85 | 705 | — | — | สเตตัส +11 STR · โบนัส +4% คริ | Lv 85+ · Warrior, Knight |
 | [Bellbreaker · T10](Weapons/bellbreaker_r10.md) | อาวุธ | 85 | 627 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +12% Max HP | Lv 85+ · Knight, Warrior, Acolyteกติกาพิเศษ (Unique)Toll: การโจมตีธรรมดาทุกครั้งที่ 5 สตันเป้า 0.8 วิ (บอสไม่ติด แต่ Break Bar ขึ้น) · บรรทัดคงที่: Block +6% · Boss Resist +6% · HP สูงสุด +12% — ดู Unique |
 | [ธนูผู้คุมหุบเขา](Weapons/bow_t10.md) | อาวุธ | 85 | 537 | — | — | สเตตัส +10 DEX · โบนัส +17 HIT | Lv 85+ · Scout |
+| [ธนูผู้คุมหุบเขา · Tidebound](Weapons/bow_t10_tide.md) | อาวุธ | 85 | 591 | — | — | สเตตัส +11 DEX · โบนัส +19 HIT | Lv 85+ · Scout |
 | [เคียวโซ่ผู้คุมหุบเขา](Weapons/chain_sickle_t10.md) | อาวุธ | 85 | — | 531 | — | สเตตัส +10 INT · +5 DEX | Lv 85+ · Summoner |
+| [เคียวโซ่ผู้คุมหุบเขา · Tidebound](Weapons/chain_sickle_t10_tide.md) | อาวุธ | 85 | — | 585 | — | สเตตัส +11 INT · +6 DEX | Lv 85+ · Summoner |
 | [หน้าไม้ผู้คุมหุบเขา](Weapons/crossbow_t10.md) | อาวุธ | 85 | 588 | — | — | สเตตัส +10 DEX · โบนัส +5% คริ | Lv 85+ · Scout |
+| [หน้าไม้ผู้คุมหุบเขา · Tidebound](Weapons/crossbow_t10_tide.md) | อาวุธ | 85 | 648 | — | — | สเตตัส +11 DEX · โบนัส +6% คริ | Lv 85+ · Scout |
 | [มีดสั้นผู้คุมหุบเขา](Weapons/dagger_t10.md) | อาวุธ | 85 | 480 | — | — | สเตตัส +10 AGI · โบนัส +7% คริ | Lv 85+ · Binder, Rogue, Scout (มือรอง) |
+| [มีดสั้นผู้คุมหุบเขา · Tidebound](Weapons/dagger_t10_tide.md) | อาวุธ | 85 | 528 | — | — | สเตตัส +11 AGI · โบนัส +8% คริ | Lv 85+ · Binder, Rogue, Scout (มือรอง) |
 | [Ember Tides · T10](Weapons/ember_tides_r10.md) | อาวุธ | 85 | — | 672 | — | สเตตัส +10 INT · โบนัส +8% สปีดวิ่ง | Lv 85+ · Mage, Summonerกติกาพิเศษ (Unique)High Tide: MP ต่ำกว่า 10% ระหว่างต่อสู้ → ฟื้น MP 50% ทันที (ทุก 45 วิ) · บรรทัดคงที่: ลดคูลดาวน์ +6% · HP สูงสุด +12% · สปีดวิ่ง +8% — ดู Unique |
-| [ลูกตุ้มโซ่ผู้คุมหุบเขา](Weapons/flail_t10.md) | อาวุธ | 85 | 783 | — | — | สเตตัส +10 STR · +5 VIT | Lv 85+ · Warrior, Knight |
+| [ลูกตุ้มโซ่ผู้คุมหุบเขา](Weapons/flail_t10.md) | อาวุธ | 85 | 939 | — | — | สเตตัส +10 STR · +5 VIT | Lv 85+ · Warrior, Knight |
+| [ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound](Weapons/flail_t10_tide.md) | อาวุธ | 85 | 1,032 | — | — | สเตตัส +11 STR · +6 VIT | Lv 85+ · Warrior, Knight |
 | [ไม้เท้ายาวผู้คุมหุบเขา](Weapons/greatstaff_t10.md) | อาวุธ | 85 | — | 840 | — | สเตตัส +10 INT · +5 VIT · โบนัส +438 Max MP | Lv 85+ · Mage, Summoner |
-| [ดาบสองมือผู้คุมหุบเขา](Weapons/greatsword_t10.md) | อาวุธ | 85 | 840 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +6% ดาเมจคริ | Lv 85+ · Knight, Warrior |
+| [ไม้เท้ายาวผู้คุมหุบเขา · Tidebound](Weapons/greatstaff_t10_tide.md) | อาวุธ | 85 | — | 924 | — | สเตตัส +11 INT · +6 VIT · โบนัส +483 Max MP | Lv 85+ · Mage, Summoner |
+| [ดาบสองมือผู้คุมหุบเขา](Weapons/greatsword_t10.md) | อาวุธ | 85 | 1,008 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +6% ดาเมจคริ | Lv 85+ · Knight, Warrior |
+| [ดาบสองมือผู้คุมหุบเขา · Tidebound](Weapons/greatsword_t10_tide.md) | อาวุธ | 85 | 1,110 | — | — | สเตตัส +11 STR · +6 VIT · โบนัส +7% ดาเมจคริ | Lv 85+ · Knight, Warrior |
 | [หน้าไม้มือผู้คุมหุบเขา](Weapons/hand_crossbow_t10.md) | อาวุธ | 85 | 459 | — | — | สเตตัส +10 DEX · โบนัส +5% สปีดตี | Lv 85+ · Scout |
+| [หน้าไม้มือผู้คุมหุบเขา · Tidebound](Weapons/hand_crossbow_t10_tide.md) | อาวุธ | 85 | 504 | — | — | สเตตัส +11 DEX · โบนัส +6% สปีดตี | Lv 85+ · Scout |
 | [ดาบเหล็ก](Weapons/iron_sword.md) | อาวุธ | 8 | 75 | — | — | สเตตัส +2 STR · โบนัส +3 HIT | Lv 8+ · Binder, Knight, Warrior |
 | [หลาวผู้คุมหุบเขา](Weapons/javelin_t10.md) | อาวุธ | 85 | 531 | — | — | สเตตัส +10 DEX · +5 STR · โบนัส +4% คริ | Lv 85+ · Scout |
+| [หลาวผู้คุมหุบเขา · Tidebound](Weapons/javelin_t10_tide.md) | อาวุธ | 85 | 585 | — | — | สเตตัส +11 DEX · +6 STR · โบนัส +4% คริ | Lv 85+ · Scout |
 | [สนับมือผู้คุมหุบเขา](Weapons/knuckles_t10.md) | อาวุธ | 85 | 459 | — | — | สเตตัส +10 STR · +5 AGI · โบนัส +5% สปีดตี | Lv 85+ · Warrior |
+| [สนับมือผู้คุมหุบเขา · Tidebound](Weapons/knuckles_t10_tide.md) | อาวุธ | 85 | 504 | — | — | สเตตัส +11 STR · +6 AGI · โบนัส +6% สปีดตี | Lv 85+ · Warrior |
 | [กริชผู้คุมหุบเขา](Weapons/kris_t10.md) | อาวุธ | 85 | 516 | — | — | สเตตัส +10 AGI · +5 DEX · โบนัส +6% สปีดตี | Lv 85+ · Binder, Rogue, Scout (มือรอง) |
+| [กริชผู้คุมหุบเขา · Tidebound](Weapons/kris_t10_tide.md) | อาวุธ | 85 | 567 | — | — | สเตตัส +11 AGI · +6 DEX · โบนัส +7% สปีดตี | Lv 85+ · Binder, Rogue, Scout (มือรอง) |
 | [หอกทหารม้าผู้คุมหุบเขา](Weapons/lance_t10.md) | อาวุธ | 85 | 561 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +384 Max HP | Lv 85+ · Knight |
+| [หอกทหารม้าผู้คุมหุบเขา · Tidebound](Weapons/lance_t10_tide.md) | อาวุธ | 85 | 618 | — | — | สเตตัส +11 STR · +6 VIT · โบนัส +423 Max HP | Lv 85+ · Knight |
 | [ไม้เท้าแสงผู้คุมหุบเขา](Weapons/lightstaff_t10.md) | อาวุธ | 85 | — | 810 | — | สเตตัส +10 INT · +5 VIT · โบนัส +330 Max MP | Lv 85+ · Acolyte |
+| [ไม้เท้าแสงผู้คุมหุบเขา · Tidebound](Weapons/lightstaff_t10_tide.md) | อาวุธ | 85 | — | 891 | — | สเตตัส +11 INT · +6 VIT · โบนัส +363 Max MP | Lv 85+ · Acolyte |
 | [ค้อนผู้คุมหุบเขา](Weapons/mace_t10.md) | อาวุธ | 85 | 627 | — | — | สเตตัส +10 STR · +5 VIT | Lv 85+ · Knight, Warrior, Acolyte |
+| [ค้อนผู้คุมหุบเขา · Tidebound](Weapons/mace_t10_tide.md) | อาวุธ | 85 | 690 | — | — | สเตตัส +11 STR · +6 VIT | Lv 85+ · Knight, Warrior, Acolyte |
 | [ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา](Weapons/maul_t10.md) | อาวุธ | 85 | — | 840 | — | สเตตัส +10 INT · +5 VIT | Lv 85+ · Acolyte |
+| [ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound](Weapons/maul_t10_tide.md) | อาวุธ | 85 | — | 924 | — | สเตตัส +11 INT · +6 VIT | Lv 85+ · Acolyte |
 | [ลูกแก้วเวทผู้คุมหุบเขา](Weapons/orb_t10.md) | อาวุธ | 85 | — | 672 | — | สเตตัส +10 INT · โบนัส +6 castSpd | Lv 85+ · Mage, Summoner |
-| [ทวนผู้คุมหุบเขา](Weapons/pike_t10.md) | อาวุธ | 85 | 810 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +7 HIT | Lv 85+ · Knight, Warrior |
+| [ลูกแก้วเวทผู้คุมหุบเขา · Tidebound](Weapons/orb_t10_tide.md) | อาวุธ | 85 | — | 738 | — | สเตตัส +11 INT · โบนัส +7 castSpd | Lv 85+ · Mage, Summoner |
+| [ทวนผู้คุมหุบเขา](Weapons/pike_t10.md) | อาวุธ | 85 | 975 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +7 HIT | Lv 85+ · Knight, Warrior |
+| [ทวนผู้คุมหุบเขา · Tidebound](Weapons/pike_t10_tide.md) | อาวุธ | 85 | 1,074 | — | — | สเตตัส +11 STR · +6 VIT · โบนัส +8 HIT | Lv 85+ · Knight, Warrior |
 | [เรเปียร์ผู้คุมหุบเขา](Weapons/rapier_t10.md) | อาวุธ | 85 | 504 | — | — | สเตตัส +10 DEX · +5 AGI · โบนัส +12 HIT | Lv 85+ · Rogue |
+| [เรเปียร์ผู้คุมหุบเขา · Tidebound](Weapons/rapier_t10_tide.md) | อาวุธ | 85 | 555 | — | — | สเตตัส +11 DEX · +6 AGI · โบนัส +13 HIT | Lv 85+ · Rogue |
 | [คทาแสงผู้คุมหุบเขา](Weapons/rod_t10.md) | อาวุธ | 85 | — | 516 | — | สเตตัส +10 INT · +5 VIT · โบนัส +510 Max HP | Lv 85+ · Acolyte, Knight |
+| [คทาแสงผู้คุมหุบเขา · Tidebound](Weapons/rod_t10_tide.md) | อาวุธ | 85 | — | 567 | — | สเตตัส +11 INT · +6 VIT · โบนัส +561 Max HP | Lv 85+ · Acolyte, Knight |
 | [เคียวใหญ่ผู้คุมหุบเขา](Weapons/scythe_t10.md) | อาวุธ | 85 | — | 810 | — | สเตตัส +10 INT · +5 AGI · โบนัส +4 castSpd | Lv 85+ · Summoner |
+| [เคียวใหญ่ผู้คุมหุบเขา · Tidebound](Weapons/scythe_t10_tide.md) | อาวุธ | 85 | — | 891 | — | สเตตัส +11 INT · +6 AGI · โบนัส +4 castSpd | Lv 85+ · Summoner |
 | [Skyfall · T10](Weapons/skyfall_r10.md) | อาวุธ | 85 | 537 | — | — | สเตตัส +10 DEX · โบนัส +6% Max HP | Lv 85+ · Scoutกติกาพิเศษ (Unique)Skyfall: ฆ่ามอน → ฝนธนูตกใส่จุดที่มันตาย โดนทุกตัวรอบ 2 ช่อง (80% ATK) · บรรทัดคงที่: ลดคูลดาวน์ +6% · สปีดวิ่ง +6% · HP สูงสุด +6% — ดู Unique |
 | [สลิงผู้คุมหุบเขา](Weapons/sling_t10.md) | อาวุธ | 85 | 477 | — | — | สเตตัส +10 DEX · +5 LUK · โบนัส +11 HIT | Lv 85+ · Scout |
+| [สลิงผู้คุมหุบเขา · Tidebound](Weapons/sling_t10_tide.md) | อาวุธ | 85 | 525 | — | — | สเตตัส +11 DEX · +6 LUK · โบนัส +12 HIT | Lv 85+ · Scout |
 | [หอกผู้คุมหุบเขา](Weapons/spear_t10.md) | อาวุธ | 85 | 588 | — | — | สเตตัส +10 STR · +5 AGI · โบนัส +7 HIT | Lv 85+ · Knight, Warrior |
-| [ไม้เท้าศึกผู้คุมหุบเขา](Weapons/spellstaff_t10.md) | อาวุธ | 85 | — | 756 | — | สเตตัส +10 INT · +5 STR · โบนัส +384 Max HP | Lv 85+ · Mage |
+| [หอกผู้คุมหุบเขา · Tidebound](Weapons/spear_t10_tide.md) | อาวุธ | 85 | 648 | — | — | สเตตัส +11 STR · +6 AGI · โบนัส +8 HIT | Lv 85+ · Knight, Warrior |
+| [ไม้เท้าศึกผู้คุมหุบเขา](Weapons/spellstaff_t10.md) | อาวุธ | 85 | — | 840 | — | สเตตัส +10 INT · +5 STR · โบนัส +384 Max HP | Lv 85+ · Mage |
+| [ไม้เท้าศึกผู้คุมหุบเขา · Tidebound](Weapons/spellstaff_t10_tide.md) | อาวุธ | 85 | — | 924 | — | สเตตัส +11 INT · +6 STR · โบนัส +423 Max HP | Lv 85+ · Mage |
 | [ไม้เท้าผู้คุมหุบเขา](Weapons/staff_t10.md) | อาวุธ | 85 | — | 588 | — | สเตตัส +10 INT · โบนัส +330 Max MP | Lv 85+ · Mage, Acolyte, Summoner |
+| [ไม้เท้าผู้คุมหุบเขา · Tidebound](Weapons/staff_t10_tide.md) | อาวุธ | 85 | — | 648 | — | สเตตัส +11 INT · โบนัส +363 Max MP | Lv 85+ · Mage, Acolyte, Summoner |
 | [Starlit Thorn · T10](Weapons/starlit_thorn_r10.md) | อาวุธ | 85 | — | 531 | — | สเตตัส +10 INT · +5 DEX · โบนัส +10% Max HP | Lv 85+ · Mage, Summoner, Knight, Acolyteกติกาพิเศษ (Unique)Constellation: ร่ายสกิลไม่ซ้ำกัน 3 สกิลติด → สกิลถัดไปร่ายทันทีและไม่เสีย MP · บรรทัดคงที่: ร่ายเร็วขึ้น +8% · สปีดวิ่ง +8% · HP สูงสุด +10% — ดู Unique |
 | [ดาบผู้คุมหุบเขา](Weapons/sword_t10.md) | อาวุธ | 85 | 561 | — | — | สเตตัส +10 STR · โบนัส +9 HIT | Lv 85+ · Binder, Knight, Warrior |
 | [ดาบผู้คุมหุบเขา (เวท)](Weapons/sword_t10_alt.md) | อาวุธ | 85 | — | 561 | — | สเตตัส +10 INT · โบนัส +9 HIT | Lv 85+ · Binder, Knight, Warrior |
+| [ดาบผู้คุมหุบเขา (เวท) · Tidebound](Weapons/sword_t10_alt_tide.md) | อาวุธ | 85 | — | 618 | — | สเตตัส +11 INT · โบนัส +10 HIT | Lv 85+ · Binder, Knight, Warrior |
+| [ดาบผู้คุมหุบเขา · Tidebound](Weapons/sword_t10_tide.md) | อาวุธ | 85 | 618 | — | — | สเตตัส +11 STR · โบนัส +10 HIT | Lv 85+ · Binder, Knight, Warrior |
 | [มีดบินผู้คุมหุบเขา](Weapons/throwing_knives_t10.md) | อาวุธ | 85 | 471 | — | — | สเตตัส +10 AGI · +5 DEX · โบนัส +5% คริ | Lv 85+ · Rogue |
+| [มีดบินผู้คุมหุบเขา · Tidebound](Weapons/throwing_knives_t10_tide.md) | อาวุธ | 85 | 519 | — | — | สเตตัส +11 AGI · +6 DEX · โบนัส +6% คริ | Lv 85+ · Rogue |
 | [ตำราผู้คุมหุบเขา](Weapons/tome_t10.md) | อาวุธ | 85 | — | 531 | — | สเตตัส +10 INT · +5 LUK · โบนัส +8% ดาเมจคริ | Lv 85+ · Summoner, Mage, Acolyte |
+| [ตำราผู้คุมหุบเขา · Tidebound](Weapons/tome_t10_tide.md) | อาวุธ | 85 | — | 585 | — | สเตตัส +11 INT · +6 LUK · โบนัส +9% ดาเมจคริ | Lv 85+ · Summoner, Mage, Acolyte |
 | [Viper's Kiss · T10](Weapons/vipers_kiss_r10.md) | อาวุธ | 85 | 480 | — | — | สเตตัส +10 AGI · โบนัส +6% Max HP | Lv 85+ · Binder, Rogue, Scout (มือรอง)กติกาพิเศษ (Unique)Viper Venom: การโจมตีธรรมดาติดพิษ 6% ATK ต่อวิ 4 วิ ซ้อนได้ 5 สแตก · บรรทัดคงที่: สปีดวิ่ง +10% · ลดคูลดาวน์ +5% · HP สูงสุด +6% — ดู Unique |
 | [คทาผู้คุมหุบเขา](Weapons/wand_t10.md) | อาวุธ | 85 | — | 531 | — | สเตตัส +10 INT · +5 DEX · โบนัส +5% ลดคูลดาวน์ | Lv 85+ · Mage, Summoner, Knight, Acolyte |
-| [Wyrmsunder · T10](Weapons/wyrmsunder_r10.md) | อาวุธ | 85 | 840 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +8 castSpd | Lv 85+ · Knight, Warriorกติกาพิเศษ (Unique)Wyrmbreaker: สกิลของคุณเติม Break Bar แรงขึ้น 30% และ STAGGER ที่คุณเป็นคนทำนานขึ้น 1.5 วิ · บรรทัดคงที่: Boss Resist +8% · ลดคูลดาวน์ +6% · ร่ายเร็วขึ้น +8% — ดู Unique |
+| [คทาผู้คุมหุบเขา · Tidebound](Weapons/wand_t10_tide.md) | อาวุธ | 85 | — | 585 | — | สเตตัส +11 INT · +6 DEX · โบนัส +6% ลดคูลดาวน์ | Lv 85+ · Mage, Summoner, Knight, Acolyte |
+| [Wyrmsunder · T10](Weapons/wyrmsunder_r10.md) | อาวุธ | 85 | 1,008 | — | — | สเตตัส +10 STR · +5 VIT · โบนัส +8 castSpd | Lv 85+ · Knight, Warriorกติกาพิเศษ (Unique)Wyrmbreaker: สกิลของคุณเติม Break Bar แรงขึ้น 30% และ STAGGER ที่คุณเป็นคนทำนานขึ้น 1.5 วิ · บรรทัดคงที่: Boss Resist +8% · ลดคูลดาวน์ +6% · ร่ายเร็วขึ้น +8% — ดู Unique |
 | [ชุดหนังผู้คุมหุบเขา](Equipment/leather_t10.md) | เกราะ | 85 | — | — | 162 | สเตตัส +10 AGI · โบนัส +12 FLEE | Lv 85+ · ทุกอาชีพ |
+| [ชุดหนังผู้คุมหุบเขา · Tidebound](Equipment/leather_t10_tide.md) | เกราะ | 85 | — | — | 177 | สเตตัส +11 AGI · โบนัส +13 FLEE | Lv 85+ · ทุกอาชีพ |
 | [เกราะผู้คุมหุบเขา](Equipment/plate_t10.md) | เกราะ | 85 | — | — | 246 | สเตตัส +10 VIT · โบนัส +765 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เกราะผู้คุมหุบเขา · Tidebound](Equipment/plate_t10_tide.md) | เกราะ | 85 | — | — | 270 | สเตตัส +11 VIT · โบนัส +843 Max HP | Lv 85+ · ทุกอาชีพ |
 | [เสื้อคลุมผู้คุมหุบเขา](Equipment/robe_t10.md) | เกราะ | 85 | — | — | 108 | สเตตัส +10 INT · โบนัส +414 Max MP | Lv 85+ · ทุกอาชีพ |
+| [เสื้อคลุมผู้คุมหุบเขา · Tidebound](Equipment/robe_t10_tide.md) | เกราะ | 85 | — | — | 120 | สเตตัส +11 INT · โบนัส +456 Max MP | Lv 85+ · ทุกอาชีพ |
 | [เข็มขัดผู้คุมหุบเขา](Equipment/belt_t10.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 STR · โบนัส +153 Max HP | Lv 85+ · ทุกอาชีพ |
 | [เข็มขัดผู้คุมหุบเขา (AGI)](Equipment/belt_t10_agi.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 AGI · โบนัส +153 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound](Equipment/belt_t10_agi_tide.md) | เข็มขัด | 85 | — | — | 36 | สเตตัส +6 AGI · โบนัส +168 Max HP | Lv 85+ · ทุกอาชีพ |
 | [เข็มขัดผู้คุมหุบเขา (DEX)](Equipment/belt_t10_dex.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 DEX · โบนัส +153 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound](Equipment/belt_t10_dex_tide.md) | เข็มขัด | 85 | — | — | 36 | สเตตัส +6 DEX · โบนัส +168 Max HP | Lv 85+ · ทุกอาชีพ |
 | [เข็มขัดผู้คุมหุบเขา (INT)](Equipment/belt_t10_int.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 INT · โบนัส +153 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เข็มขัดผู้คุมหุบเขา (INT) · Tidebound](Equipment/belt_t10_int_tide.md) | เข็มขัด | 85 | — | — | 36 | สเตตัส +6 INT · โบนัส +168 Max HP | Lv 85+ · ทุกอาชีพ |
 | [เข็มขัดผู้คุมหุบเขา (LUK)](Equipment/belt_t10_luk.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 LUK · โบนัส +153 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound](Equipment/belt_t10_luk_tide.md) | เข็มขัด | 85 | — | — | 36 | สเตตัส +6 LUK · โบนัส +168 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เข็มขัดผู้คุมหุบเขา · Tidebound](Equipment/belt_t10_tide.md) | เข็มขัด | 85 | — | — | 36 | สเตตัส +6 STR · โบนัส +168 Max HP | Lv 85+ · ทุกอาชีพ |
 | [เข็มขัดผู้คุมหุบเขา (VIT)](Equipment/belt_t10_vit.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 VIT · โบนัส +153 Max HP | Lv 85+ · ทุกอาชีพ |
+| [เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound](Equipment/belt_t10_vit_tide.md) | เข็มขัด | 85 | — | — | 36 | สเตตัส +6 VIT · โบนัส +168 Max HP | Lv 85+ · ทุกอาชีพ |
 | [Cinder Girdle · T10](Equipment/cinder_girdle_r10.md) | เข็มขัด | 85 | — | — | 33 | สเตตัส +5 STR · โบนัส +3% ดูดเลือด | Lv 85+ · ทุกอาชีพกติกาพิเศษ (Unique)Cinderstep: Dash แล้วมอนรอบจุดเริ่มและจุดจบ 2 ช่องติดไฟ 5% ATK ต่อวิ 3 วิ · สกิลพุ่งตัวก็ทำงานด้วย (AUTO ใช้ได้) · AUTO กด Dash เข้าหาเป้าให้เอง · บรรทัดคงที่: สปีดตี +3 · Crit +2% · ดูดเลือด +3% — ดู Unique |
 | [จี้ผู้คุมหุบเขา](Equipment/amulet_t10.md) | เครื่องประดับ | 85 | — | 96 | — | สเตตัส +5 INT | Lv 85+ · ทุกอาชีพ |
+| [จี้ผู้คุมหุบเขา · Tidebound](Equipment/amulet_t10_tide.md) | เครื่องประดับ | 85 | — | 105 | — | สเตตัส +6 INT | Lv 85+ · ทุกอาชีพ |
 | [เครื่องรางผู้คุมหุบเขา](Equipment/charm_t10.md) | เครื่องประดับ | 85 | — | — | — | สเตตัส +6 LUK · โบนัส +4% คริ | Lv 85+ · ทุกอาชีพ |
-| [Oathbound Band](Equipment/oathbound_band.md) | เครื่องประดับ | 85 | 96 | — | — | สเตตัส +5 STR · โบนัส +5 โอกาสบล็อก | Lv 85+ · ทุกอาชีพกติกาพิเศษ (Unique)Twin Oath: สลับจังหวะ: โจมตีธรรมดาแล้วสกิลถัดไปแรงขึ้น 12% · ใช้สกิลแล้วการโจมตีธรรมดาถัดไปแรงขึ้น 12% · บรรทัดคงที่: ATK +10% · MATK +10% · Block +5% — ดู Unique |
+| [เครื่องรางผู้คุมหุบเขา · Tidebound](Equipment/charm_t10_tide.md) | เครื่องประดับ | 85 | — | — | — | สเตตัส +7 LUK · โบนัส +4% คริ | Lv 85+ · ทุกอาชีพ |
+| [Oathbound Band](Equipment/oathbound_band.md) | เครื่องประดับ | 85 | 96 | 96 | — | สเตตัส +5 STR · โบนัส +5 โอกาสบล็อก | Lv 85+ · ทุกอาชีพกติกาพิเศษ (Unique)Twin Oath: สลับจังหวะ: โจมตีธรรมดาแล้วสกิลถัดไปแรงขึ้น 12% · ใช้สกิลแล้วการโจมตีธรรมดาถัดไปแรงขึ้น 12% · บรรทัดคงที่: ATK +10% · MATK +10% · Block +5% — ดู Unique |
 | [แหวนผู้คุมหุบเขา](Equipment/ring_t10.md) | เครื่องประดับ | 85 | 96 | — | — | สเตตัส +5 STR | Lv 85+ · ทุกอาชีพ |
+| [แหวนผู้คุมหุบเขา · Tidebound](Equipment/ring_t10_tide.md) | เครื่องประดับ | 85 | 105 | — | — | สเตตัส +6 STR | Lv 85+ · ทุกอาชีพ |
 
 ## Items with detail pages (key materials, top consumables, card items)
 

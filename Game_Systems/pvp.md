@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/pvp  
 > **Source title:** PvP · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__pvp.md](../Raw/Original_Wiki_Pages/systems/systems__pvp.md)
 
 <!-- PATCH-NOTICES:START -->
-> ⚠️ **Patch notice [PATCH]** — later patches (official announcements) change this topic. The Wiki text below (crawled 2026-11-07) may be outdated.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #2: PvP: เอาเพดานดาเมจ (cap damage) ออก — *CONFLICT: Wiki says a single hit deals at most 40% of the target's max HP and at most 40% within 1 second. The patch removes the damage cap.*
@@ -28,9 +28,9 @@
 ## กติกาดาเมจระหว่างผู้เล่น
 
 - ตีผู้เล่นแรงลงมากจากที่ตีมอน (การ์ดสกิลบอก "PvP: … %") — ออกแบบให้สู้กันราว 4 วิขึ้นไป
-- ตีครั้งเดียวไม่เกิน 40% ของ HP สูงสุดเป้า · ดาเมจใน 1 วิไม่เกิน 40%
+- ตีครั้งเดียวไม่เกิน NaN% ของ HP สูงสุดเป้า · ดาเมจใน 1 วิไม่เกิน NaN%
 - ฮีลเหลือ 20% ระหว่างสู้ผู้เล่น · โล่ที่ให้ตัวเองได้ 35%
-- เกราะลดดาเมจผู้เล่นได้ไม่เกิน 40%
+- เกราะ (DEF) ลดดาเมจผู้เล่นด้วยกฎเดียวกับตอนสู้มอน
 - อุปกรณ์ช่วยใน PvP น้อยกว่า PvE (ส่วนที่เกินจากของธรรมดาถูกลดลง)
 - สตัน / ตรึง / Fear / ดึง / ผลัก ใช้กับผู้เล่นได้เต็ม · โดนสตัน / ตรึง / Fear แล้วอมตะต่อสิ่งเหล่านั้น 3 วิ
 - เพิ่งสู้กับผู้เล่น 10 วิ ออกเกม / วาร์ป / เปลี่ยน Channel ไม่ได้
