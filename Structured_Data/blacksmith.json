@@ -409,7 +409,7 @@
     }
    ],
    "summary_text": "ช่างอยู่ที่ไหนNPC \"ตีบวก / ซ่อม / Reroll\" ในเมืองทุกเมือง · กดปุ่มช่างบน HUD นอกเมือง = เดิน / วาร์ปไปหาอุปกรณ์พังพังได้จากการตายใน ChannelPvP · ใช้ [ชุดซ่อม](/item/repair_kit) 1 ชิ้นต่อ 1 ชิ้น · ของพังใส่ไม่ได้จนกว่าจะซ่อมแยกชิ้น (Salvage)\n\n- ได้ Gold 50% ของราคาขายร้าน\n- ลุ้นชุดซ่อม 5% ต่อชิ้น\n- ทุกแถว Affix ลุ้นได้ Essence ของแถวนั้น 25% ต่อแถว (อุปกรณ์ 4 แถว ได้สูงสุด 4 อัน · แถวที่ไม่มี Essence ไม่ได้)\n- ชิ้น Masterwork แยกแล้วได้ Gold อย่างเดียว (ไม่มีชุดซ่อม / Essence)\n- แยกได้ทุกที่ ทีละชิ้นหรือเลือกหลายชิ้น · ของล็อก / Cash / ของแพ็กแยกไม่ได้ · แยกแล้วย้อนไม่ได้\n- ชิ้นที่มี Inscription (บรรทัด ✒) → บันทึกลง Smith's Codex ของตัวละครถาวร แล้วสลักลงชิ้นอื่นได้ที่ช่างตีเหล็ก\n\nตีบวกดูหน้า [ตีบวก](/systems/refine)Reroll Affixดูหน้า [Affix & Reroll](/systems/affix)",
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "ตีบวก",
@@ -580,7 +580,7 @@
     }
    ],
    "summary_text": "ตีที่ไหนNPC ช่างตีเหล็กในเมือง (ปุ่มช่างพาเดินไปให้)ใช้อะไรGold + แร่ ( [แร่ทองแดง](/item/copper_ore) → [แร่เหล็ก](/item/iron_ore) → [แร่มิธริล](/item/mithril_ore)) · [เศษดาว](/item/star_shard) เป็นวัตถุดิบเสริมขั้นสูงกันลดขั้นยังไง[ยันต์กันลดขั้น](/item/refine_ward) — ใช้เฉพาะครั้งที่พลาดแล้วจะลดขั้นประกาศทั้งเซิร์ฟตีติด +10 ขึ้นไป",
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Craft",
@@ -1326,7 +1326,7 @@
     }
    ],
    "summary_text": "เกรดของที่ได้ตามเกรดเฉลี่ยของวัตถุดิบ · Fine แรง ×1.15 · Pristine ×1.3ทำทีละกี่ชิ้นสูงสุด 50",
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Unique",
@@ -1431,7 +1431,7 @@
     }
    ],
    "summary_text": "ได้จากไหนWorld Boss เท่านั้น — โอกาส 1% ต่อคนที่ได้รางวัล (Top 10 3%) · ชิ้นที่ได้อยู่ในช่วงเลเวลของคุณ −35 ถึง +5บรรทัด Affixสุ่ม 2 บรรทัด 65% · 3 บรรทัด 27% · 4 บรรทัด 8% + บรรทัดคงที่ของชิ้นนั้น + กติกาพิเศษอัปขั้นReforge ได้ถึงขั้น 10 (ดูช่างตีเหล็ก) · ค่าบรรทัดคงที่โตตามขั้น",
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Property · Focused · Grip",
@@ -1446,7 +1446,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/systems/weapon-rules",
    "source_title": "Property · Focused · Grip · Binder Town Wiki",
-   "last_crawled": "2026-11-08",
+   "last_crawled": "2026-11-10",
    "kb_file": "Combat_Mechanics/weapon-rules.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1868,7 +1868,7 @@
     }
    ],
    "summary_text": "Focusedของที่มี Affix 1 บรรทัด ค่า ×1.8 · 2 บรรทัด ×1.35 (ไม่เกินค่าสูงสุดของ Tier ที่แสดง)มือเดียว / สองมือ\n\n- อาวุธที่ถือคู่ได้ (Dagger / Axe / Knuckles): ทุกอาชีพที่ถือมือหลักได้ ถือมือรองได้ด้วย · อาวุธที่มือรองนับ ATK และ Affix 50%\n- Dagger · มือหลัก: Rogue · มือรอง: Rogue, Scout\n- Axe · มือหลัก: Warrior, Knight · มือรอง: Warrior, Knight\n- Knuckles · มือหลัก: Warrior · มือรอง: Warrior\n- Scout ถือ Dagger ได้เฉพาะมือรอง (Grip Skirmisher: หน้าไม้มือ + Dagger) — มือหลักของอาชีพนี้เป็นอาวุธยิง\n- อาวุธสองมือ (Greatsword / Pike / Flail / Greatstaff / Spellstaff / Maul / Light Staff / Scythe): ช่องมือรองต้องว่าง · Bow / Crossbow ถือมือเดียวแต่มือรองใส่ได้เฉพาะ Quiver · ใส่ของมือรองตอนถืออาวุธสองมือ = อาวุธสองมือกลับเข้ากระเป๋า\n- แลกกับพลังฐานที่สูงกว่า (Tier เดียวกัน เทียบอาวุธมือเดียวที่แรงสุดของอาชีพเดียวกัน): Greatsword +56% · Pike +51% · Flail +45% · Greatstaff +26% · Spellstaff +26% · Maul +34% · Light Staff +29% · Scythe +21% · เสียช่องโล่ (Block / DEF / HP จากโล่)\n- อาวุธมือเดียว: มือรองใส่โล่ / ของมือรองของอาชีพ / อาวุธถือคู่ (Dagger / Axe / Knuckles) ได้ — อาวุธที่มือรองนับ ATK และ Affix 50%\n- ช่องมือรองที่จางตอนถืออาวุธสองมือ = ถูกอาวุธสองมือใช้อยู่",
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-10"
   }
  ]
 }

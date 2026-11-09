@@ -1,6 +1,6 @@
 {
  "_about": "55 map detail pages captured 2026-11-07; fresh listing has 56 maps. Copperbell Arena detail not fetched.",
- "count": 55,
+ "count": 56,
  "records": [
   {
    "name": "Ancient Ruins",
@@ -492,6 +492,33 @@
    "freshness_status": "not_refreshed_after_2026-11-07"
   },
   {
+   "name": "Copperbell Arena",
+   "slug": "copperbell_arena",
+   "category": "map",
+   "tier": null,
+   "level": null,
+   "properties": {},
+   "effects": [],
+   "requirements": [],
+   "conditions": [],
+   "related": [
+    "/map/honeyrill",
+    "/map/riverside",
+    "/map/whispering_woods",
+    "/npc/arena_exit"
+   ],
+   "source_url": "https://wiki.bindertowngame.com/map/copperbell_arena",
+   "source_title": "Copperbell Arena · Binder Town Wiki",
+   "last_crawled": "2026-11-10",
+   "kb_file": "Maps/copperbell_arena.md",
+   "verification_status": "WIKI",
+   "data_source": "detail_page",
+   "summary_text": "ได้ EXP เต็มถึง Lv ไหนถึง **Lv 118** (สูงสุดของแมพ +3) · เกินนั้นลด 12% ต่อเลเวล ต่ำสุด 10% · **Lv 99+ ได้ EXP แค่ 10%** (ทวีปเดิม — ไปทวีป Nacreon ได้ EXP เต็ม)ไปต่อที่ไหนเลเวลถัดไป: [Honeyrill](/map/honeyrill) Lv 3–8 · [Whispering Woods](/map/whispering_woods) Lv 4–9 · [Riverside](/map/riverside) Lv 6–12สายไหนได้เปรียบไม่มีฝั่งไหนได้เปรียบชัด (เกราะหนา 0% · ต้านเวท 0%)มอนตีก่อนไหมไม่มี — มอนตีกลับเมื่อโดนตีเท่านั้น",
+   "tables": [],
+   "monsters": [],
+   "freshness_status": "captured_2026-11-10"
+  },
+  {
    "name": "Coralstep Plateau",
    "slug": "coralstep_plateau",
    "category": "map",
@@ -519,7 +546,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/coralstep_plateau",
    "source_title": "Coralstep Plateau · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/coralstep_plateau.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -567,7 +594,7 @@
     "/mob/pearl_wisp",
     "/mob/shell_remnant"
    ],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Drowned Forum",
@@ -598,7 +625,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/drowned_forum",
    "source_title": "Drowned Forum · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/drowned_forum.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -646,7 +673,7 @@
     "/mob/mirror_merchant",
     "/mob/vase_lurker"
    ],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Duskgate Pass",
@@ -1324,7 +1351,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/lanternrice_delta",
    "source_title": "Lanternrice Delta · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/lanternrice_delta.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1372,7 +1399,7 @@
     "/mob/reed_crane",
     "/mob/straw_thornling"
    ],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Gauntlet · Valebrook Gate",
@@ -2294,7 +2321,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/shellforge_basin",
    "source_title": "Shellforge Basin · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/shellforge_basin.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2343,7 +2370,7 @@
     "/mob/rivet_golem",
     "/mob/slag_skitter"
    ],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Sledrun Gully",
@@ -2554,7 +2581,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/stormrail_causeway",
    "source_title": "Stormrail Causeway · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/stormrail_causeway.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2602,7 +2629,7 @@
     "/mob/thunder_harpy",
     "/mob/tram_remnant"
    ],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Stormwall City",
@@ -2870,6 +2897,7 @@
     "/map/shellforge_basin",
     "/map/stormrail_causeway",
     "/map/wreckwake_coast",
+    "/npc/arena_portal_tidehaven",
     "/npc/ferryman",
     "/npc/lighthouse_keeper",
     "/npc/tide_bank",
@@ -2887,7 +2915,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/tidehaven",
    "source_title": "Tidehaven · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/tidehaven.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2928,7 +2956,7 @@
     }
    ],
    "monsters": [],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Training Grounds",
@@ -3313,7 +3341,7 @@
    ],
    "source_url": "https://wiki.bindertowngame.com/map/wreckwake_coast",
    "source_title": "Wreckwake Coast · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Maps/wreckwake_coast.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -3368,7 +3396,7 @@
     "/mob/gull_harpy",
     "/mob/hullbreaker_kraken"
    ],
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Yellowlick Flats",

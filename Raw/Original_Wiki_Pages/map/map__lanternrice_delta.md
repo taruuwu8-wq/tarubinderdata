@@ -2,8 +2,8 @@
 source_url: "https://wiki.bindertowngame.com/map/lanternrice_delta"
 source_title: "Lanternrice Delta · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-07"
-crawler: "Firecrawl scrape (markdown)"
+crawled_date: "2026-11-10"
+crawler: "Firecrawl scrape (markdown), maxAge=0"
 verification_status: "WIKI"
 ---
 

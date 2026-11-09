@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/charm_t10_tide  
 > **Source title:** เครื่องรางผู้คุมหุบเขา · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__charm_t10_tide.md](../Raw/Original_Wiki_Pages/item/item__charm_t10_tide.md)
 
 ---

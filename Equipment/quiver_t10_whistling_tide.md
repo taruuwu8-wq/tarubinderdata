@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/quiver_t10_whistling_tide  
 > **Source title:** ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__quiver_t10_whistling_tide.md](../Raw/Original_Wiki_Pages/item/item__quiver_t10_whistling_tide.md)
 
 ---

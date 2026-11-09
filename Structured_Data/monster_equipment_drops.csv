@@ -3409,6 +3409,196 @@ corrupt_treant,Corrupt Treant,เข็มขัดเหล็กกล้า (
 corrupt_treant,Corrupt Treant,เข็มขัดเหล็กกล้า (INT),4,0.015%,Lv 22,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/corrupt_treant
 corrupt_treant,Corrupt Treant,เข็มขัดเหล็กกล้า (DEX),4,0.015%,Lv 22,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/corrupt_treant
 corrupt_treant,Corrupt Treant,เข็มขัดเหล็กกล้า (LUK),4,0.015%,Lv 22,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/corrupt_treant
+crucible_hound,Crucible Hound,เกราะผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ชุดหนังผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เสื้อคลุมผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สนับแข้งผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,รองเท้าผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,แหวนผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,จี้ผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เครื่องรางผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สร้อยคอผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เกราะผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,แหวนผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,จี้ผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ดาบสองมือผู้คุมหุบเขา,10,0.24%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ค้อนผู้คุมหุบเขา,10,0.24%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดสั้นผู้คุมหุบเขา,10,0.24%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธนูผู้คุมหุบเขา,10,0.24%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้าผู้คุมหุบเขา,10,0.24%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,คทาผู้คุมหุบเขา,10,0.24%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,คทาแสงผู้คุมหุบเขา,10,0.24%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตำราผู้คุมหุบเขา,10,0.24%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หอกผู้คุมหุบเขา,10,0.18%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวานผู้คุมหุบเขา,10,0.18%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กริชผู้คุมหุบเขา,10,0.18%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หน้าไม้ผู้คุมหุบเขา,10,0.18%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ลูกแก้วเวทผู้คุมหุบเขา,10,0.18%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ดาบผู้คุมหุบเขา,10,0.17%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ดาบผู้คุมหุบเขา (เวท),10,0.072%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ค้อนผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธนูผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,คทาผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตำราผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หอกผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวานผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กริชผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หน้าไม้ผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ลูกแก้วเวทผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ดาบผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0.004%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หน้าไม้มือผู้คุมหุบเขา,10,0.087%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หลาวผู้คุมหุบเขา,10,0.087%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สลิงผู้คุมหุบเขา,10,0.087%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ทวนผู้คุมหุบเขา,10,0.087%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หอกทหารม้าผู้คุมหุบเขา,10,0.087%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สนับมือผู้คุมหุบเขา,10,0.087%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.087%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เรเปียร์ผู้คุมหุบเขา,10,0.087%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดบินผู้คุมหุบเขา,10,0.087%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้ายาวผู้คุมหุบเขา,10,0.087%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้าศึกผู้คุมหุบเขา,10,0.087%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.087%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้าแสงผู้คุมหุบเขา,10,0.087%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เคียวใหญ่ผู้คุมหุบเขา,10,0.087%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เคียวโซ่ผู้คุมหุบเขา,10,0.087%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หลาวผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สลิงผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ทวนผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สนับมือผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดบินผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ผู้คุมหุบเขา,10,0.34%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่เวทผู้คุมหุบเขา,10,0.34%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ถุงหินผู้คุมหุบเขา (Round),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.014%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธงศึกผู้คุมหุบเขา (Rally),10,0.014%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดปัดผู้คุมหุบเขา (Counter),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ปริซึมผู้คุมหุบเขา (Split),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ระฆังผู้คุมหุบเขา (Clear),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โซ่ผู้คุมหุบเขา (Bind),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กะโหลกผู้คุมหุบเขา (Grinning),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ซองธนูผู้คุมหุบเขา (Whistling),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ถุงหินผู้คุมหุบเขา (Gravel),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ถุงหินผู้คุมหุบเขา (Fire),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.014%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.014%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธงศึกผู้คุมหุบเขา (Taunt),10,0.014%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธงศึกผู้คุมหุบเขา (March),10,0.014%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดปัดผู้คุมหุบเขา (Slip),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดปัดผู้คุมหุบเขา (Flourish),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ปริซึมผู้คุมหุบเขา (Refract),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ปริซึมผู้คุมหุบเขา (Lens),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ระฆังผู้คุมหุบเขา (Warm),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โซ่ผู้คุมหุบเขา (Drag),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โซ่ผู้คุมหุบเขา (Link),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กะโหลกผู้คุมหุบเขา (Elder),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา,10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (AGI),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (VIT),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (INT),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (DEX),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (LUK),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
+crucible_hound,Crucible Hound,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crucible_hound
 crust_lurker,Crust Lurker,เกราะพายุ,8,0.052%,Lv 60,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crust_lurker
 crust_lurker,Crust Lurker,ชุดหนังพายุ,8,0.052%,Lv 60,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crust_lurker
 crust_lurker,Crust Lurker,เสื้อคลุมพายุ,8,0.052%,Lv 60,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/crust_lurker
@@ -6074,6 +6264,196 @@ floe_wisp,Floe Wisp,เข็มขัดมิธริล (VIT),6,0.002%,Lv 40
 floe_wisp,Floe Wisp,เข็มขัดมิธริล (INT),6,0.002%,Lv 40,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/floe_wisp
 floe_wisp,Floe Wisp,เข็มขัดมิธริล (DEX),6,0.002%,Lv 40,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/floe_wisp
 floe_wisp,Floe Wisp,เข็มขัดมิธริล (LUK),6,0.002%,Lv 40,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/floe_wisp
+forge_hermit,Forge Hermit,เกราะผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ชุดหนังผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เสื้อคลุมผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สนับแข้งผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,รองเท้าผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,แหวนผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,จี้ผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เครื่องรางผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สร้อยคอผู้คุมหุบเขา,10,2.6%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เกราะผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,แหวนผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,จี้ผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ดาบสองมือผู้คุมหุบเขา,10,1.8%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ค้อนผู้คุมหุบเขา,10,1.8%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดสั้นผู้คุมหุบเขา,10,1.8%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธนูผู้คุมหุบเขา,10,1.8%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้าผู้คุมหุบเขา,10,1.8%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,คทาผู้คุมหุบเขา,10,1.8%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,คทาแสงผู้คุมหุบเขา,10,1.8%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตำราผู้คุมหุบเขา,10,1.8%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หอกผู้คุมหุบเขา,10,1.3%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวานผู้คุมหุบเขา,10,1.3%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กริชผู้คุมหุบเขา,10,1.3%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หน้าไม้ผู้คุมหุบเขา,10,1.3%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ลูกแก้วเวทผู้คุมหุบเขา,10,1.3%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ดาบผู้คุมหุบเขา,10,1.3%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ดาบผู้คุมหุบเขา (เวท),10,0.54%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ค้อนผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธนูผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,คทาผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตำราผู้คุมหุบเขา · Tidebound,10,0.094%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หอกผู้คุมหุบเขา · Tidebound,10,0.071%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวานผู้คุมหุบเขา · Tidebound,10,0.071%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กริชผู้คุมหุบเขา · Tidebound,10,0.071%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หน้าไม้ผู้คุมหุบเขา · Tidebound,10,0.071%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ลูกแก้วเวทผู้คุมหุบเขา · Tidebound,10,0.071%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ดาบผู้คุมหุบเขา · Tidebound,10,0.066%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0.028%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หน้าไม้มือผู้คุมหุบเขา,10,0.65%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หลาวผู้คุมหุบเขา,10,0.65%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สลิงผู้คุมหุบเขา,10,0.65%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ทวนผู้คุมหุบเขา,10,0.65%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หอกทหารม้าผู้คุมหุบเขา,10,0.65%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สนับมือผู้คุมหุบเขา,10,0.65%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.65%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เรเปียร์ผู้คุมหุบเขา,10,0.65%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดบินผู้คุมหุบเขา,10,0.65%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้ายาวผู้คุมหุบเขา,10,0.65%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้าศึกผู้คุมหุบเขา,10,0.65%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.65%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้าแสงผู้คุมหุบเขา,10,0.65%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เคียวใหญ่ผู้คุมหุบเขา,10,0.65%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เคียวโซ่ผู้คุมหุบเขา,10,0.65%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หลาวผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สลิงผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ทวนผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สนับมือผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดบินผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0.034%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ผู้คุมหุบเขา,10,2.6%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่เวทผู้คุมหุบเขา,10,2.6%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.13%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.11%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ถุงหินผู้คุมหุบเขา (Round),10,0.11%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.11%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.11%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.11%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธงศึกผู้คุมหุบเขา (Rally),10,0.11%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดปัดผู้คุมหุบเขา (Counter),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ปริซึมผู้คุมหุบเขา (Split),10,0.11%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.11%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.11%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ระฆังผู้คุมหุบเขา (Clear),10,0.11%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โซ่ผู้คุมหุบเขา (Bind),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กะโหลกผู้คุมหุบเขา (Grinning),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.11%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ซองธนูผู้คุมหุบเขา (Whistling),10,0.11%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ถุงหินผู้คุมหุบเขา (Gravel),10,0.11%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ถุงหินผู้คุมหุบเขา (Fire),10,0.11%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.11%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.11%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.11%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.11%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.11%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.11%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธงศึกผู้คุมหุบเขา (Taunt),10,0.11%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธงศึกผู้คุมหุบเขา (March),10,0.11%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดปัดผู้คุมหุบเขา (Slip),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดปัดผู้คุมหุบเขา (Flourish),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ปริซึมผู้คุมหุบเขา (Refract),10,0.11%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ปริซึมผู้คุมหุบเขา (Lens),10,0.11%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.11%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.11%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.11%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.11%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ระฆังผู้คุมหุบเขา (Warm),10,0.11%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.11%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โซ่ผู้คุมหุบเขา (Drag),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โซ่ผู้คุมหุบเขา (Link),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กะโหลกผู้คุมหุบเขา (Elder),10,0.11%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.11%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0.006%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0.006%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0.006%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0.006%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0.006%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0.006%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา,10,0.43%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (AGI),10,0.43%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (VIT),10,0.43%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (INT),10,0.43%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (DEX),10,0.43%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (LUK),10,0.43%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0.022%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0.022%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0.022%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0.022%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0.022%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
+forge_hermit,Forge Hermit,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0.022%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/forge_hermit
 frost_crab,Frost Crab,เกราะเหมันต์,7,0.057%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/frost_crab
 frost_crab,Frost Crab,ชุดหนังเหมันต์,7,0.057%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/frost_crab
 frost_crab,Frost Crab,เสื้อคลุมเหมันต์,7,0.057%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/frost_crab
@@ -6794,6 +7174,196 @@ frost_wisp,Frost Wisp,เข็มขัดมิธริล (VIT),6,0.002%,Lv 
 frost_wisp,Frost Wisp,เข็มขัดมิธริล (INT),6,0.002%,Lv 40,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/frost_wisp
 frost_wisp,Frost Wisp,เข็มขัดมิธริล (DEX),6,0.002%,Lv 40,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/frost_wisp
 frost_wisp,Frost Wisp,เข็มขัดมิธริล (LUK),6,0.002%,Lv 40,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/frost_wisp
+furnace_warden,Furnace Warden,เกราะผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ชุดหนังผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เสื้อคลุมผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สนับแข้งผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,รองเท้าผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,แหวนผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,จี้ผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เครื่องรางผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สร้อยคอผู้คุมหุบเขา,10,0.34%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เกราะผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,แหวนผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,จี้ผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ดาบสองมือผู้คุมหุบเขา,10,0.24%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ค้อนผู้คุมหุบเขา,10,0.24%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดสั้นผู้คุมหุบเขา,10,0.24%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธนูผู้คุมหุบเขา,10,0.24%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้าผู้คุมหุบเขา,10,0.24%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,คทาผู้คุมหุบเขา,10,0.24%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,คทาแสงผู้คุมหุบเขา,10,0.24%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตำราผู้คุมหุบเขา,10,0.24%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หอกผู้คุมหุบเขา,10,0.18%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวานผู้คุมหุบเขา,10,0.18%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กริชผู้คุมหุบเขา,10,0.18%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หน้าไม้ผู้คุมหุบเขา,10,0.18%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ลูกแก้วเวทผู้คุมหุบเขา,10,0.18%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ดาบผู้คุมหุบเขา,10,0.17%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ดาบผู้คุมหุบเขา (เวท),10,0.072%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ค้อนผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธนูผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,คทาผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตำราผู้คุมหุบเขา · Tidebound,10,0.013%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หอกผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวานผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กริชผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หน้าไม้ผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ลูกแก้วเวทผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ดาบผู้คุมหุบเขา · Tidebound,10,0.009%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0.004%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หน้าไม้มือผู้คุมหุบเขา,10,0.087%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หลาวผู้คุมหุบเขา,10,0.087%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สลิงผู้คุมหุบเขา,10,0.087%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ทวนผู้คุมหุบเขา,10,0.087%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หอกทหารม้าผู้คุมหุบเขา,10,0.087%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สนับมือผู้คุมหุบเขา,10,0.087%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.087%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เรเปียร์ผู้คุมหุบเขา,10,0.087%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดบินผู้คุมหุบเขา,10,0.087%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้ายาวผู้คุมหุบเขา,10,0.087%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้าศึกผู้คุมหุบเขา,10,0.087%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.087%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้าแสงผู้คุมหุบเขา,10,0.087%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เคียวใหญ่ผู้คุมหุบเขา,10,0.087%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เคียวโซ่ผู้คุมหุบเขา,10,0.087%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หลาวผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สลิงผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ทวนผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สนับมือผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดบินผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0.005%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ผู้คุมหุบเขา,10,0.34%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่เวทผู้คุมหุบเขา,10,0.34%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.018%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ถุงหินผู้คุมหุบเขา (Round),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.014%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธงศึกผู้คุมหุบเขา (Rally),10,0.014%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดปัดผู้คุมหุบเขา (Counter),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ปริซึมผู้คุมหุบเขา (Split),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ระฆังผู้คุมหุบเขา (Clear),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โซ่ผู้คุมหุบเขา (Bind),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กะโหลกผู้คุมหุบเขา (Grinning),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ซองธนูผู้คุมหุบเขา (Whistling),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ถุงหินผู้คุมหุบเขา (Gravel),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ถุงหินผู้คุมหุบเขา (Fire),10,0.014%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.014%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.014%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.014%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธงศึกผู้คุมหุบเขา (Taunt),10,0.014%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธงศึกผู้คุมหุบเขา (March),10,0.014%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดปัดผู้คุมหุบเขา (Slip),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดปัดผู้คุมหุบเขา (Flourish),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ปริซึมผู้คุมหุบเขา (Refract),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ปริซึมผู้คุมหุบเขา (Lens),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.014%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ระฆังผู้คุมหุบเขา (Warm),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.014%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โซ่ผู้คุมหุบเขา (Drag),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โซ่ผู้คุมหุบเขา (Link),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กะโหลกผู้คุมหุบเขา (Elder),10,0.014%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.014%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา,10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (AGI),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (VIT),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (INT),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (DEX),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (LUK),10,0.057%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
+furnace_warden,Furnace Warden,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0.003%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/furnace_warden
 gale_wisp,Gale Wisp,เกราะพายุ,8,0.031%,Lv 60,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/gale_wisp
 gale_wisp,Gale Wisp,ชุดหนังพายุ,8,0.031%,Lv 60,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/gale_wisp
 gale_wisp,Gale Wisp,เสื้อคลุมพายุ,8,0.031%,Lv 60,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/gale_wisp
@@ -8714,6 +9284,186 @@ hive_skitter,Hive Skitter,เข็มขัดฝึกหัด (VIT),1,0.006%
 hive_skitter,Hive Skitter,เข็มขัดฝึกหัด (INT),1,0.006%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hive_skitter
 hive_skitter,Hive Skitter,เข็มขัดฝึกหัด (DEX),1,0.006%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hive_skitter
 hive_skitter,Hive Skitter,เข็มขัดฝึกหัด (LUK),1,0.006%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hive_skitter
+hollow_caster,Hollow Caster,เกราะผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ชุดหนังผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เสื้อคลุมผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สนับแข้งผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,รองเท้าผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,แหวนผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,จี้ผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เครื่องรางผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สร้อยคอผู้คุมหุบเขา,10,0.04%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เกราะผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,แหวนผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,จี้ผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ดาบสองมือผู้คุมหุบเขา,10,0.028%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ค้อนผู้คุมหุบเขา,10,0.028%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดสั้นผู้คุมหุบเขา,10,0.028%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธนูผู้คุมหุบเขา,10,0.028%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้าผู้คุมหุบเขา,10,0.028%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,คทาผู้คุมหุบเขา,10,0.028%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,คทาแสงผู้คุมหุบเขา,10,0.028%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตำราผู้คุมหุบเขา,10,0.028%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ดาบผู้คุมหุบเขา,10,0.019%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ดาบผู้คุมหุบเขา (เวท),10,0.008%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ค้อนผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธนูผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,คทาผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตำราผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ดาบผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,หน้าไม้มือผู้คุมหุบเขา,10,0.007%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,หลาวผู้คุมหุบเขา,10,0.007%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สลิงผู้คุมหุบเขา,10,0.007%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ทวนผู้คุมหุบเขา,10,0.007%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,หอกทหารม้าผู้คุมหุบเขา,10,0.007%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สนับมือผู้คุมหุบเขา,10,0.007%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.007%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เรเปียร์ผู้คุมหุบเขา,10,0.007%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดบินผู้คุมหุบเขา,10,0.007%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้ายาวผู้คุมหุบเขา,10,0.007%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้าศึกผู้คุมหุบเขา,10,0.007%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.007%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้าแสงผู้คุมหุบเขา,10,0.007%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เคียวใหญ่ผู้คุมหุบเขา,10,0.007%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เคียวโซ่ผู้คุมหุบเขา,10,0.007%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,หลาวผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สลิงผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ทวนผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สนับมือผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดบินผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ผู้คุมหุบเขา,10,0.04%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่เวทผู้คุมหุบเขา,10,0.04%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.002%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ถุงหินผู้คุมหุบเขา (Round),10,0.002%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.002%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.002%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.002%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธงศึกผู้คุมหุบเขา (Rally),10,0.002%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดปัดผู้คุมหุบเขา (Counter),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ปริซึมผู้คุมหุบเขา (Split),10,0.002%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.002%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.002%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ระฆังผู้คุมหุบเขา (Clear),10,0.002%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โซ่ผู้คุมหุบเขา (Bind),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กะโหลกผู้คุมหุบเขา (Grinning),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.002%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ซองธนูผู้คุมหุบเขา (Whistling),10,0.002%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ถุงหินผู้คุมหุบเขา (Gravel),10,0.002%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ถุงหินผู้คุมหุบเขา (Fire),10,0.002%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.002%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.002%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.002%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.002%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.002%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.002%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธงศึกผู้คุมหุบเขา (Taunt),10,0.002%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธงศึกผู้คุมหุบเขา (March),10,0.002%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดปัดผู้คุมหุบเขา (Slip),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดปัดผู้คุมหุบเขา (Flourish),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ปริซึมผู้คุมหุบเขา (Refract),10,0.002%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ปริซึมผู้คุมหุบเขา (Lens),10,0.002%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.002%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.002%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.002%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.002%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ระฆังผู้คุมหุบเขา (Warm),10,0.002%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.002%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โซ่ผู้คุมหุบเขา (Drag),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โซ่ผู้คุมหุบเขา (Link),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กะโหลกผู้คุมหุบเขา (Elder),10,0.002%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.002%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา,10,0.007%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (AGI),10,0.007%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (VIT),10,0.007%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (INT),10,0.007%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (DEX),10,0.007%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (LUK),10,0.007%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
+hollow_caster,Hollow Caster,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/hollow_caster
 ice_otter,Ice Otter,เกราะเหมันต์,7,0.026%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/ice_otter
 ice_otter,Ice Otter,ชุดหนังเหมันต์,7,0.026%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/ice_otter
 ice_otter,Ice Otter,เสื้อคลุมเหมันต์,7,0.026%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/ice_otter
@@ -12934,6 +13684,186 @@ plains_skitter,Plains Skitter,เข็มขัดเหล็ก (VIT),3,0.002
 plains_skitter,Plains Skitter,เข็มขัดเหล็ก (INT),3,0.002%,Lv 15,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plains_skitter
 plains_skitter,Plains Skitter,เข็มขัดเหล็ก (DEX),3,0.002%,Lv 15,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plains_skitter
 plains_skitter,Plains Skitter,เข็มขัดเหล็ก (LUK),3,0.002%,Lv 15,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plains_skitter
+plate_turtle,Plate Turtle,เกราะผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ชุดหนังผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เสื้อคลุมผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สนับแข้งผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,รองเท้าผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,แหวนผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,จี้ผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เครื่องรางผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สร้อยคอผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เกราะผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,แหวนผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,จี้ผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ดาบสองมือผู้คุมหุบเขา,10,0.051%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ค้อนผู้คุมหุบเขา,10,0.051%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดสั้นผู้คุมหุบเขา,10,0.051%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธนูผู้คุมหุบเขา,10,0.051%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้าผู้คุมหุบเขา,10,0.051%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,คทาผู้คุมหุบเขา,10,0.051%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,คทาแสงผู้คุมหุบเขา,10,0.051%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตำราผู้คุมหุบเขา,10,0.051%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ดาบผู้คุมหุบเขา,10,0.036%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ดาบผู้คุมหุบเขา (เวท),10,0.015%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ค้อนผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธนูผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,คทาผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตำราผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ดาบผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0.001%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,หน้าไม้มือผู้คุมหุบเขา,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,หลาวผู้คุมหุบเขา,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สลิงผู้คุมหุบเขา,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ทวนผู้คุมหุบเขา,10,0.013%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,หอกทหารม้าผู้คุมหุบเขา,10,0.013%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สนับมือผู้คุมหุบเขา,10,0.013%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.013%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เรเปียร์ผู้คุมหุบเขา,10,0.013%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดบินผู้คุมหุบเขา,10,0.013%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้ายาวผู้คุมหุบเขา,10,0.013%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้าศึกผู้คุมหุบเขา,10,0.013%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.013%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้าแสงผู้คุมหุบเขา,10,0.013%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เคียวใหญ่ผู้คุมหุบเขา,10,0.013%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เคียวโซ่ผู้คุมหุบเขา,10,0.013%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,หลาวผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สลิงผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ทวนผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สนับมือผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดบินผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ผู้คุมหุบเขา,10,0.073%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่เวทผู้คุมหุบเขา,10,0.073%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ถุงหินผู้คุมหุบเขา (Round),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.003%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธงศึกผู้คุมหุบเขา (Rally),10,0.003%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดปัดผู้คุมหุบเขา (Counter),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ปริซึมผู้คุมหุบเขา (Split),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ระฆังผู้คุมหุบเขา (Clear),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โซ่ผู้คุมหุบเขา (Bind),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กะโหลกผู้คุมหุบเขา (Grinning),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ซองธนูผู้คุมหุบเขา (Whistling),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ถุงหินผู้คุมหุบเขา (Gravel),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ถุงหินผู้คุมหุบเขา (Fire),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.003%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.003%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธงศึกผู้คุมหุบเขา (Taunt),10,0.003%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธงศึกผู้คุมหุบเขา (March),10,0.003%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดปัดผู้คุมหุบเขา (Slip),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดปัดผู้คุมหุบเขา (Flourish),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ปริซึมผู้คุมหุบเขา (Refract),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ปริซึมผู้คุมหุบเขา (Lens),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ระฆังผู้คุมหุบเขา (Warm),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โซ่ผู้คุมหุบเขา (Drag),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โซ่ผู้คุมหุบเขา (Link),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กะโหลกผู้คุมหุบเขา (Elder),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา,10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (AGI),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (VIT),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (INT),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (DEX),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (LUK),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
+plate_turtle,Plate Turtle,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/plate_turtle
 pollen_wisp,Pollen Wisp,เสื้อหนัง,1,0.042%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/pollen_wisp
 pollen_wisp,Pollen Wisp,เสื้อหนังสัตว์,1,0.042%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/pollen_wisp
 pollen_wisp,Pollen Wisp,เสื้อคลุมแสวงบุญ,1,0.042%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/pollen_wisp
@@ -14504,6 +15434,186 @@ river_wisp,River Wisp,เข็มขัดฝึกหัด (VIT),1,0.002%,Lv 
 river_wisp,River Wisp,เข็มขัดฝึกหัด (INT),1,0.002%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/river_wisp
 river_wisp,River Wisp,เข็มขัดฝึกหัด (DEX),1,0.002%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/river_wisp
 river_wisp,River Wisp,เข็มขัดฝึกหัด (LUK),1,0.002%,Lv 1,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/river_wisp
+rivet_golem,Rivet Golem,เกราะผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ชุดหนังผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เสื้อคลุมผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สนับแข้งผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,รองเท้าผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,แหวนผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,จี้ผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เครื่องรางผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สร้อยคอผู้คุมหุบเขา,10,0.073%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เกราะผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,แหวนผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,จี้ผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ดาบสองมือผู้คุมหุบเขา,10,0.051%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ค้อนผู้คุมหุบเขา,10,0.051%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดสั้นผู้คุมหุบเขา,10,0.051%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธนูผู้คุมหุบเขา,10,0.051%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้าผู้คุมหุบเขา,10,0.051%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,คทาผู้คุมหุบเขา,10,0.051%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,คทาแสงผู้คุมหุบเขา,10,0.051%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตำราผู้คุมหุบเขา,10,0.051%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ดาบผู้คุมหุบเขา,10,0.036%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ดาบผู้คุมหุบเขา (เวท),10,0.015%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ค้อนผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธนูผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,คทาผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตำราผู้คุมหุบเขา · Tidebound,10,0.003%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ดาบผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0.001%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,หน้าไม้มือผู้คุมหุบเขา,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,หลาวผู้คุมหุบเขา,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สลิงผู้คุมหุบเขา,10,0.013%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ทวนผู้คุมหุบเขา,10,0.013%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,หอกทหารม้าผู้คุมหุบเขา,10,0.013%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สนับมือผู้คุมหุบเขา,10,0.013%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.013%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เรเปียร์ผู้คุมหุบเขา,10,0.013%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดบินผู้คุมหุบเขา,10,0.013%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้ายาวผู้คุมหุบเขา,10,0.013%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้าศึกผู้คุมหุบเขา,10,0.013%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.013%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้าแสงผู้คุมหุบเขา,10,0.013%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เคียวใหญ่ผู้คุมหุบเขา,10,0.013%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เคียวโซ่ผู้คุมหุบเขา,10,0.013%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,หลาวผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สลิงผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ทวนผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สนับมือผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดบินผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ผู้คุมหุบเขา,10,0.073%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่เวทผู้คุมหุบเขา,10,0.073%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.004%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ถุงหินผู้คุมหุบเขา (Round),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.003%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธงศึกผู้คุมหุบเขา (Rally),10,0.003%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดปัดผู้คุมหุบเขา (Counter),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ปริซึมผู้คุมหุบเขา (Split),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ระฆังผู้คุมหุบเขา (Clear),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โซ่ผู้คุมหุบเขา (Bind),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กะโหลกผู้คุมหุบเขา (Grinning),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ซองธนูผู้คุมหุบเขา (Whistling),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ถุงหินผู้คุมหุบเขา (Gravel),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ถุงหินผู้คุมหุบเขา (Fire),10,0.003%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.003%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.003%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.003%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธงศึกผู้คุมหุบเขา (Taunt),10,0.003%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธงศึกผู้คุมหุบเขา (March),10,0.003%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดปัดผู้คุมหุบเขา (Slip),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดปัดผู้คุมหุบเขา (Flourish),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ปริซึมผู้คุมหุบเขา (Refract),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ปริซึมผู้คุมหุบเขา (Lens),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.003%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ระฆังผู้คุมหุบเขา (Warm),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.003%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โซ่ผู้คุมหุบเขา (Drag),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โซ่ผู้คุมหุบเขา (Link),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กะโหลกผู้คุมหุบเขา (Elder),10,0.003%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.003%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา,10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (AGI),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (VIT),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (INT),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (DEX),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (LUK),10,0.012%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
+rivet_golem,Rivet Golem,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0.001%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rivet_golem
 rock_skitter,Rock Skitter,เกราะรูน,3,0.031%,Lv 15,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rock_skitter
 rock_skitter,Rock Skitter,ชุดหนังเหล็ก,3,0.031%,Lv 15,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rock_skitter
 rock_skitter,Rock Skitter,เสื้อคลุมเหล็ก,3,0.031%,Lv 15,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/rock_skitter
@@ -16794,6 +17904,186 @@ sky_wisp,Sky Wisp,เข็มขัดเหมันต์ (VIT),7,0.002%,Lv 5
 sky_wisp,Sky Wisp,เข็มขัดเหมันต์ (INT),7,0.002%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/sky_wisp
 sky_wisp,Sky Wisp,เข็มขัดเหมันต์ (DEX),7,0.002%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/sky_wisp
 sky_wisp,Sky Wisp,เข็มขัดเหมันต์ (LUK),7,0.002%,Lv 50,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/sky_wisp
+slag_skitter,Slag Skitter,เกราะผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ชุดหนังผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เสื้อคลุมผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สนับแข้งผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,รองเท้าผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,แหวนผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,จี้ผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เครื่องรางผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สร้อยคอผู้คุมหุบเขา,10,0.033%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เกราะผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ชุดหนังผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เสื้อคลุมผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สนับแข้งผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,รองเท้าผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,แหวนผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,จี้ผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เครื่องรางผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สร้อยคอผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ดาบสองมือผู้คุมหุบเขา,10,0.023%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ค้อนผู้คุมหุบเขา,10,0.023%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดสั้นผู้คุมหุบเขา,10,0.023%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธนูผู้คุมหุบเขา,10,0.023%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้าผู้คุมหุบเขา,10,0.023%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,คทาผู้คุมหุบเขา,10,0.023%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,คทาแสงผู้คุมหุบเขา,10,0.023%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตำราผู้คุมหุบเขา,10,0.023%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ดาบผู้คุมหุบเขา,10,0.016%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ดาบผู้คุมหุบเขา (เวท),10,0.007%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ดาบสองมือผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ค้อนผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดสั้นผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Binder, Rogue, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธนูผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้าผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Mage, Acolyte, Summoner",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,คทาผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Mage, Summoner, Knight, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,คทาแสงผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Acolyte, Knight",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตำราผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Summoner, Mage, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ดาบผู้คุมหุบเขา · Tidebound,10,0.001%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ดาบผู้คุมหุบเขา (เวท) · Tidebound,10,0%,Lv 85,"Binder, Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,หน้าไม้มือผู้คุมหุบเขา,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,หลาวผู้คุมหุบเขา,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สลิงผู้คุมหุบเขา,10,0.006%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ทวนผู้คุมหุบเขา,10,0.006%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,หอกทหารม้าผู้คุมหุบเขา,10,0.006%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สนับมือผู้คุมหุบเขา,10,0.006%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ลูกตุ้มโซ่ผู้คุมหุบเขา,10,0.006%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เรเปียร์ผู้คุมหุบเขา,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดบินผู้คุมหุบเขา,10,0.006%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้ายาวผู้คุมหุบเขา,10,0.006%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้าศึกผู้คุมหุบเขา,10,0.006%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้าแสงผู้คุมหุบเขา,10,0.006%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เคียวใหญ่ผู้คุมหุบเขา,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เคียวโซ่ผู้คุมหุบเขา,10,0.006%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,หน้าไม้มือผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,หลาวผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สลิงผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ทวนผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,"Knight, Warrior",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,หอกทหารม้าผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สนับมือผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ลูกตุ้มโซ่ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,"Warrior, Knight",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เรเปียร์ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดบินผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้ายาวผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,"Mage, Summoner",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้าศึกผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ค้อนศักดิ์สิทธิ์ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ไม้เท้าแสงผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เคียวใหญ่ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เคียวโซ่ผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ผู้คุมหุบเขา,10,0.033%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่เวทผู้คุมหุบเขา,10,0.033%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,"Binder, Knight, Warrior, Acolyte",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่เวทผู้คุมหุบเขา · Tidebound,10,0.002%,Lv 85,"Mage, Acolyte, Summoner, Knight",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ซองธนูผู้คุมหุบเขา (Bodkin),10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ถุงหินผู้คุมหุบเขา (Round),10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่หอคอยผู้คุมหุบเขา (Bastion),10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่กลมเล็กผู้คุมหุบเขา (Parry),10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ว่าวผู้คุมหุบเขา (Charge),10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธงศึกผู้คุมหุบเขา (Rally),10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ขวดพิษผู้คุมหุบเขา (Toxin),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดปัดผู้คุมหุบเขา (Counter),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ปริซึมผู้คุมหุบเขา (Split),10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ภูตรับใช้ผู้คุมหุบเขา (Ember),10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กระถางกำยานผู้คุมหุบเขา (Mending),10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ระฆังผู้คุมหุบเขา (Clear),10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โซ่ผู้คุมหุบเขา (Bind),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กะโหลกผู้คุมหุบเขา (Grinning),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สายคาดมีดผู้คุมหุบเขา (Barbed),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ซองธนูผู้คุมหุบเขา (Broadhead),10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ซองธนูผู้คุมหุบเขา (Whistling),10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ถุงหินผู้คุมหุบเขา (Gravel),10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ถุงหินผู้คุมหุบเขา (Fire),10,0.001%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่หอคอยผู้คุมหุบเขา (Rampart),10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่หอคอยผู้คุมหุบเขา (Aegis),10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่กลมเล็กผู้คุมหุบเขา (Deflect),10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่กลมเล็กผู้คุมหุบเขา (Bash),10,0.001%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ว่าวผู้คุมหุบเขา (Pennant),10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ว่าวผู้คุมหุบเขา (Oath),10,0.001%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธงศึกผู้คุมหุบเขา (Taunt),10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธงศึกผู้คุมหุบเขา (March),10,0.001%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ขวดพิษผู้คุมหุบเขา (Numbing),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ขวดพิษผู้คุมหุบเขา (Confusion),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดปัดผู้คุมหุบเขา (Slip),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดปัดผู้คุมหุบเขา (Flourish),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ปริซึมผู้คุมหุบเขา (Refract),10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ปริซึมผู้คุมหุบเขา (Lens),10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ภูตรับใช้ผู้คุมหุบเขา (Frostling),10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ภูตรับใช้ผู้คุมหุบเขา (Storm),10,0.001%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กระถางกำยานผู้คุมหุบเขา (Purifying),10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กระถางกำยานผู้คุมหุบเขา (Burning),10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ระฆังผู้คุมหุบเขา (Warm),10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ระฆังผู้คุมหุบเขา (Swiftbell),10,0.001%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โซ่ผู้คุมหุบเขา (Drag),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โซ่ผู้คุมหุบเขา (Link),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กะโหลกผู้คุมหุบเขา (Smoldering),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กะโหลกผู้คุมหุบเขา (Elder),10,0.001%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สายคาดมีดผู้คุมหุบเขา (Quickdraw),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สายคาดมีดผู้คุมหุบเขา (Weighted),10,0.001%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ซองธนูผู้คุมหุบเขา (Bodkin) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ถุงหินผู้คุมหุบเขา (Round) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่หอคอยผู้คุมหุบเขา (Bastion) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่กลมเล็กผู้คุมหุบเขา (Parry) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ว่าวผู้คุมหุบเขา (Charge) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธงศึกผู้คุมหุบเขา (Rally) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ขวดพิษผู้คุมหุบเขา (Toxin) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดปัดผู้คุมหุบเขา (Counter) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ปริซึมผู้คุมหุบเขา (Split) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ภูตรับใช้ผู้คุมหุบเขา (Ember) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กระถางกำยานผู้คุมหุบเขา (Mending) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ระฆังผู้คุมหุบเขา (Clear) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตะเกียงวิญญาณผู้คุมหุบเขา (Vessel) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โซ่ผู้คุมหุบเขา (Bind) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กะโหลกผู้คุมหุบเขา (Grinning) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สายคาดมีดผู้คุมหุบเขา (Barbed) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ซองธนูผู้คุมหุบเขา (Broadhead) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ซองธนูผู้คุมหุบเขา (Whistling) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ถุงหินผู้คุมหุบเขา (Fire) · Tidebound,10,0%,Lv 85,Scout,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่หอคอยผู้คุมหุบเขา (Aegis) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่กลมเล็กผู้คุมหุบเขา (Deflect) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่กลมเล็กผู้คุมหุบเขา (Bash) · Tidebound,10,0%,Lv 85,"Knight, Scout",https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ว่าวผู้คุมหุบเขา (Pennant) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โล่ว่าวผู้คุมหุบเขา (Oath) · Tidebound,10,0%,Lv 85,Knight,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธงศึกผู้คุมหุบเขา (Taunt) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ธงศึกผู้คุมหุบเขา (March) · Tidebound,10,0%,Lv 85,Warrior,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ขวดพิษผู้คุมหุบเขา (Numbing) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดปัดผู้คุมหุบเขา (Slip) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ปริซึมผู้คุมหุบเขา (Refract) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ปริซึมผู้คุมหุบเขา (Lens) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ภูตรับใช้ผู้คุมหุบเขา (Frostling) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound,10,0%,Lv 85,Mage,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กระถางกำยานผู้คุมหุบเขา (Burning) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ระฆังผู้คุมหุบเขา (Warm) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ระฆังผู้คุมหุบเขา (Swiftbell) · Tidebound,10,0%,Lv 85,Acolyte,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตะเกียงวิญญาณผู้คุมหุบเขา (Binding) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,ตะเกียงวิญญาณผู้คุมหุบเขา (Champion) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โซ่ผู้คุมหุบเขา (Drag) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,โซ่ผู้คุมหุบเขา (Link) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กะโหลกผู้คุมหุบเขา (Smoldering) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,กะโหลกผู้คุมหุบเขา (Elder) · Tidebound,10,0%,Lv 85,Summoner,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สายคาดมีดผู้คุมหุบเขา (Quickdraw) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,สายคาดมีดผู้คุมหุบเขา (Weighted) · Tidebound,10,0%,Lv 85,Rogue,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา,10,0.006%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (AGI),10,0.006%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (VIT),10,0.006%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (INT),10,0.006%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (DEX),10,0.006%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (LUK),10,0.006%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (AGI) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (VIT) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (INT) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (DEX) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
+slag_skitter,Slag Skitter,เข็มขัดผู้คุมหุบเขา (LUK) · Tidebound,10,0%,Lv 85,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/slag_skitter
 snipcrab,Snipcrab,เกราะโซ่,2,0.057%,Lv 8,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/snipcrab
 snipcrab,Snipcrab,ผ้าหนามทอ,2,0.057%,Lv 8,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/snipcrab
 snipcrab,Snipcrab,เสื้อคลุมทองแดง,2,0.057%,Lv 8,ทุกอาชีพ,https://wiki.bindertowngame.com/mob/snipcrab

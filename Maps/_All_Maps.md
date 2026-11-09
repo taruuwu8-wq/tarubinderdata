@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/maps  
 > **Source title:** แมพ · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [maps.md](../Raw/Original_Wiki_Pages/_hub/maps.md)
 
 <!-- PATCH-NOTICES:START -->
-> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-10. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — 8 Nov 2026 (build 20261108-135133)](../Patch_Notes/patch_2026-11-08_build-20261108-135133.md)**
 > - #4: Mini-boss ใช้ HP ร่วมกันทุก Channel
@@ -26,7 +26,7 @@
 
 ## Region A · Valebrook Lv 1–115
 
-[**Valebrook** เมือง](valebrook.md) [**Southvale Field** Lv 1–4](southvale_field.md) [⛰**Copperbell Arena** Lv 1–115](https://wiki.bindertowngame.com/map/copperbell_arena) [**Honeyrill** Lv 3–8](honeyrill.md) [**Whispering Woods** Lv 4–9](whispering_woods.md) [**Bloomcrown Glade** ถ้ำ Field Boss](bloomcrown_glade.md) [**Riverside** Lv 6–12](riverside.md) [**Bracken Sink** Lv 9–15](bracken_sink.md) [**Old Quarry** Lv 10–16](old_quarry.md) [**Ancient Ruins** Lv 14–20](ancient_ruins.md) [**Verdigris Rise** Lv 14–20](verdigris_rise.md)
+[**Valebrook** เมือง](valebrook.md) [**Southvale Field** Lv 1–4](southvale_field.md) [⛰**Copperbell Arena** Lv 1–115](copperbell_arena.md) [**Honeyrill** Lv 3–8](honeyrill.md) [**Whispering Woods** Lv 4–9](whispering_woods.md) [**Bloomcrown Glade** ถ้ำ Field Boss](bloomcrown_glade.md) [**Riverside** Lv 6–12](riverside.md) [**Bracken Sink** Lv 9–15](bracken_sink.md) [**Old Quarry** Lv 10–16](old_quarry.md) [**Ancient Ruins** Lv 14–20](ancient_ruins.md) [**Verdigris Rise** Lv 14–20](verdigris_rise.md)
 
 ## Region B · Ashford Lv 18–45
 

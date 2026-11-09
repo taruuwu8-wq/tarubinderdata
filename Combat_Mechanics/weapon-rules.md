@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/weapon-rules  
 > **Source title:** Property · Focused · Grip · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__weapon-rules.md](../Raw/Original_Wiki_Pages/systems/systems__weapon-rules.md)
 
 ---

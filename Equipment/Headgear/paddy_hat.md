@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/paddy_hat  
 > **Source title:** Tidewater Straw Hat · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__paddy_hat.md](../../Raw/Original_Wiki_Pages/item/item__paddy_hat.md)
 
 ---

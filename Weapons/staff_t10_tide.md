@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/staff_t10_tide  
 > **Source title:** ไม้เท้าผู้คุมหุบเขา · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__staff_t10_tide.md](../Raw/Original_Wiki_Pages/item/item__staff_t10_tide.md)
 
 ---

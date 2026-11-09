@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/barnacle_cap  
 > **Source title:** Barnacle Cap · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__barnacle_cap.md](../../Raw/Original_Wiki_Pages/item/item__barnacle_cap.md)
 
 ---

@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/familiar_t10_storm_tide  
 > **Source title:** ภูตรับใช้ผู้คุมหุบเขา (Storm) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__familiar_t10_storm_tide.md](../Raw/Original_Wiki_Pages/item/item__familiar_t10_storm_tide.md)
 
 ---

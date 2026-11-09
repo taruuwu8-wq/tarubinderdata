@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/tower_shield_t10_rampart_tide  
 > **Source title:** โล่หอคอยผู้คุมหุบเขา (Rampart) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__tower_shield_t10_rampart_tide.md](../Raw/Original_Wiki_Pages/item/item__tower_shield_t10_rampart_tide.md)
 
 ---

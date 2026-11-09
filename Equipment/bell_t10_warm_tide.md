@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/bell_t10_warm_tide  
 > **Source title:** ระฆังผู้คุมหุบเขา (Warm) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__bell_t10_warm_tide.md](../Raw/Original_Wiki_Pages/item/item__bell_t10_warm_tide.md)
 
 ---

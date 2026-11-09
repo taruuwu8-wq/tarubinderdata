@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/reed_whistle  
 > **Source title:** Reed Whistle · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__reed_whistle.md](../../Raw/Original_Wiki_Pages/item/item__reed_whistle.md)
 
 ---

@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/map/lanternrice_delta  
 > **Source title:** Lanternrice Delta · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [map__lanternrice_delta.md](../Raw/Original_Wiki_Pages/map/map__lanternrice_delta.md)
 
 ---

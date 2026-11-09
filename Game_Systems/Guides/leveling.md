@@ -15,7 +15,7 @@
 
 เลเวลของคุณ
 
-[**Copperbell Arena** Lv 1–115 · Region A · Valebrook · EXP เต็มถึง Lv 118](https://wiki.bindertowngame.com/map/copperbell_arena) [**Old Quarry** Lv 10–16 · Region A · Valebrook · EXP เต็มถึง Lv 19](../../Maps/old_quarry.md) [**Bracken Sink** Lv 9–15 · Region A · Valebrook · EXP เต็มถึง Lv 18](../../Maps/bracken_sink.md) [**Riverside** Lv 6–12 · Region A · Valebrook · EXP เต็มถึง Lv 15](../../Maps/riverside.md)
+[**Copperbell Arena** Lv 1–115 · Region A · Valebrook · EXP เต็มถึง Lv 118](../../Maps/copperbell_arena.md) [**Old Quarry** Lv 10–16 · Region A · Valebrook · EXP เต็มถึง Lv 19](../../Maps/old_quarry.md) [**Bracken Sink** Lv 9–15 · Region A · Valebrook · EXP เต็มถึง Lv 18](../../Maps/bracken_sink.md) [**Riverside** Lv 6–12 · Region A · Valebrook · EXP เต็มถึง Lv 15](../../Maps/riverside.md)
 
 ได้ EXP เต็มเมื่อเลเวลไม่เกินเลเวลสูงสุดของแมพ +3 · เลเวลสูงสุดของเกม Lv 115
 
@@ -24,7 +24,7 @@
 | แมพ | Lv | EXP เต็มถึง | มอนเด่น |
 | --- | --- | --- | --- |
 | [Southvale Field](../../Maps/southvale_field.md) | 1–4 | Lv 7 | [Wisp](../../Monsters/wisp.md) [Sprout](../../Monsters/sprout.md) [Skitter](../../Monsters/skitter.md) |
-| [⛰Copperbell Arena](https://wiki.bindertowngame.com/map/copperbell_arena) | 1–115 | Lv 118 |  |
+| [⛰Copperbell Arena](../../Maps/copperbell_arena.md) | 1–115 | Lv 118 |  |
 | [Honeyrill](../../Maps/honeyrill.md) | 3–8 | Lv 11 | [Hive Skitter](../../Monsters/hive_skitter.md) [Clover Sprout](../../Monsters/clover_sprout.md) [Pollen Wisp](../../Monsters/pollen_wisp.md) |
 | [Whispering Woods](../../Maps/whispering_woods.md) | 4–9 | Lv 12 | [Acorn Skitter](../../Monsters/acorn_skitter.md) [Gloom Wisp](../../Monsters/gloom_wisp.md) [Thornling](../../Monsters/thornling.md) |
 | [Riverside](../../Maps/riverside.md) | 6–12 | Lv 15 | [Snipcrab](../../Monsters/snipcrab.md) [River Wisp](../../Monsters/river_wisp.md) [Reed Skipper](../../Monsters/reed_skipper.md) |

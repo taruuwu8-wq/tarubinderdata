@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/poison_vial_t10_confusion_tide  
 > **Source title:** ขวดพิษผู้คุมหุบเขา (Confusion) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__poison_vial_t10_confusion_tide.md](../Raw/Original_Wiki_Pages/item/item__poison_vial_t10_confusion_tide.md)
 
 ---

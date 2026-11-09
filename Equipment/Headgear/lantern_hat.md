@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/lantern_hat  
 > **Source title:** Anglerlight Hat · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__lantern_hat.md](../../Raw/Original_Wiki_Pages/item/item__lantern_hat.md)
 
 ---

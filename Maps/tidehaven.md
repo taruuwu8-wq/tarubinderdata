@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/map/tidehaven  
 > **Source title:** Tidehaven · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [map__tidehaven.md](../Raw/Original_Wiki_Pages/map/map__tidehaven.md)
 
 ---
@@ -35,7 +35,7 @@
 
 ## NPC
 
-[**เปลี่ยนอาชีพ** ครูฝึกอาชีพ](../Game_Systems/NPCs/tide_master.md) [**Tidehaven Warp Statue** วาร์ป](../Game_Systems/NPCs/warp_statue_t.md) [**Bank · ฝากของ** Bank](../Game_Systems/NPCs/tide_bank.md) [**สมุดการ์ด · การ์ด** การ์ด](../Game_Systems/NPCs/tide_cards.md) [**ร้านค้า · ซื้อ/ขาย** ร้านค้า](../Game_Systems/NPCs/tide_merchant.md) [**ตลาดโลก** ตลาดโลก](../Game_Systems/NPCs/tide_market.md) [**ตีบวก / ซ่อม / Reroll** ช่างตีเหล็ก](../Game_Systems/NPCs/tide_smith.md) [**ทำอาหาร** ทำอาหาร](../Game_Systems/NPCs/tide_cook.md) [**ปรุงยา** ปรุงยา](../Game_Systems/NPCs/tide_brewer.md) [**คนแจวเรือแอนเซล์ม** ชาวบ้าน](../Game_Systems/NPCs/ferryman.md) [**ผู้เฝ้าประภาคารอิโซลเด** ชาวเมือง](../Game_Systems/NPCs/lighthouse_keeper.md) [**ชาวประมงเกาะคอร์มอรันต์** ชาวบ้าน](../Game_Systems/NPCs/tide_fisher.md) [**Portal ห้องฝึก** Portal ห้องฝึก](../Game_Systems/NPCs/training_portal_tidehaven.md)
+[**เปลี่ยนอาชีพ** ครูฝึกอาชีพ](../Game_Systems/NPCs/tide_master.md) [**Tidehaven Warp Statue** วาร์ป](../Game_Systems/NPCs/warp_statue_t.md) [**Bank · ฝากของ** Bank](../Game_Systems/NPCs/tide_bank.md) [**สมุดการ์ด · การ์ด** การ์ด](../Game_Systems/NPCs/tide_cards.md) [**ร้านค้า · ซื้อ/ขาย** ร้านค้า](../Game_Systems/NPCs/tide_merchant.md) [**ตลาดโลก** ตลาดโลก](../Game_Systems/NPCs/tide_market.md) [**ตีบวก / ซ่อม / Reroll** ช่างตีเหล็ก](../Game_Systems/NPCs/tide_smith.md) [**ทำอาหาร** ทำอาหาร](../Game_Systems/NPCs/tide_cook.md) [**ปรุงยา** ปรุงยา](../Game_Systems/NPCs/tide_brewer.md) [**คนแจวเรือแอนเซล์ม** ชาวบ้าน](../Game_Systems/NPCs/ferryman.md) [**ผู้เฝ้าประภาคารอิโซลเด** ชาวเมือง](../Game_Systems/NPCs/lighthouse_keeper.md) [**ชาวประมงเกาะคอร์มอรันต์** ชาวบ้าน](../Game_Systems/NPCs/tide_fisher.md) [**Portal ห้องฝึก** Portal ห้องฝึก](../Game_Systems/NPCs/training_portal_tidehaven.md) [**Portal ลานประลอง PvP** Portal](https://wiki.bindertowngame.com/npc/arena_portal_tidehaven)
 
 ## ไปต่อ
 

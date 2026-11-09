@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/dagger_t10  
 > **Source title:** มีดสั้นผู้คุมหุบเขา · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__dagger_t10.md](../Raw/Original_Wiki_Pages/item/item__dagger_t10.md)
 
 ---
@@ -11,9 +11,9 @@
 
 หาที่ไหน[Vale Warden](../Monsters/vale_warden.md) · [Warden's Seat](../Maps/wardens_seat.md) 3.1%(ตีราว 32 ตัว)
 
-[Throne Guard](../Monsters/throne_guard.md) · [Throne of the Warden](../Maps/throne_of_warden.md) 0.19%(ตีราว 531 ตัว)
+[Hullbreaker Kraken](../Monsters/hullbreaker_kraken.md) · [Wreckwake Coast](../Maps/wreckwake_coast.md) 1.8%(ตีราว 56 ตัว)
 
-[Umbral Horror](../Monsters/umbral_horror.md) · [Umbral Depths](../Maps/umbral_depths.md) 0.19%(ตีราว 531 ตัว)ขาย NPC ได้เท่าไรNormal395 G · Magic 988 G · Rare2,370 G · Epic6,320 G(ดัชนีเศรษฐกิจ ×1)ตีบวกถึง +5 ใช้เท่าไรเฉลี่ยราว 63,711 G \+ [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×6 \+ [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×6(รวมครั้งที่พลาด · ถึง +5 พลาดไม่ลดขั้น)ใครใส่ได้Lv 85\+ · [Binder](../Classes/Binder.md), [Rogue](../Classes/Rogue.md), [Scout](../Classes/Scout.md) (มือรอง)
+[Kite Drake](../Monsters/kite_drake.md) · [Lanternrice Delta](../Maps/lanternrice_delta.md) 1.8%(ตีราว 56 ตัว)ขาย NPC ได้เท่าไรNormal395 G · Magic 988 G · Rare2,370 G · Epic6,320 G(ดัชนีเศรษฐกิจ ×1)ตีบวกถึง +5 ใช้เท่าไรเฉลี่ยราว 21,237 G \+ [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×6 \+ [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×6(รวมครั้งที่พลาด · ถึง +5 พลาดไม่ลดขั้น)ใครใส่ได้Lv 85\+ · [Binder](../Classes/Binder.md), [Rogue](../Classes/Rogue.md), [Scout](../Classes/Scout.md) (มือรอง)
 
 ## ค่าพลังของชิ้นนี้
 
@@ -31,17 +31,55 @@ Rogue, Scout ใส่มือรองได้ (ATK/MATK พื้นฐา�
 
 ## มอนที่ดรอปชิ้นนี้
 
-16 ชนิด เรียงจากโอกาสสูงสุด (กดดู)
+54 ชนิด เรียงจากโอกาสสูงสุด (กดดู)
 
 | มอน |  | อยู่ที่ | โอกาสต่อตัว | ตีกี่ตัวถึงได้ (ราว) |
 | --- | --- | --- | --- | --- |
 | [Vale Warden](../Monsters/vale_warden.md) | Field Boss | [Warden's Seat](../Maps/wardens_seat.md) | 3.1% | 32 ตัว |
+| [Hullbreaker Kraken](../Monsters/hullbreaker_kraken.md) | Mini-boss | [Wreckwake Coast](../Maps/wreckwake_coast.md) | 1.8% | 56 ตัว |
+| [Kite Drake](../Monsters/kite_drake.md) | Mini-boss | [Lanternrice Delta](../Maps/lanternrice_delta.md) | 1.8% | 56 ตัว |
+| [Coralback Tortoise](../Monsters/coralback_tortoise.md) | Mini-boss | [Coralstep Plateau](../Maps/coralstep_plateau.md) | 1.8% | 56 ตัว |
+| [Fountain Serpent](../Monsters/fountain_serpent.md) | Mini-boss | [Drowned Forum](../Maps/drowned_forum.md) | 1.8% | 56 ตัว |
+| [Stationmaster Automaton](../Monsters/stationmaster_automaton.md) | Mini-boss | [Stormrail Causeway](../Maps/stormrail_causeway.md) | 1.8% | 56 ตัว |
+| [Forge Hermit](../Monsters/forge_hermit.md) | Mini-boss | [Shellforge Basin](../Maps/shellforge_basin.md) | 1.8% | 56 ตัว |
+| [Drowned Bosun](../Monsters/drowned_bosun.md) | Elite | [Wreckwake Coast](../Maps/wreckwake_coast.md) | 0.24% | 419 ตัว |
+| [Brass Mimic](../Monsters/brass_mimic.md) | Elite | [Wreckwake Coast](../Maps/wreckwake_coast.md) | 0.24% | 419 ตัว |
+| [Paddy Brute](../Monsters/paddy_brute.md) | Elite | [Lanternrice Delta](../Maps/lanternrice_delta.md) | 0.24% | 419 ตัว |
+| [Paddy Ox](../Monsters/paddy_ox.md) | Elite | [Lanternrice Delta](../Maps/lanternrice_delta.md) | 0.24% | 419 ตัว |
+| [Coral Brute](../Monsters/coral_brute.md) | Elite | [Coralstep Plateau](../Maps/coralstep_plateau.md) | 0.24% | 419 ตัว |
+| [Ammonite Crawler](../Monsters/ammonite_crawler.md) | Elite | [Coralstep Plateau](../Maps/coralstep_plateau.md) | 0.24% | 419 ตัว |
+| [Forum Sentinel](../Monsters/forum_sentinel.md) | Elite | [Drowned Forum](../Maps/drowned_forum.md) | 0.24% | 419 ตัว |
+| [Drowned Senator](../Monsters/drowned_senator.md) | Elite | [Drowned Forum](../Maps/drowned_forum.md) | 0.24% | 419 ตัว |
+| [Rail Brute](../Monsters/rail_brute.md) | Elite | [Stormrail Causeway](../Maps/stormrail_causeway.md) | 0.24% | 419 ตัว |
+| [Spark Eel](../Monsters/spark_eel.md) | Elite | [Stormrail Causeway](../Maps/stormrail_causeway.md) | 0.24% | 419 ตัว |
+| [Furnace Warden](../Monsters/furnace_warden.md) | Elite | [Shellforge Basin](../Maps/shellforge_basin.md) | 0.24% | 419 ตัว |
+| [Crucible Hound](../Monsters/crucible_hound.md) | Elite | [Shellforge Basin](../Maps/shellforge_basin.md) | 0.24% | 419 ตัว |
+| [Golden Sentinel](../Monsters/golden_sentinel.md) | Elite | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.19% | 531 ตัว |
 | [Throne Guard](../Monsters/throne_guard.md) | Elite | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.19% | 531 ตัว |
 | [Umbral Horror](../Monsters/umbral_horror.md) | Elite | [Umbral Depths](../Maps/umbral_depths.md) | 0.19% | 531 ตัว |
 | [Depth Brute](../Monsters/depth_brute.md) | Elite | [Umbral Depths](../Maps/umbral_depths.md) | 0.19% | 531 ตัว |
 | [Marrow Horror](../Monsters/marrow_horror.md) | Elite | [Marrowdeep](../Maps/marrowdeep.md) | 0.19% | 531 ตัว |
 | [Rust Captain](../Monsters/rust_captain.md) | Elite | [Rustbell Barracks](../Maps/rustbell_barracks.md) | 0.19% | 531 ตัว |
+| [Anchor Crab](../Monsters/anchor_crab.md) | ถึก | [Wreckwake Coast](../Maps/wreckwake_coast.md) | 0.051% | 1,965 ตัว |
+| [Coral Pebblit](../Monsters/coral_pebblit.md) | ถึก | [Coralstep Plateau](../Maps/coralstep_plateau.md) | 0.051% | 1,965 ตัว |
+| [Tram Remnant](../Monsters/tram_remnant.md) | ถึก | [Stormrail Causeway](../Maps/stormrail_causeway.md) | 0.051% | 1,965 ตัว |
+| [Rivet Golem](../Monsters/rivet_golem.md) | ถึก | [Shellforge Basin](../Maps/shellforge_basin.md) | 0.051% | 1,965 ตัว |
+| [Plate Turtle](../Monsters/plate_turtle.md) | ถึก | [Shellforge Basin](../Maps/shellforge_basin.md) | 0.051% | 1,965 ตัว |
+| [Straw Thornling](../Monsters/straw_thornling.md) | ซุ่มโจมตี | [Lanternrice Delta](../Maps/lanternrice_delta.md) | 0.046% | 2,162 ตัว |
+| [Vase Lurker](../Monsters/vase_lurker.md) | ซุ่มโจมตี | [Drowned Forum](../Maps/drowned_forum.md) | 0.046% | 2,162 ตัว |
 | [Pit Lurker](../Monsters/pit_lurker.md) | ซุ่มโจมตี | [Marrowdeep](../Maps/marrowdeep.md) | 0.037% | 2,738 ตัว |
+| [Barnacle Remnant](../Monsters/barnacle_remnant.md) | ทั่วไป | [Wreckwake Coast](../Maps/wreckwake_coast.md) | 0.028% | 3,603 ตัว |
+| [Reed Crane](../Monsters/reed_crane.md) | ทั่วไป | [Lanternrice Delta](../Maps/lanternrice_delta.md) | 0.028% | 3,603 ตัว |
+| [Shell Remnant](../Monsters/shell_remnant.md) | ทั่วไป | [Coralstep Plateau](../Maps/coralstep_plateau.md) | 0.028% | 3,603 ตัว |
+| [Pearl Wisp](../Monsters/pearl_wisp.md) | ทั่วไป | [Coralstep Plateau](../Maps/coralstep_plateau.md) | 0.028% | 3,603 ตัว |
+| [Bronze Remnant](../Monsters/bronze_remnant.md) | ทั่วไป | [Drowned Forum](../Maps/drowned_forum.md) | 0.028% | 3,603 ตัว |
+| [Mirror Merchant](../Monsters/mirror_merchant.md) | ทั่วไป | [Drowned Forum](../Maps/drowned_forum.md) | 0.028% | 3,603 ตัว |
+| [Compass Wisp](../Monsters/compass_wisp.md) | ทั่วไป | [Stormrail Causeway](../Maps/stormrail_causeway.md) | 0.028% | 3,603 ตัว |
+| [Hollow Caster](../Monsters/hollow_caster.md) | ทั่วไป | [Shellforge Basin](../Maps/shellforge_basin.md) | 0.028% | 3,603 ตัว |
+| [Gull Harpy](../Monsters/gull_harpy.md) | ฝูง | [Wreckwake Coast](../Maps/wreckwake_coast.md) | 0.023% | 4,323 ตัว |
+| [Lantern Skitter](../Monsters/lantern_skitter.md) | ฝูง | [Lanternrice Delta](../Maps/lanternrice_delta.md) | 0.023% | 4,323 ตัว |
+| [Thunder Harpy](../Monsters/thunder_harpy.md) | ฝูง | [Stormrail Causeway](../Maps/stormrail_causeway.md) | 0.023% | 4,323 ตัว |
+| [Slag Skitter](../Monsters/slag_skitter.md) | ฝูง | [Shellforge Basin](../Maps/shellforge_basin.md) | 0.023% | 4,323 ตัว |
 | [Lantern Moth](../Monsters/lantern_moth.md) | ทั่วไป | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.022% | 4,563 ตัว |
 | [Gloom Skitter](../Monsters/gloom_skitter.md) | ทั่วไป | [Throne of the Warden](../Maps/throne_of_warden.md) | 0.022% | 4,563 ตัว |
 | [Abyss Jelly](../Monsters/abyss_jelly.md) | ทั่วไป | [Umbral Depths](../Maps/umbral_depths.md) | 0.022% | 4,563 ตัว |
@@ -80,7 +118,7 @@ Rogue, Scout ใส่มือรองได้ (ATK/MATK พื้นฐา�
 | [of Mythic Undying](../Affixes/affix.md#desperate) | T7 | **+43%–+55%** ดาเมจตอนเลือดคุณต่ำกว่า 35% (รวมทุกชิ้นสูงสุด 75%) | T8 สูงสุด +60% |
 | [of Mythic Jackpot](../Affixes/affix.md#luk) | T7 | **+10–+14** LUK | T8 สูงสุด +17 |
 | Trigger [of Mythic Tempest](../Affixes/affix.md#p_chain) | T7 | โอกาส 10% เมื่อโจมตีโดน → ติด Chain Spark: ประกายไฟเชนใส่มอนข้างๆ สูงสุด 3 เด้ง (รัศมี 4 ช่อง) ดาเมจเวท **94%–112%** ของดาเมจฮิตนั้น แล้วลดลงทุกเด้ง (×0.6 ต่อเด้ง) · ติดซ้ำได้ทุก 0.6 วิ | T8 สูงสุด 123% |
-| Trigger [of Mythic Slaughter](../Affixes/affix.md#p_bleed) | T7 | โอกาส 35% เมื่อคริ → ติด Rend: เลือดไหลรวม ดาเมจกายภาพ **89%–112%** ของดาเมจคริฮิตนั้น ภายใน 3 วิ (6 จังหวะ จังหวะละ **14.8%–18.7%**) · ติดซ้ำได้ทุก 0.3 วิ | T8 สูงสุด 123% · 20.5% |
+| Trigger [of Mythic Slaughter](../Affixes/affix.md#p_bleed) | T7 | โอกาส 50% เมื่อคริ → ติด Rend: เลือดไหลรวม ดาเมจกายภาพ **89%–112%** ของดาเมจคริฮิตนั้น ภายใน 3 วิ (6 จังหวะ จังหวะละ **14.8%–18.7%**) · ติดซ้ำได้ทุก 0.3 วิ | T8 สูงสุด 123% · 20.5% |
 | Trigger [of Mythic Glacier](../Affixes/affix.md#p_frost) | T7 | โอกาส 8% เมื่อโจมตีโดน → ติด Frostbite: สโลว์เป้า **61%–69%** นาน 2 วิ · ติดซ้ำได้ทุก 0.8 วิ | T8 สูงสุด 76% |
 | Trigger [of Mythic Oblivion](../Affixes/affix.md#p_siphon) | T7 | ฆ่ามอนทุกตัว → Siphon: เติม MP **57–69** | T8 สูงสุด 84 |
 | Trigger [of Mythic Devourer](../Affixes/affix.md#p_vigor) | T7 | ฆ่ามอนทุกตัว → Vigor: ฮีล **102–129** | T8 สูงสุด 156 |
@@ -112,22 +150,22 @@ Affix อื่นที่สุ่มได้แต่ไม่ช่วย�
 
 | ตีไปขั้น | โอกาสติด | ตีเฉลี่ยกี่ครั้ง | พลาดแล้วลด | ATK | ค่าใช้ต่อการตี 1 ครั้ง |
 | --- | --- | --- | --- | --- | --- |
-| +1 | 100% | 1 ครั้ง | — | 495 | 1,800 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +2 | 100% | 1 ครั้ง | — | 510 | 5,091 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +3 | 100% | 1 ครั้ง | — | 522 | 9,353 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +4 | 80% | 1.2 ครั้ง | — | 537 | 14,400 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +5 | 65% | 1.5 ครั้ง | — | 552 | 20,125 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +6 | 50% | 1.9 ครั้ง | 50% | 576 | 26,454 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +7 | 42% | 2.2 ครั้ง | 50% | 600 | 33,336 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +8 | 34% | 2.5 ครั้ง | 50% | 624 | 40,729 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +9 | 28% | 2.9 ครั้ง | 50% | 648 | 48,600 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +10 | 22% | 3.4 ครั้ง | 50% | 672 | 56,921 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +11 | 4% | 25 ครั้ง | — | 705 | 78,803 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +12 | 3% | 33.3 ครั้ง | — | 738 | 104,754 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +13 | 2% | 50 ครั้ง | — | 774 | 134,992 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×3 |
-| +14 | 1.5% | 66.7 ครั้ง | — | 807 | 169,722 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×4 |
-| +15 | 1% | 100 ครั้ง | — | 840 | 209,141 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×4 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×5 |
+| +1 | 100% | 1 ครั้ง | — | 495 | 600 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +2 | 100% | 1 ครั้ง | — | 510 | 1,697 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +3 | 100% | 1 ครั้ง | — | 522 | 3,118 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +4 | 80% | 1.2 ครั้ง | — | 537 | 4,800 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +5 | 65% | 1.5 ครั้ง | — | 552 | 6,708 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +6 | 50% | 1.9 ครั้ง | 50% | 576 | 8,818 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +7 | 42% | 2.2 ครั้ง | 50% | 600 | 11,112 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +8 | 34% | 2.5 ครั้ง | 50% | 624 | 13,576 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +9 | 28% | 2.9 ครั้ง | 50% | 648 | 16,200 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +10 | 22% | 3.4 ครั้ง | 50% | 672 | 18,974 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +11 | 4% | 25 ครั้ง | — | 705 | 22,984 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +12 | 3% | 33.3 ครั้ง | — | 738 | 27,436 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +13 | 2% | 50 ครั้ง | — | 774 | 32,342 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×3 |
+| +14 | 1.5% | 66.7 ครั้ง | — | 807 | 44,002 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×4 |
+| +15 | 1% | 100 ครั้ง | — | 840 | 52,285 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×4 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×5 |
 
 ## ต่อไป
 
-[**แมพ Warden's Seat** Lv 94–99](../Maps/wardens_seat.md) [**แมพ Throne of the Warden** Lv 90–99](../Maps/throne_of_warden.md) [**แมพ Umbral Depths** Lv 80–90](../Maps/umbral_depths.md) [**อาชีพ Binder**](../Classes/Binder.md) [**อาชีพ Rogue**](../Classes/Rogue.md) [**อาชีพ Scout**](../Classes/Scout.md) [**ขั้นอื่นของ มีดสั้น**](../Items/_Listings/gear.md#dagger) [**ตีบวก**](../Blacksmith/refine.md) [**Affix & Reroll**](../Affixes/affix.md) [**หมวด อุปกรณ์**](../Items/_Listings/gear.md)
+[**แมพ Warden's Seat** Lv 94–99](../Maps/wardens_seat.md) [**แมพ Wreckwake Coast** Lv 99–102](../Maps/wreckwake_coast.md) [**แมพ Lanternrice Delta** Lv 101–104](../Maps/lanternrice_delta.md) [**อาชีพ Binder**](../Classes/Binder.md) [**อาชีพ Rogue**](../Classes/Rogue.md) [**อาชีพ Scout**](../Classes/Scout.md) [**ขั้นอื่นของ มีดสั้น**](../Items/_Listings/gear.md#dagger) [**ตีบวก**](../Blacksmith/refine.md) [**Affix & Reroll**](../Affixes/affix.md) [**หมวด อุปกรณ์**](../Items/_Listings/gear.md)

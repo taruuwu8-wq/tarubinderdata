@@ -888,7 +888,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/crucible_hound",
    "source_title": "Crucible Hound · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/crucible_hound.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -899,7 +899,7 @@
    },
    "star5_effect": "โอกาสคริ +3% · ดาเมจคริ +10% · ดาเมจใส่มอนที่ HP > 90% +10%",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Crust Lurker card",
@@ -1446,7 +1446,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/forge_hermit",
    "source_title": "Forge Hermit · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/forge_hermit.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1457,7 +1457,7 @@
    },
    "star5_effect": "เจาะเกราะ 5.5% (ไม่สน DEF / MDEF มอน) · Max HP +6% · ATK +7%",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Forum Sentinel card",
@@ -1663,7 +1663,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/furnace_warden",
    "source_title": "Furnace Warden · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/furnace_warden.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -1674,7 +1674,7 @@
    },
    "star5_effect": "ATK +6% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 36%",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Gale Wisp card",
@@ -2066,7 +2066,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/hollow_caster",
    "source_title": "Hollow Caster · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/hollow_caster.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -2077,7 +2077,7 @@
    },
    "star5_effect": "MATK +4.3% · Spell Amp 2.9% (ดาเมจสกิลเวท)",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Hullbreaker Kraken card",
@@ -3027,7 +3027,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/plate_turtle",
    "source_title": "Plate Turtle · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/plate_turtle.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -3038,7 +3038,7 @@
    },
    "star5_effect": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ)",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Pollen Wisp card",
@@ -3399,7 +3399,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/rivet_golem",
    "source_title": "Rivet Golem · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/rivet_golem.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -3410,7 +3410,7 @@
    },
    "star5_effect": "ลดดาเมจที่ได้รับ 3.9%",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Rock Skitter card",
@@ -3864,7 +3864,7 @@
    "related": [],
    "source_url": "https://wiki.bindertowngame.com/mob/slag_skitter",
    "source_title": "Slag Skitter · Binder Town Wiki",
-   "last_crawled": "2026-11-07",
+   "last_crawled": "2026-11-10",
    "kb_file": "Monsters/slag_skitter.md",
    "verification_status": "WIKI",
    "data_source": "detail_page",
@@ -3875,7 +3875,7 @@
    },
    "star5_effect": "ดาเมจใส่มอนที่ติดดีบัฟ +7.6%",
    "note": "The Wiki shows ★1 and ★5 values only; intermediate stars are not listed. [UNKNOWN] for ★2-★4.",
-   "freshness_status": "not_refreshed_after_2026-11-07"
+   "freshness_status": "captured_2026-11-10"
   },
   {
    "name": "Snipcrab card",

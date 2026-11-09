@@ -1,3 +1,10 @@
+<!-- LIVE-CAPTURE -->
+## Fresh bounded capture — 2026-11-10
+
+Captured 148 pages with Firecrawl maxAge=0 (148 credits): 119 new Tier 10 item details, 8 maps (Tidehaven region and Copperbell Arena), 9 equipped item details, 7 Shellforge monster details, and 5 map/item/system listings or rules. Current coverage: 846 raw / 842 organized pages; 640 pre-patch detail captures and 1,671 not-fetched URLs remain. No Tier 1–9 item detail or fashion crawl was run. See [MISSING_DATA.md](MISSING_DATA.md) and [Sources/LIVE_CAPTURE.json](Sources/LIVE_CAPTURE.json). Original Nov 8 snapshot JSON and player card inventory are unchanged.
+
+The sections below include the previous snapshot history; use the latest capture metadata for freshness.
+
 # Binder Town Wiki — AI Knowledge Base
 
 A file-based, source-traceable copy of the official **Binder Town Wiki** (https://wiki.bindertowngame.com/), organized so AI assistants (Claude, ChatGPT, others) can answer questions without reading the whole Wiki. No database, no app: Markdown, JSON and CSV only.

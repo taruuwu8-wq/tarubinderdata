@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/mimic_grin  
 > **Source title:** Mimic Grin · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__mimic_grin.md](../../Raw/Original_Wiki_Pages/item/item__mimic_grin.md)
 
 ---

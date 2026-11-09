@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/map/wreckwake_coast  
 > **Source title:** Wreckwake Coast · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [map__wreckwake_coast.md](../Raw/Original_Wiki_Pages/map/map__wreckwake_coast.md)
 
 ---

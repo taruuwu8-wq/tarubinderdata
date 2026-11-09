@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/map/shellforge_basin  
 > **Source title:** Shellforge Basin · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [map__shellforge_basin.md](../Raw/Original_Wiki_Pages/map/map__shellforge_basin.md)
 
 ---

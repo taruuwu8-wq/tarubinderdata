@@ -113,7 +113,7 @@
     }
    ],
    "summary_text": null,
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Class Trait & Dash",
@@ -134,7 +134,7 @@
    "data_source": "detail_page",
    "tables": [],
    "summary_text": "เลือกอาชีพแรกทุกคนเริ่มเป็น Binder · Job Lv 10 และสกิล Binder ครบ = เลือกอาชีพแรกฟรีที่ครูฝึก / ปุ่มเปลี่ยนอาชีพบน HUDเปลี่ยนอาชีพทีหลัง50,000 G · กลับไปอาชีพที่เคยเล่น 25,000 G · เลเวลอาชีพ / สกิลของอาชีพเดิมเก็บไว้ครบ · แต้มสเตตัสใช้ร่วมกัน · อุปกรณ์ถอดเข้ากระเป๋าBuild หลายชุดแต่ละอาชีพมีช่อง Build ฟรี 2 ช่อง (ซื้อเพิ่มอีก 1 ช่อง 10,000,000 G) — เก็บสกิล · Evolution · สเตตัส · อุปกรณ์ · การ์ด · สลับได้ฟรีในเมืองกลไกอาชีพRage · Combo · Mark · Chill ฯลฯ — [อ่าน](/systems/class-resources)\n\n[**Binder** กายภาพ · ประชิด](/job/novice) [**Knight** แทงก์ · กายภาพ · ประชิด](/job/knight) [**Warrior** นักรบตีหมู่ · กายภาพ · ประชิด](/job/warrior) [**Scout** ยิงไกล · กายภาพ · ระยะไกล](/job/scout) [**Rogue** แอสซาซิน · กายภาพ · ประชิด](/job/rogue) [**Mage** จอมเวท AoE · เวท · ระยะไกล](/job/mage) [**Acolyte** ฮีลเลอร์ / ซัพพอร์ต · เวท · ประชิด](/job/acolyte) [**Summoner** Soul Reaper · เวท · ระยะไกล](/job/summoner)\n\nแต่ละหน้าอาชีพมีการ์ดกติกา Class Trait, กลไกอาชีพ และ Dash ครบ",
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "ลักษณะมอนของแต่ละแมพ",
@@ -419,7 +419,7 @@
     }
    ],
    "summary_text": null,
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   }
  ]
 }

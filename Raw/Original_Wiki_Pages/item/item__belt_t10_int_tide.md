@@ -2,8 +2,8 @@
 source_url: "https://wiki.bindertowngame.com/item/belt_t10_int_tide"
 source_title: "เข็มขัดผู้คุมหุบเขา (INT) · Tidebound · Binder Town Wiki"
 http_status: 200
-crawled_date: "2026-11-08"
-crawler: "Firecrawl scrape (markdown)"
+crawled_date: "2026-11-10"
+crawler: "Firecrawl scrape (markdown), maxAge=0"
 verification_status: "WIKI"
 ---
 

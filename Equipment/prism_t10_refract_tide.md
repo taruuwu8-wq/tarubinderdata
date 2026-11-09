@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/prism_t10_refract_tide  
 > **Source title:** ปริซึมผู้คุมหุบเขา (Refract) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__prism_t10_refract_tide.md](../Raw/Original_Wiki_Pages/item/item__prism_t10_refract_tide.md)
 
 ---

@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/orb_t10_tide  
 > **Source title:** ลูกแก้วเวทผู้คุมหุบเขา · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__orb_t10_tide.md](../Raw/Original_Wiki_Pages/item/item__orb_t10_tide.md)
 
 ---

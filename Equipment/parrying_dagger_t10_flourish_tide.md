@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/parrying_dagger_t10_flourish_tide  
 > **Source title:** มีดปัดผู้คุมหุบเขา (Flourish) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__parrying_dagger_t10_flourish_tide.md](../Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_flourish_tide.md)
 
 ---

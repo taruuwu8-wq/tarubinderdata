@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/lance_t10_tide  
 > **Source title:** หอกทหารม้าผู้คุมหุบเขา · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__lance_t10_tide.md](../Raw/Original_Wiki_Pages/item/item__lance_t10_tide.md)
 
 ---

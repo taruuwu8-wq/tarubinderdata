@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/stone_pouch_t10_gravel_tide  
 > **Source title:** ถุงหินผู้คุมหุบเขา (Gravel) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__stone_pouch_t10_gravel_tide.md](../Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_gravel_tide.md)
 
 ---

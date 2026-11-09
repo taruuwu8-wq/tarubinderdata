@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/coral_crest  
 > **Source title:** Coral Crest · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__coral_crest.md](../../Raw/Original_Wiki_Pages/item/item__coral_crest.md)
 
 ---

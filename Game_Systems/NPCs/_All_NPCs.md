@@ -43,7 +43,7 @@
 
 [**Portal กลับเมือง** ชาวเมือง](sparring_exit.md)
 
-## [⛰Copperbell Arena](https://wiki.bindertowngame.com/map/copperbell_arena)
+## [⛰Copperbell Arena](../../Maps/copperbell_arena.md)
 
 [**Portal กลับเมือง** ชาวเมือง](https://wiki.bindertowngame.com/npc/arena_exit)
 

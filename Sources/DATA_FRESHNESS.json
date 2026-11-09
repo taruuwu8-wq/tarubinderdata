@@ -1,14 +1,14 @@
 {
   "snapshot_date": "2026-11-08",
   "merged_on": "2026-11-09",
-  "policy": "available_snapshot_only_no_new_crawl",
-  "fresh_pages": 182,
+  "policy": "mixed_captures_with_bounded_live_refresh",
+  "fresh_pages": 206,
   "fresh_hubs": 63,
   "fresh_item_details": 119,
-  "raw_pages": 845,
-  "organized_pages": 841,
-  "older_detail_pages": 663,
-  "not_fetched_pages": 1672,
+  "raw_pages": 846,
+  "organized_pages": 842,
+  "older_detail_pages": 640,
+  "not_fetched_pages": 1671,
   "structured_counts": {
     "affixes.json": 1,
     "blacksmith.json": 5,
@@ -18,7 +18,7 @@
     "equipment.json": 1088,
     "game_systems.json": 15,
     "items.json": 545,
-    "maps.json": 55,
+    "maps.json": 56,
     "monsters.json": 160,
     "npcs.json": 71,
     "patch_notes.json": 47,
@@ -29,7 +29,7 @@
     "weapons.json": 367
   },
   "numeric_preservation": {
-    "checked_pages": 841,
+    "checked_pages": 842,
     "errors": []
   },
   "listing_detail_conflicts": [
@@ -38,7 +38,7 @@
       "field": "ATK",
       "listing": "1,008",
       "detail": "840",
-      "listing_date": "2026-11-08",
+      "listing_date": "2026-11-10",
       "detail_date": "2026-11-07",
       "kb_file": "Weapons/greatsword_t10.md"
     },
@@ -47,7 +47,7 @@
       "field": "ATK",
       "listing": "975",
       "detail": "810",
-      "listing_date": "2026-11-08",
+      "listing_date": "2026-11-10",
       "detail_date": "2026-11-07",
       "kb_file": "Weapons/pike_t10.md"
     },
@@ -56,7 +56,7 @@
       "field": "ATK",
       "listing": "939",
       "detail": "783",
-      "listing_date": "2026-11-08",
+      "listing_date": "2026-11-10",
       "detail_date": "2026-11-07",
       "kb_file": "Weapons/flail_t10.md"
     },
@@ -65,7 +65,7 @@
       "field": "MATK",
       "listing": "840",
       "detail": "756",
-      "listing_date": "2026-11-08",
+      "listing_date": "2026-11-10",
       "detail_date": "2026-11-07",
       "kb_file": "Weapons/spellstaff_t10.md"
     },
@@ -74,7 +74,7 @@
       "field": "ATK",
       "listing": "1,008",
       "detail": "840",
-      "listing_date": "2026-11-08",
+      "listing_date": "2026-11-10",
       "detail_date": "2026-11-07",
       "kb_file": "Weapons/wyrmsunder_r10.md"
     }
@@ -177,14 +177,6 @@
       "priority": "normal"
     },
     {
-      "url": "https://wiki.bindertowngame.com/item/belt_t10",
-      "path": "/item/belt_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10.md",
-      "kb_file": "Equipment/belt_t10.md",
-      "priority": "normal"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/item/belt_t10_agi",
       "path": "/item/belt_t10_agi",
       "last_crawled": "2026-11-07",
@@ -278,14 +270,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/item/item__brute_tusks_r10.md",
       "kb_file": "Equipment/Headgear/brute_tusks_r10.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/item/bubble_gum_r10",
-      "path": "/item/bubble_gum_r10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__bubble_gum_r10.md",
-      "kb_file": "Equipment/Headgear/bubble_gum_r10.md",
       "priority": "normal"
     },
     {
@@ -495,14 +479,6 @@
       "raw_file": "Raw/Original_Wiki_Pages/item/item__crown_r10.md",
       "kb_file": "Equipment/Headgear/crown_r10.md",
       "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/item/dagger_t10",
-      "path": "/item/dagger_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__dagger_t10.md",
-      "kb_file": "Weapons/dagger_t10.md",
-      "priority": "high"
     },
     {
       "url": "https://wiki.bindertowngame.com/item/dagger_t10_alt",
@@ -1057,14 +1033,6 @@
       "priority": "normal"
     },
     {
-      "url": "https://wiki.bindertowngame.com/item/greaves_t10",
-      "path": "/item/greaves_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__greaves_t10.md",
-      "kb_file": "Equipment/greaves_t10.md",
-      "priority": "normal"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/item/halo_glass_r10",
       "path": "/item/halo_glass_r10",
       "last_crawled": "2026-11-07",
@@ -1289,14 +1257,6 @@
       "priority": "normal"
     },
     {
-      "url": "https://wiki.bindertowngame.com/item/moth_mask",
-      "path": "/item/moth_mask",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__moth_mask.md",
-      "kb_file": "Equipment/Headgear/moth_mask.md",
-      "priority": "high"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/item/mushroom_cap_r10",
       "path": "/item/mushroom_cap_r10",
       "last_crawled": "2026-11-07",
@@ -1310,14 +1270,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/item/item__mushroom_cap_void_r10.md",
       "kb_file": "Equipment/Headgear/mushroom_cap_void_r10.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/item/necklace_t10",
-      "path": "/item/necklace_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__necklace_t10.md",
-      "kb_file": "Equipment/necklace_t10.md",
       "priority": "normal"
     },
     {
@@ -1390,14 +1342,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/item/item__plague_beak_r10.md",
       "kb_file": "Equipment/Headgear/plague_beak_r10.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/item/plate_t10",
-      "path": "/item/plate_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__plate_t10.md",
-      "kb_file": "Equipment/plate_t10.md",
       "priority": "normal"
     },
     {
@@ -1481,14 +1425,6 @@
       "priority": "normal"
     },
     {
-      "url": "https://wiki.bindertowngame.com/item/rapier_t10",
-      "path": "/item/rapier_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__rapier_t10.md",
-      "kb_file": "Weapons/rapier_t10.md",
-      "priority": "high"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/item/refine_ward",
       "path": "/item/refine_ward",
       "last_crawled": "2026-11-07",
@@ -1510,14 +1446,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/item/item__repair_kit.md",
       "kb_file": "Items/Materials/repair_kit.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/item/ring_t10",
-      "path": "/item/ring_t10",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/item/item__ring_t10.md",
-      "kb_file": "Equipment/ring_t10.md",
       "priority": "normal"
     },
     {
@@ -2017,22 +1945,6 @@
       "priority": "normal"
     },
     {
-      "url": "https://wiki.bindertowngame.com/map/coralstep_plateau",
-      "path": "/map/coralstep_plateau",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__coralstep_plateau.md",
-      "kb_file": "Maps/coralstep_plateau.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/map/drowned_forum",
-      "path": "/map/drowned_forum",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__drowned_forum.md",
-      "kb_file": "Maps/drowned_forum.md",
-      "priority": "normal"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/map/duskgate_pass",
       "path": "/map/duskgate_pass",
       "last_crawled": "2026-11-07",
@@ -2102,14 +2014,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/map/map__kitewind_terraces.md",
       "kb_file": "Maps/kitewind_terraces.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/map/lanternrice_delta",
-      "path": "/map/lanternrice_delta",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__lanternrice_delta.md",
-      "kb_file": "Maps/lanternrice_delta.md",
       "priority": "normal"
     },
     {
@@ -2249,14 +2153,6 @@
       "priority": "normal"
     },
     {
-      "url": "https://wiki.bindertowngame.com/map/shellforge_basin",
-      "path": "/map/shellforge_basin",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__shellforge_basin.md",
-      "kb_file": "Maps/shellforge_basin.md",
-      "priority": "normal"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/map/sledrun_gully",
       "path": "/map/sledrun_gully",
       "last_crawled": "2026-11-07",
@@ -2278,14 +2174,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/map/map__sparring_hall.md",
       "kb_file": "Maps/sparring_hall.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/map/stormrail_causeway",
-      "path": "/map/stormrail_causeway",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__stormrail_causeway.md",
-      "kb_file": "Maps/stormrail_causeway.md",
       "priority": "normal"
     },
     {
@@ -2318,14 +2206,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/map/map__throne_of_warden.md",
       "kb_file": "Maps/throne_of_warden.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/map/tidehaven",
-      "path": "/map/tidehaven",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__tidehaven.md",
-      "kb_file": "Maps/tidehaven.md",
       "priority": "normal"
     },
     {
@@ -2374,14 +2254,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/map/map__whispering_woods.md",
       "kb_file": "Maps/whispering_woods.md",
-      "priority": "normal"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/map/wreckwake_coast",
-      "path": "/map/wreckwake_coast",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/map/map__wreckwake_coast.md",
-      "kb_file": "Maps/wreckwake_coast.md",
       "priority": "normal"
     },
     {
@@ -2617,14 +2489,6 @@
       "priority": "high"
     },
     {
-      "url": "https://wiki.bindertowngame.com/mob/crucible_hound",
-      "path": "/mob/crucible_hound",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__crucible_hound.md",
-      "kb_file": "Monsters/crucible_hound.md",
-      "priority": "high"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/mob/crust_lurker",
       "path": "/mob/crust_lurker",
       "last_crawled": "2026-11-07",
@@ -2761,14 +2625,6 @@
       "priority": "high"
     },
     {
-      "url": "https://wiki.bindertowngame.com/mob/forge_hermit",
-      "path": "/mob/forge_hermit",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__forge_hermit.md",
-      "kb_file": "Monsters/forge_hermit.md",
-      "priority": "high"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/mob/forum_sentinel",
       "path": "/mob/forum_sentinel",
       "last_crawled": "2026-11-07",
@@ -2814,14 +2670,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/mob/mob__frost_wisp.md",
       "kb_file": "Monsters/frost_wisp.md",
-      "priority": "high"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/mob/furnace_warden",
-      "path": "/mob/furnace_warden",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__furnace_warden.md",
-      "kb_file": "Monsters/furnace_warden.md",
       "priority": "high"
     },
     {
@@ -2918,14 +2766,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/mob/mob__hive_skitter.md",
       "kb_file": "Monsters/hive_skitter.md",
-      "priority": "high"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/mob/hollow_caster",
-      "path": "/mob/hollow_caster",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__hollow_caster.md",
-      "kb_file": "Monsters/hollow_caster.md",
       "priority": "high"
     },
     {
@@ -3169,14 +3009,6 @@
       "priority": "high"
     },
     {
-      "url": "https://wiki.bindertowngame.com/mob/plate_turtle",
-      "path": "/mob/plate_turtle",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__plate_turtle.md",
-      "kb_file": "Monsters/plate_turtle.md",
-      "priority": "high"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/mob/pollen_wisp",
       "path": "/mob/pollen_wisp",
       "last_crawled": "2026-11-07",
@@ -3262,14 +3094,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/mob/mob__river_wisp.md",
       "kb_file": "Monsters/river_wisp.md",
-      "priority": "high"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/mob/rivet_golem",
-      "path": "/mob/rivet_golem",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__rivet_golem.md",
-      "kb_file": "Monsters/rivet_golem.md",
       "priority": "high"
     },
     {
@@ -3382,14 +3206,6 @@
       "last_crawled": "2026-11-07",
       "raw_file": "Raw/Original_Wiki_Pages/mob/mob__sky_wisp.md",
       "kb_file": "Monsters/sky_wisp.md",
-      "priority": "high"
-    },
-    {
-      "url": "https://wiki.bindertowngame.com/mob/slag_skitter",
-      "path": "/mob/slag_skitter",
-      "last_crawled": "2026-11-07",
-      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__slag_skitter.md",
-      "kb_file": "Monsters/slag_skitter.md",
       "priority": "high"
     },
     {
@@ -18563,14 +18379,6 @@
       "priority": "low"
     },
     {
-      "url": "https://wiki.bindertowngame.com/map/copperbell_arena",
-      "path": "/map/copperbell_arena",
-      "category": "Maps",
-      "status": "not_fetched",
-      "listing_data_available": false,
-      "priority": "normal"
-    },
-    {
       "url": "https://wiki.bindertowngame.com/npc/arena_exit",
       "path": "/npc/arena_exit",
       "category": "NPCs",
@@ -18765,10 +18573,12 @@
   ],
   "missing_by_category": {
     "Items": 1647,
-    "Maps": 1,
     "NPCs": 6,
     "Pets": 17,
     "tools": 1
   },
-  "note": "Fresh hubs do not refresh old details. Missing data is unknown, never zero."
+  "note": "Fresh hubs do not refresh old details. Missing data is unknown, never zero.",
+  "latest_capture_date": "2026-11-10",
+  "live_capture_pages": 148,
+  "live_capture_credits": 148
 }

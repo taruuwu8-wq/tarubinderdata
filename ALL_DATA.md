@@ -527,6 +527,7 @@ Generated from Structured_Data/*.json. **This is a lookup index, not a replaceme
 | [Brinecrust Shoals](Maps/brinecrust_shoals.md) | 4 |
 | [Cinder Eyrie](Maps/cinder_eyrie.md) | 4 |
 | [Cloudspire Ruins](Maps/cloudspire_ruins.md) | 4 |
+| [Copperbell Arena](Maps/copperbell_arena.md) | 0 |
 | [Coralstep Plateau](Maps/coralstep_plateau.md) | 6 |
 | [Drowned Forum](Maps/drowned_forum.md) | 6 |
 | [Duskgate Pass](Maps/duskgate_pass.md) | 3 |

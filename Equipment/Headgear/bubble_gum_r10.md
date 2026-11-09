@@ -2,14 +2,14 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/bubble_gum_r10  
 > **Source title:** Bubble Gum · T10 · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__bubble_gum_r10.md](../../Raw/Original_Wiki_Pages/item/item__bubble_gum_r10.md)
 
 ---
 
 ## ตอบให้ก่อน
 
-หาที่ไหนReforge Bubble Gum ขึ้นขั้น 10 ที่ช่างตีเหล็กขาย NPC ได้เท่าไรNormal33 G · Magic 83 G · Rare198 G · Epic528 G(ดัชนีเศรษฐกิจ ×1)ตีบวกถึง +5 ใช้เท่าไรเฉลี่ยราว 116,308 G \+ [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×11 \+ [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×11(รวมครั้งที่พลาด · ถึง +5 พลาดไม่ลดขั้น)ใครใส่ได้Lv 85\+ · ทุกอาชีพ
+หาที่ไหนReforge Bubble Gum ขึ้นขั้น 10 ที่ช่างตีเหล็กขาย NPC ได้เท่าไรNormal33 G · Magic 83 G · Rare198 G · Epic528 G(ดัชนีเศรษฐกิจ ×1)ตีบวกถึง +5 ใช้เท่าไรเฉลี่ยราว 38,769 G \+ [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×11 \+ [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×11(รวมครั้งที่พลาด · ถึง +5 พลาดไม่ลดขั้น)ใครใส่ได้Lv 85\+ · ทุกอาชีพ
 
 ## ค่าพลังของชิ้นนี้
 
@@ -62,21 +62,21 @@
 
 | ตีไปขั้น | โอกาสติด | ตีเฉลี่ยกี่ครั้ง | พลาดแล้วลด | ATK% / MATK% | ค่าใช้ต่อการตี 1 ครั้ง |
 | --- | --- | --- | --- | --- | --- |
-| +1 | 50% | 1.9 ครั้ง | — | +1% | 1,800 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +2 | 50% | 1.9 ครั้ง | — | +2% | 5,091 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +3 | 50% | 1.9 ครั้ง | — | +2% | 9,353 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +4 | 40% | 2.3 ครั้ง | — | +3% | 14,400 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +5 | 32.5% | 2.6 ครั้ง | — | +4% | 20,125 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +6 | 25% | 3.1 ครั้ง | 50% | +5% | 26,454 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +7 | 21% | 3.5 ครั้ง | 50% | +6% | 33,336 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +8 | 17% | 4 ครั้ง | 50% | +6% | 40,729 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +9 | 14% | 4.6 ครั้ง | 50% | +7% | 48,600 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +10 | 11% | 5.4 ครั้ง | 50% | +8% | 56,921 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +11 | 2% | 50 ครั้ง | — | +9% | 78,803 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
-| +12 | 1.5% | 66.7 ครั้ง | — | +11% | 104,754 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
-| +13 | 1% | 100 ครั้ง | — | +12% | 134,992 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×3 |
-| +14 | 0.75% | 133.3 ครั้ง | — | +14% | 169,722 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×4 |
-| +15 | 0.5% | 200 ครั้ง | — | +15% | 209,141 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×4 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×5 |
+| +1 | 50% | 1.9 ครั้ง | — | +1% | 600 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +2 | 50% | 1.9 ครั้ง | — | +2% | 1,697 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +3 | 50% | 1.9 ครั้ง | — | +2% | 3,118 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +4 | 40% | 2.3 ครั้ง | — | +3% | 4,800 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +5 | 32.5% | 2.6 ครั้ง | — | +4% | 6,708 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +6 | 25% | 3.1 ครั้ง | 50% | +5% | 8,818 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +7 | 21% | 3.5 ครั้ง | 50% | +6% | 11,112 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×1 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +8 | 17% | 4 ครั้ง | 50% | +6% | 13,576 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +9 | 14% | 4.6 ครั้ง | 50% | +7% | 16,200 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +10 | 11% | 5.4 ครั้ง | 50% | +8% | 18,974 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +11 | 2% | 50 ครั้ง | — | +9% | 22,984 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×1 |
+| +12 | 1.5% | 66.7 ครั้ง | — | +11% | 27,436 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×2 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×2 |
+| +13 | 1% | 100 ครั้ง | — | +12% | 32,342 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×3 |
+| +14 | 0.75% | 133.3 ครั้ง | — | +14% | 44,002 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×3 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×4 |
+| +15 | 0.5% | 200 ครั้ง | — | +15% | 52,285 G · [แร่มิธริล](https://wiki.bindertowngame.com/item/mithril_ore) ×4 · [เศษดาว](https://wiki.bindertowngame.com/item/star_shard) ×5 |
 
 ## ต่อไป
 

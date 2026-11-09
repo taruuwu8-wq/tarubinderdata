@@ -1,0 +1,1340 @@
+{
+  "pages": [
+    {
+      "url": "https://wiki.bindertowngame.com/item/ammonite_monocle",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.004Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__ammonite_monocle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ammonite_monocle.md",
+      "sha256": "333454b03e87a45e4304ac14b1072fbb64935a55d84a4dcd8db906d9f631c249",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/amulet_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.005Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__amulet_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__amulet_t10_tide.md",
+      "sha256": "214220bcd2a36bd05fd10e75309b85129e54428ae475dda5fe26d1556b1bf03d",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/axe_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.005Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__axe_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__axe_t10_tide.md",
+      "sha256": "f4f4c0ee944eeac35db06f12915c6501d5aa992d760f92e5737643b0bf2c2751",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bandolier_t10_quickdraw_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.005Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bandolier_t10_quickdraw_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bandolier_t10_quickdraw_tide.md",
+      "sha256": "318fbce31d8cb185e5af300031f17dd2a53bb6b52ee80355e6a1f527c991af7e",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bandolier_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.006Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bandolier_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bandolier_t10_tide.md",
+      "sha256": "9cfa2ba72b2444964669d0cda8834e36af23e496b2bc369d5f8c662fd4a95ab7",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bandolier_t10_weighted_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.006Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bandolier_t10_weighted_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bandolier_t10_weighted_tide.md",
+      "sha256": "26de1b244eaf3230f3d37c48f645926913d8557d13a3bd75ee379d9ec4859935",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/barnacle_cap",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.006Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__barnacle_cap.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__barnacle_cap.md",
+      "sha256": "9c618e9da9de3a5890a4eca1eb3e602586135f60c3f35a7e1440af57769ee125",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bell_t10_swift_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.007Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bell_t10_swift_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bell_t10_swift_tide.md",
+      "sha256": "75c8e2fd80db3975d5212273242471abbf5fa8a674d46a944229977a8ad91001",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bell_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.007Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bell_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bell_t10_tide.md",
+      "sha256": "25b42fa9d9fb2409f42cca9d3a95ebf298de41c932ef5c2388c42520ab8cccc5",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bell_t10_warm_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.007Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bell_t10_warm_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bell_t10_warm_tide.md",
+      "sha256": "9baada941f24abeb3a6995c53166851857a4208795d97f9a55e562c4cb3e558e",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.056Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10.md",
+      "sha256": "7ade3e20cee5bddf0e0c620faf0baa9ba99ac6c793eae79d89fa4b03c74a0690",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10_agi_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.008Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10_agi_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_agi_tide.md",
+      "sha256": "d0a24e540d2eda41d9f58a6ae0ff73cc88684dc6f83cb05dd06b1e21d4136daa",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10_dex_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.008Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10_dex_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_dex_tide.md",
+      "sha256": "9abb40ea41fd82c859dccab6f9fbe7886dce68cf659dfcc14fd8d5a61d9fc207",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10_int_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.009Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10_int_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_int_tide.md",
+      "sha256": "082f2f6e3f2b9bdf52c02109ac8c3609d1330965e65ed50be42fc75a36e49840",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10_luk_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.009Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10_luk_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_luk_tide.md",
+      "sha256": "26b268beec3658448de48f1fabc72ea1878652ec3295809f9ecc95b838724ee7",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.010Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_tide.md",
+      "sha256": "2f9d51b22e5304fc84b6c9897515a14a4ef258727653191993f8d1b569530b44",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/belt_t10_vit_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.010Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__belt_t10_vit_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__belt_t10_vit_tide.md",
+      "sha256": "6ad340898d00637a23e931d659c1c5a3609dc44170576032a34ac6150ee72221",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/boots_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.010Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__boots_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__boots_t10_tide.md",
+      "sha256": "ff0696bf25af9ab826735f2998a3c362594541cba9b70fe07040703a384c4d75",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bosun_bandana",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.011Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bosun_bandana.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bosun_bandana.md",
+      "sha256": "66dd22c385939b0ecb4d215e658aed8c2c5d8b4041dde9d0b901cffd19dd8b0a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bow_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.011Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bow_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bow_t10_tide.md",
+      "sha256": "7b4cc2b0f1434cc77a342efdb5dc9e32c4ca008a06a619282fa1bdeeae095b9a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/bubble_gum_r10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.055Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__bubble_gum_r10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__bubble_gum_r10.md",
+      "sha256": "54a45acd32ced30ed96d07cef05b18891310ec5046228c1176c4eede39175d1f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/buckler_t10_bash_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.011Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__buckler_t10_bash_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__buckler_t10_bash_tide.md",
+      "sha256": "b07fbdd832a9f54461c2535abd3ef1d46df987e0af18cdd49709679165be38c2",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/buckler_t10_deflect_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.013Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__buckler_t10_deflect_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__buckler_t10_deflect_tide.md",
+      "sha256": "4e0512ccd91968a2cb745d7c176e9d6a729b423068ebfaf7d7029445a50c8b75",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/buckler_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.013Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__buckler_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__buckler_t10_tide.md",
+      "sha256": "961a319e55af3eea681bc014e6c339b20f84917152e6723162c147fd5b3e1c84",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/censer_t10_burning_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.014Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__censer_t10_burning_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__censer_t10_burning_tide.md",
+      "sha256": "0e8362413ede22808fa818a94896d7d27ad55701aa28ebebaa00ec3f725d5609",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/censer_t10_purifying_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.014Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__censer_t10_purifying_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__censer_t10_purifying_tide.md",
+      "sha256": "09332111b72bb779b7eaa2e2cc2c197af7da421b63ac715fd8cfbb87299d02e3",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/censer_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.014Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__censer_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__censer_t10_tide.md",
+      "sha256": "142914e45728b310787494ed3271df210ebeb3cd8f53e1be3857438f373faac9",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/chain_sickle_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.015Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__chain_sickle_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_sickle_t10_tide.md",
+      "sha256": "8d317917d0ee05a1b3d6c9fd8bbd6ca5e270178d6fbca00acf86922b38e00474",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/chain_t10_drag_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.015Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__chain_t10_drag_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_t10_drag_tide.md",
+      "sha256": "2dd07e0170e903e1d70f5f12c8e18df4f8485bafa4a4c36b6feb224700c1e232",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/chain_t10_link_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.015Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__chain_t10_link_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_t10_link_tide.md",
+      "sha256": "9c695592cd2195ff1d18da993e5f248d447abb13d2c8b4b790c8a60e2856193b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/chain_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.016Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__chain_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__chain_t10_tide.md",
+      "sha256": "5caf2c8bfa3d41bf79959b6f2fee535cd5596203ae5f9b725d7b53b6ae003dd6",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/charm_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.016Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__charm_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__charm_t10_tide.md",
+      "sha256": "ac17efd161ac8ee0a3a7a3657330c9efafee704886df5564d317776d9be06174",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/compass_eyeglass",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.016Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__compass_eyeglass.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__compass_eyeglass.md",
+      "sha256": "49efb076e925bb5b1e362e6f4733462cd8740bfcf498f16cbc78c7381108c7b4",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/coral_crest",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.017Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__coral_crest.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__coral_crest.md",
+      "sha256": "ffd03ab08a3af8ddb1fc93aaf84b6abcd60b8e5a8adb0a5dcc093228dfdf5b22",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/crossbow_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.017Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__crossbow_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__crossbow_t10_tide.md",
+      "sha256": "24253304e1e7f448eac75efe02328df1625e76b46bdeade5b5908b88627621cf",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/dagger_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.055Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__dagger_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__dagger_t10.md",
+      "sha256": "e2ca0f74ea44813e5a5c7d582e6f7c24dd2261c9b4cdaa9f97ba0c20a1d83b2b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/dagger_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.017Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__dagger_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__dagger_t10_tide.md",
+      "sha256": "e7cf01f1fbd5e492fed50c57984aec79a10b58cb92978cb2134bde4d96822d2e",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/drake_goggles",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.018Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__drake_goggles.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__drake_goggles.md",
+      "sha256": "583e240e2b61a47be2b389147235a01674d5babc030553155259dff01cf5e380",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/eel_whiskers",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.018Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__eel_whiskers.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__eel_whiskers.md",
+      "sha256": "13026f28361d45638c185a19761bc64f463c11ac56214ae2a7155e625211790e",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/familiar_t10_frost_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.018Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__familiar_t10_frost_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__familiar_t10_frost_tide.md",
+      "sha256": "e36d385218430fceab8e402ab476f9a964ac5886695e4c50e47ddaf9b221960c",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/familiar_t10_storm_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.018Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__familiar_t10_storm_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__familiar_t10_storm_tide.md",
+      "sha256": "c0a3d347fdc09b72b4cb52b977daec6b106604ca0ef5e17917cc24a8ac9c8e7f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/familiar_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.019Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__familiar_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__familiar_t10_tide.md",
+      "sha256": "6ca847b1a313d64ba10fa4b0eaeed7b1307b457743357c6a0ac81ad6f0c176da",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/flail_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.019Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__flail_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__flail_t10_tide.md",
+      "sha256": "c3e3dbb84a5ed233ba95dd123c23ebbdc239115e9bded88cd7b939681b749d4d",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/furnace_mask",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.020Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__furnace_mask.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__furnace_mask.md",
+      "sha256": "971add5f6c664085abb33155d2e356e5486185aafcff9eecd255e99ca407da78",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/greatstaff_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.020Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__greatstaff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greatstaff_t10_tide.md",
+      "sha256": "5a56871d1f738d0a67315778251f373702deb09626939414c50db6adf2972df6",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/greatsword_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.020Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__greatsword_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greatsword_t10_tide.md",
+      "sha256": "45462bf3f67f79f2b53a7e27d7dec60e19677148d20bbcc6091a352cbae34828",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/greaves_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.057Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__greaves_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greaves_t10.md",
+      "sha256": "8f0f4966896a75882f72342f2436265e0326e27901bdb23c3064c585c2593bfe",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/greaves_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.022Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__greaves_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__greaves_t10_tide.md",
+      "sha256": "9090777ca988e21e59f8721f05f5585a272279e5521acbfdfab61e90514413e7",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/gull_feather",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.022Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__gull_feather.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__gull_feather.md",
+      "sha256": "f656fb7eb7fa6567302dbc12d40748b7849dcffb46038fa82c1d3164e6a9960f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/hand_crossbow_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.022Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__hand_crossbow_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__hand_crossbow_t10_tide.md",
+      "sha256": "418ac03e0c55892a66dd3700c53804e909de9222f6ca7d2cbd5ec954164f3015",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/hermit_pipe",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.023Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__hermit_pipe.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__hermit_pipe.md",
+      "sha256": "fba2252e48c2238ab553751ea5e2cb37ce857f8ac929057db5f9c3e7da1ca67b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/hound_muzzle",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.023Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__hound_muzzle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__hound_muzzle.md",
+      "sha256": "817f1accebc24323d5172b5e2a3c8991437dd9ec37b027642584d7ec820b7901",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/javelin_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.023Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__javelin_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__javelin_t10_tide.md",
+      "sha256": "2513238e85006aea955fe9ad0169fc21da57b812b99ba8bc6b31fb7c92e8803e",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/kite_shield_t10_oath_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.023Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__kite_shield_t10_oath_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kite_shield_t10_oath_tide.md",
+      "sha256": "653f6b9f2ef13196190dbdd2c26cf6b7b4015ac5ccf6edf6e5c4f8e6e4dce77a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/kite_shield_t10_pennant_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.024Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__kite_shield_t10_pennant_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kite_shield_t10_pennant_tide.md",
+      "sha256": "cb7f5549fac82d1968da993e4cfe95c58d100d9466b6369df28c0e087d4b0a94",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/kite_shield_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.024Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__kite_shield_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kite_shield_t10_tide.md",
+      "sha256": "827581e7c4b8d74dd1c811199bca679c7c6b6a58281e7dfbe77c36ad6d5f08e8",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/knuckles_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.024Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__knuckles_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__knuckles_t10_tide.md",
+      "sha256": "84fd51606a33fc08c986f14e2687f55a6e7a656c09671fc821fcdc104a03f357",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/kraken_tricorn",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.024Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__kraken_tricorn.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kraken_tricorn.md",
+      "sha256": "6e4df437fb98c4a3a89306bf0364e2a82939bd7bd1b0232343209c077aa6906f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/kris_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.025Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__kris_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__kris_t10_tide.md",
+      "sha256": "13d8f29bf4ffc83b95b32904c069940b922462d46621ebdfc051833374c786de",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/lance_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.025Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__lance_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lance_t10_tide.md",
+      "sha256": "4a50524000923e0be0d5783b6d7ba13abe063fe03eae2a314eb9a15fb905f6df",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/lantern_hat",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.025Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__lantern_hat.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_hat.md",
+      "sha256": "382ba8e4dbc65c64d9aa6cdb0e8f06aafe4e1c720dcf9c601107c4c513275fd8",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/lantern_t10_binding_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.026Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__lantern_t10_binding_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_t10_binding_tide.md",
+      "sha256": "d2bd8ad2089fb9dfe4612ccd9ffef1c5afcc1c325104443f3f8577fd7a25c098",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/lantern_t10_champion_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.026Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__lantern_t10_champion_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_t10_champion_tide.md",
+      "sha256": "ff5b2ec6679161f78712218188ab8b31e602eb6f3a6463d10e22406d134fd361",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/lantern_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.026Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__lantern_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lantern_t10_tide.md",
+      "sha256": "952551405d08dc08e7626407fce3e19194e5651c34d8d5d5297dfdadda0f8873",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/leather_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.026Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__leather_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__leather_t10_tide.md",
+      "sha256": "06812a1a618c5d3ce9fe01947ebcc3cfbff0aeaee7028163370493912db67099",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/lightstaff_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.027Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__lightstaff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__lightstaff_t10_tide.md",
+      "sha256": "8f48414eafbdff30e858921dac2dc36149008a917716c2a911cfa6c98f874294",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/mace_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.027Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__mace_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__mace_t10_tide.md",
+      "sha256": "a718fd4fa5737f5c3f5e7d42b1bd93c5a94609663cad1ea3a8294bb04ddef478",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/maul_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.027Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__maul_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__maul_t10_tide.md",
+      "sha256": "ac910af7f8263b7742dac55d61ec59affafc1d0a7e86786c01d90ae78b35074f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/mimic_grin",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.028Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__mimic_grin.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__mimic_grin.md",
+      "sha256": "2d123beeeb1b70db56011f2871f26c13b377ef276c62b9c08d501662717311ef",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/moth_mask",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.055Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__moth_mask.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__moth_mask.md",
+      "sha256": "1aff2aa6f1bf0742a5937438ef1882d71871eec9f873ff89d009e3a8129ff830",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/necklace_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.056Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__necklace_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__necklace_t10.md",
+      "sha256": "88ea601d29b08ad5919976c7a21c4a8ee01c9cf48d1f4d2a313daff0020f7d6f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/necklace_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.028Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__necklace_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__necklace_t10_tide.md",
+      "sha256": "51c49e624dc65f0a8228f6c6818cc99964547829fc7e4b2a4e4bc5eea00ef4df",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/orb_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.028Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__orb_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__orb_t10_tide.md",
+      "sha256": "fd9702f81376e22bea9750e6140469358e0e2530fab2a9562b1404909ceb3b95",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/ox_ring",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.028Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__ox_ring.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ox_ring.md",
+      "sha256": "81909aa31937742267476d0bfffe7947aa4b120916678dfd4f26ef4c8f6046f5",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/paddy_hat",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.029Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__paddy_hat.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__paddy_hat.md",
+      "sha256": "71ec6e1c5bb961413cea9a8dd63ec4ab2261079f7e03607c6ff2b1b1a3e3dab1",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/parrying_dagger_t10_flourish_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.029Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__parrying_dagger_t10_flourish_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_flourish_tide.md",
+      "sha256": "1c8dff91833ef978eee9d5676245670b472a69397350fb71cb9439a8a9450756",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/parrying_dagger_t10_slip_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.029Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__parrying_dagger_t10_slip_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_slip_tide.md",
+      "sha256": "dba7656cf0ba82c84b00c4c22a8910c69e168165609c4aaf83e01d6b8db60b57",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/parrying_dagger_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.029Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__parrying_dagger_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__parrying_dagger_t10_tide.md",
+      "sha256": "7aa382e05229e24df26c9d6093322ef4ca34d9f0852125e84f5f49242f15d69c",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/pike_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.030Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__pike_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__pike_t10_tide.md",
+      "sha256": "7d1b9be010fa84041a5a6c489d71a316938bf61d768f325ba9b88f3035b38bdc",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/plate_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.056Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__plate_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__plate_t10.md",
+      "sha256": "b5107fbdc683b25ca430be5176414ed30baf41116e4c0ee7b06f036abb6a0133",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/plate_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.031Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__plate_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__plate_t10_tide.md",
+      "sha256": "2ce6eb95c77fa1f2bda4c94dbcecc0727941749bdd84116a32f664b3ff70ed3a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/poison_vial_t10_confusion_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.031Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__poison_vial_t10_confusion_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__poison_vial_t10_confusion_tide.md",
+      "sha256": "2819fbffbddded3755c64efa404151ab65c88ce16856d2ce6d93efcd141fb443",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/poison_vial_t10_numbing_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.031Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__poison_vial_t10_numbing_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__poison_vial_t10_numbing_tide.md",
+      "sha256": "a468223e9e12cf71d28c1b2731200a4c13b86ae870e0bdf1df14d306f8aaf4e9",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/poison_vial_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.032Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__poison_vial_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__poison_vial_t10_tide.md",
+      "sha256": "14ef2ccd40576c67f4f89cb1b7ca36a38a90bb5690a4c85ffab3be97483369e3",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/prism_t10_focus_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.032Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__prism_t10_focus_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__prism_t10_focus_tide.md",
+      "sha256": "7724cc4387d9adffd8c08574d2a84e9ad95183557ab9fd3bf21db5337589f5b0",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/prism_t10_refract_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.032Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__prism_t10_refract_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__prism_t10_refract_tide.md",
+      "sha256": "397a05cbe16c347413c443fd9f6a383a3ecdcd8e5264829eb2f61b7adbf2f529",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/prism_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.032Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__prism_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__prism_t10_tide.md",
+      "sha256": "793a1ca9a7b397ad01f49b89a18e97d46fb6f00327d6a2395303e64cac96034d",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/quiver_t10_broadhead_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.033Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__quiver_t10_broadhead_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__quiver_t10_broadhead_tide.md",
+      "sha256": "0fe2f97942b75dfc48edc89f483d1e3bab58c22c6c6c790d07b026d40f525485",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/quiver_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.033Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__quiver_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__quiver_t10_tide.md",
+      "sha256": "662a515e5ab531e1e9abc81abbc808daff537074a1bb3c059ac8ab911cb90896",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/quiver_t10_whistling_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.033Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__quiver_t10_whistling_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__quiver_t10_whistling_tide.md",
+      "sha256": "b7905db0c875222ab710fdcebebfa7bd8f4a046a79d81cbe5730541b5b937934",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/rail_goggles",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.033Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__rail_goggles.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rail_goggles.md",
+      "sha256": "c125d507fa25900ed92e3272fc45c1d4f17ce5728238be377f486eacfd9e8662",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/rapier_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.054Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__rapier_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rapier_t10.md",
+      "sha256": "54689d7b661bf427e63a68e5b180980da10674c4872c7e0ea9daf0a8dea689c5",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/rapier_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.034Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__rapier_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rapier_t10_tide.md",
+      "sha256": "54462f82070273bb8e571402f5f9c6ffc316cabafdd06132c84603ab39904d31",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/reed_whistle",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.034Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__reed_whistle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__reed_whistle.md",
+      "sha256": "adec5d2febb94921dd4a2aa31888cfc49305144606791118ada2cac5e7c19c63",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/ring_t10",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.057Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__ring_t10.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ring_t10.md",
+      "sha256": "ba2c73559a192dc9bca7f9eaa5cfcec33c1cb1a15fa79c2232cd06fa47d1b56e",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/ring_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.034Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__ring_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ring_t10_tide.md",
+      "sha256": "2fa6780981eb5e984b89966183f0a6dea85de365408e42482396107184cc4d2a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/robe_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.034Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__robe_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__robe_t10_tide.md",
+      "sha256": "901c44de0bbccc859a0164f5f51f8a3289c05744213fcf0d99c5295512ee6f72",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/rod_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.035Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__rod_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__rod_t10_tide.md",
+      "sha256": "675ea63f2447d25fa30a73037025f658cfc9b256a9ba035b3749e8145745dacc",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/scythe_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.035Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__scythe_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__scythe_t10_tide.md",
+      "sha256": "268df331b11abf9a2bd4941319cdcf883587d28a2f3fd9707779d603ddf54a33",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/senator_laurel",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.035Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__senator_laurel.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__senator_laurel.md",
+      "sha256": "d6a4e0db4713e389792aa9de29283c7a9558dee88475d8059a9cac4c37857bfe",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/sentinel_visor",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.035Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__sentinel_visor.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sentinel_visor.md",
+      "sha256": "f2749840f5aea1a743939d9cadf5cc6fc440bb29875c57f6a416596b393a6788",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/serpent_veil",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.035Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__serpent_veil.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__serpent_veil.md",
+      "sha256": "1d79ad7222b97ab9d5729969f6d8d7e7fdfa6a29d14a0f6cf7d243774ee4a389",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/shield_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.036Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__shield_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__shield_t10_tide.md",
+      "sha256": "515223ec1fc86a9b21132c674709bee24c1a756e019eb32b10ac8a8ce15c611b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/skull_t10_elder_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.036Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__skull_t10_elder_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__skull_t10_elder_tide.md",
+      "sha256": "3690266f812a0c1c4390aa7011081cc1fd26c8f62e8853f3b06ce3d0f1984346",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/skull_t10_smoldering_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.036Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__skull_t10_smoldering_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__skull_t10_smoldering_tide.md",
+      "sha256": "95082ecdf7763ab5114debf7a810770a061c269790e7174ccc7b10bf32ed251d",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/skull_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.036Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__skull_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__skull_t10_tide.md",
+      "sha256": "d47c0a16fcf769cc8d9b7b15a4a98fbd9c28a1437ceddd9ce417f079a9eb2933",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/sling_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.037Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__sling_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sling_t10_tide.md",
+      "sha256": "244fe5feec5e561115270f0c5cfcad1290e917ffc3339270b7807a3fc5064abd",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/spear_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.037Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__spear_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__spear_t10_tide.md",
+      "sha256": "e8bd1c59b00c0843dc938f4e76ccb26b187f3763838e7efcda0c5ff71f3cf426",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/spellstaff_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.038Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__spellstaff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__spellstaff_t10_tide.md",
+      "sha256": "0a313416bf9cb2dee0ef52c5925c6903c7ca3bf07e95e7720c1be87f5643d84b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/staff_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.038Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__staff_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__staff_t10_tide.md",
+      "sha256": "7d5afa952f693ff0568034610b4f7dd4e3ae1f3a7e10d912fa028f6d322d2fd9",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/station_cap",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.038Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__station_cap.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__station_cap.md",
+      "sha256": "c7c9c435302796d2a52f7c325dddf22c46697738404dd360fa07c15b40c10beb",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/stone_pouch_t10_fire_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.039Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__stone_pouch_t10_fire_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_fire_tide.md",
+      "sha256": "3c1365f9ba1833c8f613f353842e8515753dea8ccc4a9429d1e60e05c85fee9a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/stone_pouch_t10_gravel_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.039Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__stone_pouch_t10_gravel_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_gravel_tide.md",
+      "sha256": "fad20314ca327696b2291512a814e258d3e31cddf59b0fe6c1272c39d6c3ad80",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/stone_pouch_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.039Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__stone_pouch_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__stone_pouch_t10_tide.md",
+      "sha256": "1f8b2ff68cb611f7aba4c8eab493071b1e28d9c77237599afe0701cd6459f9d5",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/storm_plume",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.040Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__storm_plume.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__storm_plume.md",
+      "sha256": "9470f2c926a1631e9723257c4d25753d1b906fa30b5b84a451808df9abb90093",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/sword_t10_alt_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.040Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__sword_t10_alt_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sword_t10_alt_tide.md",
+      "sha256": "061fccda40477ed0186e08a25f2aa13bce4238742fa9205bd5821e779d6c7411",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/sword_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.041Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__sword_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__sword_t10_tide.md",
+      "sha256": "e43ce90629a723b9a53cbd1a96f54699352f47c5e6fde8d81ea13bd30b11f4c4",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/throwing_knives_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.041Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__throwing_knives_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__throwing_knives_t10_tide.md",
+      "sha256": "1d0d0443e121b0f92205ac69c508663fee88ffc980cf1fcdf3dabb175c3521c7",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/tome_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.041Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__tome_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tome_t10_tide.md",
+      "sha256": "cefc6b35b6f9d48a34e337848d7c7396b692e9bab28e2dcbe681c1c5112a88b6",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/tortoise_helm",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.042Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__tortoise_helm.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tortoise_helm.md",
+      "sha256": "53a0a1f29f7077b11dc57c7206a35f328131da633a94435581de6b5eab29edc9",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/tower_shield_t10_aegis_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.042Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__tower_shield_t10_aegis_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tower_shield_t10_aegis_tide.md",
+      "sha256": "6c5ad01f58bc79452dff5e052c7b67f21e83e9b71e37518dd48e707bc139b94d",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/tower_shield_t10_rampart_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.042Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__tower_shield_t10_rampart_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tower_shield_t10_rampart_tide.md",
+      "sha256": "7ac913e95b77e27016138cfd66fb9c32cb4ff53d730304872de3808a9568c28b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/tower_shield_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.043Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__tower_shield_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__tower_shield_t10_tide.md",
+      "sha256": "d1f77eb24396a5c0cd4e3613fa678fb2babfefbfdcee86cf953818e97cb45438",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/wand_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.043Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__wand_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__wand_t10_tide.md",
+      "sha256": "3dc60d29678bc38fd22eaf27e56407a66a27a9a0cb2bcfabb64068456d81c0a8",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/war_banner_t10_march_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.044Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__war_banner_t10_march_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__war_banner_t10_march_tide.md",
+      "sha256": "2801ab57127b0aa879d784e91cd5db098e47fdc14bf6f98742a8fc0e4c400c9a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/war_banner_t10_taunt_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.044Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__war_banner_t10_taunt_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__war_banner_t10_taunt_tide.md",
+      "sha256": "5f14df83193b2157f2417de7c894989a13bad4bb0f723b8f3759389837995d3f",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/war_banner_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.045Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__war_banner_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__war_banner_t10_tide.md",
+      "sha256": "ae2c7ec5ab356d809f5efd3c2dc59e047d95e6dac40a68e6fad94c84426d7c96",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/item/ward_t10_tide",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.044Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/item__ward_t10_tide.json",
+      "raw_file": "Raw/Original_Wiki_Pages/item/item__ward_t10_tide.md",
+      "sha256": "f360af4ebcaf0b498ce026a1a2add2e00d95aab21ffebc4727dd0679dce5063d",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/items/gear",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.858Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/items__gear.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__gear.md",
+      "sha256": "db7cedca088e065510c3c19c38b4a3d95f6d7a15bc1e67625414438e5154bd43",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/items/look",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.860Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/items__look.json",
+      "raw_file": "Raw/Original_Wiki_Pages/items/items__look.md",
+      "sha256": "2827474b5f2954df47e3af5e0a1d0075b52b5a5aed1c57518ea70bc0240f1ef6",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/copperbell_arena",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.860Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__copperbell_arena.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__copperbell_arena.md",
+      "sha256": "9083241149e27c607caa43d0c41000c000fdef5fbb76d112756354742c0189da",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/coralstep_plateau",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.861Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__coralstep_plateau.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__coralstep_plateau.md",
+      "sha256": "70549cd3e71cec63d2d338f1c5bb2852cd345e58670deef94e6e5900cb5d2c23",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/drowned_forum",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.861Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__drowned_forum.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__drowned_forum.md",
+      "sha256": "7eec6ff0f661a24ffee3d05dac779b185f6a655120ef8482b3ccca5cd305f079",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/lanternrice_delta",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.860Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__lanternrice_delta.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__lanternrice_delta.md",
+      "sha256": "2e2ee9a6c2be06269177ef117da12157ba4c51c9fb87c2bf6988bc2d67c9e2ec",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/shellforge_basin",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.861Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__shellforge_basin.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__shellforge_basin.md",
+      "sha256": "d9d158304ce4f9bbe513db471efc1d42474479745039a107f70325c1b0ac94a2",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/stormrail_causeway",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.861Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__stormrail_causeway.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__stormrail_causeway.md",
+      "sha256": "ef4c4a1a2017f048a6c73e7055e86eee954b6673d5710ee902bb3a3a01c971f3",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/tidehaven",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.860Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__tidehaven.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__tidehaven.md",
+      "sha256": "26c5d1b3826acd4e9a7678837c561752510f87701abbbcde228d780a4a690828",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/map/wreckwake_coast",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:27:05.860Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/map__wreckwake_coast.json",
+      "raw_file": "Raw/Original_Wiki_Pages/map/map__wreckwake_coast.md",
+      "sha256": "6f2034f1da46d2e5fe1fca69e102846f290d7cc97c52acd29fdb8345ed55fce7",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/maps",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:25:28.418Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/maps.json",
+      "raw_file": "Raw/Original_Wiki_Pages/_hub/maps.md",
+      "sha256": "1457630d9dffc08ec0beca787de0897104e1c4c14917843aa80df30847e227cb",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/crucible_hound",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.047Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__crucible_hound.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__crucible_hound.md",
+      "sha256": "a6e55cea2d3daa80827f95d6000d2aac5a5db14693fd41551aa98d7a1a79da2a",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/forge_hermit",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.048Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__forge_hermit.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__forge_hermit.md",
+      "sha256": "f1a42620424c5191f2110a1b34aeeb5842670baaba57eb3ad960610888c1c664",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/furnace_warden",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.049Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__furnace_warden.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__furnace_warden.md",
+      "sha256": "deb1790a2d6623c43531f6207e97fbdee72f8dbd44e6d620bdadb140d3d15fae",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/hollow_caster",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.050Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__hollow_caster.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__hollow_caster.md",
+      "sha256": "aebb7cb0e4165323773f8f3643456ed55c15492bf0ff17cc18319dbfb1482ece",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/plate_turtle",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.051Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__plate_turtle.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__plate_turtle.md",
+      "sha256": "87693a1ce39d8e5b8ef1c15769a3c2ab0ad8cbd95db142fd60442dd5fcca4fda",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/rivet_golem",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.051Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__rivet_golem.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__rivet_golem.md",
+      "sha256": "5882fe4e648b0991417a7e73c6febd540366907787bd1ea3dff03ccfe66e926b",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/mob/slag_skitter",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.052Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/mob__slag_skitter.json",
+      "raw_file": "Raw/Original_Wiki_Pages/mob/mob__slag_skitter.md",
+      "sha256": "20693a569e2780c3c2ccd6f2d96ee923c668090d309de38ccc8eaa3c988ec1eb",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/systems/affix",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.046Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/systems__affix.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__affix.md",
+      "sha256": "69f6cdaca575ddce0e0b6216d12539574017b1f701973ebe31de201d529e4161",
+      "credits_used": 1
+    },
+    {
+      "url": "https://wiki.bindertowngame.com/systems/weapon-rules",
+      "crawled_date": "2026-11-10",
+      "captured_at": "2026-11-09T19:28:35.046Z",
+      "snapshot_file": "Raw/Snapshots/2026-11-10/live/systems__weapon-rules.json",
+      "raw_file": "Raw/Original_Wiki_Pages/systems/systems__weapon-rules.md",
+      "sha256": "f3836f5f088a108236185dd8bef144ea688d116d465a920a1aa72719360d86f9",
+      "credits_used": 1
+    }
+  ],
+  "count": 148,
+  "latest_capture_date": "2026-11-10",
+  "credits_used": 148,
+  "scope": "New Tier 10 items, Tidehaven maps, Copperbell Arena, equipped items, affix rules and Shellforge monsters; no Tier 1-9 item details"
+}

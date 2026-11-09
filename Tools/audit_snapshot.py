@@ -39,15 +39,17 @@ for file in sorted((ROOT/"Structured_Data").glob("*.json")):
     if payload["count"] != len(records): raise SystemExit("Count mismatch: "+file.name)
     for record in records:
         raw = raws.get(urlparse(record.get("source_url","")).path)
-        if raw: record["freshness_status"] = "snapshot_2026-11-08" if raw["meta"]["crawled_date"]>=DATE else "not_refreshed_after_2026-11-07"
+        if raw: record["freshness_status"] = "captured_"+raw["meta"]["crawled_date"] if raw["meta"]["crawled_date"]>=DATE else "not_refreshed_after_2026-11-07"
         elif record.get("data_source")=="listing_table_only": record["freshness_status"]="listing_only_2026-11-08_detail_not_fetched"
-        if record.get("listing_source"): record["listing_last_crawled"]=DATE
+        if record.get("listing_source"):
+            listing=raws.get(urlparse(record["listing_source"]).path)
+            record["listing_last_crawled"]=listing["meta"]["crawled_date"] if listing else DATE
         if file.name in {"equipment.json","weapons.json"}:
             props=record.get("properties",{}); detail=props.get("detail_stats",{})
             for key in ["ATK","MATK","DEF"]:
                 a,b=props.get(key),detail.get(key)
                 if a not in (None,"—","") and b not in (None,"—","") and str(a)!=str(b):
-                    conflict={"slug":record["slug"],"field":key,"listing":a,"detail":b,"listing_date":DATE,"detail_date":record.get("last_crawled"),"kb_file":record.get("kb_file")}
+                    conflict={"slug":record["slug"],"field":key,"listing":a,"detail":b,"listing_date":record.get("listing_last_crawled",DATE),"detail_date":record.get("last_crawled"),"kb_file":record.get("kb_file")}
                     conflicts.append(conflict)
                     flag=f"TO_VERIFY: {key} listing ({DATE})={a}, detail ({record.get('last_crawled')})={b}"
                     if flag not in record.setdefault("flags",[]): record["flags"].append(flag)
@@ -59,6 +61,12 @@ for file in sorted((ROOT/"Structured_Data").glob("*.json")):
 for entry in merge["pages"]:
     if hashlib.sha256((ROOT/entry["snapshot_file"]).read_bytes()).hexdigest()!=entry["sha256"]: raise SystemExit("Snapshot modified")
 report={"snapshot_date":DATE,"merged_on":"2026-11-09","policy":"available_snapshot_only_no_new_crawl","fresh_pages":merge["fresh_pages"],"fresh_hubs":merge["hubs"],"fresh_item_details":merge["new_item_details"],"raw_pages":len(raws),"organized_pages":len(organized),"older_detail_pages":len(stale),"not_fetched_pages":len(missing),"structured_counts":counts,"numeric_preservation":{"checked_pages":len(raws)-len(aliases),"errors":errors},"listing_detail_conflicts":conflicts,"stale_details":stale,"not_fetched":missing,"missing_by_category":dict(collections.Counter(r["category"] for r in missing)),"note":"Fresh hubs do not refresh old details. Missing data is unknown, never zero."}
+live_path=ROOT/"Sources/LIVE_CAPTURE.json"
+if live_path.exists():
+    live=json.loads(live_path.read_text(encoding="utf-8"))
+    for p in live["pages"]:
+        if hashlib.sha256((ROOT/p["snapshot_file"]).read_bytes()).hexdigest()!=p["sha256"]: raise SystemExit("Live snapshot modified")
+    report.update(latest_capture_date=live["latest_capture_date"],live_capture_pages=live["count"],live_capture_credits=live["credits_used"],policy="mixed_captures_with_bounded_live_refresh",fresh_pages=sum(r["meta"]["crawled_date"]>=DATE for r in raws.values()))
 (ROOT/"Sources/DATA_FRESHNESS.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 with (ROOT/"Sources/REFRESH_QUEUE.csv").open("w",encoding="utf-8",newline="") as f:
     w=csv.writer(f,lineterminator="\n"); w.writerow(["url","status","last_crawled","priority","reason"])
@@ -70,6 +78,12 @@ md=["# ข้อมูลที่ยังต้องดึงหรือย�
     "ไม่ต้องรอสรุปจาก Claude เพื่อรวมส่วนที่มีแล้ว สรุปหรือ raw เพิ่มเติมใช้เติมเฉพาะช่องว่าง โดยแนบ URL และวันที่ต้นทาง","",
     "[รายการ URL](Sources/REFRESH_QUEUE.csv) · [รายงานเครื่องอ่าน](Sources/DATA_FRESHNESS.json)"]
 (ROOT/"MISSING_DATA.md").write_text("\n".join(md)+"\n",encoding="utf-8")
+if live_path.exists():
+    text=(ROOT/"MISSING_DATA.md").read_text(encoding="utf-8")
+    text=text.replace("รวม snapshot 2026-11-08 เมื่อ 2026-11-09 โดยไม่ดึง Wiki เพิ่ม",f"รวม snapshot 2026-11-08 และดึงสดเพิ่ม {live['count']} หน้า ล่าสุด {live['latest_capture_date']} · ใช้ {live['credits_used']} เครดิต")
+    text=text.replace("## ลำดับแนะนำ",f"รายละเอียดแมพครบ 56 แมพแล้ว รวม Copperbell Arena · อัปเดตแมพ Tidehaven ทั้งโซน ของใหม่ 119 ชิ้น ของที่ Taru ใส่ และมอน Shellforge แล้ว\n\nTier 1–9 และแฟชั่นยังอยู่นอกขอบเขตเดิม ไม่จำเป็นต้องดึง URL ที่ขาดทั้งหมด\n\n## ลำดับแนะนำ")
+    text=text.replace("1. มอนใน Shellforge และสกิล Rogue","1. สกิล Rogue ที่ใช้ และมอน/การ์ดเดิมนอก Shellforge").replace("2. รายละเอียดอุปกรณ์เดิมของ Taru: ค่าตีบวก/ออฟอาจต่างจากระบบใหม่","2. อุปกรณ์ Tier 10 เดิมชิ้นอื่นที่ยังไม่ดึงใหม่").replace("4. Copperbell Arena และ NPC ใหม่ 6 ตัว","4. NPC ใหม่ใน Arena 6 ตัว")
+    (ROOT/"MISSING_DATA.md").write_text(text,encoding="utf-8")
 print(json.dumps({k:report[k] for k in ["fresh_pages","raw_pages","organized_pages","older_detail_pages","not_fetched_pages","missing_by_category"]},ensure_ascii=False))
 print("numeric preservation errors:",len(errors),"listing/detail conflicts:",len(conflicts))
 if errors:

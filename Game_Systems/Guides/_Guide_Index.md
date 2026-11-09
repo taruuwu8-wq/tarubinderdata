@@ -13,7 +13,7 @@
 
 เลเวลของคุณ
 
-[**Copperbell Arena** Lv 1–115 · Region A · Valebrook · EXP เต็มถึง Lv 118](https://wiki.bindertowngame.com/map/copperbell_arena) [**Old Quarry** Lv 10–16 · Region A · Valebrook · EXP เต็มถึง Lv 19](../../Maps/old_quarry.md) [**Bracken Sink** Lv 9–15 · Region A · Valebrook · EXP เต็มถึง Lv 18](../../Maps/bracken_sink.md) [**Riverside** Lv 6–12 · Region A · Valebrook · EXP เต็มถึง Lv 15](../../Maps/riverside.md)
+[**Copperbell Arena** Lv 1–115 · Region A · Valebrook · EXP เต็มถึง Lv 118](../../Maps/copperbell_arena.md) [**Old Quarry** Lv 10–16 · Region A · Valebrook · EXP เต็มถึง Lv 19](../../Maps/old_quarry.md) [**Bracken Sink** Lv 9–15 · Region A · Valebrook · EXP เต็มถึง Lv 18](../../Maps/bracken_sink.md) [**Riverside** Lv 6–12 · Region A · Valebrook · EXP เต็มถึง Lv 15](../../Maps/riverside.md)
 
 ได้ EXP เต็มเมื่อเลเวลไม่เกินเลเวลสูงสุดของแมพ +3 · เลเวลสูงสุดของเกม Lv 115
 

@@ -2,11 +2,11 @@
 
 > **Source:** https://wiki.bindertowngame.com/systems/affix  
 > **Source title:** Affix & Reroll · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [systems__affix.md](../Raw/Original_Wiki_Pages/systems/systems__affix.md)
 
 <!-- PATCH-NOTICES:START -->
-> **Patch reference [PATCH]** — Wiki page captured 2026-11-08. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
+> **Patch reference [PATCH]** — Wiki page captured 2026-11-10. Comparisons below were originally audited against 2026-11-07; refreshed pages may already incorporate them.
 >
 > **[Patch notes — received 2026-11-07](../Patch_Notes/patch_received_2026-11-07.md)**
 > - #25: DEX ออกบนเกราะ รองเท้า และหมวกได้

@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/map/drowned_forum  
 > **Source title:** Drowned Forum · Binder Town Wiki  
-> **Last crawled:** 2026-11-07 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [map__drowned_forum.md](../Raw/Original_Wiki_Pages/map/map__drowned_forum.md)
 
 ---

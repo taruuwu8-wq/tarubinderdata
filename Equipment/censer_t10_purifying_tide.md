@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/censer_t10_purifying_tide  
 > **Source title:** กระถางกำยานผู้คุมหุบเขา (Purifying) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__censer_t10_purifying_tide.md](../Raw/Original_Wiki_Pages/item/item__censer_t10_purifying_tide.md)
 
 ---

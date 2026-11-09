@@ -2,7 +2,7 @@
 
 > **Source:** https://wiki.bindertowngame.com/item/war_banner_t10_tide  
 > **Source title:** ธงศึกผู้คุมหุบเขา (Rally) · Tidebound · Binder Town Wiki  
-> **Last crawled:** 2026-11-08 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
+> **Last crawled:** 2026-11-10 · **Status:** [WIKI] (verbatim Wiki text, images removed)  
 > **Raw original:** [item__war_banner_t10_tide.md](../Raw/Original_Wiki_Pages/item/item__war_banner_t10_tide.md)
 
 ---

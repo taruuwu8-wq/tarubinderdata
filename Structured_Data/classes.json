@@ -272,7 +272,7 @@
     "/skill/soul_tether",
     "/skill/zeal"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Knight",
@@ -544,7 +544,7 @@
     "/skill/valor",
     "/skill/war_horn"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Mage",
@@ -816,7 +816,7 @@
     "/skill/spell_mastery",
     "/skill/spirit_rune"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Binder",
@@ -888,7 +888,7 @@
     "/skill/light_step",
     "/skill/tough_skin"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Rogue",
@@ -1160,7 +1160,7 @@
     "/skill/soul_filch",
     "/skill/venom_craft"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Scout",
@@ -1432,7 +1432,7 @@
     "/skill/windwalker",
     "/skill/zephyr_soul"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Summoner",
@@ -1704,7 +1704,7 @@
     "/skill/spirit_flock",
     "/skill/spirit_pact"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   },
   {
    "name": "Warrior",
@@ -1976,7 +1976,7 @@
     "/skill/whirlwind",
     "/skill/wound_mastery"
    ],
-   "freshness_status": "snapshot_2026-11-08"
+   "freshness_status": "captured_2026-11-08"
   }
  ]
 }
