@@ -176,7 +176,7 @@ form.edit select{font:inherit;padding:8px 10px;border:1px solid var(--line);bord
 .fcard .ft{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
 .fcard .ft button.nmb{border:0;background:none;padding:0;cursor:pointer;font-weight:600;text-align:left;display:flex;align-items:center;gap:6px}
 .fcard .fm{font-size:.74rem;color:var(--muted)}
-.fctl{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.fctl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}
 .fctl label{display:flex;flex-direction:column;gap:2px;font-size:.7rem;color:var(--muted)}
 .fctl input,.fctl select{font:inherit;font-size:.86rem;padding:5px 7px;border:1px solid var(--line);border-radius:7px;background:var(--panel);color:var(--ink);min-width:0;width:100%}
 .bar{height:8px;border-radius:999px;background:var(--chip);overflow:hidden}
@@ -797,13 +797,12 @@ const STEP=[1,1.5,2.5,4,5];
 function spiritsNeeded(c, from, to){ let n=0; for(let s=from;s<to;s++) n+=c.cost*STEP[s]; return Math.round(n); }
 function farmCalc(f){
   const c=BY[f.slug]; if(!c||!c.cost) return null;
-  const st=cards[f.slug]; const from = owned(st) ? (st.stars||1) : 0;
-  const to = Math.max(from+ (from<5?1:0), Math.min(5, f.target||((from||0)+1)));
-  const need = from>=5 ? 0 : spiritsNeeded(c, from, to);
+  const st=cards[f.slug], have_n=total(st);
+  const need = c.cost;  // แลก ★1 อย่างเดียว (ใบใหม่ / ใบซ้ำก็ราคาเท่ากัน)
   const have = Math.max(0, f.have||0), remain = Math.max(0, need-have);
   const s = computeChar(f.who||"taru"); const bonus = s.spirit + s.resS;
   const per = Math.min(1, (c.sc/100) * (1+bonus/100) * (f.daily?2:1));
-  return {c,from,to,need,have,remain,bonus,per,kills: per>0 ? Math.ceil(remain/per) : null};
+  return {c,have_n,st,need,have,remain,bonus,per,kills: per>0 ? Math.ceil(remain/per) : null};
 }
 function saveFarm(slug){
   if(!db) return; clearTimeout(fpending[slug]);
@@ -822,19 +821,19 @@ function renderFarm(){
   for(const f of list){
     const r=farmCalc(f); if(!r) continue; const c=r.c;
     const pct = r.need? Math.min(100, r.have/r.need*100) : 100;
-    const tOpts=[]; for(let s=Math.max(1,r.from+(r.from<5?1:0)); s<=5; s++) tOpts.push(s);
+    const where=["taru","karina","steve","bank"].filter(k=>r.st&&r.st[k]>0).map(k=>`${LOCNAME[k]} ${r.st[k]}`).join(" · ");
     grid.append(h("div",{class:"fcard"},
       h("div",{class:"ft"},
         h("button",{class:"nmb",onclick:()=>openSheet(c.s)},dotEl(c),c.n),
-        h("span",{class:"fm"}, r.from? `มี ★${r.from}` : "ยังไม่มี")),
+        h("span",{class:"fm"}, r.have_n? `ฟามใบที่ ${r.have_n+1}` : "ฟามใบแรก")),
+      r.have_n? h("div",{class:"fm"},`มีแล้ว ${r.have_n} ใบ (${where}) — ใบที่ฟามอยู่เป็นใบเพิ่ม ไม่ได้นับใบที่มี`) : null,
       h("div",{class:"fm"},`${c.m||"?"} · Lv ${c.lv??"?"} · ${c.l===1?"มอนทั่วไป":c.l===2?"Elite":c.l===3?"Mini-boss":"Field Boss"} · โอกาสได้วิญญาณ ${c.sc}%/ตัว`),
       h("div",{class:"fctl"},
         h("label",{},"ใครฟาม", h("select",{onchange:e=>setFarm(f.slug,{who:e.target.value})}, ["taru","karina","steve"].map(k=>h("option",{value:k,selected:f.who===k},LOCNAME[k])))),
-        h("label",{},"เป้าหมาย", h("select",{onchange:e=>setFarm(f.slug,{target:+e.target.value})}, tOpts.length? tOpts.map(s=>h("option",{value:s,selected:s===r.to},`★${s}`)) : [h("option",{},"★5 แล้ว")])),
         h("label",{},"วิญญาณที่มี", h("input",{type:"number",min:"0",inputmode:"numeric",value:String(f.have||0),onchange:e=>setFarm(f.slug,{have:Math.max(0,parseInt(e.target.value,10)||0)})}))),
       h("div",{class:"bar",role:"progressbar","aria-valuenow":String(Math.round(pct)),"aria-valuemin":"0","aria-valuemax":"100"},h("i",{style:`width:${pct}%`})),
       h("div",{class:"fout"},
-        h("span",{},"ต้องใช้ ",h("b",{},r.need.toLocaleString())," · เหลือ ",h("b",{},r.remain.toLocaleString())," ดวง"),
+        h("span",{},"แลก ★1 ต้องใช้ ",h("b",{},r.need.toLocaleString())," · เหลือ ",h("b",{},r.remain.toLocaleString())," ดวง"),
         h("span",{},"ฆ่าอีก ~",h("b",{},r.kills!=null?r.kills.toLocaleString():"?")," ตัว")),
       h("div",{class:"fout time"},
         h("label",{class:"kpm"},"ฆ่าได้",h("input",{type:"number",min:"0",step:"0.1",inputmode:"decimal",placeholder:"?",value:f.kpm?String(f.kpm):"",onchange:e=>setFarm(f.slug,{kpm:Math.max(0,parseFloat(e.target.value)||0)||null}),"aria-label":"ฆ่าได้กี่ตัวต่อนาที"}),"ตัว/นาที"),
