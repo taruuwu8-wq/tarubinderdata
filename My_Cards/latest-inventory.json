@@ -1,0 +1,1613 @@
+{
+  "format": "taru-card-inventory",
+  "version": 1,
+  "characterPriority": [
+    "Taru",
+    "Karina",
+    "Steve"
+  ],
+  "trackedStars": 5,
+  "savedAt": "2026-11-16T16:20:04.213Z",
+  "cards": {
+    "abyss_jelly": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          4
+        ]
+      },
+      "note": ""
+    },
+    "acorn_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "anchor_crab": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "note": ""
+    },
+    "barnacle_remnant": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "bog_wisp": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "brass_mimic": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "compass_wisp": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "coral_pebblit": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "crucible_hound": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "drift_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "drowned_bosun": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "dusk_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "frost_crab": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "gale_wisp": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "glass_sprout": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "gloom_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "note": ""
+    },
+    "gull_harpy": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "hill_hound": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "hollow_caster": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "note": ""
+    },
+    "lamp_wisp": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "note": ""
+    },
+    "lantern_moth": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          6
+        ]
+      },
+      "note": ""
+    },
+    "lantern_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "marrow_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "mere_lurker": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "mire_elder": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "mirror_merchant": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "muster_hound": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "note": ""
+    },
+    "plains_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "plate_turtle": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "reed_crane": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "reed_lurker": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "rock_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "rust_remnant": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "shard_thornling": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "shrine_firefly": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          3
+        ]
+      },
+      "note": ""
+    },
+    "skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "sky_wisp": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      "note": ""
+    },
+    "slag_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "snipcrab": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "thornling": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "throne_guard": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "tide_brute": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "umbral_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "vale_keeper": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    },
+    "vase_lurker": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "void_wisp": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "note": ""
+    },
+    "wrack_skitter": {
+      "counts": {
+        "taru": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "karina": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "steve": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "bank": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "note": ""
+    }
+  },
+  "names": {
+    "abyss_jelly": "Abyss Jelly",
+    "acorn_skitter": "Acorn Skitter",
+    "anchor_crab": "Anchor Crab",
+    "barnacle_remnant": "Barnacle Remnant",
+    "bog_wisp": "Bog Wisp",
+    "brass_mimic": "Brass Mimic",
+    "compass_wisp": "Compass Wisp",
+    "coral_pebblit": "Coral Pebblit",
+    "crucible_hound": "Crucible Hound",
+    "drift_skitter": "Drift Skitter",
+    "drowned_bosun": "Drowned Bosun",
+    "dusk_skitter": "Dusk Skitter",
+    "frost_crab": "Frost Crab",
+    "gale_wisp": "Gale Wisp",
+    "glass_sprout": "Glass Sprout",
+    "gloom_skitter": "Gloom Skitter",
+    "gull_harpy": "Gull Harpy",
+    "hill_hound": "Hill Hound",
+    "hollow_caster": "Hollow Caster",
+    "lamp_wisp": "Lamp Wisp",
+    "lantern_moth": "Lantern Moth",
+    "lantern_skitter": "Lantern Skitter",
+    "marrow_skitter": "Marrow Skitter",
+    "mere_lurker": "Mere Lurker",
+    "mire_elder": "Mire Elder",
+    "mirror_merchant": "Mirror Merchant",
+    "muster_hound": "Muster Hound",
+    "plains_skitter": "Plains Skitter",
+    "plate_turtle": "Plate Turtle",
+    "reed_crane": "Reed Crane",
+    "reed_lurker": "Reed Lurker",
+    "rock_skitter": "Rock Skitter",
+    "rust_remnant": "Rust Remnant",
+    "shard_thornling": "Shard Thornling",
+    "shrine_firefly": "Shrine Firefly",
+    "skitter": "Skitter",
+    "sky_wisp": "Sky Wisp",
+    "slag_skitter": "Slag Skitter",
+    "snipcrab": "Snipcrab",
+    "thornling": "Thornling",
+    "throne_guard": "Throne Guard",
+    "tide_brute": "Tide Brute",
+    "umbral_skitter": "Umbral Skitter",
+    "vale_keeper": "Vale Keeper",
+    "vase_lurker": "Vase Lurker",
+    "void_wisp": "Void Wisp",
+    "wrack_skitter": "Wrack Skitter"
+  }
+}
