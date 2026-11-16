@@ -1,3 +1,7 @@
+## Latest Wiki refresh · 2026-11-16
+
+Use the [latest Wiki capture](Raw/Snapshots/2026-11-16/) for the official Build dataset and [82 refreshed monster/card details](Structured_Data/wiki-refresh-2026-11-16.json), including DEF and MDEF. The organized data described below predates this capture, and the live dashboard still uses its pinned snapshot.
+
 ## Dashboard and Cloud continuation
 
 The complete portable Taru Build Lab is in [Dashboard/](Dashboard/). Start with [CLOUD_HANDOFF.md](CLOUD_HANDOFF.md) for setup, current state and continuation notes. Run `cd Dashboard && npm test`, then `npm run preview`. No npm dependencies or external credentials are required for the checked-in snapshot.

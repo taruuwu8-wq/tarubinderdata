@@ -1,0 +1,2386 @@
+{
+ "captured_date": "2026-11-16",
+ "build_data_path": "Raw/Snapshots/2026-11-16/build-data.json",
+ "build_data_url": "https://wiki.bindertowngame.com/tools/build-data.json?v=202611161033",
+ "count": 82,
+ "records": [
+  {
+   "id": "hex_mote",
+   "name": "Hex Mote",
+   "role": "trash",
+   "levels": [
+    8,
+    11
+   ],
+   "homes": [
+    {
+     "map": "riverside"
+    }
+   ],
+   "hp": 897,
+   "def": 0,
+   "mdef": 13,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 1.5% (โดนดาเมจเวทน้อยลง)",
+     "★5": "ต้านเวท 5% (โดนดาเมจเวทน้อยลง)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/hex_mote",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/hex_mote.md"
+  },
+  {
+   "id": "rune_wisp",
+   "name": "Rune Wisp",
+   "role": "trash",
+   "levels": [
+    31,
+    35
+   ],
+   "homes": [
+    {
+     "map": "ember_hollow"
+    }
+   ],
+   "hp": 4542,
+   "def": 0,
+   "mdef": 42,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 2% (โดนดาเมจเวทน้อยลง) · MATK +0.5%",
+     "★5": "ต้านเวท 6% (โดนดาเมจเวทน้อยลง) · MATK +2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 3,600 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/rune_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/rune_wisp.md"
+  },
+  {
+   "id": "ward_wisp",
+   "name": "Ward Wisp",
+   "role": "trash",
+   "levels": [
+    60,
+    63
+   ],
+   "homes": [
+    {
+     "map": "howling_steppes"
+    }
+   ],
+   "hp": 15159,
+   "def": 0,
+   "mdef": 76,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 2.5% (โดนดาเมจเวทน้อยลง) · Max HP +0.6%",
+     "★5": "ต้านเวท 7% (โดนดาเมจเวทน้อยลง) · Max HP +2.4%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/ward_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/ward_wisp.md"
+  },
+  {
+   "id": "null_wisp",
+   "name": "Null Wisp",
+   "role": "trash",
+   "levels": [
+    71,
+    78
+   ],
+   "homes": [
+    {
+     "map": "shattered_vale"
+    }
+   ],
+   "hp": 29349,
+   "def": 0,
+   "mdef": 94,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 3% (โดนดาเมจเวทน้อยลง) · ลดดาเมจที่ได้รับ 0.4%",
+     "★5": "ต้านเวท 8% (โดนดาเมจเวทน้อยลง) · ลดดาเมจที่ได้รับ 1.5%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 4,800 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/null_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/null_wisp.md"
+  },
+  {
+   "id": "anchorjaw_wreckmaw",
+   "name": "Anchorjaw Wreckmaw",
+   "role": "boss",
+   "levels": [
+    102,
+    102
+   ],
+   "homes": [
+    {
+     "map": "keelbreak_cove"
+    }
+   ],
+   "hp": 20366175,
+   "def": 222,
+   "mdef": 93,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Anchor Drop · เมื่อโจมตีโดน (12%): สมอทุบเป้าเพิ่ม 40% ของดาเมจครั้งนั้น + สตัน 1 วิ (Boss / Mini-boss ไม่โดนสตัน) · ลดดาเมจที่ได้รับ 2.5%",
+     "★5": "Anchor Drop · เมื่อโจมตีโดน (12%): สมอทุบเป้าเพิ่ม 100% ของดาเมจครั้งนั้น + สตัน 1 วิ (Boss / Mini-boss ไม่โดนสตัน) · ลดดาเมจที่ได้รับ 8.8%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/anchorjaw_wreckmaw",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/anchorjaw_wreckmaw.md"
+  },
+  {
+   "id": "lanternwake_matron",
+   "name": "Lanternwake Matron",
+   "role": "boss",
+   "levels": [
+    104,
+    104
+   ],
+   "homes": [
+    {
+     "map": "ricewater_shrine"
+    }
+   ],
+   "hp": 25870140,
+   "def": 228,
+   "mdef": 95,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Lantern Wake · เมื่อสังหารมอน: ตัวเองและปาร์ตี้ในระยะ 8 ช่องฟื้น MP 3% (ทุก 12 วิ) · MATK +2.2%",
+     "★5": "Lantern Wake · เมื่อสังหารมอน: ตัวเองและปาร์ตี้ในระยะ 8 ช่องฟื้น MP 8% (ทุก 12 วิ) · MATK +8.8%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/lanternwake_matron",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/lanternwake_matron.md"
+  },
+  {
+   "id": "coralhorn_bastion",
+   "name": "Coralhorn Bastion",
+   "role": "boss",
+   "levels": [
+    106,
+    106
+   ],
+   "homes": [
+    {
+     "map": "coralhorn_shelf"
+    }
+   ],
+   "hp": 26374188,
+   "def": 231,
+   "mdef": 96,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Coral Spines · เมื่อโดนดาเมจ: หนามปะการังแทงมอนรอบตัว 3 ช่อง 4% ของ Max HP คุณ (ทุก 3 วิ) · เมื่อโดนดาเมจ (12%): ลดดาเมจที่ได้รับ 7% นาน 4 วิ",
+     "★5": "Coral Spines · เมื่อโดนดาเมจ: หนามปะการังแทงมอนรอบตัว 3 ช่อง 10% ของ Max HP คุณ (ทุก 3 วิ) · เมื่อโดนดาเมจ (12%): ลดดาเมจที่ได้รับ 25% นาน 4 วิ"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/coralhorn_bastion",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/coralhorn_bastion.md"
+  },
+  {
+   "id": "drowned_magistrate",
+   "name": "Drowned Magistrate",
+   "role": "boss",
+   "levels": [
+    108,
+    108
+   ],
+   "homes": [
+    {
+     "map": "magistrates_basin"
+    }
+   ],
+   "hp": 32251608,
+   "def": 235,
+   "mdef": 98,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Final Verdict · เมื่อโจมตีโดนมอนที่ HP < 30%: ตัดสินเพิ่ม 60% ของดาเมจครั้งนั้น (ทุก 10 วิ) · ดาเมจคริ +10%",
+     "★5": "Final Verdict · เมื่อโจมตีโดนมอนที่ HP < 30%: ตัดสินเพิ่ม 150% ของดาเมจครั้งนั้น (ทุก 10 วิ) · ดาเมจคริ +35%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/drowned_magistrate",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/drowned_magistrate.md"
+  },
+  {
+   "id": "sigil_wisp",
+   "name": "Sigil Wisp",
+   "role": "trash",
+   "levels": [
+    108,
+    109
+   ],
+   "homes": [
+    {
+     "map": "stormrail_causeway"
+    }
+   ],
+   "hp": 368490,
+   "def": 0,
+   "mdef": 131,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 3.5% (โดนดาเมจเวทน้อยลง) · Spell Amp 0.8% (ดาเมจสกิลเวท)",
+     "★5": "ต้านเวท 9% (โดนดาเมจเวทน้อยลง) · Spell Amp 3% (ดาเมจสกิลเวท)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/sigil_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/sigil_wisp.md"
+  },
+  {
+   "id": "railstorm_wyrm",
+   "name": "Railstorm Wyrm",
+   "role": "boss",
+   "levels": [
+    110,
+    110
+   ],
+   "homes": [
+    {
+     "map": "thunderline_depot"
+    }
+   ],
+   "hp": 31372506,
+   "def": 241,
+   "mdef": 100,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Rail Surge · เมื่อโจมตีโดน (12%): สปีดตี +8% และสปีดวิ่ง +15% นาน 4 วิ (ทุก 10 วิ) · สปีดตี +3.5%",
+     "★5": "Rail Surge · เมื่อโจมตีโดน (12%): สปีดตี +20% และสปีดวิ่ง +15% นาน 4 วิ (ทุก 10 วิ) · สปีดตี +12.5%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/railstorm_wyrm",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/railstorm_wyrm.md"
+  },
+  {
+   "id": "moonpetal_sprout",
+   "name": "Moonpetal Sprout",
+   "role": "trash",
+   "levels": [
+    114,
+    115
+   ],
+   "homes": [
+    {
+     "map": "moonpool_gardens"
+    }
+   ],
+   "hp": 382893,
+   "def": 92,
+   "mdef": 58,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ช่วงกลางคืน: ดาเมจ +2.6%",
+     "★5": "ช่วงกลางคืน: ดาเมจ +10%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/moonpetal_sprout",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/moonpetal_sprout.md"
+  },
+  {
+   "id": "kilnshell_colossus",
+   "name": "Kilnshell Colossus",
+   "role": "boss",
+   "levels": [
+    113,
+    113
+   ],
+   "homes": [
+    {
+     "map": "searing_kilnyard"
+    }
+   ],
+   "hp": 32174322,
+   "def": 247,
+   "mdef": 103,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Kiln Guard · เมื่อสังหารมอน: ได้โล่ 6% Max HP นาน 6 วิ (ทุก 10 วิ) · ATK +2.2%",
+     "★5": "Kiln Guard · เมื่อสังหารมอน: ได้โล่ 15% Max HP นาน 6 วิ (ทุก 10 วิ) · ATK +8.8%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/kilnshell_colossus",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/kilnshell_colossus.md"
+  },
+  {
+   "id": "glasshouse_mantis",
+   "name": "Glasshouse Mantis",
+   "role": "ambush",
+   "levels": [
+    113,
+    116
+   ],
+   "homes": [
+    {
+     "map": "moonpool_gardens"
+    }
+   ],
+   "hp": 487956,
+   "def": 93,
+   "mdef": 58,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่มอนที่ HP > 90% +2.7% · โอกาสคริ +0.4%",
+     "★5": "ดาเมจใส่มอนที่ HP > 90% +11% · โอกาสคริ +1.1%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/glasshouse_mantis",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/glasshouse_mantis.md"
+  },
+  {
+   "id": "lily_toad",
+   "name": "Lily Toad",
+   "role": "tank",
+   "levels": [
+    113,
+    116
+   ],
+   "homes": [
+    {
+     "map": "moonpool_gardens"
+    }
+   ],
+   "hp": 438381,
+   "def": 232,
+   "mdef": 23,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "AGI +2",
+     "★5": "AGI +9"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/lily_toad",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/lily_toad.md"
+  },
+  {
+   "id": "moonlit_wisp",
+   "name": "Moonlit Wisp",
+   "role": "trash",
+   "levels": [
+    113,
+    115
+   ],
+   "homes": [
+    {
+     "map": "moonpool_gardens"
+    }
+   ],
+   "hp": 529311,
+   "def": 0,
+   "mdef": 138,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 4.2% (โดนดาเมจเวทน้อยลง) · MATK +1.2%",
+     "★5": "ต้านเวท 11% (โดนดาเมจเวทน้อยลง) · MATK +4.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/moonlit_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/moonlit_wisp.md"
+  },
+  {
+   "id": "salt_golem",
+   "name": "Salt Golem",
+   "role": "tank",
+   "levels": [
+    116,
+    118
+   ],
+   "homes": [
+    {
+     "map": "brinewick_saltworks"
+    }
+   ],
+   "hp": 587256,
+   "def": 236,
+   "mdef": 24,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับ 1.1%",
+     "★5": "ลดดาเมจที่ได้รับ 4.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/salt_golem",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/salt_golem.md"
+  },
+  {
+   "id": "topiary_knight",
+   "name": "Topiary Knight",
+   "role": "elite",
+   "levels": [
+    117,
+    117
+   ],
+   "homes": [
+    {
+     "map": "moonpool_gardens"
+    }
+   ],
+   "hp": 9916896,
+   "def": 94,
+   "mdef": 129,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "ดาเมจใส่ Elite / Mini-boss +5.4% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 6.8% ทันที (ทุก 45 วิ)",
+     "★5": "ดาเมจใส่ Elite / Mini-boss +19% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 24% ทันที (ทุก 45 วิ)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/topiary_knight",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/topiary_knight.md"
+  },
+  {
+   "id": "brine_skitter",
+   "name": "Brine Skitter",
+   "role": "pack",
+   "levels": [
+    115,
+    117
+   ],
+   "homes": [
+    {
+     "map": "brinewick_saltworks"
+    }
+   ],
+   "hp": 349440,
+   "def": 94,
+   "mdef": 59,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่มอนที่ติดดีบัฟ +2.3%",
+     "★5": "ดาเมจใส่มอนที่ติดดีบัฟ +8.4%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/brine_skitter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/brine_skitter.md"
+  },
+  {
+   "id": "kettle_imp",
+   "name": "Kettle Imp",
+   "role": "trash",
+   "levels": [
+    115,
+    117
+   ],
+   "homes": [
+    {
+     "map": "brinewick_saltworks"
+    }
+   ],
+   "hp": 717765,
+   "def": 0,
+   "mdef": 140,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ATK +0.8% · คูลดาวน์สกิล −0.3%",
+     "★5": "ATK +3.1% · คูลดาวน์สกิล −1.1%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/kettle_imp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/kettle_imp.md"
+  },
+  {
+   "id": "rake_remnant",
+   "name": "Rake Remnant",
+   "role": "trash",
+   "levels": [
+    115,
+    117
+   ],
+   "homes": [
+    {
+     "map": "brinewick_saltworks"
+    }
+   ],
+   "hp": 513870,
+   "def": 94,
+   "mdef": 129,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ATK +1.1%",
+     "★5": "ATK +4.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/rake_remnant",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/rake_remnant.md"
+  },
+  {
+   "id": "bonefin_skitter",
+   "name": "Bonefin Skitter",
+   "role": "pack",
+   "levels": [
+    118,
+    119
+   ],
+   "homes": [
+    {
+     "map": "the_inverted_sea"
+    }
+   ],
+   "hp": 471204,
+   "def": 95,
+   "mdef": 60,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "สปีดตี +1.4%",
+     "★5": "สปีดตี +6%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/bonefin_skitter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/bonefin_skitter.md"
+  },
+  {
+   "id": "boiler_brute",
+   "name": "Boiler Brute",
+   "role": "elite",
+   "levels": [
+    119,
+    119
+   ],
+   "homes": [
+    {
+     "map": "brinewick_saltworks"
+    }
+   ],
+   "hp": 9330096,
+   "def": 133,
+   "mdef": 60,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "ATK +1.4% · เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 1% ของ Max HP ตัวที่ตาย",
+     "★5": "ATK +5% · เมื่อสังหารมอน: ศพระเบิดตีหมู่รอบๆ 3.5% ของ Max HP ตัวที่ตาย"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/boiler_brute",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/boiler_brute.md"
+  },
+  {
+   "id": "silt_lurker",
+   "name": "Silt Lurker",
+   "role": "ambush",
+   "levels": [
+    117,
+    120
+   ],
+   "homes": [
+    {
+     "map": "the_inverted_sea"
+    }
+   ],
+   "hp": 882813,
+   "def": 96,
+   "mdef": 60,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +3.7% นาน 4 วิ",
+     "★5": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +14% นาน 4 วิ"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/silt_lurker",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/silt_lurker.md"
+  },
+  {
+   "id": "dry_jelly",
+   "name": "Dry Jelly",
+   "role": "trash",
+   "levels": [
+    118,
+    119
+   ],
+   "homes": [
+    {
+     "map": "the_inverted_sea"
+    }
+   ],
+   "hp": 972942,
+   "def": 0,
+   "mdef": 143,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 5% ของดาเมจ ลดลงทุกเด้ง · ดาเมจใส่มอนที่ติดดีบัฟ +0.3%",
+     "★5": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 18% ของดาเมจ ลดลงทุกเด้ง · ดาเมจใส่มอนที่ติดดีบัฟ +1.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/dry_jelly",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/dry_jelly.md"
+  },
+  {
+   "id": "saltwight_archon",
+   "name": "Saltwight Archon",
+   "role": "boss",
+   "levels": [
+    118,
+    118
+   ],
+   "homes": [
+    {
+     "map": "saltwight_pans"
+    }
+   ],
+   "hp": 33534882,
+   "def": 257,
+   "mdef": 107,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Salt Crust · เมื่อโดนดาเมจ (20%): มอนที่ตีคุณติดเกลือ ตรึง 1.5 วิ และโดนดาเมจแรงขึ้น +10% นาน 4 วิ (Boss / Mini-boss ไม่โดนตรึง) · ลดดาเมจที่ได้รับ 2.5%",
+     "★5": "Salt Crust · เมื่อโดนดาเมจ (20%): มอนที่ตีคุณติดเกลือ ตรึง 1.5 วิ และโดนดาเมจแรงขึ้น +25% นาน 4 วิ (Boss / Mini-boss ไม่โดนตรึง) · ลดดาเมจที่ได้รับ 8.8%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/saltwight_archon",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/saltwight_archon.md"
+  },
+  {
+   "id": "wreck_remnant",
+   "name": "Wreck Remnant",
+   "role": "tank",
+   "levels": [
+    117,
+    120
+   ],
+   "homes": [
+    {
+     "map": "the_inverted_sea"
+    }
+   ],
+   "hp": 786510,
+   "def": 240,
+   "mdef": 132,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับจากสาย Lurker 10%",
+     "★5": "ลดดาเมจที่ได้รับจากสาย Lurker 42%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/wreck_remnant",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/wreck_remnant.md"
+  },
+  {
+   "id": "urchin_pebblit",
+   "name": "Urchin Pebblit",
+   "role": "tank",
+   "levels": [
+    120,
+    122
+   ],
+   "homes": [
+    {
+     "map": "tidepool_terraces"
+    }
+   ],
+   "hp": 1052955,
+   "def": 244,
+   "mdef": 24,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 12%",
+     "★5": "เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 42%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/urchin_pebblit",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/urchin_pebblit.md"
+  },
+  {
+   "id": "dredge_crab",
+   "name": "Dredge Crab",
+   "role": "elite",
+   "levels": [
+    121,
+    121
+   ],
+   "homes": [
+    {
+     "map": "the_inverted_sea"
+    }
+   ],
+   "hp": 10300656,
+   "def": 97,
+   "mdef": 30,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 5.1% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 10%",
+     "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 18% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 37%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/dredge_crab",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/dredge_crab.md"
+  },
+  {
+   "id": "starfish_skitter",
+   "name": "Starfish Skitter",
+   "role": "pack",
+   "levels": [
+    119,
+    121
+   ],
+   "homes": [
+    {
+     "map": "tidepool_terraces"
+    }
+   ],
+   "hp": 631962,
+   "def": 97,
+   "mdef": 61,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อสังหารมอน: สปีดวิ่ง +15% นาน 3 วิ · เมื่อสังหารมอน: ฮีล 0.6% Max HP",
+     "★5": "เมื่อสังหารมอน: สปีดวิ่ง +45% นาน 3 วิ · เมื่อสังหารมอน: ฮีล 1.9% Max HP"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/starfish_skitter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/starfish_skitter.md"
+  },
+  {
+   "id": "pearl_digger",
+   "name": "Pearl Digger",
+   "role": "trash",
+   "levels": [
+    120,
+    122
+   ],
+   "homes": [
+    {
+     "map": "pearlgrave_trench"
+    }
+   ],
+   "hp": 1076085,
+   "def": 98,
+   "mdef": 134,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เรทดรอป +1.1% · Gold จากมอน +2.1%",
+     "★5": "เรทดรอป +4.1% · Gold จากมอน +8.5%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/pearl_digger",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/pearl_digger.md"
+  },
+  {
+   "id": "mirrortide_siren",
+   "name": "Mirrortide Siren",
+   "role": "boss",
+   "levels": [
+    120,
+    120
+   ],
+   "homes": [
+    {
+     "map": "upturned_strand"
+    }
+   ],
+   "hp": 35462124,
+   "def": 263,
+   "mdef": 109,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Siren Song · เมื่อคริ (30%): มอนรอบเป้า 4 ช่องสโลว์ 20% และโดนดาเมจแรงขึ้น +8% นาน 3 วิ · MATK +2.2%",
+     "★5": "Siren Song · เมื่อคริ (30%): มอนรอบเป้า 4 ช่องสโลว์ 40% และโดนดาเมจแรงขึ้น +8% นาน 3 วิ · MATK +8.8%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/mirrortide_siren",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/mirrortide_siren.md"
+  },
+  {
+   "id": "abyss_angler",
+   "name": "Abyss Angler",
+   "role": "mini-boss",
+   "levels": [
+    122,
+    122
+   ],
+   "homes": [
+    {
+     "map": "the_inverted_sea"
+    }
+   ],
+   "hp": 1554245400,
+   "def": 98,
+   "mdef": 61,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "ช่วงกลางคืน: ดาเมจ +3.9% · ATK +2% · เรทดรอปวิญญาณมอน +3.9%",
+     "★5": "ช่วงกลางคืน: ดาเมจ +14% · ATK +7.3% · เรทดรอปวิญญาณมอน +15%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/abyss_angler",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/abyss_angler.md"
+  },
+  {
+   "id": "anemone_thornling",
+   "name": "Anemone Thornling",
+   "role": "ambush",
+   "levels": [
+    119,
+    122
+   ],
+   "homes": [
+    {
+     "map": "tidepool_terraces"
+    }
+   ],
+   "hp": 1183725,
+   "def": 98,
+   "mdef": 61,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่มอนที่ติดดีบัฟ +2.4%",
+     "★5": "ดาเมจใส่มอนที่ติดดีบัฟ +8.4%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/anemone_thornling",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/anemone_thornling.md"
+  },
+  {
+   "id": "pool_crab",
+   "name": "Pool Crab",
+   "role": "trash",
+   "levels": [
+    119,
+    120
+   ],
+   "homes": [
+    {
+     "map": "tidepool_terraces"
+    }
+   ],
+   "hp": 802503,
+   "def": 96,
+   "mdef": 30,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่สาย Crab +7.7%",
+     "★5": "ดาเมจใส่สาย Crab +35%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/pool_crab",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/pool_crab.md"
+  },
+  {
+   "id": "oyster_mimic",
+   "name": "Oyster Mimic",
+   "role": "tank",
+   "levels": [
+    120,
+    123
+   ],
+   "homes": [
+    {
+     "map": "pearlgrave_trench"
+    }
+   ],
+   "hp": 1218144,
+   "def": 246,
+   "mdef": 31,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "Gold จากมอน +3%",
+     "★5": "Gold จากมอน +14%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/oyster_mimic",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/oyster_mimic.md"
+  },
+  {
+   "id": "kelp_thornling",
+   "name": "Kelp Thornling",
+   "role": "ambush",
+   "levels": [
+    122,
+    124
+   ],
+   "homes": [
+    {
+     "map": "tidemill_expanse"
+    }
+   ],
+   "hp": 1594686,
+   "def": 99,
+   "mdef": 62,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 2.7% · เมื่อสังหารมอน: ฮีล 0.2% Max HP",
+     "★5": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 9.9% · เมื่อสังหารมอน: ฮีล 0.7% Max HP"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/kelp_thornling",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/kelp_thornling.md"
+  },
+  {
+   "id": "pearl_hound",
+   "name": "Pearl Hound",
+   "role": "pack",
+   "levels": [
+    120,
+    122
+   ],
+   "homes": [
+    {
+     "map": "pearlgrave_trench"
+    }
+   ],
+   "hp": 860904,
+   "def": 98,
+   "mdef": 61,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจคริ +3.5%",
+     "★5": "ดาเมจคริ +17%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/pearl_hound",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/pearl_hound.md"
+  },
+  {
+   "id": "nacre_pebblit",
+   "name": "Nacre Pebblit",
+   "role": "tank",
+   "levels": [
+    120,
+    122
+   ],
+   "homes": [
+    {
+     "map": "pearlgrave_trench"
+    }
+   ],
+   "hp": 1052955,
+   "def": 244,
+   "mdef": 24,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 3.4%",
+     "★5": "ช่วงกลางคืน: ลดดาเมจที่ได้รับ 12%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/nacre_pebblit",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/nacre_pebblit.md"
+  },
+  {
+   "id": "mill_otter",
+   "name": "Mill Otter",
+   "role": "trash",
+   "levels": [
+    121,
+    123
+   ],
+   "homes": [
+    {
+     "map": "tidemill_expanse"
+    }
+   ],
+   "hp": 1252272,
+   "def": 98,
+   "mdef": 62,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่มอนที่ HP > 90% +2.7% · สปีดวิ่ง +0.7%",
+     "★5": "ดาเมจใส่มอนที่ HP > 90% +11% · สปีดวิ่ง +2.7%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/mill_otter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/mill_otter.md"
+  },
+  {
+   "id": "sluice_skitter",
+   "name": "Sluice Skitter",
+   "role": "pack",
+   "levels": [
+    121,
+    122
+   ],
+   "homes": [
+    {
+     "map": "tidemill_expanse"
+    }
+   ],
+   "hp": 731784,
+   "def": 98,
+   "mdef": 61,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อสังหารมอน: ฟื้น MP 1.6% Max MP",
+     "★5": "เมื่อสังหารมอน: ฟื้น MP 7% Max MP"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/sluice_skitter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/sluice_skitter.md"
+  },
+  {
+   "id": "cliff_gull",
+   "name": "Cliff Gull",
+   "role": "pack",
+   "levels": [
+    123,
+    124
+   ],
+   "homes": [
+    {
+     "map": "gullrock_rookery"
+    }
+   ],
+   "hp": 1159707,
+   "def": 99,
+   "mdef": 62,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "สปีดตี +1.5%",
+     "★5": "สปีดตี +6%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/cliff_gull",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/cliff_gull.md"
+  },
+  {
+   "id": "barnacle_hulk",
+   "name": "Barnacle Hulk",
+   "role": "elite",
+   "levels": [
+    123,
+    123
+   ],
+   "homes": [
+    {
+     "map": "tidepool_terraces"
+    }
+   ],
+   "hp": 9625872,
+   "def": 138,
+   "mdef": 62,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "STR +3 · ลดดาเมจที่ได้รับ 0.6% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 1.9%",
+     "★5": "STR +11 · ลดดาเมจที่ได้รับ 2.1% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 6.6%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/barnacle_hulk",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/barnacle_hulk.md"
+  },
+  {
+   "id": "canal_eel",
+   "name": "Canal Eel",
+   "role": "ambush",
+   "levels": [
+    121,
+    124
+   ],
+   "homes": [
+    {
+     "map": "tidemill_expanse"
+    }
+   ],
+   "hp": 1594686,
+   "def": 99,
+   "mdef": 62,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 4.7% ของดาเมจ ลดลงทุกเด้ง · สปีดตี +0.3%",
+     "★5": "เมื่อโจมตีโดน (10%): สายฟ้าเชนใส่มอนข้างๆ 3 เด้ง 17% ของดาเมจ ลดลงทุกเด้ง · สปีดตี +1.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/canal_eel",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/canal_eel.md"
+  },
+  {
+   "id": "reed_heron",
+   "name": "Reed Heron",
+   "role": "trash",
+   "levels": [
+    121,
+    123
+   ],
+   "homes": [
+    {
+     "map": "tidemill_expanse"
+    }
+   ],
+   "hp": 1127040,
+   "def": 98,
+   "mdef": 62,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่สาย Lurker +7.7%",
+     "★5": "ดาเมจใส่สาย Lurker +35%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/reed_heron",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/reed_heron.md"
+  },
+  {
+   "id": "rook_crab",
+   "name": "Rook Crab",
+   "role": "tank",
+   "levels": [
+    122,
+    125
+   ],
+   "homes": [
+    {
+     "map": "gullrock_rookery"
+    }
+   ],
+   "hp": 1630311,
+   "def": 250,
+   "mdef": 31,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เรทดรอป +1.2% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 2.3%",
+     "★5": "เรทดรอป +4.5% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 7.9%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/rook_crab",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/rook_crab.md"
+  },
+  {
+   "id": "bone_crawler",
+   "name": "Bone Crawler",
+   "role": "pack",
+   "levels": [
+    123,
+    125
+   ],
+   "homes": [
+    {
+     "map": "leviathan_spine"
+    }
+   ],
+   "hp": 1141164,
+   "def": 100,
+   "mdef": 63,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เจาะเกราะ 2.2% (ไม่สน DEF / MDEF มอน) · ใส่ผู้เล่น: ดาเมจ +1.1%",
+     "★5": "เจาะเกราะ 6% (ไม่สน DEF / MDEF มอน) · ใส่ผู้เล่น: ดาเมจ +3%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/bone_crawler",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/bone_crawler.md"
+  },
+  {
+   "id": "storm_petrel",
+   "name": "Storm Petrel",
+   "role": "trash",
+   "levels": [
+    122,
+    124
+   ],
+   "homes": [
+    {
+     "map": "gullrock_rookery"
+    }
+   ],
+   "hp": 2077086,
+   "def": 0,
+   "mdef": 149,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "สปีดวิ่ง +2% · สปีดตี +0.7%",
+     "★5": "สปีดวิ่ง +7.8% · สปีดตี +2.6%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/storm_petrel",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/storm_petrel.md"
+  },
+  {
+   "id": "rook_harpy",
+   "name": "Rook Harpy",
+   "role": "trash",
+   "levels": [
+    122,
+    124
+   ],
+   "homes": [
+    {
+     "map": "gullrock_rookery"
+    }
+   ],
+   "hp": 1304691,
+   "def": 99,
+   "mdef": 62,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "โอกาสคริ +1.5%",
+     "★5": "โอกาสคริ +4.6%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/rook_harpy",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/rook_harpy.md"
+  },
+  {
+   "id": "fossil_remnant",
+   "name": "Fossil Remnant",
+   "role": "trash",
+   "levels": [
+    123,
+    125
+   ],
+   "homes": [
+    {
+     "map": "leviathan_spine"
+    }
+   ],
+   "hp": 1678128,
+   "def": 100,
+   "mdef": 138,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เรทดรอปวิญญาณมอน +5% · เรทดรอป +1%",
+     "★5": "เรทดรอปวิญญาณมอน +19% · เรทดรอป +3.5%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/fossil_remnant",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/fossil_remnant.md"
+  },
+  {
+   "id": "glass_acolyte",
+   "name": "Glass Acolyte",
+   "role": "trash",
+   "levels": [
+    124,
+    126
+   ],
+   "homes": [
+    {
+     "map": "bellglass_cathedral"
+    }
+   ],
+   "hp": 1942650,
+   "def": 101,
+   "mdef": 139,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "Spell Amp 1.5% (ดาเมจสกิลเวท)",
+     "★5": "Spell Amp 5.2% (ดาเมจสกิลเวท)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/glass_acolyte",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/glass_acolyte.md"
+  },
+  {
+   "id": "pearl_matriarch",
+   "name": "Pearl Matriarch",
+   "role": "mini-boss",
+   "levels": [
+    125,
+    125
+   ],
+   "homes": [
+    {
+     "map": "pearlgrave_trench"
+    }
+   ],
+   "hp": 1615314900,
+   "def": 100,
+   "mdef": 31,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 7% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 14% ทันที (ทุก 45 วิ) · Gold จากมอน +2.9%",
+     "★5": "ลดดาเมจที่ได้รับจาก Boss / Mini-boss 23% · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 45% ทันที (ทุก 45 วิ) · Gold จากมอน +12%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/pearl_matriarch",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/pearl_matriarch.md"
+  },
+  {
+   "id": "mill_golem",
+   "name": "Mill Golem",
+   "role": "elite",
+   "levels": [
+    125,
+    125
+   ],
+   "homes": [
+    {
+     "map": "tidemill_expanse"
+    }
+   ],
+   "hp": 9793056,
+   "def": 140,
+   "mdef": 63,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "DEX +3 · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 11% ทันที (ทุก 45 วิ)",
+     "★5": "DEX +13 · เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 33% ทันที (ทุก 45 วิ)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/mill_golem",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/mill_golem.md"
+  },
+  {
+   "id": "marrow_leech",
+   "name": "Marrow Leech",
+   "role": "ambush",
+   "levels": [
+    123,
+    126
+   ],
+   "homes": [
+    {
+     "map": "leviathan_spine"
+    }
+   ],
+   "hp": 2136834,
+   "def": 101,
+   "mdef": 63,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ขณะ HP < 35%: ดาเมจ +7.4%",
+     "★5": "ขณะ HP < 35%: ดาเมจ +28%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/marrow_leech",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/marrow_leech.md"
+  },
+  {
+   "id": "rib_pebblit",
+   "name": "Rib Pebblit",
+   "role": "tank",
+   "levels": [
+    123,
+    126
+   ],
+   "homes": [
+    {
+     "map": "leviathan_spine"
+    }
+   ],
+   "hp": 1885647,
+   "def": 252,
+   "mdef": 25,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับจากสาย Skitter 10%",
+     "★5": "ลดดาเมจที่ได้รับจากสาย Skitter 42%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/rib_pebblit",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/rib_pebblit.md"
+  },
+  {
+   "id": "bell_wisp",
+   "name": "Bell Wisp",
+   "role": "trash",
+   "levels": [
+    124,
+    126
+   ],
+   "homes": [
+    {
+     "map": "bellglass_cathedral"
+    }
+   ],
+   "hp": 2811303,
+   "def": 0,
+   "mdef": 151,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ต้านเวท 5% (โดนดาเมจเวทน้อยลง) · คูลดาวน์สกิล −1.2%",
+     "★5": "ต้านเวท 13% (โดนดาเมจเวทน้อยลง) · คูลดาวน์สกิล −4.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/bell_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/bell_wisp.md"
+  },
+  {
+   "id": "gargoyle_skitter",
+   "name": "Gargoyle Skitter",
+   "role": "pack",
+   "levels": [
+    124,
+    126
+   ],
+   "homes": [
+    {
+     "map": "bellglass_cathedral"
+    }
+   ],
+   "hp": 1320891,
+   "def": 101,
+   "mdef": 63,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับ 1.2%",
+     "★5": "ลดดาเมจที่ได้รับ 4.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/gargoyle_skitter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/gargoyle_skitter.md"
+  },
+  {
+   "id": "lock_keeper",
+   "name": "Lock Keeper",
+   "role": "trash",
+   "levels": [
+    125,
+    127
+   ],
+   "homes": [
+    {
+     "map": "kelpgate_locks"
+    }
+   ],
+   "hp": 2248320,
+   "def": 102,
+   "mdef": 140,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "Gold จากมอน +2.4% · เมื่อสังหารมอน: ฟื้น MP 0.4% Max MP",
+     "★5": "Gold จากมอน +11% · เมื่อสังหารมอน: ฟื้น MP 1.5% Max MP"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/lock_keeper",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/lock_keeper.md"
+  },
+  {
+   "id": "roc_hatchling",
+   "name": "Roc Hatchling",
+   "role": "elite",
+   "levels": [
+    126,
+    126
+   ],
+   "homes": [
+    {
+     "map": "gullrock_rookery"
+    }
+   ],
+   "hp": 9876528,
+   "def": 141,
+   "mdef": 63,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "เมื่อคริ (30%): สปีดตี +5.5% นาน 5 วิ · ดาเมจใส่ Field Boss +3.3%",
+     "★5": "เมื่อคริ (30%): สปีดตี +20% นาน 5 วิ · ดาเมจใส่ Field Boss +12%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/roc_hatchling",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/roc_hatchling.md"
+  },
+  {
+   "id": "shard_mantis",
+   "name": "Shard Mantis",
+   "role": "ambush",
+   "levels": [
+    124,
+    126
+   ],
+   "homes": [
+    {
+     "map": "bellglass_cathedral"
+    }
+   ],
+   "hp": 2136834,
+   "def": 101,
+   "mdef": 63,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจคริ +3.6%",
+     "★5": "ดาเมจคริ +17%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/shard_mantis",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/shard_mantis.md"
+  },
+  {
+   "id": "gate_crab",
+   "name": "Gate Crab",
+   "role": "tank",
+   "levels": [
+    125,
+    128
+   ],
+   "homes": [
+    {
+     "map": "kelpgate_locks"
+    }
+   ],
+   "hp": 2522496,
+   "def": 256,
+   "mdef": 32,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 12% ทันที (ทุก 45 วิ)",
+     "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 42% ทันที (ทุก 45 วิ)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/gate_crab",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/gate_crab.md"
+  },
+  {
+   "id": "spinefall_leviathan",
+   "name": "Spinefall Leviathan",
+   "role": "boss",
+   "levels": [
+    126,
+    126
+   ],
+   "homes": [
+    {
+     "map": "marrowfall_gorge"
+    }
+   ],
+   "hp": 46360080,
+   "def": 276,
+   "mdef": 115,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Marrow Bite · เมื่อโจมตีโดน Elite / Mini-boss / Boss (15%): กัดเพิ่ม 30% ของดาเมจครั้งนั้น ไม่สน DEF (ทุก 3 วิ) · ดาเมจใส่ Field Boss +8%",
+     "★5": "Marrow Bite · เมื่อโจมตีโดน Elite / Mini-boss / Boss (15%): กัดเพิ่ม 80% ของดาเมจครั้งนั้น ไม่สน DEF (ทุก 3 วิ) · ดาเมจใส่ Field Boss +29%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/spinefall_leviathan",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/spinefall_leviathan.md"
+  },
+  {
+   "id": "kelp_lurker",
+   "name": "Kelp Lurker",
+   "role": "ambush",
+   "levels": [
+    125,
+    128
+   ],
+   "homes": [
+    {
+     "map": "kelpgate_locks"
+    }
+   ],
+   "hp": 2876592,
+   "def": 102,
+   "mdef": 64,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +3.1% นาน 4 วิ · ดาเมจใส่สาย Crab +1.7%",
+     "★5": "เมื่อโจมตีโดน (10%): เป้าโดนดาเมจแรงขึ้น +11% นาน 4 วิ · ดาเมจใส่สาย Crab +6.9%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/kelp_lurker",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/kelp_lurker.md"
+  },
+  {
+   "id": "lock_golem",
+   "name": "Lock Golem",
+   "role": "tank",
+   "levels": [
+    125,
+    128
+   ],
+   "homes": [
+    {
+     "map": "kelpgate_locks"
+    }
+   ],
+   "hp": 2522496,
+   "def": 256,
+   "mdef": 26,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่ Field Boss +3.8%",
+     "★5": "ดาเมจใส่ Field Boss +14%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/lock_golem",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/lock_golem.md"
+  },
+  {
+   "id": "spine_wyrm",
+   "name": "Spine Wyrm",
+   "role": "mini-boss",
+   "levels": [
+    128,
+    128
+   ],
+   "homes": [
+    {
+     "map": "leviathan_spine"
+    }
+   ],
+   "hp": 1677286800,
+   "def": 102,
+   "mdef": 64,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "ATK +1.9% · ดาเมจใส่ Field Boss +4.6% · เจาะเกราะ 1.7% (ไม่สน DEF / MDEF มอน) · ใส่ผู้เล่น: ดาเมจ +0.9%",
+     "★5": "ATK +6.8% · ดาเมจใส่ Field Boss +17% · เจาะเกราะ 4.6% (ไม่สน DEF / MDEF มอน) · ใส่ผู้เล่น: ดาเมจ +2.3%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/spine_wyrm",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/spine_wyrm.md"
+  },
+  {
+   "id": "choir_sentinel",
+   "name": "Choir Sentinel",
+   "role": "elite",
+   "levels": [
+    128,
+    128
+   ],
+   "homes": [
+    {
+     "map": "bellglass_cathedral"
+    }
+   ],
+   "hp": 10983264,
+   "def": 102,
+   "mdef": 141,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "ATK +1.2% · ดาเมจใส่ Elite / Mini-boss +3.8%",
+     "★5": "ATK +4.6% · ดาเมจใส่ Elite / Mini-boss +13%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/choir_sentinel",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/choir_sentinel.md"
+  },
+  {
+   "id": "kelpgate_lockwarden",
+   "name": "Kelpgate Lockwarden",
+   "role": "boss",
+   "levels": [
+    128,
+    128
+   ],
+   "homes": [
+    {
+     "map": "lockwardens_sluice"
+    }
+   ],
+   "hp": 47080782,
+   "def": 280,
+   "mdef": 116,
+   "card": {
+    "color": "Legendary",
+    "spiritLoad": 5,
+    "starEffects": {
+     "★1": "Floodgate · เมื่อโดนดาเมจขณะ HP < 40%: ฟื้น 15% Max HP และล้างสโลว์ / ตรึง (ทุก 60 วิ) · ดูดเลือด 1.3% ของดาเมจกายภาพ",
+     "★5": "Floodgate · เมื่อโดนดาเมจขณะ HP < 40%: ฟื้น 35% Max HP และล้างสโลว์ / ตรึง (ทุก 60 วิ) · ดูดเลือด 4.4% ของดาเมจกายภาพ"
+    },
+    "exchange": "แลกด้วยวิญญาณ 80 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/kelpgate_lockwarden",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/kelpgate_lockwarden.md"
+  },
+  {
+   "id": "bell_warden",
+   "name": "Bell Warden",
+   "role": "mini-boss",
+   "levels": [
+    129,
+    129
+   ],
+   "homes": [
+    {
+     "map": "bellglass_cathedral"
+    }
+   ],
+   "hp": 1698137400,
+   "def": 144,
+   "mdef": 65,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับ 1.7% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 5.6% · คูลดาวน์สกิล −0.9%",
+     "★5": "ลดดาเมจที่ได้รับ 6.2% · ลดดาเมจที่ได้รับจาก Boss / Mini-boss 20% · คูลดาวน์สกิล −3%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/bell_warden",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/bell_warden.md"
+  },
+  {
+   "id": "sluice_brute",
+   "name": "Sluice Brute",
+   "role": "elite",
+   "levels": [
+    129,
+    129
+   ],
+   "homes": [
+    {
+     "map": "kelpgate_locks"
+    }
+   ],
+   "hp": 10126272,
+   "def": 144,
+   "mdef": 65,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "เมื่อโจมตีโดน (8%): สโลว์เป้า 11% นาน 2 วิ · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 8.4% · ลดดาเมจที่ได้รับ 0.8%",
+     "★5": "เมื่อโจมตีโดน (8%): สโลว์เป้า 34% นาน 2 วิ · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 30% · ลดดาเมจที่ได้รับ 2.8%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/sluice_brute",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/sluice_brute.md"
+  },
+  {
+   "id": "tide_regent",
+   "name": "Tide Regent",
+   "role": "mini-boss",
+   "levels": [
+    130,
+    130
+   ],
+   "homes": [
+    {
+     "map": "kelpgate_locks"
+    }
+   ],
+   "hp": 1719083400,
+   "def": 104,
+   "mdef": 117,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "ATK +2.1% · คูลดาวน์สกิล −1% · ดาเมจใส่ Field Boss +4.3%",
+     "★5": "ATK +7.3% · คูลดาวน์สกิล −3.1% · ดาเมจใส่ Field Boss +16%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/tide_regent",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/tide_regent.md"
+  },
+  {
+   "id": "forge_hermit",
+   "name": "Forge Hermit",
+   "role": "mini-boss",
+   "levels": [
+    115,
+    115
+   ],
+   "homes": [
+    {
+     "map": "shellforge_basin"
+    }
+   ],
+   "hp": 1415226900,
+   "def": 92,
+   "mdef": 29,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "เจาะเกราะ 2% (ไม่สน DEF / MDEF มอน) · ใส่ผู้เล่น: ดาเมจ +1% · Max HP +1.7% · ATK +2%",
+     "★5": "เจาะเกราะ 5.5% (ไม่สน DEF / MDEF มอน) · ใส่ผู้เล่น: ดาเมจ +2.8% · Max HP +6% · ATK +7%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 324 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/forge_hermit",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/forge_hermit.md"
+  },
+  {
+   "id": "crucible_hound",
+   "name": "Crucible Hound",
+   "role": "elite",
+   "levels": [
+    114,
+    114
+   ],
+   "homes": [
+    {
+     "map": "shellforge_basin"
+    }
+   ],
+   "hp": 9666240,
+   "def": 91,
+   "mdef": 57,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "โอกาสคริ +1% · ดาเมจคริ +2% · ดาเมจใส่มอนที่ HP > 90% +2.4%",
+     "★5": "โอกาสคริ +3% · ดาเมจคริ +10% · ดาเมจใส่มอนที่ HP > 90% +10%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/crucible_hound",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/crucible_hound.md"
+  },
+  {
+   "id": "slag_skitter",
+   "name": "Slag Skitter",
+   "role": "pack",
+   "levels": [
+    111,
+    112
+   ],
+   "homes": [
+    {
+     "map": "shellforge_basin"
+    }
+   ],
+   "hp": 191214,
+   "def": 90,
+   "mdef": 56,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่มอนที่ติดดีบัฟ +2%",
+     "★5": "ดาเมจใส่มอนที่ติดดีบัฟ +7.6%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/slag_skitter",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/slag_skitter.md"
+  },
+  {
+   "id": "rivet_golem",
+   "name": "Rivet Golem",
+   "role": "tank",
+   "levels": [
+    110,
+    113
+   ],
+   "homes": [
+    {
+     "map": "shellforge_basin"
+    }
+   ],
+   "hp": 282576,
+   "def": 226,
+   "mdef": 23,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับ 1%",
+     "★5": "ลดดาเมจที่ได้รับ 3.9%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/rivet_golem",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/rivet_golem.md"
+  },
+  {
+   "id": "plate_turtle",
+   "name": "Plate Turtle",
+   "role": "tank",
+   "levels": [
+    111,
+    113
+   ],
+   "homes": [
+    {
+     "map": "searing_kilnyard"
+    }
+   ],
+   "hp": 282576,
+   "def": 226,
+   "mdef": 28,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 11% ทันที (ทุก 45 วิ)",
+     "★5": "เมื่อโดนดาเมจขณะ HP < 40%: ฮีล 38% ทันที (ทุก 45 วิ)"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/plate_turtle",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/plate_turtle.md"
+  },
+  {
+   "id": "brass_mimic",
+   "name": "Brass Mimic",
+   "role": "elite",
+   "levels": [
+    103,
+    103
+   ],
+   "homes": [
+    {
+     "map": "wreckwake_coast"
+    }
+   ],
+   "hp": 8638512,
+   "def": 82,
+   "mdef": 26,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "Gold จากมอน +4.4% · เรทดรอป +1.3%",
+     "★5": "Gold จากมอน +22% · เรทดรอป +5.2%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,620 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/brass_mimic",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/brass_mimic.md"
+  },
+  {
+   "id": "lamp_wisp",
+   "name": "Lamp Wisp",
+   "role": "trash",
+   "levels": [
+    94,
+    98
+   ],
+   "homes": [
+    {
+     "map": "rustbell_barracks"
+    }
+   ],
+   "hp": 156813,
+   "def": 0,
+   "mdef": 118,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "Gold จากมอน +3%",
+     "★5": "Gold จากมอน +15%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/lamp_wisp",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/lamp_wisp.md"
+  },
+  {
+   "id": "muster_hound",
+   "name": "Muster Hound",
+   "role": "pack",
+   "levels": [
+    92,
+    97
+   ],
+   "homes": [
+    {
+     "map": "rustbell_barracks"
+    }
+   ],
+   "hp": 96969,
+   "def": 78,
+   "mdef": 49,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ATK +1.1%",
+     "★5": "ATK +5%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/muster_hound",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/muster_hound.md"
+  },
+  {
+   "id": "reed_crane",
+   "name": "Reed Crane",
+   "role": "trash",
+   "levels": [
+    101,
+    103
+   ],
+   "homes": [
+    {
+     "map": "lanternrice_delta"
+    }
+   ],
+   "hp": 231384,
+   "def": 82,
+   "mdef": 52,
+   "card": {
+    "color": "Attack",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "ดาเมจใส่สาย Skitter +6%",
+     "★5": "ดาเมจใส่สาย Skitter +28%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 5,400 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/reed_crane",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/reed_crane.md"
+  },
+  {
+   "id": "shrine_firefly",
+   "name": "Shrine Firefly",
+   "role": "trash",
+   "levels": [
+    14,
+    19
+   ],
+   "homes": [
+    {
+     "map": "ancient_ruins"
+    }
+   ],
+   "hp": 1938,
+   "def": 0,
+   "mdef": 23,
+   "card": {
+    "color": "Growth",
+    "spiritLoad": 1,
+    "starEffects": {
+     "★1": "Gold จากมอน +3%",
+     "★5": "Gold จากมอน +15%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 3,000 ดวง · โอกาสได้วิญญาณต่อตัว 15% (ตีราว 7 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/shrine_firefly",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/shrine_firefly.md"
+  },
+  {
+   "id": "throne_guard",
+   "name": "Throne Guard",
+   "role": "elite",
+   "levels": [
+    99,
+    99
+   ],
+   "homes": [
+    {
+     "map": "throne_of_warden"
+    }
+   ],
+   "hp": 515628,
+   "def": 79,
+   "mdef": 109,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "ลดดาเมจที่ได้รับ 1.2% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 7.3%",
+     "★5": "ลดดาเมจที่ได้รับ 4.9% · เมื่อโดนดาเมจจากมอน: สะท้อนดาเมจกลับ 30%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 1,440 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/throne_guard",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/throne_guard.md"
+  },
+  {
+   "id": "tide_brute",
+   "name": "Tide Brute",
+   "role": "elite",
+   "levels": [
+    13,
+    13
+   ],
+   "homes": [
+    {
+     "map": "riverside"
+    }
+   ],
+   "hp": 6438,
+   "def": 15,
+   "mdef": 7,
+   "card": {
+    "color": "Guard",
+    "spiritLoad": 2,
+    "starEffects": {
+     "★1": "Max HP +3.7%",
+     "★5": "Max HP +16%"
+    },
+    "exchange": "แลกด้วยวิญญาณ 900 ดวง · โอกาสได้วิญญาณต่อตัว 35% (ตีราว 3 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/tide_brute",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/tide_brute.md"
+  },
+  {
+   "id": "vale_keeper",
+   "name": "Vale Keeper",
+   "role": "mini-boss",
+   "levels": [
+    22,
+    22
+   ],
+   "homes": [
+    {
+     "map": "ancient_ruins"
+    }
+   ],
+   "hp": 5589900,
+   "def": 18,
+   "mdef": 24,
+   "card": {
+    "color": "Spirit",
+    "spiritLoad": 3,
+    "starEffects": {
+     "★1": "ดาเมจใส่ Elite / Mini-boss +7.5% · เมื่อสังหารมอน: ฮีล 0.6% Max HP",
+     "★5": "ดาเมจใส่ Elite / Mini-boss +30% · เมื่อสังหารมอน: ฮีล 2.5% Max HP"
+    },
+    "exchange": "แลกด้วยวิญญาณ 216 ดวง · โอกาสได้วิญญาณต่อตัว 100% (ตีราว 1 ตัว)"
+   },
+   "source": "https://wiki.bindertowngame.com/mob/vale_keeper",
+   "capturedDate": "2026-11-16",
+   "sourceFile": "../Raw/Snapshots/2026-11-16/mobs/vale_keeper.md"
+  }
+ ]
+}
