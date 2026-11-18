@@ -1,0 +1,3425 @@
+{
+  "capturedAt": "2026-11-18",
+  "creditBudget": 500,
+  "reportedCredits": 427,
+  "captureCount": 427,
+  "note": "Credits are the sum of per-request metadata. Billing balance may update asynchronously. No user account or inventory data included.",
+  "records": [
+    {
+      "path": "Raw/Snapshots/2026-11-18/app-source.json",
+      "url": "https://wiki.bindertowngame.com/app.js?v=202611171032",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "273d168aa8158dd7bb8580873ce6710bd486c158865a45a475f4530dd5ab1c8b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/build.json",
+      "url": "https://wiki.bindertowngame.com/build",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0bb1914c778f040dbdc1d65d63e19267c01d05457d3d4275301ccb695b07d541"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/buildapp-source.json",
+      "url": "https://wiki.bindertowngame.com/tools/buildapp.js?v=202611171032",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "60c5ab0a1fceea5db8a089a6e6456d61f8db278d43c4c2a56af2ea591d7e87d1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/cards.json",
+      "url": "https://wiki.bindertowngame.com/cards",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "442cbed65b2bdd5b9903d0fd515505fa3ebfa5e2055bf73062fb73b0b7c2de5b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/dmg.json",
+      "url": "https://wiki.bindertowngame.com/dmg",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1eb94b278e50f2264aaebe7fce588cb491d3d57140358f533e50e021c350e254"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/guide__gold.json",
+      "url": "https://wiki.bindertowngame.com/guide/gold",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0b7662c878b74942396c69e763fe1677cc76362f52973905f642b9eb71d8c8c3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/guide__leveling.json",
+      "url": "https://wiki.bindertowngame.com/guide/leveling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "462dad74d78d942d8130eda5d0a8dbb1004a671ff7d369126c9dc2c549b8aa67"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/item__nw_seal_incense.json",
+      "url": "https://wiki.bindertowngame.com/item/nw_seal_incense",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e7c20d02df6692c53413e93f65463c665cb186ba6df9aad54f33f336bbaa7d68"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/item__nw_soul_ink.json",
+      "url": "https://wiki.bindertowngame.com/item/nw_soul_ink",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8e13a170beb876995217d385003f5ceb74e7b1735f8b8b78b3c33ef486d76bfb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/item__oil_quiet.json",
+      "url": "https://wiki.bindertowngame.com/item/oil_quiet",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "95f51184dbdbc1a8ae86f879dbe42f3e32904681411a59e82e1cbe4f84d92e9b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ancient_ruins.json",
+      "url": "https://wiki.bindertowngame.com/map/ancient_ruins",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "965c1394d06c18b1c1964bee802df4414868e63a568369093d076c89dea42633"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ashford.json",
+      "url": "https://wiki.bindertowngame.com/map/ashford",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "18e0ab77494278ea687b8aca8a6390c65fc9426c27b915a1dd4644c897b92a87"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__aurora_hollow.json",
+      "url": "https://wiki.bindertowngame.com/map/aurora_hollow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ad7882ecd71c3864593e647dea1b9d212bcf5879685911b44a596c1400d1e63f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__bellglass_cathedral.json",
+      "url": "https://wiki.bindertowngame.com/map/bellglass_cathedral",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2425b02952d552b41394103390eb3d72e0363b4cada97a5dec0b1d6aa2bea16c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__bloomcrown_glade.json",
+      "url": "https://wiki.bindertowngame.com/map/bloomcrown_glade",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "68ff48455d37ecd1d179812f46c5ab502da972c913a73328091c8452912d9ea3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__bracken_sink.json",
+      "url": "https://wiki.bindertowngame.com/map/bracken_sink",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5f0d7108b71a55eb68324e70309af6613e0102f42b44ae9c84954eff97338eb9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__brinecrust_shoals.json",
+      "url": "https://wiki.bindertowngame.com/map/brinecrust_shoals",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9ee9375577d7634aa50465819d1ca69838fe90cf39b46257e4f935db151ab3d5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__brinewick_saltworks.json",
+      "url": "https://wiki.bindertowngame.com/map/brinewick_saltworks",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "40e31c4a8c42c6205f1cb81554a61621f6c2c95554662912cd9db1b1d2c22832"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__cinder_eyrie.json",
+      "url": "https://wiki.bindertowngame.com/map/cinder_eyrie",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f0cab6dd8d12d9d4e07bd1778da6efc95db8b61e04a9ea28a6720caba604c242"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__cloudspire_ruins.json",
+      "url": "https://wiki.bindertowngame.com/map/cloudspire_ruins",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d25a3e41e963169050b70a83cce80db1ceb25f4ebff7e776481e5fbb80ec3b6a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__copperbell_arena.json",
+      "url": "https://wiki.bindertowngame.com/map/copperbell_arena",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "42d8e95b1596f49edfa740378d444dc55850efbbbbf7420c25c55b766cd83a32"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__coralhorn_shelf.json",
+      "url": "https://wiki.bindertowngame.com/map/coralhorn_shelf",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "65f2c1315a5e8a356489344b95d09514e9fe80a70c66c7a43615b95e820e89ca"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__coralstep_plateau.json",
+      "url": "https://wiki.bindertowngame.com/map/coralstep_plateau",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "23487cdca7264891da62be29a4056d2ea543c3040179a27220c4876a62283906"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__crown_of_tides.json",
+      "url": "https://wiki.bindertowngame.com/map/crown_of_tides",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "af50801c6dae2ebddd970760232ac83136a976d6d847fe3d81260be4a178d72b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__drowned_forum.json",
+      "url": "https://wiki.bindertowngame.com/map/drowned_forum",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a8dafd6bebf1ef1ff92b8fddbc5e0aa6dd219f458e05160416fc005605decb4d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__duskgate_pass.json",
+      "url": "https://wiki.bindertowngame.com/map/duskgate_pass",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "201c7db9dd2ded10708940ccd514fa14586a284cd4db721f839db5ace619d3dd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ember_hollow.json",
+      "url": "https://wiki.bindertowngame.com/map/ember_hollow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "12dd6c74746281a8163bd540418742c4f0616e1d3f88e426bbda77babac07aa0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__frostpeak_slopes.json",
+      "url": "https://wiki.bindertowngame.com/map/frostpeak_slopes",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "45da5c3c5bc4a69852761f22e027d941b7eac2e898f351e090d12129cd450508"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__frozen_mere.json",
+      "url": "https://wiki.bindertowngame.com/map/frozen_mere",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "eb7404e39099aae9a765d452c23b2c28036b40918cf2cf8aba3256e1f421deea"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__glasswrack.json",
+      "url": "https://wiki.bindertowngame.com/map/glasswrack",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8bd7016cb6014def07ed50c665788eb130d00c62710429482b66abd971d0a5cf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__gloomroot_forest.json",
+      "url": "https://wiki.bindertowngame.com/map/gloomroot_forest",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cb9196d6b89d72c688bc66ebafbf11598b2fcd152cd9fd3737da77bc659b8599"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__gullrock_rookery.json",
+      "url": "https://wiki.bindertowngame.com/map/gullrock_rookery",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f3b75e9831d72cfea3eccc54556185a9c6f9f0387ce711bf45d67b753d9969c1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__honeyrill.json",
+      "url": "https://wiki.bindertowngame.com/map/honeyrill",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cb1019361b562aec26518639db82c398a0c0e87fb70b8cbca67e67e632d1510a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__howling_steppes.json",
+      "url": "https://wiki.bindertowngame.com/map/howling_steppes",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "13359a63df708426a3bfaaca8d572338a0ebeadb627408dab9501d51a19d8299"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__keelbreak_cove.json",
+      "url": "https://wiki.bindertowngame.com/map/keelbreak_cove",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "17bdd58d86cb80fcba3a2fd27daa52febad4a7b58a9bc7cfbe609701dd482e85"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__kelpgate_locks.json",
+      "url": "https://wiki.bindertowngame.com/map/kelpgate_locks",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0d047600e90e915f0c02f4bdeea8ced87f78e5864624f262740618197844070b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__kitewind_terraces.json",
+      "url": "https://wiki.bindertowngame.com/map/kitewind_terraces",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e53a853721a278f0670f79f17e6b3009e3f6c818a73587f53a96f8dc5c1333d9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__lanternrice_delta.json",
+      "url": "https://wiki.bindertowngame.com/map/lanternrice_delta",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2c50ea16dd84c953a12f504c24950f9fa110186ac2c34a9e9a6a8d34bbde6d76"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__leviathan_spine.json",
+      "url": "https://wiki.bindertowngame.com/map/leviathan_spine",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "207cc4725cde58c82b5c01ca376b445ccf15e5c702afb55185132ffbbf23963b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ll_ch1.json",
+      "url": "https://wiki.bindertowngame.com/map/ll_ch1",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a35e8fa97a6e0d2e491f82eea5c037097e72cf4d116021987ea829b1cd1b8c27"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ll_ch2.json",
+      "url": "https://wiki.bindertowngame.com/map/ll_ch2",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "afd605636c5f42b6d1f01f40191b3abe670d049969e0484b72cd0950e225495e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ll_ch3.json",
+      "url": "https://wiki.bindertowngame.com/map/ll_ch3",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "dc108ec5be2864599ed26432a28edc074293758f2cb8ee9beadaaeef5d1726cf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ll_ch4.json",
+      "url": "https://wiki.bindertowngame.com/map/ll_ch4",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "91c328d965d002542a66f78fb65646567a0b1958155051e3923bce127bd328aa"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ll_ch5.json",
+      "url": "https://wiki.bindertowngame.com/map/ll_ch5",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "70e0dbafc3eda743e1f2654e9b552dc2235d0bc1cc0fe09b7d8108b7d6c5216d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__lockwardens_sluice.json",
+      "url": "https://wiki.bindertowngame.com/map/lockwardens_sluice",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d666f7daff657a3c4376ca842cdca8c4f120947d42a9f44fcea63c71ecb17b35"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__lotus_hollow.json",
+      "url": "https://wiki.bindertowngame.com/map/lotus_hollow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8c5985b1960d91361698ae3e3a6b95a51cd2f1d323520776ec5b61d568e44170"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__magistrates_basin.json",
+      "url": "https://wiki.bindertowngame.com/map/magistrates_basin",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2e30444ec9a38d7a73facd664cb3e01b17f9161b5d84d63dca531b058cdaecbd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__marrowdeep.json",
+      "url": "https://wiki.bindertowngame.com/map/marrowdeep",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "14fc2a02d5d2e7a40688131a37f89ff80c83bba15da9d78a1bdd8979055db81e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__marrowfall_gorge.json",
+      "url": "https://wiki.bindertowngame.com/map/marrowfall_gorge",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "655dbf170adbc97161f22f65f1617f0893e68d7f140bcc28dc3a2546ea1567e8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__mistmire_swamp.json",
+      "url": "https://wiki.bindertowngame.com/map/mistmire_swamp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "75f45b4e33f63f251ffdbc4341edc681df69f4b2fe6e069332e1b9dc33bbdbde"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__moonpool_gardens.json",
+      "url": "https://wiki.bindertowngame.com/map/moonpool_gardens",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3c0e4e3ecf5084491a2f4a62692ba0b2e86f1964086a78cf454d068aef5531c2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__nacre_lagoon.json",
+      "url": "https://wiki.bindertowngame.com/map/nacre_lagoon",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6677b51f6fb02c1e78816a5bd57c35ddee271f47ba383a8372ba9cbe4be27dc8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__old_quarry.json",
+      "url": "https://wiki.bindertowngame.com/map/old_quarry",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f452a6c4b9ddc8601bafb94dd32f92d38f81f343c14be9ef8d2528521314f96d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__opalweb_grotto.json",
+      "url": "https://wiki.bindertowngame.com/map/opalweb_grotto",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "93b6b865e3acddcaa5472b45e8f9869c622dc4868bc7d564736aafc2a0b6ea0d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__pearlgrave_trench.json",
+      "url": "https://wiki.bindertowngame.com/map/pearlgrave_trench",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "224731439a9384f0d62ca2893db3eb05f2a569a7420dc38a6941db44ba5e0ff9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__peatcut_bog.json",
+      "url": "https://wiki.bindertowngame.com/map/peatcut_bog",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c02840b516149d5c8d1cc0406b442a068f1f5ef289247a8a75ce7d7dafdbeeeb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__pitchwood.json",
+      "url": "https://wiki.bindertowngame.com/map/pitchwood",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "39afe3a26d7cf385bed9c99a9b37b4b7e210fb6a2501c07cc59a2a09fb78984b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ranked_hall.json",
+      "url": "https://wiki.bindertowngame.com/map/ranked_hall",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "fdd3ee4a7dee61d7673eb6416a28894e5c4cbfcfadd282981d34918857d48bee"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__ricewater_shrine.json",
+      "url": "https://wiki.bindertowngame.com/map/ricewater_shrine",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2f5b0d1c16eee7c2030151fa5e786a476a089f5fb60b44e6a7a1f4953328916a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__riverside.json",
+      "url": "https://wiki.bindertowngame.com/map/riverside",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "03ec92d75f13d50e6f8da6f70c50bed1d56e2ec6fcac7963396213078a83cb20"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__rootfall_barrow.json",
+      "url": "https://wiki.bindertowngame.com/map/rootfall_barrow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "619a435c95b991fdff81b4bacae01e23519522e2db7c31631c9a9039c0196043"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__rustbell_barracks.json",
+      "url": "https://wiki.bindertowngame.com/map/rustbell_barracks",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "01c0260b8bd7ea6eddaf99c2ee8da8ce0aa4005bffa83f2e0625d1ce4c8a2cc0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__saltwight_pans.json",
+      "url": "https://wiki.bindertowngame.com/map/saltwight_pans",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cd5908be930f2a7b94dfbcb5694b331856c9e5e995ac046fc0bb2e93783c497f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__sanctum.json",
+      "url": "https://wiki.bindertowngame.com/map/sanctum",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5d88eabf90c038d779074cb48122aed73187ca35afec15b0151b53a9aefc22ed"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__searing_kilnyard.json",
+      "url": "https://wiki.bindertowngame.com/map/searing_kilnyard",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e92729385a66c792f25f6c7219ac1853c9dd9c1ef54ba65daafaec787610baa4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__shattered_vale.json",
+      "url": "https://wiki.bindertowngame.com/map/shattered_vale",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "412e9b2705e8b2ccf436bf26c3049015df438cdceb52bf340fb0a76f066770d9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__shellforge_basin.json",
+      "url": "https://wiki.bindertowngame.com/map/shellforge_basin",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ce5dbe9b61ac306a9343fb6d93b1f3e9b559155f13e3f8ff54912c54c37e774c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__sledrun_gully.json",
+      "url": "https://wiki.bindertowngame.com/map/sledrun_gully",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d62d8258834c4de6b668c73bfaad98a673a4d03908d5851d030e15043c1b8c13"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__southvale_field.json",
+      "url": "https://wiki.bindertowngame.com/map/southvale_field",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e63374b1aa21b5de1f0603b7ed0e1fafe94e275476809d53a3e38b5766b65241"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__sparring_hall.json",
+      "url": "https://wiki.bindertowngame.com/map/sparring_hall",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "257a4d6f0031b1689f9adca08b759cf1a56fda73d85f60a2410cf66bef6ad169"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__stormrail_causeway.json",
+      "url": "https://wiki.bindertowngame.com/map/stormrail_causeway",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "4e77d316f525e0d7e13a2cf33424bfa56dd1cfd5b98d31a6b3dbe72cb41573f8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__stormwall_city.json",
+      "url": "https://wiki.bindertowngame.com/map/stormwall_city",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0191dcd7b6bf1deaf48848a8b06dfdf06148020e679af46e053cca3a15b6d986"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__sunfield_plains.json",
+      "url": "https://wiki.bindertowngame.com/map/sunfield_plains",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "066d4044a1610b495c10b73b318ae6b091add44fb79e69a1dc7f5b38d7071c3c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__tempest_aerie.json",
+      "url": "https://wiki.bindertowngame.com/map/tempest_aerie",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "50e959d9ec9970ae92526265ff9761e6ddca8647b3cc53a64de14ce567382152"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__the_inverted_sea.json",
+      "url": "https://wiki.bindertowngame.com/map/the_inverted_sea",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d6fc249495a6fe61d48ba6650b9f68f2789215b91470305ff266998872c11c94"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__throne_of_warden.json",
+      "url": "https://wiki.bindertowngame.com/map/throne_of_warden",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "221de2df761d854e1bc5b453bb1bce210c6b13218d46dd1f742d161977c91640"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__thunderline_depot.json",
+      "url": "https://wiki.bindertowngame.com/map/thunderline_depot",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a87518a2e96e1b4cd6db3fcf2594d87185057fa2caef33b6bcc2a1efda5ae329"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__tidehaven.json",
+      "url": "https://wiki.bindertowngame.com/map/tidehaven",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "06711c398ea3019f0143c326edeecf26eee4f00055e5d5f163046ae3d2123ccc"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__tidemill_expanse.json",
+      "url": "https://wiki.bindertowngame.com/map/tidemill_expanse",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b75e4a48ea208ca2ed6e65c297d3b12d9c3311bc78b504d063d4d556c853bea4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__tidepool_terraces.json",
+      "url": "https://wiki.bindertowngame.com/map/tidepool_terraces",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3cc3bbc3b932186278c0d972c41d87a4aecd3426b324008932c91a0304e7a15b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__training_grounds.json",
+      "url": "https://wiki.bindertowngame.com/map/training_grounds",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "167b5aa6e71c6577b34cc58193a753143eb8f2efd96c6a159b0d4a7973dae7a5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__umbral_depths.json",
+      "url": "https://wiki.bindertowngame.com/map/umbral_depths",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "17c9214c9eab9e3fdfe42f7ad63ca81346d0e21b89acb3c5b57cde49e3e7178b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__upturned_strand.json",
+      "url": "https://wiki.bindertowngame.com/map/upturned_strand",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8a9adbfe436a63afbb1f8328352a158710ff016eadcacfab3ca67c96cd0d6a07"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__valebrook.json",
+      "url": "https://wiki.bindertowngame.com/map/valebrook",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c87b432ce73b8d5c96c4a9156e9f43fc6c399570cff22c26639d92e139d74810"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__verdigris_rise.json",
+      "url": "https://wiki.bindertowngame.com/map/verdigris_rise",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "4532bf01a029bd472cae679ae3a993b0aa1257eb0bec75323d4309a7e5c05da9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__wardens_seat.json",
+      "url": "https://wiki.bindertowngame.com/map/wardens_seat",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "31ca795d657a960afdda73df3a484b66520f18297dc97089b28ae4f2fd9d4e3f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__whispering_woods.json",
+      "url": "https://wiki.bindertowngame.com/map/whispering_woods",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3496d78aebbe63f69d7c16d571fd37d60b94482a27ed1775e8332304fe7b4e8b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__wreckwake_coast.json",
+      "url": "https://wiki.bindertowngame.com/map/wreckwake_coast",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "30b937310c90955eb2196dc08344fad62ac5394f0cfafc226d93a8c6618478f8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/map__yellowlick_flats.json",
+      "url": "https://wiki.bindertowngame.com/map/yellowlick_flats",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "20e160210640e0b08d301fd52a7750c53f9c4235681e95327c8845a43854afd5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/maps.json",
+      "url": "https://wiki.bindertowngame.com/maps",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "91a5d2321c37baf744eedd05e77ae1fccc0a93ea133b6decc7ba9527a03303d0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__abyss_jelly.json",
+      "url": "https://wiki.bindertowngame.com/mob/abyss_jelly",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0e2a968757690f4d252d769e3831f35d44ca54936571cee6abf2b75db2c51387"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__acorn_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/acorn_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "7e3ec5a31877a7e071ffebfbf472e193e3997c83c7d5a253484b79c63d871da0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__ammonite_crawler.json",
+      "url": "https://wiki.bindertowngame.com/mob/ammonite_crawler",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ff4cc3e7d6d35652e2de40de272fe4dabcedc7ed5bab0256b08dbabe215bc1c8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__anchor_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/anchor_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2227995dcec1fe3252a9e8938ef076e5515162481adcdda5246420b519e6faea"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__ash_hound.json",
+      "url": "https://wiki.bindertowngame.com/mob/ash_hound",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "48704c91f0ae2b322407daf8053e444da71d2577b3389508c267ac4ada715b04"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__aurora_antler_regent.json",
+      "url": "https://wiki.bindertowngame.com/mob/aurora_antler_regent",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a9d7677615d52b67ffc8d671f69dc1d02368022df796e26aa14104ec0ddfa311"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__barnacle_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/barnacle_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b072d3291c281973ad35bd64685d7a59a2e9f028989232b29579f2ff0b3aaced"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__bloom_crowned_stag.json",
+      "url": "https://wiki.bindertowngame.com/mob/bloom_crowned_stag",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ec4ac5aee1ffa100f6d88c363c65096096d857239a19fdd8d1e03e02382cf930"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__bog_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/bog_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a090c9b176a730f874568550f9dae11aa654e3b94f1d1dbca4c5c4ecb05ee35d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__bog_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/bog_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "030264f615eaef0d7f5123966b5cb216ce3c8ec426a3863b4465854ab2859094"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__brine_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/brine_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "74668970b929914daf20be18f6a31d640ffd742ab8f1af93fdd17a10dea0e420"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__bronze_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/bronze_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "731966189100db37f1808daeb6d0a06761bfa01e2e02956f2a2344ed5fedabee"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "512b3a02e70f668f5023bbf02d6566bcace93892dba27bbae82e1f5df41efd87"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__burrow_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/burrow_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "69246fc23c47b83eed239b2260cc1080d6301e6ae5f3b5cd443bd189df497bae"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__chime_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/chime_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e9f6c8fd9682368f5e2ad3ac8fb6c2e01579e00844338e7c21a3407ee94a205d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__cinder_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/cinder_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8ce98ad09a395e366c15acbb36f2deaed563f6c6b7fd68b25f983803470f927e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__cinder_plume_roc.json",
+      "url": "https://wiki.bindertowngame.com/mob/cinder_plume_roc",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "008c267f8645a6864277f28bb3493a4cbd09645976b31181e024478a15fc8773"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__cloud_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/cloud_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9304f207a94a54681cff02e999abd6c7c61279711ba5017e49886e0406618665"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__clover_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/clover_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2954b4fb07980d38003fd387801ace2d6fe8917c32b2a59c63db803a313c3a8b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__compass_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/compass_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "61773fb47d45197190f653132f6c31baab1e012d1f97c497c071e4de39272cd5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__copper_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/copper_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "390beb49b4c3e07d972da0bdf8c5cb1630ced9709e8f7ba1ead2465044fa7d9b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__copper_pebblit.json",
+      "url": "https://wiki.bindertowngame.com/mob/copper_pebblit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ba5cba739b50b9bddba0f41d0e16b91f3f505219a6dad1507f6c744e7ff61b1a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__coral_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/coral_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f9af3c912c638280d51e97106f8c555cab99d4573aebdd02d9ee08d19db2b85f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__coral_pebblit.json",
+      "url": "https://wiki.bindertowngame.com/mob/coral_pebblit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "fbf14c6dcd77b00d24ef7e7290ad02dfc58cd4689d6919e1f6dda3645337c6d6"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__coralback_tortoise.json",
+      "url": "https://wiki.bindertowngame.com/mob/coralback_tortoise",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b689defa1dbcbbdd795f8f244e85022ecbe44094296629bac2d2a0b69edf7824"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__corrupt_thornling.json",
+      "url": "https://wiki.bindertowngame.com/mob/corrupt_thornling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f640da8e8fe2d6b20c512dfd0082817bf62f8c84bc3f772836b08d53962d10b1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__corrupt_treant.json",
+      "url": "https://wiki.bindertowngame.com/mob/corrupt_treant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "532a6061bdbaaa22b63a3c40e6d73f08b4254ff5039bcf819fda9dd31ad8a2f8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__crust_lurker.json",
+      "url": "https://wiki.bindertowngame.com/mob/crust_lurker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "13338358ef0a926323ef2d7dc2caefd81b2bba88cf0557470ef9e3dd2c925fa5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__depth_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/depth_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8036bc149924fcc69c3673e765cba752596ae2f6e00ec50a1106e28ad3f1048e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__drift_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/drift_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e88c03933efd026e9306ea6973111f175a17d27d6bfbf33dfaaa01f6bb6f6611"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__drowned_bosun.json",
+      "url": "https://wiki.bindertowngame.com/mob/drowned_bosun",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "dc3d0e1fcfdfb2dc987d05dc82ef072b9fc2b7a3a74993ab2156b59028c65035"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__drowned_senator.json",
+      "url": "https://wiki.bindertowngame.com/mob/drowned_senator",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9a54fb7f1908dc9682fe8825db9226e095a0880122f55ed6ec7ed27e6dffff9c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__dusk_herald.json",
+      "url": "https://wiki.bindertowngame.com/mob/dusk_herald",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "028b7a6500d29fd69d1dfc1711a91e436dd1d4039c7a6339f8ad5c3ba448d8cf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__dusk_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/dusk_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6152429b2f5e240cf43f71ec3ca2ae33e43d8947550e6991540f620b6e91255a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__dusk_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/dusk_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c5c7897f93dc67b5e49b3ac7419754758dcf4bf06a1ea6940f2c84004db19489"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__dust_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/dust_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "29b3aa48ea4e875c3732a4a847ce876d225f3fae24fdbde794f6e41ed71137a4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__elder_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/elder_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cae5e65c8ce659ae9bf1eeda82b61e0a8667c9f64fdb9a2ef939555a847346f7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__ember_hound.json",
+      "url": "https://wiki.bindertowngame.com/mob/ember_hound",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f8d0f582831f40a5864912aa2f41f4031683b6274a087657246b11ec3259f1cc"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__ember_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/ember_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "53aaecd93ddaad69d94f7936fbecb1a43bd97cb2651209f75af6ff441f544f5a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__fern_thornling.json",
+      "url": "https://wiki.bindertowngame.com/mob/fern_thornling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "47aa7e08f25e5c83178e260d8efeb810baf5679990509824dd63bf5a257283f1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__field_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/field_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "61173b02fbab38b4f82bdda9860a654a023eee86c132b34e12d27ee7955b38d4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__field_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/field_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3bb3ac9cc75f3b504084b8f5c5cccc43d867ce03b47248ebe06b1e3791be8258"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__floe_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/floe_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "feb0477671f16ed9620297907f9e1dce91bb46a870ac02210a5f68e2a6b53517"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__floe_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/floe_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "01895911d8b972b00d43c404cdbf4e254003030b2249a864a5ed5d57fc9589c4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__forum_sentinel.json",
+      "url": "https://wiki.bindertowngame.com/mob/forum_sentinel",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5a7435a99c9e5cac4b6ceae2bdc6438d8fc2c5279e83e02fa484b14b6054822f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__fountain_serpent.json",
+      "url": "https://wiki.bindertowngame.com/mob/fountain_serpent",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "95b8ff3b83ea96eb8aa5ccf1dc17ee3af8ef06d8203e5ab1bec60918f41d7281"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__frost_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/frost_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "81ce217cdd25d7fb967b82e254ddc01042678240c732dd8d2bf7bc3417eca0f0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__frost_fang.json",
+      "url": "https://wiki.bindertowngame.com/mob/frost_fang",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a6ccd89fc86eadc5c5124081867f879a65391bae09fe14536054ec9f54153597"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__frost_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/frost_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "01d5dde1f71c56a8d61c9ac2920900f89a625c136e0615d1279c9efa43c81743"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__frost_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/frost_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2e1e4e14906d193a98ed1666647d548a0b34194eada846ca716a88fb57b65773"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__furnace_warden.json",
+      "url": "https://wiki.bindertowngame.com/mob/furnace_warden",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d50e38fb50310f596656eb51e2e866677312edf6d1d0f99d08e0a1084d1344bf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gale_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/gale_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "35429a066c01838387f1f7a757fae9771c8be0b2aa656551456c622093e588ba"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gate_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/gate_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f894ea6102bc522fd9b0212a954b6e81c7943605a6059b36907a834b0f6e67cf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__glass_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/glass_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2591e0f2f6956beff595c4a6808a4a5b350108befe5f19455e9f7324da62ee64"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__glass_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/glass_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0c220f022569f7bba40b39a19a1c93cdca81d43cbd71fd7e99a6375826dca6fe"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gloom_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/gloom_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d603fd6a8d8b0e86079f4cb2a3c9667abec62e00b82066b08288b19f59d8ed7d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gloom_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/gloom_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1f375780a5ebf90bfa578fc5ab5789ab4fbfe684ecd4736889a40ee11cfe6cc7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gloom_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/gloom_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5b12b5d7afd303f1d077507425bb0fa5ea9a3bcb488eb49fb1c43f9ba16eafab"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__golden_sentinel.json",
+      "url": "https://wiki.bindertowngame.com/mob/golden_sentinel",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "944fe4c12cac4170f859c7b31169111e5232a16b9792120e5834396056ec1ef2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gull_harpy.json",
+      "url": "https://wiki.bindertowngame.com/mob/gull_harpy",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e89d7a3d33effd1f092d4b1a849f0abc3383cd2c9016b54245368f0e718800c0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__gully_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/gully_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "159942ce36521e7603beee53b88526d4687f5f31b1e7387c70365bfa2f00cc02"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__hill_hound.json",
+      "url": "https://wiki.bindertowngame.com/mob/hill_hound",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d08a330e4a83bcc1d4810abb703aeab59be3b6650a9a001aa8028b00737b8b01"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__hive_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/hive_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2bbdad809aec5d70adbbcb00def1803cf3e3e34d05972a99f1b52428427908bb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__hollow_caster.json",
+      "url": "https://wiki.bindertowngame.com/mob/hollow_caster",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "63a84cf9c0a501e85adfac11191a59c4d346c645ae8cb4dbf431d04ec0571583"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__hullbreaker_kraken.json",
+      "url": "https://wiki.bindertowngame.com/mob/hullbreaker_kraken",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "98f2d2451797db9cb57092a31ea191fca1f08289402688f4f8c9837aaa150e65"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__ice_otter.json",
+      "url": "https://wiki.bindertowngame.com/mob/ice_otter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5e05556bb5627e612f2f08b798f9c74245b77a349e4b467c31cd653819483967"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__ice_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/ice_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0c22dcf7ee8da1eb61268973aa88bd34d9af080f6d6dfe010d335295dea3ec25"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__kite_drake.json",
+      "url": "https://wiki.bindertowngame.com/mob/kite_drake",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f1cd3c695d16e7c6c8f46f6234def246ade8ba619930cd8b23e1b0549201f7b9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__kite_harpy.json",
+      "url": "https://wiki.bindertowngame.com/mob/kite_harpy",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "535ac12d8ce6b041ad819191e0f7d4c484d462012f1df7afc51ac1f81bcdce44"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__lantern_moth.json",
+      "url": "https://wiki.bindertowngame.com/mob/lantern_moth",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "343b46d40da175f3cc4a7e32dabacbc7632e67026dd78e9e2e18afa021c011a3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__lantern_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/lantern_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "21284a651873e13628c154de8ed1be66e335905dda5709864295095fddaac5ed"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__lotus_maw_matriarch.json",
+      "url": "https://wiki.bindertowngame.com/mob/lotus_maw_matriarch",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "17231810591f8cc77dece2d3ba66c9161f17a73ba44dacc2b53ce226036faa7d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__magma_pebblit.json",
+      "url": "https://wiki.bindertowngame.com/mob/magma_pebblit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b87a405cbb88571b943784366357e7000900ca500c87bf2853c6c7ae16ea2150"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__marrow_horror.json",
+      "url": "https://wiki.bindertowngame.com/mob/marrow_horror",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1c4f10c4223a970c34b10af5cdd6b9abc38b944482ea805a90b9bfb12c65f67b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__marrow_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/marrow_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2c73ffe7251b4e425bc19bcd9a011c853f610cc0f390a217687a41fe73eac141"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__mere_lurker.json",
+      "url": "https://wiki.bindertowngame.com/mob/mere_lurker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "70a6696e970fbaadee39c929e3ca61c90ee70d2e619ce45700ece77679d7c530"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__mire_elder.json",
+      "url": "https://wiki.bindertowngame.com/mob/mire_elder",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "770fc3dff62d88b5388a90118147e9a42c9ad15b21d91fad55d8298ecd40c45c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__mire_lurker.json",
+      "url": "https://wiki.bindertowngame.com/mob/mire_lurker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c3450ec9cb0d9765d430c5e197d5b1775ddab7cfa7add608a127fff7d8cc908e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__mirror_merchant.json",
+      "url": "https://wiki.bindertowngame.com/mob/mirror_merchant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "4ae35a4a9417e03d7856d8e67373e36df160c34c80fe507a16f1a6857b9c16e4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__moss_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/moss_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "aabdb7eaae13e0751bb00b3a5dd2f477513946a560e591b01285859e62977f23"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__moss_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/moss_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6eaadcfa4b5389fd0e0756405e764902193b82b382a86a2224e458a3f790311f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__opal_weaver_queen.json",
+      "url": "https://wiki.bindertowngame.com/mob/opal_weaver_queen",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1dfe73528915c52b705467f1c823b74930bb400d4801c1cdaf7135991e222119"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__paddy_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/paddy_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8c7056bc67c4d22816d2b05b1e1e152e24254bcae39a9943cc86613f17598d73"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__paddy_ox.json",
+      "url": "https://wiki.bindertowngame.com/mob/paddy_ox",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9e50433e8d8ef9ee74ac5e7b32a8a620bada991db90eda03262354e0412080b4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__pearl_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/pearl_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "163ec688742325054d00ab03c1ece85a02aad38ad2b90af8dcb6c8170a188413"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__peat_crab.json",
+      "url": "https://wiki.bindertowngame.com/mob/peat_crab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "bcec0267edc768700264888fd75d2228b1b82566da2eb7e55a3e6a9f74f82dae"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__peat_elder.json",
+      "url": "https://wiki.bindertowngame.com/mob/peat_elder",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c8dad6684ced44f2f01f40ecba2dcd2e521de771b0fa7da7392a99cdebff934c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__peat_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/peat_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8036d081fd819285d5e72537255d0fd07b2abf94fe54ccdd98c664883693ecd2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__pebblit.json",
+      "url": "https://wiki.bindertowngame.com/mob/pebblit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9edc93753a86f3f84c0c5a84690070be6ffd870e71f3750afff311f7fc1981f8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__pit_lurker.json",
+      "url": "https://wiki.bindertowngame.com/mob/pit_lurker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "11fd56d28f5a6f74a486b672290c1fc18d4a5ad7476952941eac30a6947353ef"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__pitch_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/pitch_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "19b626cba33e7dc1b85b6a03b7e31df26fb27c8ed08b3551f397c8d8dadc0a54"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__plains_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/plains_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9b574df56c7742f3bedaca3c5d28e17f636ee53a063795238c3a26729b918f29"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__pollen_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/pollen_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f63c5d6e830873d2fd8f46559cdf7634f865a46b4bbb0d54df2b9f8629acb0f7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__prism_shell_sovereign.json",
+      "url": "https://wiki.bindertowngame.com/mob/prism_shell_sovereign",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1fa91b95ad5d7f3e4bc24c8bf47b9edadd403a6928d8eaa9a8b86662cca7db14"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__quarry_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/quarry_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "678025f630d2501f58d81e5db4342fd75befbc5c6bc42b0990937d890c1bc6ad"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__rail_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/rail_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f0b5f9e96d7f5618b783e6b3740d8143c5d1869167bc85927d2587fdd95eb848"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__reed_lurker.json",
+      "url": "https://wiki.bindertowngame.com/mob/reed_lurker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "00ce695f4b7a111449b2b3feba685ed08d1a1df522a86bf147f67356abeff6ad"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__reed_skipper.json",
+      "url": "https://wiki.bindertowngame.com/mob/reed_skipper",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0267fb8c5f5982b9578ad44671b747c975c78ebb0cc36f8dd06cf45451b6160e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "dd0927b781cfd083ad5522777893ee9ffb45351c1c1edff73b7f32e16f1c6f14"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__resin_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/resin_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6128efd7c2c617441f97ef8736e5db5a581cd5f7f70eafa13f74f95f1720d158"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__rime_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/rime_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8bb6cec8fb727919850f836d13afcf5490ceb9d688a14a241e7761fca5abceeb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__river_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/river_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "14f4d86e841570ea9946459ae0fccbd3a25a54a32b30d41e640c9d0a3be1ab35"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__rock_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/rock_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f0b1904fe439ab7f34d50864eb61b342f611ff961d5606926afdae6cfe8567eb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__rust_captain.json",
+      "url": "https://wiki.bindertowngame.com/mob/rust_captain",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e59877927059b232a4ad010912147beb8bdd8ce795ec35c0d57a653fd55f1082"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__rust_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/rust_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "81665ef2113b1041901ca7eecdc0a98dc44949e20fd63ab03617980d0e4c8a67"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__salt_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/salt_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e50740b6698a4da92e4c96bd8c245c709dde85e61fd96758c2c5c2ce9caaa378"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__salt_pebblit.json",
+      "url": "https://wiki.bindertowngame.com/mob/salt_pebblit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8fe7b15b8693767e0ae93d2da55d7bd055cef420b6bca342cd258a48b0ebfa99"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__sap_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/sap_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8de57cb742d40cc379ff3f4d50d3bfa8207ac6a101a34783f42b32dca7b1480b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__scree_pebblit.json",
+      "url": "https://wiki.bindertowngame.com/mob/scree_pebblit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "55b5a39f91aae95e8bb2ad19fcf0250522f7a692e58455555b57c9a726708131"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__shard_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/shard_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1a2a5ede206cbf62662e161fb79ee46fe9c88e72a2f131ba5256163e7b03aa98"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__shard_thornling.json",
+      "url": "https://wiki.bindertowngame.com/mob/shard_thornling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b77e9a06b67a7c64a522d81abe72ec8524ff30bfaa2fb9b37c24fc66cffb426d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__shell_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/shell_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "464e099783058539873a0468d1315cc26e159e0843c36ebec561556d4aca7bfa"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c1c04175539a710d757cf504d8d54cb9466056d1c6da37546735f00219f61243"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__sky_sentinel.json",
+      "url": "https://wiki.bindertowngame.com/mob/sky_sentinel",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "85cba883cae9b24d464e2665b1128bb73f89b1e9322843baf3d34c88a83334c8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__sky_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/sky_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e35f0dab68b438216380a924d83585c012e063c17cef7ce143f556b2f5f7d21c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__snipcrab.json",
+      "url": "https://wiki.bindertowngame.com/mob/snipcrab",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "387e03d8725ee67d73b74390ab7641ea0285f387d226b1f5201c5ebd2e66552b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__spark_eel.json",
+      "url": "https://wiki.bindertowngame.com/mob/spark_eel",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ed6a2063291a4f8e1539e4907526aadee7998e4b657bce996a4c2c811f6075a7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__spore_lantern.json",
+      "url": "https://wiki.bindertowngame.com/mob/spore_lantern",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9e20ebc7c6cfc1ada305e5564bf5a7a788f4af674ce9cb5eacc45e7b8aea7067"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2b3abaff531f5032a53fa5e31dbbdab825cfae89088af47d990287de476a6e0e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__stationmaster_automaton.json",
+      "url": "https://wiki.bindertowngame.com/mob/stationmaster_automaton",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d64f9bfba2def542109bf8b3fcad1fae780fb52d9bc19bea4c8f482605e27c23"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__steppe_hound.json",
+      "url": "https://wiki.bindertowngame.com/mob/steppe_hound",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "edea6965aa696b339a018db6215a57ab75b717cb4e03d8ea4c3fb38710eccdab"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__storm_harpy.json",
+      "url": "https://wiki.bindertowngame.com/mob/storm_harpy",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e8d67ea734e864e6ee6e5a5f64d8b606286566afd02454a2586742fd3f4d32de"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__storm_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/storm_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "bca5d4b10cf09305d19ccf13ec7831adb33199c8b1e492208e731b3187061dd6"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__straw_thornling.json",
+      "url": "https://wiki.bindertowngame.com/mob/straw_thornling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8b0461b716560da1abe8e8615219d41fb3212b015a75c2903ad537ce44b8ddc1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__sulfur_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/sulfur_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "58a379e1d6d9e18eca9e86023bf790e0c633dfccd402310f3d95b509f3990d8c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__tallow_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/tallow_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8a1e82e067c761ad6e4b208e1be3df1922d7eb319bf7203fc361ac900caad8fd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__tar_thornling.json",
+      "url": "https://wiki.bindertowngame.com/mob/tar_thornling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "42b9f0ba2500562008a6f51f93de1506df11585805a41f7d37ac270341c9de04"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__tempest_kite_empress.json",
+      "url": "https://wiki.bindertowngame.com/mob/tempest_kite_empress",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "513733c08456e25eebbff56e920ea20363587fbaf6c878d0cc9c65967a0f9ca2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__terrace_sentinel.json",
+      "url": "https://wiki.bindertowngame.com/mob/terrace_sentinel",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0f3bb76accca038e80df8ff8a6771de203e9f6db5d0ceb746bc42cf5a8a7fbe9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__terrace_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/terrace_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cad30d20701af7cc201815980b12810981b54e5edbd2d2565cebecba5a1a439d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__thicket_stag.json",
+      "url": "https://wiki.bindertowngame.com/mob/thicket_stag",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9725146b728de8123322d5c3c0a17cd8c1f2c85d8e5e2163a970160c0e2788db"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__thornling.json",
+      "url": "https://wiki.bindertowngame.com/mob/thornling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "868743fdf9135a3c2a47d218f5063f2f4d770f80da3b4710c6ddadb1936b6137"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__thunder_harpy.json",
+      "url": "https://wiki.bindertowngame.com/mob/thunder_harpy",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "4c33e5a29bd14802ef86fe360ae345efa0f750595a440f4d5c3aee34d536d202"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__tram_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/tram_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9b8fd766a4f44844458476bb70b6731c081eddfc98701a9d5e675ec60841b7f4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__tusk_fang.json",
+      "url": "https://wiki.bindertowngame.com/mob/tusk_fang",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f0ad9766b9f99deaf075e3bf9ddaa5e2da428f0b119efc91cff039e3a34da71c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__umbral_horror.json",
+      "url": "https://wiki.bindertowngame.com/mob/umbral_horror",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "73d58e587e52638d5da5da2899a55964cc525a6cc5f81f3c016e41ff620e415e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__umbral_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/umbral_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e6a78166290efbb8d6bb826d10fea672a9847287e16596214ab061f9d73e3e9b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__vale_remnant.json",
+      "url": "https://wiki.bindertowngame.com/mob/vale_remnant",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2f61cdde3c8ce2b846f48682a57c4dbce191faedb21f3d2f01ae54967ce0ffb5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__vale_sprout.json",
+      "url": "https://wiki.bindertowngame.com/mob/vale_sprout",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "845b48c2d21120808ee87c8f0f3c1e7f9718a252205944e3d6fad0dc5f5bd2d0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__vale_warden.json",
+      "url": "https://wiki.bindertowngame.com/mob/vale_warden",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ff699d5ac2c3ad3d0c50ac12b054269f45c4f28bbd096ccbac59eee4f81d6c90"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__vase_lurker.json",
+      "url": "https://wiki.bindertowngame.com/mob/vase_lurker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a15d5b8cae95b75cd618757709409eca6ec005627e9c92349d997ea7b8a5764c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__vent_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/vent_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "55c1537f3f0db9701b3b5b6aa317a14bdce6b30d14373a415dbc0ad950a251a3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__void_wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/void_wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ef17badc021822e92b147ea602dad9525106bde0e45c134b690537ba8962efde"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__willow_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/willow_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "89b69c708fed8125b5ffa7c64a50ee00315a866f6dba6a8c922f8e04387a8c8c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__wisp.json",
+      "url": "https://wiki.bindertowngame.com/mob/wisp",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "437a06c1b651d78419b6c4658d602f6604b42bbdd35f17cd3531a0f3156707f1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__wrack_brute.json",
+      "url": "https://wiki.bindertowngame.com/mob/wrack_brute",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "4bdd8a893930336ce3aea6f0fe0d135bbae1bdb638a486dfaba20decc14e3ea0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/mob__wrack_skitter.json",
+      "url": "https://wiki.bindertowngame.com/mob/wrack_skitter",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "69e8625a43ba1981ebb29514833f298ba02a01f7cfa74cdb7ac078ac381551d4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__acorn_squirrel.json",
+      "url": "https://wiki.bindertowngame.com/pet/acorn_squirrel",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e4c10b475753e8bca67d9c45460ed9e201ab514f75d3f18337b282d80330d668"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__aurora_kitsune.json",
+      "url": "https://wiki.bindertowngame.com/pet/aurora_kitsune",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ee9b03d0f6320f675aa5a1bb273e4103820e939a3680a352a6592a1b23df98d7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__berry_hamster.json",
+      "url": "https://wiki.bindertowngame.com/pet/berry_hamster",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d546c74b24e204b9ffac2f57f571c004a79e3baf84e95bc8851581f5dabe1567"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__berry_hedgehog.json",
+      "url": "https://wiki.bindertowngame.com/pet/berry_hedgehog",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6bd98a8a91839a525dd38673793a8965b50dcc09772ffe4d99012836b2797690"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__biscuit_pup.json",
+      "url": "https://wiki.bindertowngame.com/pet/biscuit_pup",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0972471871d66195223d8ab61c7f7f40050bb155c0e980e985726caf9c4e7362"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__calico_kitten.json",
+      "url": "https://wiki.bindertowngame.com/pet/calico_kitten",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c5a334fae33297027347270aceba19f96912e62fb731dad7ab680cae113255e8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__celestial_qilin.json",
+      "url": "https://wiki.bindertowngame.com/pet/celestial_qilin",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0ee699b22460c48ebdb8ab5a8eb185f2ffa144aad86e4af4c348ebe657f5e858"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__cinderhorn_drakeling.json",
+      "url": "https://wiki.bindertowngame.com/pet/cinderhorn_drakeling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "01f27e9d3acb57d9901d0841cb7818597bdf7223405d262f5425993a8a722c47"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__clover_frog.json",
+      "url": "https://wiki.bindertowngame.com/pet/clover_frog",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "354ca60a5ddad0e89d06f038ab40d7c460ca14422ea8dc9fd90562ec1eb5b0d5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__cotton_lamb.json",
+      "url": "https://wiki.bindertowngame.com/pet/cotton_lamb",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "239f1db66f6f26604d0e6ff45325314b5c4e34985a856e628efda9830871108b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__ember_phoenix.json",
+      "url": "https://wiki.bindertowngame.com/pet/ember_phoenix",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "46c2a907a44f652449affbe3a0f1f01fe5e80a238970af4bc826dd1899ccbce4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__hallow_witch_cat.json",
+      "url": "https://wiki.bindertowngame.com/pet/hallow_witch_cat",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8cab4bae09863bfc13a308a55861a0ff3b1defee7159e17356a28777177070d5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__honey_bear.json",
+      "url": "https://wiki.bindertowngame.com/pet/honey_bear",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3f6dcece29e4d897c17dad1fca5d3dc9cef2abde31d63de5a033fb06141df0f1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__hourglass_fennec.json",
+      "url": "https://wiki.bindertowngame.com/pet/hourglass_fennec",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9543c1bc1b14d2134787c9b35126086a25e0a1d3dec7be61ecc910b472bace0b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__inkwell_owl.json",
+      "url": "https://wiki.bindertowngame.com/pet/inkwell_owl",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "07a547e1629ef099df5f6a086deb48331cb6a153d8c670f3d6e58f44785ee6fd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__ironhorn_beetle.json",
+      "url": "https://wiki.bindertowngame.com/pet/ironhorn_beetle",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0b0a5a45b2cc723ad620c7ba1ce1a2904306c76e7a9502c957c3604205be04ad"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__knight_corgi.json",
+      "url": "https://wiki.bindertowngame.com/pet/knight_corgi",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1fed828ded26f8cd39f823cd5d7fe6aa1350c0c89a4642fefc1200f0c0fe73a0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__lantern_axolotl.json",
+      "url": "https://wiki.bindertowngame.com/pet/lantern_axolotl",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "bedb04e80e7a090aeb6eebf62efc24e4e032e01673cc9ae7b6db74e9fef090a9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__maple_red_panda.json",
+      "url": "https://wiki.bindertowngame.com/pet/maple_red_panda",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a5829dfe42b2ca844e6b19ca64ca05bf00e45533fb09af6995d25ae3493bc5cb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__mochi_bunny.json",
+      "url": "https://wiki.bindertowngame.com/pet/mochi_bunny",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "64a4e12181066c79ca56eac0560ced399af6d532e08c9cfbe53c2973911caab7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__moonlit_unicorn.json",
+      "url": "https://wiki.bindertowngame.com/pet/moonlit_unicorn",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "7f1d4d14080bf2ea8d11c5d4f989c786b21deac2b3368a2cee847a988a829ee7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__mossrune_golem.json",
+      "url": "https://wiki.bindertowngame.com/pet/mossrune_golem",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e3aa2c156644411785ebcf5fb5c582734312649b1a9223d5291d184472a75af9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__puddle_duckling.json",
+      "url": "https://wiki.bindertowngame.com/pet/puddle_duckling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0e0b4cf00a6d56f0008527af44c6feea6aa0b8307388885a44eb2b25f3cea57e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__runeglass_moth.json",
+      "url": "https://wiki.bindertowngame.com/pet/runeglass_moth",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "83a1422a83d664c850ee5a5e6157e6a47d61990367dbefaea366d299c90eddca"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__scarf_penguin.json",
+      "url": "https://wiki.bindertowngame.com/pet/scarf_penguin",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "816d3a9b97768191d60afcabecbd1004d5fb4938f3bed455234d4f07efb5e9d3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__scholar_owlet.json",
+      "url": "https://wiki.bindertowngame.com/pet/scholar_owlet",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "7956fdbbf3899d9802ac3ff7a001b4379cec1db02371779c817e298a7256edbc"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__starlight_fawn.json",
+      "url": "https://wiki.bindertowngame.com/pet/starlight_fawn",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "902344a7eb6792960e546e4667dccc7118647ea47b238fd3cdc7c46e0f530438"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__stormkite_falcon.json",
+      "url": "https://wiki.bindertowngame.com/pet/stormkite_falcon",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "55c2447dd638c875d339789b6def470d91b00cb79d1e0ab48006fbb2975bb52f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__tidepearl_turtle.json",
+      "url": "https://wiki.bindertowngame.com/pet/tidepearl_turtle",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "475c3226f811074cb485df74dd082cfd32d0b60be49b72d39c1e44d4e1f10247"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__truffle_piglet.json",
+      "url": "https://wiki.bindertowngame.com/pet/truffle_piglet",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cb871169d649cca6d1974dfcc68aba96a8e64bcc08aa4e3799d42b7efb0703ec"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pet__yuzu_capybara.json",
+      "url": "https://wiki.bindertowngame.com/pet/yuzu_capybara",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "529c313735a56e368eefc89011c6241de2eab80d969ff0183fcf22a0521a1a3c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/pets.json",
+      "url": "https://wiki.bindertowngame.com/pets",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5d0b4170be4effc8cfe3a2d8810b82638c2b787bb5eda30e32b965e5641dd89e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__adrenaline.json",
+      "url": "https://wiki.bindertowngame.com/skill/adrenaline",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "aabf67425580d148df317ab395b21de68931634758e21f1fd90a0644bfa44b49"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__anchor_arrow.json",
+      "url": "https://wiki.bindertowngame.com/skill/anchor_arrow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "00e5fc38c112e20d2e64ba5e07b6fc19d61f73704cff7f79b5327ac9d1956b56"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__arrow_rain.json",
+      "url": "https://wiki.bindertowngame.com/skill/arrow_rain",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "26964b09e85dc6f68ac0c383657891fa5a3242e73ae56dd7bd9d82732f8c086b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__assassinate.json",
+      "url": "https://wiki.bindertowngame.com/skill/assassinate",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c83e463cd574b371eaddc2b8cc73fe9dbd020a1c4e5c9b94b5d4fbe359ddf510"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__backstep.json",
+      "url": "https://wiki.bindertowngame.com/skill/backstep",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "df50251524a0d2107496bf4787f247ea6f9ca2e2931be956362ad8e5780206d6"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__blast_arrow.json",
+      "url": "https://wiki.bindertowngame.com/skill/blast_arrow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "592305735edcd9108ed27912549dcf8e6414a81ba4fc0cefea5c7a23774f3216"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__bless.json",
+      "url": "https://wiki.bindertowngame.com/skill/bless",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "86d61c989bd9a490315dba3327ecc09a76cf76cb839e03032e7ba1887b96a41f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__blessed_soul.json",
+      "url": "https://wiki.bindertowngame.com/skill/blessed_soul",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "06ac1b3402efb979596dc094219694f6018a226b6f2a1a46d61862107aa0e730"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__bombardier.json",
+      "url": "https://wiki.bindertowngame.com/skill/bombardier",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9f4b40eba3291f631fa94ff17147a04da3222413be1eaf37c5d05fb3f67cdee0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__crusader.json",
+      "url": "https://wiki.bindertowngame.com/skill/crusader",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f130a400e85a80624f2e3896304c57e4dab953763599e8ee41cdde18074fcc28"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dawn_aegis_of_dawn.json",
+      "url": "https://wiki.bindertowngame.com/skill/dawn_aegis_of_dawn",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "323bb83799001a1117130982ac8d307eb43c5634bea7e164f54827977b5d6dfe"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dawn_blessed_rain.json",
+      "url": "https://wiki.bindertowngame.com/skill/dawn_blessed_rain",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6ba373f40929c62543b6f93c45ed6ac3330759536674189cb8e5bf9e4912c037"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dawn_choir_of_heaven.json",
+      "url": "https://wiki.bindertowngame.com/skill/dawn_choir_of_heaven",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5d7538e13ce23bf734a6766f0c3ea2780c2314b7e703b6f5a9fd44b277ff8bf2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dawn_divine_dive.json",
+      "url": "https://wiki.bindertowngame.com/skill/dawn_divine_dive",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f488f04da28d897a9eb309877900cd0c412a143e8c71afff8e3781c59d1fe835"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dawn_hymn_of_valor.json",
+      "url": "https://wiki.bindertowngame.com/skill/dawn_hymn_of_valor",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "64b1b5f43a65eec8f952fbb5cf910b41b7e1ed7b010345f283d2bc49daa3be87"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dawn_resurrection_dawn.json",
+      "url": "https://wiki.bindertowngame.com/skill/dawn_resurrection_dawn",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9e4d16c47ef4139711c05e011e38ed5fe5ad76196b007448ad0f29d231efe3e4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__deadeye.json",
+      "url": "https://wiki.bindertowngame.com/skill/deadeye",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "375c090184477044e1d5433889239910a1e4ad19bc4d49ad07e35f384c80c408"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__death_mark.json",
+      "url": "https://wiki.bindertowngame.com/skill/death_mark",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d062d77b0b5e30572f8b0ff326e9f6fcc827e367976964a4c0b673196fd6dcfc"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__devotion.json",
+      "url": "https://wiki.bindertowngame.com/skill/devotion",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a5a72bfacf044b1551bd55a1b98957407d3d5a98dec7e91a346edcafd440c66c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dirty_tricks.json",
+      "url": "https://wiki.bindertowngame.com/skill/dirty_tricks",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "22188d4939c2aa273776da2cb5b7d4bbd055a38f8038c3a90d2af0ff7ff7f0cf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__divine_chain.json",
+      "url": "https://wiki.bindertowngame.com/skill/divine_chain",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "438b52c20b354a17802675a6951ee38071ecd95ad86f1240489834831ad4148c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dusk_caltrops.json",
+      "url": "https://wiki.bindertowngame.com/skill/dusk_caltrops",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6563132344bf92c934072695a65c575c352853a82e52d2ee173b8b5832685b32"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dusk_crescent_slash.json",
+      "url": "https://wiki.bindertowngame.com/skill/dusk_crescent_slash",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2a122f40f318857f789d89805a8a0ff9866d8df47a633762dac4956c2d538f90"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dusk_midnight_execution.json",
+      "url": "https://wiki.bindertowngame.com/skill/dusk_midnight_execution",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "44b92240c1fa63dd8a78bcf842cdf6d5022ccab990a3a35a397d2997b8b2b62c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dusk_night_spiral.json",
+      "url": "https://wiki.bindertowngame.com/skill/dusk_night_spiral",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9ba0da14bb947f42042553bc174ee00e1da82dedce808f5e2a3a633dcaf3b58f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dusk_shade_clone.json",
+      "url": "https://wiki.bindertowngame.com/skill/dusk_shade_clone",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "85300fb678c9718371eae79347eceb0991db0a14e2e98e7903e92711c1897102"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__dusk_vanishing_point.json",
+      "url": "https://wiki.bindertowngame.com/skill/dusk_vanishing_point",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d11ef4c141ba4558170c086966b4852615c21fede1e92f7065a96ed375188603"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__eagle_eye.json",
+      "url": "https://wiki.bindertowngame.com/skill/eagle_eye",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "7fa36d18047fbeff3fa0f3ff47f2c856ad2a1513c89bba51bd6fcf185375d76d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__essence_hunger.json",
+      "url": "https://wiki.bindertowngame.com/skill/essence_hunger",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6b616e38c8714414b8b00d9f2c5060355a3b7c7b7c50544caeb0727c85ed76c4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__evasion.json",
+      "url": "https://wiki.bindertowngame.com/skill/evasion",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "60e814be8b3e354d5e02a85bc4ab72b7c4b239d04f31ced02a111e3789d6647d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__fade.json",
+      "url": "https://wiki.bindertowngame.com/skill/fade",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "bb8c694f5bcf151c029b54af6bc983ffbeebb068d471dfa1cb6c238d30b9736e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__faith.json",
+      "url": "https://wiki.bindertowngame.com/skill/faith",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "336f0ef7f77a4d89bdfb6d50d1d28d8f043534050c91c7aa24e72d5c97695a4a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__fan_knives.json",
+      "url": "https://wiki.bindertowngame.com/skill/fan_knives",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5d7ae04b0368cf390de33063126e55802eae10d33081e7d6cf93844b987a690c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__flurry.json",
+      "url": "https://wiki.bindertowngame.com/skill/flurry",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d35045e5c2da8c2c8b64840320ec3677e10e0a58cba397d84e950c676212a66c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__focus.json",
+      "url": "https://wiki.bindertowngame.com/skill/focus",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0061a826e10c045592542ee001e6bca37fbe235963b29e182b8e0119790323b7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__gale_volley.json",
+      "url": "https://wiki.bindertowngame.com/skill/gale_volley",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c28bffc07491358799b0a30538c0ca094c9bb0ca58d4132243571c3b26ee0571"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__gentle_hands.json",
+      "url": "https://wiki.bindertowngame.com/skill/gentle_hands",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "bd26bbe6ceef9bbbe0a7c1a20b554cebcae3d4b3f56605aa4a9bbd29d8e0c968"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__holy_lance.json",
+      "url": "https://wiki.bindertowngame.com/skill/holy_lance",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "04aca424949ba12ece5759c2c1d56f1d312692b55914f9776d5b5114b9b9e5a9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__holy_wrath.json",
+      "url": "https://wiki.bindertowngame.com/skill/holy_wrath",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d5e150dca18cac93728560ee77d3a6e6ee9fe743a55bfffedb3080030ea5472e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_accuse.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_accuse",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b112db0f884b38c2302ae1d70585a22bba8120be5a1295116dbc7e8f88d5c9c5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_auto_da_f.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_auto_da_f",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "81885b93ad063e15bb014c853cd405b7d610595994e1d240a9fc3aceb4674dc1"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_brand.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_brand",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "89724ed3a344175d0c8279e42eb0ad99c8dd5526f9f6bb1a9ca612c7b007e3bc"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_chains_of_judgment.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_chains_of_judgment",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ed4ec30eb4bd7d62d4267d91496c31d9d1b49cb557e3c7579f7f8fed61bad63a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_confessor.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_confessor",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6bf49ce7ba1786e0b6ccd05b0f5afd92b112b77579244c8de03a1ba0a18c574b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_fire_lash.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_fire_lash",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "12a19c4d97839ebe6032e74dcc255a692d3ce22503bde33b43b9272bef3246e7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_hammer_of_heaven.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_hammer_of_heaven",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c548498e048b051dc24f62b33a10c5f161e854adab3ed5a0207413c6a9903d70"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_holy_bulwark.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_holy_bulwark",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "56b5aa6f5948e481c11d570901784ba8f1a09b853487493ca68638ba4acd9a10"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_iron_faith.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_iron_faith",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2872faab49e35bedab21bfec1b62eb58e20038d92f00900cfbcd8e60419f2d80"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_judgment_seat.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_judgment_seat",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "210646f4a95f63772c1ee350cb2f0117005736923b057557cace6b3cc470e238"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_kindling.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_kindling",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9bbdb245aa299a2fd5a931f86352eb221deb7cbcb3ecabfb8ec6d0e77acc9420"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_martyr_s_fire.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_martyr_s_fire",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a75b2b31104edeecb0488e1bdce9c5812a179565badf06fa24eba2d69c9c4605"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_martyrdom.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_martyrdom",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "62a2bbecb86e04047d3f4a96a2101fb8f2c5f78fcc46933bc521f3c86f455ee3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_penance_strike.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_penance_strike",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "73cf5fda9569c9d7fbf3ca28e26473d244fcd300d51803525da4205594543b18"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_purifying_wave.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_purifying_wave",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "df7cd31bd0dece15c25b9c7a9514d651190731ec37bb4c7a9d55b09caa9f9c8a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_pyre.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_pyre",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ba5177cc0e91d62669d89c6a241d344922c50977f8b6fb15b629c584aabe97f7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_sentence_hammer.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_sentence_hammer",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "fbbcc0da268c6e26fcc20230ca88745a0fe49850a5b2c33be3c9a6a48c647fcb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_shackle.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_shackle",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e5af3aa7ff3934370e79ec7215a190076a5d360191fdd2facf072f63d5691b02"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_tribunal.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_tribunal",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b13dd4e8a0a60c38e512c6bce68bbbb9e385990d4d26e9df43378f3ba3ebbb66"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_vow_of_silence.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_vow_of_silence",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "73fc9d11ba9361702593c0ea13ada650a40d8653f2be3657f84067ef9b52cc32"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__inquisitor_zeal.json",
+      "url": "https://wiki.bindertowngame.com/skill/inquisitor_zeal",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "955494124f464341c4764016234ee35a23733d892aec199309764849c063151d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__killing_edge.json",
+      "url": "https://wiki.bindertowngame.com/skill/killing_edge",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "19becdaf1b9f6bde3e8f85968d13c615fe8007504625ff6f72e64729a84ed536"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__lethality.json",
+      "url": "https://wiki.bindertowngame.com/skill/lethality",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cf819c9759c3ed244c966641ccee8625b4e43e381a6cd1f5dbf7636eefd1da88"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__markbow_deadshot.json",
+      "url": "https://wiki.bindertowngame.com/skill/markbow_deadshot",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b1f233c1c257d73987a82ef97d6587b2123d84dc0320293206869b95f0d2f57b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__markbow_heaven_s_arrow.json",
+      "url": "https://wiki.bindertowngame.com/skill/markbow_heaven_s_arrow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "38ffb3b256ebb2e3270ca7b60e00565702e436b6aad0f9347862231c103fb7ef"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__markbow_hunter_s_volley.json",
+      "url": "https://wiki.bindertowngame.com/skill/markbow_hunter_s_volley",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1f9275d6f5e33d32fbd70d5b3119c18f45fb7655df1b7c6d704d3a733f14d096"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__markbow_ricochet.json",
+      "url": "https://wiki.bindertowngame.com/skill/markbow_ricochet",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c7527e3b8cc0cb6fc492d977a87baa8c89f629f8038f0b0ea4b9350b1377760b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__markbow_smoke_arrow.json",
+      "url": "https://wiki.bindertowngame.com/skill/markbow_smoke_arrow",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "21cc1ca11b153a37d2f77eb4759ef832071ac774d781d682054a17756fe71673"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__markbow_wild_hunt.json",
+      "url": "https://wiki.bindertowngame.com/skill/markbow_wild_hunt",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "db21a6d875fd9d0eb33f41091495709796077067791d563ef38695a54224343a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__martyr.json",
+      "url": "https://wiki.bindertowngame.com/skill/martyr",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "caa9b1cef835b022f4cc20af80acb8c502960b0fbc6821b2e9a5360cc2e53915"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__mend.json",
+      "url": "https://wiki.bindertowngame.com/skill/mend",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "273daf0e059b80eb13c567c00da32404d34e173e48f538c66ab5dea72216cd59"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__night_veil.json",
+      "url": "https://wiki.bindertowngame.com/skill/night_veil",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f22a92798f8e7371172ee58d28c8189b0a6ab7e63f75875a608e3a4b1bdd5a35"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__phantom_step.json",
+      "url": "https://wiki.bindertowngame.com/skill/phantom_step",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "457502300ec85e36c9ca923f82554a4c7c9daf3ecd24e2b504a0624043337373"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__piercing_shot.json",
+      "url": "https://wiki.bindertowngame.com/skill/piercing_shot",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b3bfeade018896f71a3adbc92bc03b48d4036a2d78774cfbb99033af8dda6e81"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__powder_kit.json",
+      "url": "https://wiki.bindertowngame.com/skill/powder_kit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f16e0bdbd17e3fbef9ec0d4464af99a8caca5af113ee277481d49bdd0b62808a"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__radiant_burst.json",
+      "url": "https://wiki.bindertowngame.com/skill/radiant_burst",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "872706f6e30865b9252a4801168a6de39982f2005966bf178dabf5b429492aca"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__renewal.json",
+      "url": "https://wiki.bindertowngame.com/skill/renewal",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a6c4668c2371dde40b30d7f034fdf84574c2621d4d675df98c576f30587d099c"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__saint.json",
+      "url": "https://wiki.bindertowngame.com/skill/saint",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "5cede5cc91900e61a7d3548dd143311caf2a52274f85fb920307c0c3b6a91e2f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__sanctuary.json",
+      "url": "https://wiki.bindertowngame.com/skill/sanctuary",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1fedce12ed26631fc583fdde6eb62e93c007927820ec762769ab9578567f2786"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__shadow_dance.json",
+      "url": "https://wiki.bindertowngame.com/skill/shadow_dance",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "88def013d22d2836d797bef3835c92799c373103c96254827d626eee90a62385"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__shadow_strike.json",
+      "url": "https://wiki.bindertowngame.com/skill/shadow_strike",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2be2d1ccea7d5887a423536220b84fa6deef01c74b199cc1469185e812cb8694"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__siege_master.json",
+      "url": "https://wiki.bindertowngame.com/skill/siege_master",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "173a2e506ba8254decc68ef0a034049f1a4ed05fb4eb21e41be0827ecac061e9"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__smite.json",
+      "url": "https://wiki.bindertowngame.com/skill/smite",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "dc3eed1c4af325ad798562358ed18a1e0274abae62be8154ce9d62d85d8f32f7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__smoke_bomb.json",
+      "url": "https://wiki.bindertowngame.com/skill/smoke_bomb",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f6da2bec4c77bd5ad9724d6394a887547e07a92f261412bf9123e51cfd55fec2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__soul_filch.json",
+      "url": "https://wiki.bindertowngame.com/skill/soul_filch",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "03cffccad373399199986101054e07724cd4c50028d3af2aed688feda895f684"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__soul_tether.json",
+      "url": "https://wiki.bindertowngame.com/skill/soul_tether",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "54256e24c2e98586e13eac96d437a5b22a5ac3a64f68dba24d58828a45bb8e0f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__spirit_shot.json",
+      "url": "https://wiki.bindertowngame.com/skill/spirit_shot",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "4dd439a76df8ea6119035c03904297e1e153b3724cabb7de4ef00a5bb5c46f63"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__steady_aim.json",
+      "url": "https://wiki.bindertowngame.com/skill/steady_aim",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "84d3fbd8dff0296da34ee7cd1d0204d2c858d9ca883fa8c300fc4b43ac84056b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__tailwind.json",
+      "url": "https://wiki.bindertowngame.com/skill/tailwind",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "22cb96a7ff46f9fa2deec0eaadffb59a021ade76d09080c0662e796e08607f73"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_bear_trap_line.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_bear_trap_line",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "96dcad1386b253dfc15cb82ed35f6e71d0b1bddfb0f9d9109aa812125da704ea"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_chain_hook.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_chain_hook",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2f6eb061b736c6ba66c6f0b9a7e04c13880ad25aad11801496986fc42cd739c6"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_clockwork_minefield.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_clockwork_minefield",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2b1c631d22f26bc2ea9db047fc5d4a071465508fe57bf6a788f02f9813a998ca"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_decoy.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_decoy",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ef6dd732b84cafff1d881c207352c4c2b1a0da2e8dcd645f1b1da6ece24f7f56"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_doomsday_clock.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_doomsday_clock",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "53b9e45f7d924e72cedc40fc4e71b58760e1638ae289b1f4e2aa5d218cfb6077"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_engineer.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_engineer",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0deb250a9f968e742862e26f0df12fa328b55588c43b3f2b4977ac132444ebbd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_gear_toss.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_gear_toss",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "937cf3249e71fd34d9e7928ddc7ee8fec2d97c84b5621a78534a40d46d26bcb5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_hunter_s_cage.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_hunter_s_cage",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ca46d920bb9ac9a83b85cb55b28f8f22b887ce7034352f9d15b244c4fc594ce2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_mortar_nest.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_mortar_nest",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "68eb06c42c759b487c68b29a60f40eaf92f40fe148c99fd990e1629cf1a9fedb"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_net_launcher.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_net_launcher",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3920a2b9cf032958f173ce91c1d0fc48fa000596a50decd03639fd07666ffdfc"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_overcharge.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_overcharge",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ee2e0dd0b970713ecb0395da3b9f433b5914ee43190f5ce7092d9aea422afa11"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_pack_mule.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_pack_mule",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "08ee6aa69c0307880793653b5d668c632d47a80e705c36593215e3609c358998"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_powder_keg.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_powder_keg",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "674ff3295f0ed122fae7cf5154b0adbb98b40cf800c52571a28527f06ab8e3f7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_reinforced.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_reinforced",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2d946acaec5e7da3342ad9f1cd763879395480d770556be07ae202e9de839cbe"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_rigged.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_rigged",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2952068140bf4174117aefd4c262a3f0362b609d6c79f31b2c18ce430feffb81"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_siege_engine.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_siege_engine",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cf86a5617bdd83e266495bc52d70ffd2b0ce28674a3baad5e8af5a9caccbd99f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_spring_ballista.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_spring_ballista",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6973fdea931ba8086b8c6b82a81b29b8ae78952815d932f95f5536d6d03cef99"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_spring_snap.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_spring_snap",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cd6e38abbae3810d7c0e7e554210bec6374dc2bb0fbb89b541caf96ed043d0a5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_tar_pit.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_tar_pit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "68fdaf23484886c515a0971e0d78d61f927f4d3f70e7c936815a64098d24636f"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_tinkerer.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_tinkerer",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "be090b15cdcaa3ea7c1beeb376c485dd2079fd9116880c66069c3fc6faab3098"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__trapper_trail_sense.json",
+      "url": "https://wiki.bindertowngame.com/skill/trapper_trail_sense",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "2c070d705d55db1776ed5610c31530b0624d17a24f569b35f6d6b8b908064899"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__twin_strafe.json",
+      "url": "https://wiki.bindertowngame.com/skill/twin_strafe",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0cab674aaa91c3a1f1ebc7287a7138661022b9353f6fe31288bf14ad03070d14"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venom_craft.json",
+      "url": "https://wiki.bindertowngame.com/skill/venom_craft",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9a1845107a382dddbf3d818f9b1071a6dac9d9cddbae47aca24d46646f83fe10"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_acid_splash.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_acid_splash",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6d459d15c8d0407ab3dd4c24c3d55adffc7ee17b68956368b0d169fa31c871f4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_antivenom_blood.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_antivenom_blood",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "fbd4a4957ad07a7cf5f8d1bb376bcf87d6773623f0bf08e147a81f866ec0cd07"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_basilisk_gaze.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_basilisk_gaze",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c011dff5d8862c09070da35c3a38ed96691e21e5d669b72532b64716eba75091"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_black_death.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_black_death",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "01fde9bdb59960b7aaa51c8e82d785c7012c34eafd21139428efcd1e4a33e1bd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_blight_field.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_blight_field",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "45bb800d964c78301f731600860551825a8b9a06e6b0debf1a192c532be52b9e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_cold_blood.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_cold_blood",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ce23a96900c748c3d992f8a8cb8060ac7c837ae047fc8d2b56b4046e134cebaf"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_epidemic.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_epidemic",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "eb116ef0b5761c617b8f468ccd9122da7aa4cee57c9d323d463b374950dfb1db"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_fang_flurry.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_fang_flurry",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "36f78f537bcd11239925056aae920fa1e4ca68ca788137a7c0eb6d1841af7de0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_hydra_fang.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_hydra_fang",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "dc8e4abcc942b8a02959f0a58f884041842d9aebfcaebe108bfea5b666ec037d"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_miasma.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_miasma",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "75d0aa98e2468a6bc082e2420a18f8ad3321e972848b61ad7d0233d1265c69e5"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_plague_bloom.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_plague_bloom",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "8c1b4677a7bf7e62cbf9230972ab4785faa488e1523a426550e135651c2995ed"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_rot_bomb.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_rot_bomb",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "797f7a9dbbb04768e5f91e1e846d6a9fb525774daa1ecd8c43021784ec97e347"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_serpent_coil.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_serpent_coil",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a13c1e4a2559645672553255a66f541b1b91aa4907331719a436da8b689375e7"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_shed_skin.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_shed_skin",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c9c73235f2f1f84c67b52ce495d3601b22d4b69c361046004c34c90ebf4eedd3"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_snake_pit.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_snake_pit",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "1a392e8c8c3b8ddede24338fd19b1f67426967aec5b4b05bf1ac48167cef1166"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_spore_cloud.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_spore_cloud",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6733c70efa63b5bf8f4c3725b061ae3f996bfacda70afc826b1b69906a649bbe"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_toxic_dash.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_toxic_dash",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "ca1a3995b590cc168ae713641927b9daf2153458a7131ca3acc6c0e9c1301770"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_venom_craft.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_venom_craft",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9d4e010d6ba1922dbbe5143b564c68bc89bcea498c259eaa6cd5994a56def20b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_venom_overdose.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_venom_overdose",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "338cc04cbb7c34be3b9c7f4ba6271b91526e43b641db9f62fc0132e0b80f3852"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_viper_fan.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_viper_fan",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9a39b2546f1f7f2c94c82da541525b876b058bae2b4020f779d2628c44fa0e0e"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__venomblade_viper_strike.json",
+      "url": "https://wiki.bindertowngame.com/skill/venomblade_viper_strike",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "0240149110bc9a4920fbf7661020306b63e38a8b4e33dc77e513d43351cb48a8"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__windwalker.json",
+      "url": "https://wiki.bindertowngame.com/skill/windwalker",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f02969719f8a00fcb9e1e564642f9e4b17b8ecfbba416c86dd0135d63b3f20a0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__zeal.json",
+      "url": "https://wiki.bindertowngame.com/skill/zeal",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "06878fa08fa7374083870016b49f42650045058fbf0bf370ede8c054a5e073c4"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/skill__zephyr_soul.json",
+      "url": "https://wiki.bindertowngame.com/skill/zephyr_soul",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "6466a5a6dd0bdc4792120d61133efca6469c98c8d24a6b61f145abe91a4fc419"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__affix.json",
+      "url": "https://wiki.bindertowngame.com/systems/affix",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "340051190bae9b581ba46c3a5d3a208a5c3cc51e0e70786c4f73ae57ad351c84"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__auto.json",
+      "url": "https://wiki.bindertowngame.com/systems/auto",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "202873d7bf5c1f51dd3e48461208b76cc0db05bbb35709bd25f18b77e8cfcd29"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__class-resources.json",
+      "url": "https://wiki.bindertowngame.com/systems/class-resources",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "58bd1f40fb855ebc52c8e34ccac35d253714afc6101887b66049d4b2c684e982"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__classes.json",
+      "url": "https://wiki.bindertowngame.com/systems/classes",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "7bd300894174b9276c22dd3f01f30f9120748562ab636ee07a3a1d6402e84527"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__crafting.json",
+      "url": "https://wiki.bindertowngame.com/systems/crafting",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9f426289305bcdf44d9986178f2dd07e11feb4b89ae928d2e05798451b1df6f6"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__events.json",
+      "url": "https://wiki.bindertowngame.com/systems/events",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e340b6dcc82e0b5990f04a9c42457bf62124ed268f09ec91e32b4e0c6e2cf963"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__gathering-50.json",
+      "url": "https://wiki.bindertowngame.com/systems/gathering-50",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "a3f1008940cc56e1ac3f35b89e3acd7c92839ad5c7ded9102d87f0deaf499007"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__gathering.json",
+      "url": "https://wiki.bindertowngame.com/systems/gathering",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f65caba023d2e48449b7402b456f56fc1760bc261bcc2f7357e21cc49fcdba43"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__oils-foods.json",
+      "url": "https://wiki.bindertowngame.com/systems/oils-foods",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "780d8380cebe428f56c544b026fc041cf3813ec293e0eef0312a12014d9737ad"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__refine.json",
+      "url": "https://wiki.bindertowngame.com/systems/refine",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "b2b35f696eebccfc4b0e88eb0a79e376120cffb404733d6a3d9c7809ca2938c2"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__region-sets.json",
+      "url": "https://wiki.bindertowngame.com/systems/region-sets",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "d374d2f92ae1faaf6a8209a0f42bb7de8aad7e888ee156a124c893a656a237c0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__rules.json",
+      "url": "https://wiki.bindertowngame.com/systems/rules",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "3536535bf5303242cbc9396f5a664b81614c7d6b19c1f047c40456c811841b25"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__smith.json",
+      "url": "https://wiki.bindertowngame.com/systems/smith",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "47541179f91a3c493d2dc9779ec5d24e302ce59ecbffd672b99fe7ac9d7ab475"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__social.json",
+      "url": "https://wiki.bindertowngame.com/systems/social",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "9e3057b02a1912a4d73b11500d957d24152aeb13ab2b88fc23fe86e984b89cf0"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__soul-seal.json",
+      "url": "https://wiki.bindertowngame.com/systems/soul-seal",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e9a5f3a0621b4c22ccf3e72bb8847658b4df4e6aecea5393cad276039ee2a7a6"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__soulforge.json",
+      "url": "https://wiki.bindertowngame.com/systems/soulforge",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "28063f61bacc85bae3e5be663b33d4d94686e8020c9537b21474af549b5c35fd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__stats.json",
+      "url": "https://wiki.bindertowngame.com/systems/stats",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "cc003f1b1105c4835ff54ec6780c8c98f99a33129d41fbc5eb2a0993434f3726"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__statuses.json",
+      "url": "https://wiki.bindertowngame.com/systems/statuses",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f77c1b40c9ba802bb77f271d8d7b1f18ec5e44131d2701858d3fb50f96b68a4b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__threats.json",
+      "url": "https://wiki.bindertowngame.com/systems/threats",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "c11bb8de87fa833c74e0fe29170f4e1c77802b021a0ebf07a40f2f710623be85"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__uniques.json",
+      "url": "https://wiki.bindertowngame.com/systems/uniques",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "e41fd1fdf93b3ef9991a659038cff299bcd17e1f171f755fa0a09a575172b30b"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/systems__weapon-rules.json",
+      "url": "https://wiki.bindertowngame.com/systems/weapon-rules",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "759814fed35fa0f1923492aeb382a0adc91a867edf4451d0a39ae77095f75762"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/tools__build-data.json.json",
+      "url": "https://wiki.bindertowngame.com/tools/build-data.json",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "f722d94190bc2eca522b0cb07115b7bce226cf76c5597677cc404d4b253bcedd"
+    },
+    {
+      "path": "Raw/Snapshots/2026-11-18/tools__chunk-O5MFH2SQ.js.json",
+      "url": "https://wiki.bindertowngame.com/tools/chunk-O5MFH2SQ.js",
+      "capturedAt": "2026-11-18",
+      "httpStatus": 200,
+      "credits": 1,
+      "sha256": "99db9f6b59edfc71b4906baa5c7f78595e3f493f33beb16843d5a59a6463e365"
+    }
+  ]
+}

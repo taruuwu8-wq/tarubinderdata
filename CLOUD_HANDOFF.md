@@ -1,3 +1,5 @@
+> Latest farming/build reference refresh: [2026-11-18 report](Progress/2026-11-18-farming.md). Read this before older coverage summaries below.
+
 # งานต่อบน Codex Cloud — Taru Build Lab
 
 ## เริ่มตรงนี้

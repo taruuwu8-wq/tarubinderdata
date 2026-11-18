@@ -1,3 +1,5 @@
+> Latest farming/build reference refresh: [2026-11-18 report](Progress/2026-11-18-farming.md). Read this before older coverage summaries below.
+
 ## Latest Wiki refresh · 2026-11-16
 
 Use the [latest Wiki capture](Raw/Snapshots/2026-11-16/) for the official Build dataset and [82 refreshed monster/card details](Structured_Data/wiki-refresh-2026-11-16.json), including DEF and MDEF. The organized data described below predates this capture, and the live dashboard still uses its pinned snapshot.
